@@ -1,0 +1,22 @@
+{
+    "Muni Long": {
+        "num_of_streams": "20422",
+        "min_rank": "180",
+        "max_rank": "198",
+        "min_date": "2022-02-17",
+        "max_date": "2022-02-24",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Hrs & Hrs"
+        ],
+        "source_end_date_latest_ls": {
+            "Supergiant Records, LLC / Def Jam Recordings": "2022-02-24"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-02-17": "Hrs & Hrs"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-02-24": "Hrs & Hrs"
+        }
+    }
+}

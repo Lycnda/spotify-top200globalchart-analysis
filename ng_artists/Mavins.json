@@ -1,0 +1,22 @@
+{
+    "Mavins": {
+        "num_of_streams": "2367854",
+        "min_rank": "2",
+        "max_rank": "22",
+        "min_date": "2022-05-19",
+        "max_date": "2022-09-01",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Overloading (OVERDOSE)"
+        ],
+        "source_end_date_latest_ls": {
+            "Mavin Records": "2022-09-01"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-06-30": "Overloading (OVERDOSE)"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-07-14": "Overloading (OVERDOSE)"
+        }
+    }
+}

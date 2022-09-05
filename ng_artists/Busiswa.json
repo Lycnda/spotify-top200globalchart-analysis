@@ -1,0 +1,22 @@
+{
+    "Busiswa": {
+        "num_of_streams": "25829",
+        "min_rank": "125",
+        "max_rank": "177",
+        "min_date": "2022-03-17",
+        "max_date": "2022-03-24",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Where You Dey Go (feat. Naira Marley)"
+        ],
+        "source_end_date_latest_ls": {
+            "Majesty Music Entertainment": "2022-03-24"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-03-17": "Where You Dey Go (feat. Naira Marley)"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-03-24": "Where You Dey Go (feat. Naira Marley)"
+        }
+    }
+}

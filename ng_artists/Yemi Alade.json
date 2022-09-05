@@ -1,0 +1,22 @@
+{
+    "Yemi Alade": {
+        "num_of_streams": "123115",
+        "min_rank": "95",
+        "max_rank": "164",
+        "min_date": "2022-07-28",
+        "max_date": "2022-09-01",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Begging"
+        ],
+        "source_end_date_latest_ls": {
+            "Effyzzie Music Group": "2022-09-01"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-07-28": "Begging"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-08-25": "Begging"
+        }
+    }
+}

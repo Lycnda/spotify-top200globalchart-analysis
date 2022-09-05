@@ -1,0 +1,25 @@
+{
+    "Peruzzi": {
+        "num_of_streams": "651641",
+        "min_rank": "49",
+        "max_rank": "200",
+        "min_date": "2022-02-17",
+        "max_date": "2022-09-01",
+        "num_unique_songs": "3",
+        "unique_songs": [
+            "Hypertension",
+            "Southy Love",
+            "Things I Need"
+        ],
+        "source_end_date_latest_ls": {
+            "Davido Music Worldwide": "2022-09-01",
+            "Peruzzi": "2022-09-01"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-08-18": "Hypertension"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-09-01": "Southy Love"
+        }
+    }
+}

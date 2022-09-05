@@ -1,0 +1,23 @@
+{
+    "Bayanni": {
+        "num_of_streams": "31243",
+        "min_rank": "182",
+        "max_rank": "195",
+        "min_date": "2022-09-01",
+        "max_date": "2022-09-01",
+        "num_unique_songs": "2",
+        "unique_songs": [
+            "Body",
+            "Family"
+        ],
+        "source_end_date_latest_ls": {
+            "Mavin Records": "2022-09-01"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-09-01": "Body"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-09-01": "Family"
+        }
+    }
+}

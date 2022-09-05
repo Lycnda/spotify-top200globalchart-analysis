@@ -1,0 +1,22 @@
+{
+    "Jaymes Young": {
+        "num_of_streams": "35317",
+        "min_rank": "149",
+        "max_rank": "168",
+        "min_date": "2022-02-17",
+        "max_date": "2022-03-03",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Infinity"
+        ],
+        "source_end_date_latest_ls": {
+            "Atlantic Records": "2022-03-03"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-02-24": "Infinity"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-03-03": "Infinity"
+        }
+    }
+}

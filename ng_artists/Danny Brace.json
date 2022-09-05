@@ -1,0 +1,22 @@
+{
+    "Danny Brace": {
+        "num_of_streams": "51062",
+        "min_rank": "168",
+        "max_rank": "185",
+        "min_date": "2022-05-26",
+        "max_date": "2022-06-16",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Tomorrow"
+        ],
+        "source_end_date_latest_ls": {
+            "Ahlumi Entertainment": "2022-06-16"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-05-26": "Tomorrow"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-06-02": "Tomorrow"
+        }
+    }
+}

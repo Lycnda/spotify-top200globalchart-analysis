@@ -1,0 +1,28 @@
+{
+    "Tems": {
+        "num_of_streams": "1014509",
+        "min_rank": "63",
+        "max_rank": "200",
+        "min_date": "2022-02-17",
+        "max_date": "2022-09-01",
+        "num_unique_songs": "5",
+        "unique_songs": [
+            "Crazy Tings",
+            "Damages",
+            "Free Mind",
+            "Higher",
+            "No Woman No Cry"
+        ],
+        "source_end_date_latest_ls": {
+            "Hollywood Records": "2022-08-11",
+            "Leading Vibe Ltd": "2022-09-01",
+            "Since 93/RCA Records": "2022-06-02"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-02-17": "Crazy Tings"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-06-30": "Higher"
+        }
+    }
+}

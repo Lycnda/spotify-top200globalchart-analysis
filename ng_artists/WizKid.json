@@ -1,0 +1,31 @@
+{
+    "WizKid": {
+        "num_of_streams": "3687515",
+        "min_rank": "29",
+        "max_rank": "200",
+        "min_date": "2022-02-17",
+        "max_date": "2022-09-01",
+        "num_unique_songs": "8",
+        "unique_songs": [
+            "Anoti",
+            "Blessed (feat. Damian Marley)",
+            "Essence (feat. Justin Bieber & Tems)",
+            "Essence (feat. Tems)",
+            "Ginger (feat. Burna Boy)",
+            "Mood (feat. Buju)",
+            "Steady",
+            "True Love (feat. Tay Iwar & Projexx)"
+        ],
+        "source_end_date_latest_ls": {
+            "Starboy/RCA Records": "2022-09-01"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-02-24": "Mood (feat. Buju)"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-08-18": "Blessed (feat. Damian Marley)",
+            "2022-04-28": "Essence (feat. Justin Bieber & Tems)",
+            "2022-06-16": "Essence (feat. Justin Bieber & Tems)"
+        }
+    }
+}

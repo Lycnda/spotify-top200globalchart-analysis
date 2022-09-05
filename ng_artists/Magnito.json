@@ -1,0 +1,22 @@
+{
+    "Magnito": {
+        "num_of_streams": "26661",
+        "min_rank": "94",
+        "max_rank": "94",
+        "min_date": "2022-05-19",
+        "max_date": "2022-05-19",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Who U"
+        ],
+        "source_end_date_latest_ls": {
+            "Big E music": "2022-05-19"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-05-19": "Who U"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-05-19": "Who U"
+        }
+    }
+}

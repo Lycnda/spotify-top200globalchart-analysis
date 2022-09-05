@@ -1,0 +1,22 @@
+{
+    "WILLOW": {
+        "num_of_streams": "82520",
+        "min_rank": "158",
+        "max_rank": "200",
+        "min_date": "2022-03-24",
+        "max_date": "2022-05-05",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Wait a Minute!"
+        ],
+        "source_end_date_latest_ls": {
+            "Roc Nation W Smith P&D": "2022-05-05"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-03-24": "Wait a Minute!"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-05-05": "Wait a Minute!"
+        }
+    }
+}

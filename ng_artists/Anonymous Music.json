@@ -1,0 +1,22 @@
+{
+    "Anonymous Music": {
+        "num_of_streams": "16018",
+        "min_rank": "182",
+        "max_rank": "182",
+        "min_date": "2022-08-25",
+        "max_date": "2022-08-25",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Anointing"
+        ],
+        "source_end_date_latest_ls": {
+            "Anonymous Music / Dvpper Music": "2022-08-25"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-08-25": "Anointing"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-08-25": "Anointing"
+        }
+    }
+}

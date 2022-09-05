@@ -1,0 +1,22 @@
+{
+    "Diamond Platnumz": {
+        "num_of_streams": "26006",
+        "min_rank": "121",
+        "max_rank": "180",
+        "min_date": "2022-03-17",
+        "max_date": "2022-03-24",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Melody (feat. Jaywillz)"
+        ],
+        "source_end_date_latest_ls": {
+            "WM South Africa": "2022-03-24"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-03-17": "Melody (feat. Jaywillz)"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-03-24": "Melody (feat. Jaywillz)"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "Lil Baby": {
+        "num_of_streams": "318852",
+        "min_rank": "75",
+        "max_rank": "200",
+        "min_date": "2022-04-14",
+        "max_date": "2022-09-01",
+        "num_unique_songs": "4",
+        "unique_songs": [
+            "Drip Too Hard (Lil Baby & Gunna)",
+            "Frozen",
+            "In A Minute",
+            "Right On"
+        ],
+        "source_end_date_latest_ls": {
+            "Quality Control Music/Motown Records": "2022-07-07",
+            "Quality Control Music/Young Stoner Life Records, a 300 Entertainment Label/Motown Records/Capitol Records": "2022-09-01"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-08-18": "Drip Too Hard (Lil Baby & Gunna)"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-04-21": "In A Minute"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "Central Cee": {
+        "num_of_streams": "193384",
+        "min_rank": "57",
+        "max_rank": "114",
+        "min_date": "2022-07-28",
+        "max_date": "2022-09-01",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Doja"
+        ],
+        "source_end_date_latest_ls": {
+            "Central Cee": "2022-09-01"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-07-28": "Doja",
+            "2022-08-04": "Doja"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-09-01": "Doja"
+        }
+    }
+}

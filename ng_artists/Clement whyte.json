@@ -1,0 +1,22 @@
+{
+    "Clement whyte": {
+        "num_of_streams": "26077",
+        "min_rank": "147",
+        "max_rank": "161",
+        "min_date": "2022-03-10",
+        "max_date": "2022-03-17",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "KuMama Papa - Instagram Edit"
+        ],
+        "source_end_date_latest_ls": {
+            "Whytesound": "2022-03-17"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-03-10": "KuMama Papa - Instagram Edit"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-03-17": "KuMama Papa - Instagram Edit"
+        }
+    }
+}

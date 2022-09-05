@@ -1,0 +1,40 @@
+{
+    "Future": {
+        "num_of_streams": "1960974",
+        "min_rank": "5",
+        "max_rank": "198",
+        "min_date": "2022-02-17",
+        "max_date": "2022-09-01",
+        "num_unique_songs": "18",
+        "unique_songs": [
+            "712PM",
+            "BACK TO THE BASICS",
+            "CHICKENS (feat. EST Gee)",
+            "FOR A NUT (feat. Gunna & Young Thug)",
+            "GOLD STACKS",
+            "HOLY GHOST",
+            "I'M DAT N****",
+            "I'M ON ONE (feat. Drake)",
+            "KEEP IT BURNIN (feat. Kanye West)",
+            "LOVE YOU BETTER",
+            "MASSAGING ME",
+            "PUFFIN ON ZOOTIEZ",
+            "THE WAY THINGS GOING",
+            "VOODOO (feat. Kodak Black)",
+            "WAIT FOR U (feat. Drake & Tems)",
+            "WE JUS WANNA GET HIGH",
+            "WORST DAY",
+            "Worst Day"
+        ],
+        "source_end_date_latest_ls": {
+            "Epic": "2022-04-28",
+            "Epic/Freebandz": "2022-09-01"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-05-05": "WAIT FOR U (feat. Drake & Tems)"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-06-30": "PUFFIN ON ZOOTIEZ"
+        }
+    }
+}

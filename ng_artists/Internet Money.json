@@ -1,0 +1,22 @@
+{
+    "Internet Money": {
+        "num_of_streams": "31881",
+        "min_rank": "170",
+        "max_rank": "184",
+        "min_date": "2022-02-17",
+        "max_date": "2022-03-03",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Lemonade (feat. Gunna, Don Toliver & NAV)"
+        ],
+        "source_end_date_latest_ls": {
+            "Internet Money Records/ TenThousand Projects": "2022-03-03"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-02-24": "Lemonade (feat. Gunna, Don Toliver & NAV)"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-03-03": "Lemonade (feat. Gunna, Don Toliver & NAV)"
+        }
+    }
+}

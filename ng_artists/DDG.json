@@ -1,0 +1,22 @@
+{
+    "DDG": {
+        "num_of_streams": "86562",
+        "min_rank": "159",
+        "max_rank": "180",
+        "min_date": "2022-03-31",
+        "max_date": "2022-05-12",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Elon Musk (feat. Gunna)"
+        ],
+        "source_end_date_latest_ls": {
+            "Epic": "2022-05-12"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-04-07": "Elon Musk (feat. Gunna)"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-05-05": "Elon Musk (feat. Gunna)"
+        }
+    }
+}

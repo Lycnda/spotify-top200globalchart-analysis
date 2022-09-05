@@ -1,0 +1,22 @@
+{
+    "GAYLE": {
+        "num_of_streams": "94625",
+        "min_rank": "130",
+        "max_rank": "199",
+        "min_date": "2022-02-17",
+        "max_date": "2022-04-07",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "abcdefu"
+        ],
+        "source_end_date_latest_ls": {
+            "Atlantic/Arthouse Records": "2022-04-07"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-02-24": "abcdefu"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-04-07": "abcdefu"
+        }
+    }
+}

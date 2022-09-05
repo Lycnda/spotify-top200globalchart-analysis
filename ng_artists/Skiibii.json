@@ -1,0 +1,27 @@
+{
+    "Skiibii": {
+        "num_of_streams": "2639904",
+        "min_rank": "3",
+        "max_rank": "199",
+        "min_date": "2022-02-17",
+        "max_date": "2022-09-01",
+        "num_unique_songs": "3",
+        "unique_songs": [
+            "Baddest Boy",
+            "Baddest Boy - Remix",
+            "Trenches"
+        ],
+        "source_end_date_latest_ls": {
+            "More Grace Entertainment / Dvpper Music": "2022-08-04",
+            "More Grace Entertainment, Distributed by Dvpper": "2022-09-01",
+            "More Grace Music, Distributed by Dvpper": "2022-08-25",
+            "More Grace Music/Dvpper Music": "2022-06-23"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-02-24": "Baddest Boy - Remix"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-08-25": "Trenches"
+        }
+    }
+}

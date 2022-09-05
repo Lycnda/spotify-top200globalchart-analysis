@@ -1,0 +1,31 @@
+{
+    "Black Sherif": {
+        "num_of_streams": "2892942",
+        "min_rank": "1",
+        "max_rank": "197",
+        "min_date": "2022-02-17",
+        "max_date": "2022-09-01",
+        "num_unique_songs": "5",
+        "unique_songs": [
+            "First Sermon",
+            "Kwaku the Traveller",
+            "Money",
+            "Second Sermon",
+            "Second Sermon - Remix"
+        ],
+        "source_end_date_latest_ls": {
+            "Blacko Management / EMPIRE": "2022-09-01",
+            "Blacko Management Group": "2022-06-16",
+            "Blacko Mgt. / Spaceship Records": "2022-09-01",
+            "Ismail Sherif": "2022-04-07"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-04-07": "Kwaku the Traveller",
+            "2022-04-14": "Kwaku the Traveller",
+            "2022-04-21": "Kwaku the Traveller"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-06-02": "First Sermon"
+        }
+    }
+}

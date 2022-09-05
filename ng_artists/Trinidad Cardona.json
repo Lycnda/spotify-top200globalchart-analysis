@@ -1,0 +1,22 @@
+{
+    "Trinidad Cardona": {
+        "num_of_streams": "30654",
+        "min_rank": "56",
+        "max_rank": "56",
+        "min_date": "2022-04-07",
+        "max_date": "2022-04-07",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Hayya Hayya (Better Together) - Music from the FIFA World Cup Qatar 2022 Official Soundtrack"
+        ],
+        "source_end_date_latest_ls": {
+            "Trinidad Cardona / Def Jam Recordings": "2022-04-07"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-04-07": "Hayya Hayya (Better Together) - Music from the FIFA World Cup Qatar 2022 Official Soundtrack"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-04-07": "Hayya Hayya (Better Together) - Music from the FIFA World Cup Qatar 2022 Official Soundtrack"
+        }
+    }
+}

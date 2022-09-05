@@ -1,0 +1,22 @@
+{
+    "Prinx Emmanuel": {
+        "num_of_streams": "40031",
+        "min_rank": "65",
+        "max_rank": "138",
+        "min_date": "2022-03-17",
+        "max_date": "2022-03-24",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Kumama Papa - Tiktok refix version"
+        ],
+        "source_end_date_latest_ls": {
+            "coRekt Music": "2022-03-24"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-03-17": "Kumama Papa - Tiktok refix version"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-03-24": "Kumama Papa - Tiktok refix version"
+        }
+    }
+}

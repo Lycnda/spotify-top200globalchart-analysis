@@ -1,0 +1,22 @@
+{
+    "Reminisce": {
+        "num_of_streams": "843232",
+        "min_rank": "20",
+        "max_rank": "151",
+        "min_date": "2022-02-24",
+        "max_date": "2022-09-01",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Hustle"
+        ],
+        "source_end_date_latest_ls": {
+            "LESROSESROUGE ENTERTAINMENT": "2022-09-01"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-03-03": "Hustle"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-02-24": "Hustle"
+        }
+    }
+}

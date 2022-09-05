@@ -1,0 +1,30 @@
+{
+    "Zinoleesky": {
+        "num_of_streams": "4326442",
+        "min_rank": "4",
+        "max_rank": "199",
+        "min_date": "2022-02-17",
+        "max_date": "2022-09-01",
+        "num_unique_songs": "7",
+        "unique_songs": [
+            "Call of Duty",
+            "Gone Far",
+            "Kilofese - Remix",
+            "Kilofeshe",
+            "Loving You",
+            "Naira Marley",
+            "Rocking"
+        ],
+        "source_end_date_latest_ls": {
+            "Marlian Music": "2022-09-01"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-09-01": "Call of Duty",
+            "2022-05-19": "Loving You"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-05-05": "Kilofeshe",
+            "2022-06-02": "Kilofeshe"
+        }
+    }
+}

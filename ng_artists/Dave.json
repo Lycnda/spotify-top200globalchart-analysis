@@ -1,0 +1,29 @@
+{
+    "Dave": {
+        "num_of_streams": "1712998",
+        "min_rank": "39",
+        "max_rank": "198",
+        "min_date": "2022-02-17",
+        "max_date": "2022-09-01",
+        "num_unique_songs": "6",
+        "unique_songs": [
+            "Clash (feat. Stormzy)",
+            "Lazarus (feat. Boj)",
+            "Location (feat. Burna Boy)",
+            "My 24th Birthday",
+            "Starlight",
+            "System (feat. WizKid)"
+        ],
+        "source_end_date_latest_ls": {
+            "Dave / Neighbourhood Recordings": "2022-09-01",
+            "Neighbourhood": "2022-09-01"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-03-10": "Starlight"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-03-10": "Clash (feat. Stormzy)",
+            "2022-04-21": "Clash (feat. Stormzy)"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "Dangbana Republik": {
+        "num_of_streams": "205727",
+        "min_rank": "113",
+        "max_rank": "190",
+        "min_date": "2022-02-17",
+        "max_date": "2022-05-26",
+        "num_unique_songs": "2",
+        "unique_songs": [
+            "Far Away",
+            "Rush"
+        ],
+        "source_end_date_latest_ls": {
+            "Dangbana Republik": "2022-05-26"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-05-12": "Rush"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-04-21": "Rush"
+        }
+    }
+}

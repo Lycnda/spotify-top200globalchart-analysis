@@ -1,0 +1,22 @@
+{
+    "Kodak Black": {
+        "num_of_streams": "409921",
+        "min_rank": "68",
+        "max_rank": "189",
+        "min_date": "2022-02-17",
+        "max_date": "2022-07-14",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Super Gremlin"
+        ],
+        "source_end_date_latest_ls": {
+            "Atlantic Records": "2022-07-14"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-02-17": "Super Gremlin"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-07-14": "Super Gremlin"
+        }
+    }
+}

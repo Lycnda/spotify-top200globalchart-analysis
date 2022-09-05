@@ -1,0 +1,22 @@
+{
+    "Sarkodie": {
+        "num_of_streams": "9547",
+        "min_rank": "199",
+        "max_rank": "199",
+        "min_date": "2022-02-24",
+        "max_date": "2022-02-24",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Non Living Thing (feat. Oxlade)"
+        ],
+        "source_end_date_latest_ls": {
+            "Eagle/SarkCess": "2022-02-24"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-02-24": "Non Living Thing (feat. Oxlade)"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-02-24": "Non Living Thing (feat. Oxlade)"
+        }
+    }
+}

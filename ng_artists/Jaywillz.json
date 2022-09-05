@@ -1,0 +1,22 @@
+{
+    "Jaywillz": {
+        "num_of_streams": "117966",
+        "min_rank": "122",
+        "max_rank": "190",
+        "min_date": "2022-02-17",
+        "max_date": "2022-04-14",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Medicine"
+        ],
+        "source_end_date_latest_ls": {
+            "Chaado Music Worldwide": "2022-04-14"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-02-17": "Medicine"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-04-14": "Medicine"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "Cobhams Asuquo": {
+        "num_of_streams": "145189",
+        "min_rank": "90",
+        "max_rank": "196",
+        "min_date": "2022-05-12",
+        "max_date": "2022-07-07",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Jah Eli Jah"
+        ],
+        "source_end_date_latest_ls": {
+            "Cobhams Asuquo": "2022-07-07"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-05-12": "Jah Eli Jah"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-06-30": "Jah Eli Jah"
+        }
+    }
+}

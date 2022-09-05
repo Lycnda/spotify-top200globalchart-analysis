@@ -1,0 +1,24 @@
+{
+    "Mohbad": {
+        "num_of_streams": "1696293",
+        "min_rank": "31",
+        "max_rank": "197",
+        "min_date": "2022-02-17",
+        "max_date": "2022-09-01",
+        "num_unique_songs": "3",
+        "unique_songs": [
+            "Backside",
+            "Feel Good",
+            "Ronaldo"
+        ],
+        "source_end_date_latest_ls": {
+            "Marlian Music": "2022-09-01"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-02-24": "Backside"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-07-28": "Ronaldo"
+        }
+    }
+}

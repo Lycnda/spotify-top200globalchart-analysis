@@ -1,0 +1,24 @@
+{
+    "Tiwa Savage": {
+        "num_of_streams": "296713",
+        "min_rank": "20",
+        "max_rank": "181",
+        "min_date": "2022-02-17",
+        "max_date": "2022-09-01",
+        "num_unique_songs": "2",
+        "unique_songs": [
+            "Jaiye Foreign",
+            "Somebodys Son (Ft Brandy)"
+        ],
+        "source_end_date_latest_ls": {
+            "222 Ent. / Everything Savage": "2022-09-01",
+            "Universal Music (Pty) Ltd.": "2022-03-31"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-08-18": "Jaiye Foreign"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-03-31": "Somebodys Son (Ft Brandy)"
+        }
+    }
+}

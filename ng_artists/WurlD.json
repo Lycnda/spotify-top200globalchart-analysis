@@ -1,0 +1,22 @@
+{
+    "WurlD": {
+        "num_of_streams": "12835",
+        "min_rank": "147",
+        "max_rank": "147",
+        "min_date": "2022-03-03",
+        "max_date": "2022-03-03",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "SAD TONIGHT"
+        ],
+        "source_end_date_latest_ls": {
+            "WeAreGvds/Immensum Music": "2022-03-03"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-03-03": "SAD TONIGHT"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-03-03": "SAD TONIGHT"
+        }
+    }
+}

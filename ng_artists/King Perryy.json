@@ -1,0 +1,22 @@
+{
+    "King Perryy": {
+        "num_of_streams": "185359",
+        "min_rank": "130",
+        "max_rank": "176",
+        "min_date": "2022-04-14",
+        "max_date": "2022-07-07",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Go German"
+        ],
+        "source_end_date_latest_ls": {
+            "Continental": "2022-07-07"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-05-12": "Go German"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-06-23": "Go German"
+        }
+    }
+}

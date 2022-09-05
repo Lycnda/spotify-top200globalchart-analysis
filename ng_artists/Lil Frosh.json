@@ -1,0 +1,22 @@
+{
+    "Lil Frosh": {
+        "num_of_streams": "20592",
+        "min_rank": "171",
+        "max_rank": "189",
+        "min_date": "2022-02-24",
+        "max_date": "2022-03-03",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Like Dat"
+        ],
+        "source_end_date_latest_ls": {
+            "Lil Frosh / Dvpper Music": "2022-03-03"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-03-03": "Like Dat"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-02-24": "Like Dat"
+        }
+    }
+}

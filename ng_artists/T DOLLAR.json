@@ -1,0 +1,22 @@
+{
+    "T dollar": {
+        "num_of_streams": "57880",
+        "min_rank": "137",
+        "max_rank": "184",
+        "min_date": "2022-05-12",
+        "max_date": "2022-06-23",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Rise"
+        ],
+        "source_end_date_latest_ls": {
+            "T dollar": "2022-06-23"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-06-16": "Rise"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-05-12": "Rise"
+        }
+    }
+}

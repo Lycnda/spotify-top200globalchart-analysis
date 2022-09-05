@@ -1,0 +1,23 @@
+{
+    "Savage": {
+        "num_of_streams": "873674",
+        "min_rank": "60",
+        "max_rank": "199",
+        "min_date": "2022-02-17",
+        "max_date": "2022-07-28",
+        "num_unique_songs": "2",
+        "unique_songs": [
+            "Confident",
+            "Rosemary"
+        ],
+        "source_end_date_latest_ls": {
+            "Savage, Distributed by Dvpper": "2022-07-28"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-03-17": "Rosemary"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-06-30": "Confident"
+        }
+    }
+}

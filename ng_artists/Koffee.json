@@ -1,0 +1,31 @@
+{
+    "Koffee": {
+        "num_of_streams": "254689",
+        "min_rank": "83",
+        "max_rank": "198",
+        "min_date": "2022-03-31",
+        "max_date": "2022-04-14",
+        "num_unique_songs": "10",
+        "unique_songs": [
+            "Defend",
+            "Gifted",
+            "Lockdown",
+            "Lonely",
+            "Pull Up",
+            "Run Away",
+            "Shine",
+            "West Indies",
+            "Where I'm From",
+            "x10"
+        ],
+        "source_end_date_latest_ls": {
+            "Sony Music UK": "2022-04-14"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-03-31": "Shine"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-04-14": "Pull Up"
+        }
+    }
+}

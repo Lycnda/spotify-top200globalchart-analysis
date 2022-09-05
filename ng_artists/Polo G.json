@@ -1,0 +1,23 @@
+{
+    "Polo G": {
+        "num_of_streams": "67510",
+        "min_rank": "100",
+        "max_rank": "200",
+        "min_date": "2022-02-24",
+        "max_date": "2022-06-23",
+        "num_unique_songs": "2",
+        "unique_songs": [
+            "Distraction",
+            "RAPSTAR"
+        ],
+        "source_end_date_latest_ls": {
+            "Columbia": "2022-06-23"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-06-09": "Distraction"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-03-03": "RAPSTAR"
+        }
+    }
+}

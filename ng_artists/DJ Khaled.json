@@ -1,0 +1,38 @@
+{
+    "DJ Khaled": {
+        "num_of_streams": "733016",
+        "min_rank": "13",
+        "max_rank": "186",
+        "min_date": "2022-08-11",
+        "max_date": "2022-09-01",
+        "num_unique_songs": "17",
+        "unique_songs": [
+            "BEAUTIFUL (feat. Future & SZA)",
+            "BIG TIME (feat. Future & Lil Baby)",
+            "BILLS PAID (feat. Latto & City Girls)",
+            "FAM GOOD, WE GOOD (feat. Gunna & Roddy Ricch)",
+            "GOD DID (feat. Rick Ross, Lil Wayne, Jay-Z, John Legend & Fridayy)",
+            "GRATEFUL (feat. Vory)",
+            "IT AIN'T SAFE (feat. Nardo Wick & Kodak Black)",
+            "JADAKISS INTERLUDE (feat. Jadakiss)",
+            "Juice WRLD DID (feat. Juice WRLD)",
+            "KEEP GOING (feat. Lil Durk, 21 Savage & Roddy Ricch)",
+            "LET'S PRAY (feat. Don Toliver & Travis Scott)",
+            "NO SECRET (feat. Drake)",
+            "PARTY (feat. Quavo & Takeoff)",
+            "STAYING ALIVE (feat. Drake & Lil Baby)",
+            "THESE STREETS KNOW MY NAME (feat. Skillibeng, Buju Banton, Capleton, Bounty Killer & Sizzla)",
+            "USE THIS GOSPEL (feat. Ye & Eminem) - REMIX",
+            "WAY PAST LUCK (feat. 21 Savage)"
+        ],
+        "source_end_date_latest_ls": {
+            "Epic/We The Best": "2022-09-01"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-09-01": "GOD DID (feat. Rick Ross, Lil Wayne, Jay-Z, John Legend & Fridayy)"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-09-01": "JADAKISS INTERLUDE (feat. Jadakiss)"
+        }
+    }
+}

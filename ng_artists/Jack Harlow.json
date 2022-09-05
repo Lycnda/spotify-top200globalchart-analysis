@@ -1,0 +1,25 @@
+{
+    "Jack Harlow": {
+        "num_of_streams": "743001",
+        "min_rank": "39",
+        "max_rank": "200",
+        "min_date": "2022-02-24",
+        "max_date": "2022-08-04",
+        "num_unique_songs": "4",
+        "unique_songs": [
+            "Churchill Downs (feat. Drake)",
+            "Dua Lipa",
+            "First Class",
+            "Nail Tech"
+        ],
+        "source_end_date_latest_ls": {
+            "Generation Now/Atlantic": "2022-08-04"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-04-28": "First Class"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-08-04": "First Class"
+        }
+    }
+}

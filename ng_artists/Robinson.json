@@ -1,0 +1,22 @@
+{
+    "Robinson": {
+        "num_of_streams": "80154",
+        "min_rank": "128",
+        "max_rank": "187",
+        "min_date": "2022-03-24",
+        "max_date": "2022-06-09",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Ayo Girl (Fayahh Beat) [feat. Rema]"
+        ],
+        "source_end_date_latest_ls": {
+            "APG": "2022-06-09"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-03-24": "Ayo Girl (Fayahh Beat) [feat. Rema]"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-04-21": "Ayo Girl (Fayahh Beat) [feat. Rema]"
+        }
+    }
+}

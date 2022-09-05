@@ -1,0 +1,23 @@
+{
+    "Lil Tjay": {
+        "num_of_streams": "236479",
+        "min_rank": "72",
+        "max_rank": "197",
+        "min_date": "2022-04-07",
+        "max_date": "2022-09-01",
+        "num_unique_songs": "2",
+        "unique_songs": [
+            "Beat the Odds",
+            "In My Head"
+        ],
+        "source_end_date_latest_ls": {
+            "Columbia": "2022-09-01"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-09-01": "Beat the Odds"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-06-16": "In My Head"
+        }
+    }
+}

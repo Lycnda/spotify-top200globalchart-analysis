@@ -1,0 +1,22 @@
+{
+    "Masterkraft": {
+        "num_of_streams": "210996",
+        "min_rank": "104",
+        "max_rank": "155",
+        "min_date": "2022-02-17",
+        "max_date": "2022-05-12",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Hallelu"
+        ],
+        "source_end_date_latest_ls": {
+            "Masterkraft": "2022-05-12"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-05-12": "Hallelu"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-03-31": "Hallelu"
+        }
+    }
+}

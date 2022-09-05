@@ -1,0 +1,34 @@
+{
+    "Chris Brown": {
+        "num_of_streams": "1652859",
+        "min_rank": "2",
+        "max_rank": "199",
+        "min_date": "2022-06-23",
+        "max_date": "2022-09-01",
+        "num_unique_songs": "13",
+        "unique_songs": [
+            "Addicted (feat. Lil Baby)",
+            "C.A.B. (Catch A Body) (feat. Fivio Foreign)",
+            "Call Me Every Day (feat. WizKid)",
+            "Closure (feat. H.E.R.)",
+            "Need You Right Here (feat. Bryson Tiller)",
+            "Nobody Has To Know (feat. Davido)",
+            "Pitch Black",
+            "Possessive (feat. Lil Wayne & BLEU)",
+            "Psychic",
+            "Sex Memories (feat. Ella Mai)",
+            "Till The Wheels Fall Off (feat. Lil Durk & Capella Grey)",
+            "Under The Influence",
+            "WE (Warm Embrace)"
+        ],
+        "source_end_date_latest_ls": {
+            "Chris Brown Entertainment/RCA Records": "2022-09-01"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-06-23": "Call Me Every Day (feat. WizKid)"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-07-07": "Psychic"
+        }
+    }
+}

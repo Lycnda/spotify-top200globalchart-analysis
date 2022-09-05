@@ -1,0 +1,39 @@
+{
+    "Fireboy DML": {
+        "num_of_streams": "7483651",
+        "min_rank": "1",
+        "max_rank": "191",
+        "min_date": "2022-02-17",
+        "max_date": "2022-09-01",
+        "num_unique_songs": "14",
+        "unique_songs": [
+            "Adore (feat. Euro)",
+            "Afro Highlife",
+            "Ashawo",
+            "Bandana",
+            "Change",
+            "Compromise (feat. Rema)",
+            "Diana",
+            "Glory",
+            "Havin' Fun",
+            "Peru",
+            "Peru - Remix",
+            "Playboy",
+            "Sofri",
+            "Timoti"
+        ],
+        "source_end_date_latest_ls": {
+            "YBNL Nation / EMPIRE": "2022-09-01"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-07-21": "Bandana",
+            "2022-07-28": "Bandana",
+            "2022-08-04": "Bandana",
+            "2022-08-11": "Bandana",
+            "2022-08-18": "Bandana"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-08-25": "Adore (feat. Euro)"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "Bella Shmurda": {
+        "num_of_streams": "1373829",
+        "min_rank": "14",
+        "max_rank": "196",
+        "min_date": "2022-02-17",
+        "max_date": "2022-09-01",
+        "num_unique_songs": "5",
+        "unique_songs": [
+            "Cash App",
+            "Fvck Off",
+            "Many Things",
+            "My Friend",
+            "New Born Fela"
+        ],
+        "source_end_date_latest_ls": {
+            "Bella Shmurda": "2022-03-03",
+            "Dangbana Republik": "2022-09-01"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-02-17": "My Friend"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-02-17": "Cash App"
+        }
+    }
+}
