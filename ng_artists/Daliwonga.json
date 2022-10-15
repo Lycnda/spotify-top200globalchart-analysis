@@ -1,16 +1,16 @@
 {
     "Daliwonga": {
-        "num_of_streams": "217971",
+        "num_of_streams": "236278",
         "min_rank": "85",
         "max_rank": "198",
         "min_date": "2022-04-21",
-        "max_date": "2022-08-04",
+        "max_date": "2022-09-22",
         "num_unique_songs": "1",
         "unique_songs": [
             "Abo Mvelo (feat. Mellow & Sleazy & M.J)"
         ],
         "source_end_date_latest_ls": {
-            "New Money Gang Records": "2022-08-04"
+            "New Money Gang Records": "2022-09-22"
         },
         "min_rank_song_unique_dt_ls": {
             "2022-06-23": "Abo Mvelo (feat. Mellow & Sleazy & M.J)"

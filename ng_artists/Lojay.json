@@ -1,17 +1,19 @@
 {
     "Lojay": {
-        "num_of_streams": "2230898",
+        "num_of_streams": "2506098",
         "min_rank": "6",
         "max_rank": "189",
         "min_date": "2022-02-17",
-        "max_date": "2022-09-01",
-        "num_unique_songs": "2",
+        "max_date": "2022-09-22",
+        "num_unique_songs": "3",
         "unique_songs": [
+            "LEADER!",
             "LV N ATTN feat. Wizkid",
             "Monalisa"
         ],
         "source_end_date_latest_ls": {
-            "Metallic Music/1789": "2022-09-01"
+            "KORATORI": "2022-09-22",
+            "Metallic Music/1789": "2022-09-22"
         },
         "min_rank_song_unique_dt_ls": {
             "2022-02-17": "Monalisa"

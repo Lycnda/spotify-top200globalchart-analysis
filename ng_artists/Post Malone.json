@@ -1,10 +1,10 @@
 {
     "Post Malone": {
-        "num_of_streams": "892206",
+        "num_of_streams": "921346",
         "min_rank": "20",
         "max_rank": "199",
         "min_date": "2022-02-17",
-        "max_date": "2022-08-18",
+        "max_date": "2022-09-22",
         "num_unique_songs": "14",
         "unique_songs": [
             "Cooped Up (with Roddy Ricch)",
@@ -23,14 +23,16 @@
             "Wrapped Around Your Finger"
         ],
         "source_end_date_latest_ls": {
-            "Mercury Records/Republic Records": "2022-08-18",
+            "Mercury Records/Republic Records": "2022-09-22",
             "Republic Records": "2022-03-24"
         },
         "min_rank_song_unique_dt_ls": {
             "2022-06-09": "Cooped Up (with Roddy Ricch)"
         },
         "max_rank_song_unique_dt_ls": {
-            "2022-08-11": "I Like You (A Happier Song) (with Doja Cat)"
+            "2022-08-11": "I Like You (A Happier Song) (with Doja Cat)",
+            "2022-09-15": "I Like You (A Happier Song) (with Doja Cat)",
+            "2022-09-22": "I Like You (A Happier Song) (with Doja Cat)"
         }
     }
 }

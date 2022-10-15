@@ -1,10 +1,10 @@
 {
     "Dave": {
-        "num_of_streams": "1712998",
+        "num_of_streams": "1862407",
         "min_rank": "39",
         "max_rank": "198",
         "min_date": "2022-02-17",
-        "max_date": "2022-09-01",
+        "max_date": "2022-09-22",
         "num_unique_songs": "6",
         "unique_songs": [
             "Clash (feat. Stormzy)",
@@ -15,8 +15,8 @@
             "System (feat. WizKid)"
         ],
         "source_end_date_latest_ls": {
-            "Dave / Neighbourhood Recordings": "2022-09-01",
-            "Neighbourhood": "2022-09-01"
+            "Dave / Neighbourhood Recordings": "2022-09-15",
+            "Neighbourhood": "2022-09-22"
         },
         "min_rank_song_unique_dt_ls": {
             "2022-03-10": "Starlight"

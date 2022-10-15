@@ -1,17 +1,17 @@
 {
     "Wande Coal": {
-        "num_of_streams": "1238617",
+        "num_of_streams": "1303052",
         "min_rank": "32",
         "max_rank": "197",
         "min_date": "2022-02-17",
-        "max_date": "2022-09-01",
+        "max_date": "2022-09-22",
         "num_unique_songs": "2",
         "unique_songs": [
             "Again",
             "Come My Way"
         ],
         "source_end_date_latest_ls": {
-            "Starstruck Management / EMPIRE": "2022-09-01",
+            "Starstruck Management / EMPIRE": "2022-09-22",
             "Starstruck Management, Inc. / EMPIRE": "2022-08-18"
         },
         "min_rank_song_unique_dt_ls": {

@@ -1,10 +1,10 @@
 {
     "CKay": {
-        "num_of_streams": "1954194",
+        "num_of_streams": "2213547",
         "min_rank": "8",
         "max_rank": "200",
         "min_date": "2022-02-17",
-        "max_date": "2022-09-01",
+        "max_date": "2022-09-22",
         "num_unique_songs": "7",
         "unique_songs": [
             "Emiliana",
@@ -18,7 +18,7 @@
         "source_end_date_latest_ls": {
             "Chocolate City Music": "2022-04-14",
             "Silly Walks Discotheque": "2022-05-26",
-            "WM South Africa": "2022-09-01"
+            "WM South Africa": "2022-09-22"
         },
         "min_rank_song_unique_dt_ls": {
             "2022-06-23": "WATAWI (feat. Davido, Focalistic & Abidoza)"

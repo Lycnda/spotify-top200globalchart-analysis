@@ -1,15 +1,16 @@
 {
     "Chris Brown": {
-        "num_of_streams": "1652859",
+        "num_of_streams": "2096007",
         "min_rank": "2",
         "max_rank": "199",
         "min_date": "2022-06-23",
-        "max_date": "2022-09-01",
-        "num_unique_songs": "13",
+        "max_date": "2022-09-22",
+        "num_unique_songs": "14",
         "unique_songs": [
             "Addicted (feat. Lil Baby)",
             "C.A.B. (Catch A Body) (feat. Fivio Foreign)",
             "Call Me Every Day (feat. WizKid)",
+            "Call Me Every Day (feat. Wizkid)",
             "Closure (feat. H.E.R.)",
             "Need You Right Here (feat. Bryson Tiller)",
             "Nobody Has To Know (feat. Davido)",
@@ -22,7 +23,7 @@
             "WE (Warm Embrace)"
         ],
         "source_end_date_latest_ls": {
-            "Chris Brown Entertainment/RCA Records": "2022-09-01"
+            "Chris Brown Entertainment/RCA Records": "2022-09-22"
         },
         "min_rank_song_unique_dt_ls": {
             "2022-06-23": "Call Me Every Day (feat. WizKid)"

@@ -1,10 +1,10 @@
 {
     "Lil Kesh": {
-        "num_of_streams": "1843348",
+        "num_of_streams": "1930706",
         "min_rank": "6",
         "max_rank": "186",
         "min_date": "2022-02-17",
-        "max_date": "2022-09-01",
+        "max_date": "2022-09-22",
         "num_unique_songs": "3",
         "unique_songs": [
             "Don't Call Me (feat. Zinoleesky)",
@@ -12,7 +12,7 @@
             "Vanilla Bottega (feat. Joeboy)"
         ],
         "source_end_date_latest_ls": {
-            "Ziiki Media": "2022-09-01"
+            "Ziiki Media": "2022-09-22"
         },
         "min_rank_song_unique_dt_ls": {
             "2022-02-24": "Don't Call Me (feat. Zinoleesky)",

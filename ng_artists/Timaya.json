@@ -1,10 +1,10 @@
 {
     "Timaya": {
-        "num_of_streams": "1639259",
+        "num_of_streams": "1801851",
         "min_rank": "5",
         "max_rank": "158",
         "min_date": "2022-02-17",
-        "max_date": "2022-09-01",
+        "max_date": "2022-09-22",
         "num_unique_songs": "2",
         "unique_songs": [
             "Cold Outside",
@@ -12,7 +12,7 @@
         ],
         "source_end_date_latest_ls": {
             "DM Records / EMPIRE": "2022-07-07",
-            "DM Records Limited": "2022-09-01"
+            "DM Records Limited": "2022-09-22"
         },
         "min_rank_song_unique_dt_ls": {
             "2022-02-24": "Cold Outside"

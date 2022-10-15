@@ -1,17 +1,17 @@
 {
     "JAE5": {
-        "num_of_streams": "1330714",
+        "num_of_streams": "1620327",
         "min_rank": "2",
         "max_rank": "193",
         "min_date": "2022-02-17",
-        "max_date": "2022-09-01",
+        "max_date": "2022-09-22",
         "num_unique_songs": "2",
         "unique_songs": [
             "Dimension (feat. Skepta & Rema)",
             "Propeller (feat. Dave & BNXN)"
         ],
         "source_end_date_latest_ls": {
-            "Black Butter": "2022-09-01"
+            "Black Butter": "2022-09-22"
         },
         "min_rank_song_unique_dt_ls": {
             "2022-08-04": "Propeller (feat. Dave & BNXN)"

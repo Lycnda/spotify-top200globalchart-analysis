@@ -1,0 +1,22 @@
+{
+    "Uncle Waffles": {
+        "num_of_streams": "15693",
+        "min_rank": "189",
+        "max_rank": "189",
+        "min_date": "2022-09-22",
+        "max_date": "2022-09-22",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Tanzania"
+        ],
+        "source_end_date_latest_ls": {
+            "Kreativekornerr": "2022-09-22"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-09-22": "Tanzania"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-09-22": "Tanzania"
+        }
+    }
+}

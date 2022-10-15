@@ -1,10 +1,10 @@
 {
     "M.I. Abaga": {
-        "num_of_streams": "688724",
+        "num_of_streams": "836053",
         "min_rank": "21",
-        "max_rank": "126",
+        "max_rank": "195",
         "min_date": "2022-07-28",
-        "max_date": "2022-09-01",
+        "max_date": "2022-09-22",
         "num_unique_songs": "12",
         "unique_songs": [
             "Bigger (feat. Olamide & Nas)",
@@ -21,13 +21,13 @@
             "The Love Song (feat. Wande Coal)"
         ],
         "source_end_date_latest_ls": {
-            "Chocolate City Music": "2022-09-01"
+            "Chocolate City Music": "2022-09-22"
         },
         "min_rank_song_unique_dt_ls": {
             "2022-08-25": "The Love Song (feat. Wande Coal)"
         },
         "max_rank_song_unique_dt_ls": {
-            "2022-09-01": "The Guy"
+            "2022-09-08": "Oil (feat. BNXN fka Buju)"
         }
     }
 }

@@ -1,11 +1,11 @@
 {
     "Victony": {
-        "num_of_streams": "3983897",
+        "num_of_streams": "4569720",
         "min_rank": "3",
         "max_rank": "199",
         "min_date": "2022-03-17",
-        "max_date": "2022-09-01",
-        "num_unique_songs": "7",
+        "max_date": "2022-09-22",
+        "num_unique_songs": "8",
         "unique_songs": [
             "All Power",
             "Apollo",
@@ -13,11 +13,12 @@
             "Jolene",
             "Many Man - A COLORS SHOW",
             "Outlaw",
+            "Soweto",
             "kolomental"
         ],
         "source_end_date_latest_ls": {
-            "COLORSxSTUDIOS": "2022-09-01",
-            "The Plug Entertainment": "2022-09-01"
+            "COLORSxSTUDIOS": "2022-09-22",
+            "The Plug Entertainment": "2022-09-22"
         },
         "min_rank_song_unique_dt_ls": {
             "2022-05-12": "kolomental"

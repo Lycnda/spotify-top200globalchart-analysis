@@ -1,14 +1,15 @@
 {
     "Fireboy DML": {
-        "num_of_streams": "7483651",
+        "num_of_streams": "8671077",
         "min_rank": "1",
         "max_rank": "191",
         "min_date": "2022-02-17",
-        "max_date": "2022-09-01",
-        "num_unique_songs": "14",
+        "max_date": "2022-09-22",
+        "num_unique_songs": "15",
         "unique_songs": [
             "Adore (feat. Euro)",
             "Afro Highlife",
+            "All Of Us (Ashawo)",
             "Ashawo",
             "Bandana",
             "Change",
@@ -23,7 +24,7 @@
             "Timoti"
         ],
         "source_end_date_latest_ls": {
-            "YBNL Nation / EMPIRE": "2022-09-01"
+            "YBNL Nation / EMPIRE": "2022-09-22"
         },
         "min_rank_song_unique_dt_ls": {
             "2022-07-21": "Bandana",

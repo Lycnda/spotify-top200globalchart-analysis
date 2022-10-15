@@ -1,10 +1,10 @@
 {
     "Justin Bieber": {
-        "num_of_streams": "743815",
+        "num_of_streams": "795798",
         "min_rank": "69",
         "max_rank": "198",
         "min_date": "2022-02-17",
-        "max_date": "2022-09-01",
+        "max_date": "2022-09-22",
         "num_unique_songs": "4",
         "unique_songs": [
             "Ghost",
@@ -14,7 +14,7 @@
         ],
         "source_end_date_latest_ls": {
             "Justin Bieber 2021 PS/ Def Jam": "2022-05-26",
-            "RBMG/Def Jam": "2022-09-01"
+            "RBMG/Def Jam": "2022-09-22"
         },
         "min_rank_song_unique_dt_ls": {
             "2022-02-24": "Ghost"

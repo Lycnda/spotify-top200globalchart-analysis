@@ -1,0 +1,22 @@
+{
+    "Balming Tiger": {
+        "num_of_streams": "16722",
+        "min_rank": "175",
+        "max_rank": "175",
+        "min_date": "2022-09-08",
+        "max_date": "2022-09-08",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "SEXY NUKIM (feat. RM of BTS)"
+        ],
+        "source_end_date_latest_ls": {
+            "Balming Tiger": "2022-09-08"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-09-08": "SEXY NUKIM (feat. RM of BTS)"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-09-08": "SEXY NUKIM (feat. RM of BTS)"
+        }
+    }
+}

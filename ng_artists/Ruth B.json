@@ -1,16 +1,16 @@
 {
     "Ruth B.": {
-        "num_of_streams": "218606",
+        "num_of_streams": "264245",
         "min_rank": "146",
         "max_rank": "198",
         "min_date": "2022-04-14",
-        "max_date": "2022-08-18",
+        "max_date": "2022-09-22",
         "num_unique_songs": "1",
         "unique_songs": [
             "Dandelions"
         ],
         "source_end_date_latest_ls": {
-            "Columbia": "2022-08-18"
+            "Columbia": "2022-09-22"
         },
         "min_rank_song_unique_dt_ls": {
             "2022-06-16": "Dandelions"

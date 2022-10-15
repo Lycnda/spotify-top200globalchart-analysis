@@ -1,0 +1,22 @@
+{
+    "Limoblaze": {
+        "num_of_streams": "45252",
+        "min_rank": "95",
+        "max_rank": "136",
+        "min_date": "2022-09-15",
+        "max_date": "2022-09-22",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Jireh (My Provider)"
+        ],
+        "source_end_date_latest_ls": {
+            "Limoblaze Music": "2022-09-22"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-09-22": "Jireh (My Provider)"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-09-15": "Jireh (My Provider)"
+        }
+    }
+}

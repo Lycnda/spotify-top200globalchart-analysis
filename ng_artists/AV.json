@@ -1,10 +1,10 @@
 {
     "AV": {
-        "num_of_streams": "1325709",
+        "num_of_streams": "1437284",
         "min_rank": "67",
-        "max_rank": "198",
+        "max_rank": "200",
         "min_date": "2022-02-17",
-        "max_date": "2022-09-01",
+        "max_date": "2022-09-22",
         "num_unique_songs": "4",
         "unique_songs": [
             "Big Thug Boys",
@@ -13,14 +13,14 @@
             "No Dey Form"
         ],
         "source_end_date_latest_ls": {
-            "AV": "2022-09-01",
-            "WM Sweden": "2022-09-01"
+            "AV": "2022-09-22",
+            "WM Sweden": "2022-09-15"
         },
         "min_rank_song_unique_dt_ls": {
             "2022-02-24": "Confession"
         },
         "max_rank_song_unique_dt_ls": {
-            "2022-08-18": "No Dey Form"
+            "2022-09-15": "No Dey Form"
         }
     }
 }
