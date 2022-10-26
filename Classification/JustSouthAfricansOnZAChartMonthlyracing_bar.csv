@@ -10,7 +10,7 @@ date,name,category,value
 2022-07-01,9umba,7,260509
 2022-08-01,9umba,8,220832
 2022-09-01,9umba,9,245787
-2022-10-01,9umba,10,55099
+2022-10-01,9umba,10,139736
 2021-01-01,A-Reece,1,64960
 2021-02-01,A-Reece,2,69025
 2021-03-01,A-Reece,3,48682
@@ -38,7 +38,7 @@ date,name,category,value
 2018-10-01,AKA,10,33944
 2019-10-01,AKA,10,42071
 2020-10-01,AKA,10,47538
-2022-10-01,AKA,10,138511
+2022-10-01,AKA,10,399389
 2018-11-01,AKA,11,54774
 2020-11-01,AKA,11,124490
 2018-12-01,AKA,12,53333
@@ -119,7 +119,7 @@ date,name,category,value
 2021-09-01,Big Zulu,9,117337
 2022-09-01,Big Zulu,9,464982
 2021-10-01,Big Zulu,10,47374
-2022-10-01,Big Zulu,10,97309
+2022-10-01,Big Zulu,10,225402
 2020-12-01,Big Zulu,12,463261
 2019-01-01,Black Coffee,1,122039
 2020-01-01,Black Coffee,1,37656
@@ -164,7 +164,7 @@ date,name,category,value
 2021-09-01,Blaq Diamond,9,68299
 2022-09-01,Blaq Diamond,9,84493
 2019-10-01,Blaq Diamond,10,64343
-2022-10-01,Blaq Diamond,10,39235
+2022-10-01,Blaq Diamond,10,128950
 2019-11-01,Blaq Diamond,11,49346
 2020-11-01,Blaq Diamond,11,16488
 2019-12-01,Blaq Diamond,12,54053
@@ -326,6 +326,7 @@ date,name,category,value
 2018-10-01,DJ Maphorisa,10,19750
 2019-10-01,DJ Maphorisa,10,360842
 2021-10-01,DJ Maphorisa,10,559339
+2022-10-01,DJ Maphorisa,10,155597
 2018-11-01,DJ Maphorisa,11,16408
 2019-11-01,DJ Maphorisa,11,245640
 2021-11-01,DJ Maphorisa,11,487519
@@ -386,7 +387,7 @@ date,name,category,value
 2022-07-01,Daliwonga,7,314155
 2022-08-01,Daliwonga,8,235681
 2022-09-01,Daliwonga,9,261356
-2022-10-01,Daliwonga,10,52141
+2022-10-01,Daliwonga,10,138665
 2019-08-01,David Scott,8,8421
 2020-01-01,De Mthuda,1,13326
 2022-01-01,De Mthuda,1,351268
@@ -429,7 +430,7 @@ date,name,category,value
 2022-03-01,Dj Karri,3,348079
 2022-04-01,Dj Karri,4,168344
 2022-05-01,Dj Karri,5,57574
-2022-10-01,Dj Karri,10,29902
+2022-10-01,Dj Karri,10,94997
 2021-05-01,Dj Melzi,5,25595
 2021-06-01,Dj Melzi,6,49903
 2021-07-01,Dj Melzi,7,91680
@@ -526,7 +527,7 @@ date,name,category,value
 2022-07-01,Eloff,7,165685
 2022-08-01,Eloff,8,184527
 2022-09-01,Eloff,9,170133
-2022-10-01,Eloff,10,69910
+2022-10-01,Eloff,10,144435
 2021-12-01,Eloff,12,143441
 2021-08-01,Emotionz DJ,8,36182
 2021-09-01,Emotionz DJ,9,56704
@@ -569,7 +570,7 @@ date,name,category,value
 2022-07-01,Gaba Cannal,7,302323
 2022-08-01,Gaba Cannal,8,307759
 2022-09-01,Gaba Cannal,9,372286
-2022-10-01,Gaba Cannal,10,65231
+2022-10-01,Gaba Cannal,10,176030
 2021-07-01,Geato,7,71138
 2020-11-01,Gee Six Five,11,15603
 2019-06-01,Gemini Major,6,8109
@@ -609,7 +610,7 @@ date,name,category,value
 2021-09-01,Irene-Louise Van Wyk,9,158883
 2022-09-01,Irene-Louise Van Wyk,9,155366
 2021-10-01,Irene-Louise Van Wyk,10,133936
-2022-10-01,Irene-Louise Van Wyk,10,35725
+2022-10-01,Irene-Louise Van Wyk,10,98322
 2021-11-01,Irene-Louise Van Wyk,11,136509
 2021-12-01,Irene-Louise Van Wyk,12,179937
 2022-01-01,Jay,1,24357
@@ -651,7 +652,7 @@ date,name,category,value
 2019-08-01,K.O,8,9349
 2022-08-01,K.O,8,277597
 2022-09-01,K.O,9,1984435
-2022-10-01,K.O,10,363925
+2022-10-01,K.O,10,994691
 2019-01-01,Kabza De Small,1,6443
 2020-01-01,Kabza De Small,1,696890
 2021-01-01,Kabza De Small,1,16450
@@ -678,7 +679,7 @@ date,name,category,value
 2019-10-01,Kabza De Small,10,95152
 2020-10-01,Kabza De Small,10,492879
 2021-10-01,Kabza De Small,10,812945
-2022-10-01,Kabza De Small,10,372039
+2022-10-01,Kabza De Small,10,981515
 2019-11-01,Kabza De Small,11,167705
 2020-11-01,Kabza De Small,11,191691
 2021-11-01,Kabza De Small,11,1169669
@@ -710,6 +711,7 @@ date,name,category,value
 2019-12-01,KayGee DaKing,12,82216
 2021-01-01,Kelly Khumalo,1,15304
 2020-10-01,Kelly Khumalo,10,110386
+2022-10-01,Kelly Khumalo,10,32742
 2020-11-01,Kelly Khumalo,11,150588
 2020-12-01,Kelly Khumalo,12,143932
 2022-01-01,Kelvin Momo,1,366342
@@ -719,10 +721,12 @@ date,name,category,value
 2022-06-01,Kelvin Momo,6,26903
 2022-07-01,Kelvin Momo,7,79545
 2022-09-01,Kelvin Momo,9,28600
+2022-10-01,Kelvin Momo,10,29537
 2021-12-01,Kelvin Momo,12,498157
 2021-10-01,Kevboii,10,42884
 2022-01-01,Khanyisa,1,25552
 2021-10-01,Khanyisa,10,330558
+2022-10-01,Khanyisa,10,31682
 2021-11-01,Khanyisa,11,242494
 2021-12-01,Khanyisa,12,174814
 2018-05-01,Kid X,5,2978
@@ -737,7 +741,7 @@ date,name,category,value
 2022-07-01,Konke,7,278647
 2022-08-01,Konke,8,272374
 2022-09-01,Konke,9,314874
-2022-10-01,Konke,10,68138
+2022-10-01,Konke,10,181978
 2019-01-01,Kwesta,1,39000
 2019-02-01,Kwesta,2,7232
 2018-03-01,Kwesta,3,8994
@@ -814,7 +818,7 @@ date,name,category,value
 2021-09-01,Lloyiso,9,159118
 2022-09-01,Lloyiso,9,371229
 2021-10-01,Lloyiso,10,70484
-2022-10-01,Lloyiso,10,30957
+2022-10-01,Lloyiso,10,155528
 2021-11-01,Lloyiso,11,125477
 2021-12-01,Lloyiso,12,103128
 2020-09-01,Loufi,9,14750
@@ -862,7 +866,7 @@ date,name,category,value
 2022-09-01,Makhadzi,9,194326
 2020-10-01,Makhadzi,10,40122
 2021-10-01,Makhadzi,10,180342
-2022-10-01,Makhadzi,10,37625
+2022-10-01,Makhadzi,10,71827
 2021-11-01,Makhadzi,11,111606
 2020-12-01,Makhadzi,12,46340
 2021-12-01,Makhadzi,12,224024
@@ -894,7 +898,7 @@ date,name,category,value
 2021-09-01,Mas Musiq,9,73282
 2022-09-01,Mas Musiq,9,680929
 2021-10-01,Mas Musiq,10,811908
-2022-10-01,Mas Musiq,10,148760
+2022-10-01,Mas Musiq,10,429955
 2020-11-01,Mas Musiq,11,34334
 2021-11-01,Mas Musiq,11,809869
 2019-12-01,Mas Musiq,12,25393
@@ -941,7 +945,7 @@ date,name,category,value
 2021-09-01,Mellow & Sleazy,9,638202
 2022-09-01,Mellow & Sleazy,9,398888
 2021-10-01,Mellow & Sleazy,10,442895
-2022-10-01,Mellow & Sleazy,10,66401
+2022-10-01,Mellow & Sleazy,10,175479
 2021-11-01,Mellow & Sleazy,11,360432
 2021-12-01,Mellow & Sleazy,12,739014
 2021-10-01,Mfana Kah Gogo,10,37202
@@ -1039,7 +1043,7 @@ date,name,category,value
 2021-09-01,Musa Keys,9,235894
 2022-09-01,Musa Keys,9,262733
 2021-10-01,Musa Keys,10,158653
-2022-10-01,Musa Keys,10,55633
+2022-10-01,Musa Keys,10,155008
 2021-11-01,Musa Keys,11,62193
 2020-12-01,Musa Keys,12,158363
 2021-12-01,Musa Keys,12,229503
@@ -1087,7 +1091,7 @@ date,name,category,value
 2018-10-01,Nasty C,10,11364
 2019-10-01,Nasty C,10,80308
 2020-10-01,Nasty C,10,140024
-2022-10-01,Nasty C,10,36054
+2022-10-01,Nasty C,10,67415
 2019-11-01,Nasty C,11,10301
 2020-08-01,Nea,8,13838
 2022-02-01,Nicole Elocin,2,25958
@@ -1095,7 +1099,7 @@ date,name,category,value
 2022-08-01,Njelic,8,146741
 2022-09-01,Njelic,9,289617
 2021-10-01,Njelic,10,227361
-2022-10-01,Njelic,10,71891
+2022-10-01,Njelic,10,191629
 2021-11-01,Njelic,11,219287
 2021-12-01,Njelic,12,140776
 2021-10-01,Nkosazana_Daughter,10,35643
@@ -1116,7 +1120,7 @@ date,name,category,value
 2022-07-01,Nomfundo Moh,7,454559
 2022-08-01,Nomfundo Moh,8,447249
 2022-09-01,Nomfundo Moh,9,481416
-2022-10-01,Nomfundo Moh,10,89690
+2022-10-01,Nomfundo Moh,10,267972
 2021-11-01,Nomfundo Moh,11,154856
 2021-12-01,Nomfundo Moh,12,404128
 2022-03-01,Ntokzin,3,25374
@@ -1134,7 +1138,7 @@ date,name,category,value
 2022-08-01,Pabi Cooper,8,68595
 2021-09-01,Pabi Cooper,9,481126
 2021-10-01,Pabi Cooper,10,292100
-2022-10-01,Pabi Cooper,10,75604
+2022-10-01,Pabi Cooper,10,222464
 2021-11-01,Pabi Cooper,11,194262
 2021-12-01,Pabi Cooper,12,200453
 2018-03-01,Pascal & Pearce,3,5259
@@ -1169,7 +1173,7 @@ date,name,category,value
 2019-12-01,Prince Kaybee,12,59851
 2022-08-01,Q Twins,8,60113
 2022-09-01,Q Twins,9,180372
-2022-10-01,Q Twins,10,36466
+2022-10-01,Q Twins,10,109045
 2021-11-01,Q Twins,11,40108
 2022-01-01,Q-Mark,1,491422
 2022-02-01,Q-Mark,2,643696
@@ -1180,7 +1184,7 @@ date,name,category,value
 2022-07-01,Q-Mark,7,249981
 2022-08-01,Q-Mark,8,224140
 2022-09-01,Q-Mark,9,236035
-2022-10-01,Q-Mark,10,43737
+2022-10-01,Q-Mark,10,120214
 2021-12-01,Q-Mark,12,130288
 2021-01-01,Reece Madlisa,1,251915
 2022-01-01,Reece Madlisa,1,222810
@@ -1248,7 +1252,7 @@ date,name,category,value
 2021-09-01,Riaan Benad,9,276613
 2022-09-01,Riaan Benad,9,366176
 2021-10-01,Riaan Benad,10,225510
-2022-10-01,Riaan Benad,10,108705
+2022-10-01,Riaan Benad,10,311633
 2021-11-01,Riaan Benad,11,234875
 2020-12-01,Riaan Benad,12,37227
 2021-12-01,Riaan Benad,12,313281
@@ -1292,7 +1296,7 @@ date,name,category,value
 2022-07-01,Sam Deep,7,193082
 2022-08-01,Sam Deep,8,229491
 2022-09-01,Sam Deep,9,518587
-2022-10-01,Sam Deep,10,110103
+2022-10-01,Sam Deep,10,322035
 2020-01-01,Samthing Soweto,1,215488
 2020-02-01,Samthing Soweto,2,94993
 2020-03-01,Samthing Soweto,3,67040
@@ -1302,7 +1306,7 @@ date,name,category,value
 2019-09-01,Samthing Soweto,9,180659
 2022-09-01,Samthing Soweto,9,261156
 2019-10-01,Samthing Soweto,10,372776
-2022-10-01,Samthing Soweto,10,60860
+2022-10-01,Samthing Soweto,10,162732
 2019-11-01,Samthing Soweto,11,238568
 2020-11-01,Samthing Soweto,11,21965
 2019-12-01,Samthing Soweto,12,260481
@@ -1332,7 +1336,7 @@ date,name,category,value
 2022-07-01,Senior Oat,7,626411
 2022-08-01,Senior Oat,8,460085
 2022-09-01,Senior Oat,9,477808
-2022-10-01,Senior Oat,10,85901
+2022-10-01,Senior Oat,10,266136
 2020-01-01,Sha Sha,1,227889
 2020-02-01,Sha Sha,2,184181
 2020-03-01,Sha Sha,3,175813
@@ -1417,6 +1421,7 @@ date,name,category,value
 2021-11-01,Soa Mattrix,11,425534
 2020-12-01,Soa Mattrix,12,377607
 2021-12-01,Soa Mattrix,12,456395
+2022-10-01,Soa mattrix,10,38400
 2020-02-01,Soweto's Finest,2,11517
 2020-03-01,Soweto's Finest,3,24780
 2019-02-01,Spoegwolf,2,7891
@@ -1520,7 +1525,7 @@ date,name,category,value
 2022-07-01,Uncle Waffles,7,346918
 2022-08-01,Uncle Waffles,8,275514
 2022-09-01,Uncle Waffles,9,287885
-2022-10-01,Uncle Waffles,10,56268
+2022-10-01,Uncle Waffles,10,147968
 2021-03-01,Vetkuk,3,71529
 2021-04-01,Vetkuk,4,122654
 2022-06-01,Vetkuk,6,29859
@@ -1554,7 +1559,7 @@ date,name,category,value
 2022-07-01,Wanitwa Mos,7,692630
 2022-08-01,Wanitwa Mos,8,602465
 2022-09-01,Wanitwa Mos,9,756768
-2022-10-01,Wanitwa Mos,10,208747
+2022-10-01,Wanitwa Mos,10,582172
 2021-12-01,Wanitwa Mos,12,88249
 2022-01-01,Will Linley,1,131172
 2022-02-01,Will Linley,2,127065
@@ -1573,7 +1578,7 @@ date,name,category,value
 2022-08-01,Young Stunna,8,133108
 2022-09-01,Young Stunna,9,174918
 2021-10-01,Young Stunna,10,481994
-2022-10-01,Young Stunna,10,38246
+2022-10-01,Young Stunna,10,103794
 2021-11-01,Young Stunna,11,1297657
 2021-12-01,Young Stunna,12,1702442
 2021-08-01,Zahara,8,21445

@@ -1,0 +1,2027 @@
+{
+    "2018-03-15": {
+        "main_artists": ", 21 Savage, Avicii, Bad Wolves, Bazzi, Bebe Rexha, BlocBoy JB, Bruno Mars, Camila Cabello, Cashmere Cat, Clean Bandit, Coolio, DJ Khaled, David Guetta, Dr. Dre, Drake, Dua Lipa, Ed Sheeran, Eminem, Fort Minor, Future, G-Eazy, Hailee Steinfeld, Imagine Dragons, Jax Jones, Jay Rock, Jeremy Loops, Julia Michaels, Justin Timberlake, KALEO, Kanye West, Kendrick Lamar, Khalid, Kwesta, Liam Payne, Lil Pump, Lil Uzi Vert, Lil Wayne, Lil Xan, Lil Yachty, Logic, Maroon 5, Marshmello, Martin Garrix, Migos, NF, Offset, Portugal. The Man, Post Malone, R3HAB, Rich The Kid, Rob $tone, Rudimental, Sam Smith, Sean Paul, Selena Gomez, Shekhinah, The Chainsmokers, The Weeknd, The White Stripes, XXXTENTACION, Zedd",
+        "count_main_artist": 61,
+        "count_songs": 61,
+        "count_source": 47,
+        "sum_streams": 147241,
+        "min_rank": 1,
+        "max_rank": 86
+    },
+    "2018-03-22": {
+        "main_artists": ", 5 Seconds of Summer, A$AP Ferg, AC/DC, AJR, AKA, Alan Walker, Axwell /\\ Ingrosso, Beyonc, Big Shaq, Black Motion, Calum Scott, CamelPhat, Cardi B, Charlie Puth, Childish Gambino, DMX, Daniel Caesar, Demi Lovato, Dennis Lloyd, Desiigner, Distruction Boyz, Earth, Eurythmics, Famous Dex, French Montana, J. Cole, James Arthur, Jason Isbell and the 400 Unit, Jason Mraz, Journey, King Princess, Kygo, Lauv, Lil Dicky, Lil Skies, Lord Huron, Maggie Lindemann, Major Lazer, Michael Jackson, Miguel, Nicky Jam, Papa Roach, Pascal & Pearce, Queen, R. Kelly, Rae Sremmurd, Rag'n'Bone Man, Rihanna, Sabrina Carpenter, Shawn Mendes, Smokepurpp, Starley, TOTO, Taylor Swift, The Police, Travis Scott, ZAYN",
+        "count_main_artist": 57,
+        "count_songs": 57,
+        "count_source": 49,
+        "sum_streams": 153201,
+        "min_rank": 33,
+        "max_rank": 196
+    },
+    "2018-03-29": {
+        "main_artists": ", Blackstreet, Cassper Nyovest, Foster The People, GoldFish, Heavy-K, Loud Luxury, N.E.R.D, Nasty C, P!nk, Panic! At The Disco, Prince Kaybee, Sia, Smash Mouth, Sun-El Musician, Whitney Houston, YBN Nahmir, a-ha",
+        "count_main_artist": 17,
+        "count_songs": 17,
+        "count_source": 15,
+        "sum_streams": 47776,
+        "min_rank": 28,
+        "max_rank": 200
+    },
+    "2018-04-05": {
+        "main_artists": ", A$AP Rocky, DJ Maphorisa, Daryl Hall & John Oates, KYLE, Lady Zamar, Madison Beer, Mike WiLL Made-It, NOTD, Oasis, Ty Dolla $ign, Tyler",
+        "count_main_artist": 11,
+        "count_songs": 11,
+        "count_source": 11,
+        "sum_streams": 28485,
+        "min_rank": 58,
+        "max_rank": 200
+    },
+    "2018-04-12": {
+        "main_artists": ", Alessia Cara, Calvin Harris, Hillsong Worship, John Legend, The Killers, TiMO ODV",
+        "count_main_artist": 6,
+        "count_songs": 6,
+        "count_source": 6,
+        "sum_streams": 20011,
+        "min_rank": 27,
+        "max_rank": 200
+    },
+    "2018-04-19": {
+        "main_artists": ", Florence + The Machine, George Ezra, Mlindo The Vocalist, Nicki Minaj, Petit Biscuit, Poo Bear, Sofa Reyes, Toploader, Vance Joy",
+        "count_main_artist": 9,
+        "count_songs": 9,
+        "count_source": 9,
+        "sum_streams": 30208,
+        "min_rank": 20,
+        "max_rank": 200
+    },
+    "2018-04-26": {
+        "main_artists": ", Anne-Marie, Ariana Grande, Billie Eilish, Mr. Probz, Robinson, Seeb",
+        "count_main_artist": 6,
+        "count_songs": 6,
+        "count_source": 6,
+        "sum_streams": 32763,
+        "min_rank": 12,
+        "max_rank": 191
+    },
+    "2018-05-03": {
+        "main_artists": ", Lost Frequencies, Regi",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 7834,
+        "min_rank": 86,
+        "max_rank": 185
+    },
+    "2018-05-10": {
+        "main_artists": ", Jess Glynne, Troye Sivan",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 8174,
+        "min_rank": 91,
+        "max_rank": 162
+    },
+    "2018-05-17": {
+        "main_artists": ", Arctic Monkeys, Joji, Juice WRLD, Lil Baby, Playboi Carti, Rita Ora, Sigala",
+        "count_main_artist": 7,
+        "count_songs": 7,
+        "count_source": 7,
+        "sum_streams": 26871,
+        "min_rank": 41,
+        "max_rank": 198
+    },
+    "2018-05-24": {
+        "main_artists": ", BTS, Diplo, Felix Jaehn, OneRepublic, Pharrell Williams, Tisto, Tyga",
+        "count_main_artist": 7,
+        "count_songs": 7,
+        "count_source": 6,
+        "sum_streams": 33804,
+        "min_rank": 20,
+        "max_rank": 197
+    },
+    "2018-05-31": {
+        "main_artists": ", DJ Ganyani, John Mayer, Jonas Blue, Kid X, NAV, Pusha T, Years & Years",
+        "count_main_artist": 7,
+        "count_songs": 7,
+        "count_source": 7,
+        "sum_streams": 28244,
+        "min_rank": 36,
+        "max_rank": 197
+    },
+    "2018-06-07": {
+        "main_artists": ", 6ix9ine, Dladla Mshunqisi, Ella Mai, Mac Miller, The 1975",
+        "count_main_artist": 5,
+        "count_songs": 5,
+        "count_source": 5,
+        "sum_streams": 17709,
+        "min_rank": 136,
+        "max_rank": 191
+    },
+    "2018-06-14": {
+        "main_artists": ", Jorja Smith, K.O, KIDS SEE GHOSTS, Kiiara, Louis The Child",
+        "count_main_artist": 5,
+        "count_songs": 5,
+        "count_source": 5,
+        "sum_streams": 35315,
+        "min_rank": 5,
+        "max_rank": 192
+    },
+    "2018-06-21": {
+        "main_artists": ", 2 Chainz, Alec Benjamin, Kodak Black, Nas",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 4,
+        "sum_streams": 22007,
+        "min_rank": 41,
+        "max_rank": 184
+    },
+    "2018-06-28": {
+        "main_artists": ", 6LACK, Hozier, Jaden, Jason Derulo, Teyana Taylor, The Carters, Vigiland",
+        "count_main_artist": 7,
+        "count_songs": 7,
+        "count_source": 7,
+        "sum_streams": 32888,
+        "min_rank": 47,
+        "max_rank": 200
+    },
+    "2018-07-05": {
+        "main_artists": ", Meek Mill, Red Hot Chili Peppers, WALK THE MOON",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 9858,
+        "min_rank": 184,
+        "max_rank": 198
+    },
+    "2018-07-12": {
+        "main_artists": ", Cheat Codes, Dynoro, Sjava, YG",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 4,
+        "sum_streams": 16492,
+        "min_rank": 127,
+        "max_rank": 197
+    },
+    "2018-07-19": {
+        "main_artists": ", Twenty One Pilots, Wiz Khalifa, benny blanco",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 24951,
+        "min_rank": 27,
+        "max_rank": 86
+    },
+    "2018-07-26": {
+        "main_artists": ", Chance the Rapper, Ciara, Dean Lewis",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 16542,
+        "min_rank": 54,
+        "max_rank": 122
+    },
+    "2018-08-02": {
+        "main_artists": ", DJ Durel, Mario",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 7253,
+        "min_rank": 182,
+        "max_rank": 198
+    },
+    "2018-08-09": {
+        "main_artists": ", H.E.R., Kris Kross Amsterdam",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 12335,
+        "min_rank": 77,
+        "max_rank": 149
+    },
+    "2018-08-16": {
+        "main_artists": ", Cash Cash, Gryffin, Jessie J, Quavo, Trippie Redd",
+        "count_main_artist": 5,
+        "count_songs": 5,
+        "count_source": 5,
+        "sum_streams": 26463,
+        "min_rank": 66,
+        "max_rank": 193
+    },
+    "2018-08-23": {
+        "main_artists": ", Sheck Wes, Young Thug",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 8505,
+        "min_rank": 168,
+        "max_rank": 169
+    },
+    "2018-08-30": {
+        "main_artists": ", Armin van Buuren, Bas, Black Coffee, Bring Me The Horizon, Bryce Vine, Dee-Jay, Justin Bieber, Kyle Watson, Nick Jonas, Snotkop, Social House, Why Don't We",
+        "count_main_artist": 12,
+        "count_songs": 12,
+        "count_source": 12,
+        "sum_streams": 73079,
+        "min_rank": 19,
+        "max_rank": 197
+    },
+    "2018-09-06": {
+        "main_artists": ", Alesso, Boity, Lil Mosey, Paul Rosenberg",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 4,
+        "sum_streams": 45542,
+        "min_rank": 13,
+        "max_rank": 185
+    },
+    "2018-09-13": {
+        "main_artists": ", Flipp Dinero, Gnarls Barkley, Machine Gun Kelly, Russ, Silk City, Steve Aoki, The Lumineers",
+        "count_main_artist": 7,
+        "count_songs": 7,
+        "count_source": 6,
+        "sum_streams": 40383,
+        "min_rank": 43,
+        "max_rank": 197
+    },
+    "2018-09-20": {
+        "main_artists": ", GASHI, Gucci Mane, Lauren Daigle, Lil Peep, Lukas Graham, Riky Rick, Wale",
+        "count_main_artist": 7,
+        "count_songs": 7,
+        "count_source": 7,
+        "sum_streams": 46084,
+        "min_rank": 25,
+        "max_rank": 182
+    },
+    "2018-09-27": {
+        "main_artists": ", Amin, Avril Lavigne, DJ Sumbody, Mumford & Sons",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 4,
+        "sum_streams": 19434,
+        "min_rank": 171,
+        "max_rank": 190
+    },
+    "2018-10-04": {
+        "main_artists": ", DJ Snake, Lady Gaga",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 23343,
+        "min_rank": 23,
+        "max_rank": 184
+    },
+    "2018-10-18": {
+        "main_artists": ", ANATII, Anderson .Paak, Ava Max, Bad Bunny, Halsey, Little Mix, Vusi Nova, Zara Larsson",
+        "count_main_artist": 8,
+        "count_songs": 8,
+        "count_source": 8,
+        "sum_streams": 76810,
+        "min_rank": 11,
+        "max_rank": 200
+    },
+    "2018-10-25": {
+        "main_artists": ", A-Reece, Charli XCX, Joyner Lucas",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 18052,
+        "min_rank": 126,
+        "max_rank": 163
+    },
+    "2018-11-01": {
+        "main_artists": ", Ellie Goulding, Fifth Harmony, Normani, Takeoff, Tory Lanez",
+        "count_main_artist": 5,
+        "count_songs": 5,
+        "count_source": 5,
+        "sum_streams": 32876,
+        "min_rank": 82,
+        "max_rank": 199
+    },
+    "2018-11-08": {
+        "main_artists": ", Metro Boomin, Miley Cyrus",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 19942,
+        "min_rank": 37,
+        "max_rank": 175
+    },
+    "2018-11-15": {
+        "main_artists": ", Frank Casino, Jon Bellion, King Modana, Mike Posner",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 4,
+        "sum_streams": 24255,
+        "min_rank": 113,
+        "max_rank": 200
+    },
+    "2018-11-22": {
+        "main_artists": ", Holly Rey, Keala Settle",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 10981,
+        "min_rank": 180,
+        "max_rank": 189
+    },
+    "2018-12-06": {
+        "main_artists": ", Los Unidades, Manqonqo, Mariah Carey, Mark Ronson, Michael Bubl, Sho Madjozi, Ski Mask The Slump God, Wham!",
+        "count_main_artist": 8,
+        "count_songs": 8,
+        "count_source": 7,
+        "sum_streams": 56230,
+        "min_rank": 71,
+        "max_rank": 190
+    },
+    "2018-12-13": {
+        "main_artists": ", Bobby Helms, Brenda Lee, pewdiepie",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 17905,
+        "min_rank": 167,
+        "max_rank": 194
+    },
+    "2018-12-20": {
+        "main_artists": ", Andy Williams, Band Aid, Bok Van Blerk, Ricus Nel",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 4,
+        "sum_streams": 24386,
+        "min_rank": 147,
+        "max_rank": 197
+    },
+    "2018-12-27": {
+        "main_artists": ", Bing Crosby, Brett Eldredge, Britney Spears, Bruce Springsteen, Burl Ives, Chris Rea, Christina Aguilera, Chuck Berry, Coldplay, Darlene Love, Dean Martin, Ella Fitzgerald, Elton John, Elvis Presley, Frank Sinatra, Gwen Stefani, John Lennon, Jos Feliciano, Kabza De Small, Kelly Clarkson, Kylie Minogue, Leona Lewis, Master KG, Meghan Trainor, Nat King Cole, Paul McCartney, Perry Como, Shado M, Shakin' Stevens, Stevie Wonder, The Jackson 5, The Pogues, The Ronettes, Tony Bennett",
+        "count_main_artist": 34,
+        "count_songs": 33,
+        "count_source": 25,
+        "sum_streams": 351873,
+        "min_rank": 30,
+        "max_rank": 194
+    },
+    "2019-01-03": {
+        "main_artists": ", A Boogie Wit da Hoodie, Bryan Adams, Eagles, SHAED",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 4,
+        "sum_streams": 25485,
+        "min_rank": 111,
+        "max_rank": 200
+    },
+    "2019-01-10": {
+        "main_artists": ", Chris Brown",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 12974,
+        "min_rank": 48,
+        "max_rank": 48
+    },
+    "2019-01-17": {
+        "main_artists": ", Dominic Fike, Gesaffelstein, Kehlani, Lewis Capaldi, Pedro Cap",
+        "count_main_artist": 5,
+        "count_songs": 5,
+        "count_source": 4,
+        "sum_streams": 47762,
+        "min_rank": 25,
+        "max_rank": 196
+    },
+    "2019-01-24": {
+        "main_artists": ", James Blake, Mustard, Zac Efron",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 27168,
+        "min_rank": 62,
+        "max_rank": 197
+    },
+    "2019-02-07": {
+        "main_artists": ", Blueface, Galantis, Jeremy Zucker, Lennon Stella, Mabel, Robin Schulz",
+        "count_main_artist": 6,
+        "count_songs": 6,
+        "count_source": 6,
+        "sum_streams": 52877,
+        "min_rank": 43,
+        "max_rank": 198
+    },
+    "2019-02-14": {
+        "main_artists": ", Simmy",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 6900,
+        "min_rank": 193,
+        "max_rank": 193
+    },
+    "2019-02-21": {
+        "main_artists": ", Spoegwolf, YNW Melly, YUNGBLUD",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 32052,
+        "min_rank": 42,
+        "max_rank": 175
+    },
+    "2019-02-28": {
+        "main_artists": ", Daddy Yankee, Gunna, James Bay",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 24953,
+        "min_rank": 111,
+        "max_rank": 170
+    },
+    "2019-03-07": {
+        "main_artists": ", Ari Lennox, Jonas Brothers, Kwiish SA, Solange, Summer Walker, Tom Walker",
+        "count_main_artist": 6,
+        "count_songs": 6,
+        "count_source": 6,
+        "sum_streams": 89601,
+        "min_rank": 7,
+        "max_rank": 199
+    },
+    "2019-03-21": {
+        "main_artists": ", Early B, FLETCHER, Lil Nas X, Maren Morris, ScHoolboy Q",
+        "count_main_artist": 5,
+        "count_songs": 5,
+        "count_source": 5,
+        "sum_streams": 44338,
+        "min_rank": 65,
+        "max_rank": 180
+    },
+    "2019-04-04": {
+        "main_artists": ", Daya, Gaullin, MEDUZA, Martin Jensen",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 3,
+        "sum_streams": 30279,
+        "min_rank": 159,
+        "max_rank": 186
+    },
+    "2019-04-11": {
+        "main_artists": ", BLACKPINK, Nipsey Hussle",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 26737,
+        "min_rank": 53,
+        "max_rank": 75
+    },
+    "2019-04-18": {
+        "main_artists": ", Jessie Reyez",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 8276,
+        "min_rank": 154,
+        "max_rank": 154
+    },
+    "2019-04-25": {
+        "main_artists": ", Elandr, SZA, Tellaman, The Goo Goo Dolls, Train",
+        "count_main_artist": 5,
+        "count_songs": 5,
+        "count_source": 4,
+        "sum_streams": 44657,
+        "min_rank": 25,
+        "max_rank": 200
+    },
+    "2019-05-02": {
+        "main_artists": ", Kina, Lizzo, Stormzy",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 26720,
+        "min_rank": 74,
+        "max_rank": 190
+    },
+    "2019-05-09": {
+        "main_artists": ", Bastille, DaBaby, Stillaround",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 24748,
+        "min_rank": 89,
+        "max_rank": 176
+    },
+    "2019-05-16": {
+        "main_artists": ", Andy Grammer, Jhen Aiko, KayGee DaKing",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 24878,
+        "min_rank": 93,
+        "max_rank": 166
+    },
+    "2019-05-23": {
+        "main_artists": ", De Mthuda, MAX, Slipknot",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 25272,
+        "min_rank": 110,
+        "max_rank": 174
+    },
+    "2019-05-30": {
+        "main_artists": ", Polo G, Zero12Finest",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 16715,
+        "min_rank": 127,
+        "max_rank": 178
+    },
+    "2019-06-06": {
+        "main_artists": ", Katy Perry",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 23186,
+        "min_rank": 18,
+        "max_rank": 18
+    },
+    "2019-06-13": {
+        "main_artists": ", Lil Tecca",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 9576,
+        "min_rank": 116,
+        "max_rank": 116
+    },
+    "2019-06-20": {
+        "main_artists": ", Ali Gatie, DaniLeigh, Dreamville, Gemini Major",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 4,
+        "sum_streams": 40854,
+        "min_rank": 63,
+        "max_rank": 153
+    },
+    "2019-06-27": {
+        "main_artists": ", Ashley O, Blanco Brown, Quality Control, Sam Feldt, Y2K",
+        "count_main_artist": 5,
+        "count_songs": 5,
+        "count_source": 5,
+        "sum_streams": 44551,
+        "min_rank": 82,
+        "max_rank": 174
+    },
+    "2019-07-18": {
+        "main_artists": ", Johnny Clegg & Savuka, Juluka",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 17535,
+        "min_rank": 140,
+        "max_rank": 195
+    },
+    "2019-07-25": {
+        "main_artists": ", Blue Ivy, Burna Boy, Nija, Salatiel, Tekno, Tiwa Savage",
+        "count_main_artist": 6,
+        "count_songs": 6,
+        "count_source": 1,
+        "sum_streams": 104639,
+        "min_rank": 6,
+        "max_rank": 145
+    },
+    "2019-08-01": {
+        "main_artists": ", Big Sean, Cordae, Davido, Majid Jordan, NLE Choppa, Rick Ross, Tshego",
+        "count_main_artist": 7,
+        "count_songs": 7,
+        "count_source": 7,
+        "sum_streams": 106577,
+        "min_rank": 11,
+        "max_rank": 193
+    },
+    "2019-08-08": {
+        "main_artists": ", Biggy, Jobe London, Tones And I",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 30114,
+        "min_rank": 126,
+        "max_rank": 160
+    },
+    "2019-08-15": {
+        "main_artists": ", Anuel AA, Labrinth, Megan Thee Stallion, SiR",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 4,
+        "sum_streams": 56519,
+        "min_rank": 22,
+        "max_rank": 197
+    },
+    "2019-08-22": {
+        "main_artists": ", Doja Cat, Snoh Aalegra, Swae Lee",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 34503,
+        "min_rank": 74,
+        "max_rank": 189
+    },
+    "2019-08-29": {
+        "main_artists": ", BROCKHAMPTON, DJ Zinhle, David Scott, blackbear",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 4,
+        "sum_streams": 42214,
+        "min_rank": 68,
+        "max_rank": 187
+    },
+    "2019-09-05": {
+        "main_artists": ", Francois van Coke, Lana Del Rey, Samthing Soweto, TOOL",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 4,
+        "sum_streams": 60465,
+        "min_rank": 17,
+        "max_rank": 196
+    },
+    "2019-09-12": {
+        "main_artists": ", Blaq Diamond, Regard",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 19192,
+        "min_rank": 150,
+        "max_rank": 192
+    },
+    "2019-09-26": {
+        "main_artists": ", ILuvJupiter",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 9841,
+        "min_rank": 166,
+        "max_rank": 166
+    },
+    "2019-10-03": {
+        "main_artists": ", Ami Faku, Semi Tee",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 29079,
+        "min_rank": 46,
+        "max_rank": 196
+    },
+    "2019-10-10": {
+        "main_artists": ", Dan + Shay, Dermot Kennedy, Elaine",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 57546,
+        "min_rank": 16,
+        "max_rank": 182
+    },
+    "2019-10-17": {
+        "main_artists": ", 24kGoldn, Harry Styles, Lil Tjay, Niall Horan, Vusinator",
+        "count_main_artist": 5,
+        "count_songs": 5,
+        "count_source": 4,
+        "sum_streams": 81630,
+        "min_rank": 12,
+        "max_rank": 200
+    },
+    "2019-10-24": {
+        "main_artists": ", Frank Ocean, Noah Cyrus, Sha Sha, Shane Eagle, Yanga Chief",
+        "count_main_artist": 5,
+        "count_songs": 5,
+        "count_source": 4,
+        "sum_streams": 58134,
+        "min_rank": 104,
+        "max_rank": 187
+    },
+    "2019-10-31": {
+        "main_artists": ", Amanda Black, Black Eyed Peas, Mfr Souls",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 2,
+        "sum_streams": 32678,
+        "min_rank": 142,
+        "max_rank": 200
+    },
+    "2019-11-07": {
+        "main_artists": ", Arizona Zervas, JazziDisciples, Leon Schuster, TNS",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 4,
+        "sum_streams": 61806,
+        "min_rank": 31,
+        "max_rank": 181
+    },
+    "2019-11-14": {
+        "main_artists": ", Ant Saunders, JP Saxe, KSI",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 2,
+        "sum_streams": 45824,
+        "min_rank": 60,
+        "max_rank": 110
+    },
+    "2019-11-21": {
+        "main_artists": ", Trevor Daniel",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 13646,
+        "min_rank": 113,
+        "max_rank": 113
+    },
+    "2019-11-28": {
+        "main_artists": ", DJ Big Sky, DJ Tira, PARTYNEXTDOOR, Sithelo",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 4,
+        "sum_streams": 53482,
+        "min_rank": 51,
+        "max_rank": 197
+    },
+    "2019-12-05": {
+        "main_artists": ", Don Toliver, Luu Nineleven",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 22211,
+        "min_rank": 155,
+        "max_rank": 195
+    },
+    "2019-12-19": {
+        "main_artists": ", Mas Musiq, Roddy Ricch, SAINt JHN, Vigro Deep",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 4,
+        "sum_streams": 59193,
+        "min_rank": 81,
+        "max_rank": 166
+    },
+    "2019-12-26": {
+        "main_artists": ", Boney M., Cline Dion, Dj Sunco",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 38525,
+        "min_rank": 184,
+        "max_rank": 199
+    },
+    "2020-01-02": {
+        "main_artists": ", JACKBOYS",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 23735,
+        "min_rank": 51,
+        "max_rank": 51
+    },
+    "2020-01-09": {
+        "main_artists": ", Conan Gray, KAROL G",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 22062,
+        "min_rank": 158,
+        "max_rank": 197
+    },
+    "2020-01-23": {
+        "main_artists": ", Surfaces",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 12576,
+        "min_rank": 179,
+        "max_rank": 179
+    },
+    "2020-01-30": {
+        "main_artists": ", AVAION, TOKYOS REVENGE",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 25027,
+        "min_rank": 162,
+        "max_rank": 185
+    },
+    "2020-02-13": {
+        "main_artists": ", Brent Faiyaz, Fabolous, Jack Harlow, Pop Smoke",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 4,
+        "sum_streams": 49148,
+        "min_rank": 135,
+        "max_rank": 195
+    },
+    "2020-02-20": {
+        "main_artists": ", Powfu",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 16839,
+        "min_rank": 96,
+        "max_rank": 96
+    },
+    "2020-02-27": {
+        "main_artists": ", Ashe, K CAMP, Sofi Tukker, Soweto's Finest",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 4,
+        "sum_streams": 51728,
+        "min_rank": 132,
+        "max_rank": 195
+    },
+    "2020-03-05": {
+        "main_artists": ", Fantasia",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 12251,
+        "min_rank": 179,
+        "max_rank": 179
+    },
+    "2020-03-12": {
+        "main_artists": ", BENEE",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 15272,
+        "min_rank": 127,
+        "max_rank": 127
+    },
+    "2020-03-19": {
+        "main_artists": ", DripReport, Focalistic, Jay Electronica, MASN, Mafikizolo",
+        "count_main_artist": 5,
+        "count_songs": 5,
+        "count_source": 5,
+        "sum_streams": 78562,
+        "min_rank": 31,
+        "max_rank": 200
+    },
+    "2020-03-26": {
+        "main_artists": ", dvsn",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 11694,
+        "min_rank": 185,
+        "max_rank": 185
+    },
+    "2020-04-02": {
+        "main_artists": ", Leeland",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 12817,
+        "min_rank": 163,
+        "max_rank": 163
+    },
+    "2020-04-09": {
+        "main_artists": ", Topic, Young T & Bugsey",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 24030,
+        "min_rank": 160,
+        "max_rank": 184
+    },
+    "2020-04-16": {
+        "main_artists": ", Kari Jobe, Surf Mesa",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 26804,
+        "min_rank": 107,
+        "max_rank": 169
+    },
+    "2020-04-23": {
+        "main_artists": ", Sam Fischer",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 11851,
+        "min_rank": 179,
+        "max_rank": 179
+    },
+    "2020-04-30": {
+        "main_artists": ", G Herbo, Natalie Taylor, THE SCOTTS",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 142203,
+        "min_rank": 1,
+        "max_rank": 174
+    },
+    "2020-05-07": {
+        "main_artists": ", Elevation Worship, Melanie Martinez",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 29823,
+        "min_rank": 119,
+        "max_rank": 127
+    },
+    "2020-05-14": {
+        "main_artists": ", Max Hurrell, Mr JazziQ, StaySolidRocky",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 67995,
+        "min_rank": 31,
+        "max_rank": 180
+    },
+    "2020-05-21": {
+        "main_artists": ", Sleepy Hallow",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 11870,
+        "min_rank": 200,
+        "max_rank": 200
+    },
+    "2020-05-28": {
+        "main_artists": ", Agust D, Alexander 23",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 27087,
+        "min_rank": 148,
+        "max_rank": 170
+    },
+    "2020-06-04": {
+        "main_artists": ", KDDO, ROSALA",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 34119,
+        "min_rank": 69,
+        "max_rank": 191
+    },
+    "2020-06-11": {
+        "main_artists": ", Miss Pru DJ",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 12439,
+        "min_rank": 186,
+        "max_rank": 186
+    },
+    "2020-06-18": {
+        "main_artists": ", Chloe x Halle, Giveon, Jawsh 685, The Kid LAROI, Tyla Yaweh",
+        "count_main_artist": 5,
+        "count_songs": 5,
+        "count_source": 4,
+        "sum_streams": 85370,
+        "min_rank": 71,
+        "max_rank": 192
+    },
+    "2020-07-02": {
+        "main_artists": ", Curtis Waters",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 13201,
+        "min_rank": 181,
+        "max_rank": 181
+    },
+    "2020-07-09": {
+        "main_artists": ", Aubrey Qwana, Dixie",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 32315,
+        "min_rank": 92,
+        "max_rank": 191
+    },
+    "2020-07-16": {
+        "main_artists": ", Kane Brown, Kid Cudi, Rod Wave, Tate McRae",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 4,
+        "sum_streams": 78632,
+        "min_rank": 51,
+        "max_rank": 144
+    },
+    "2020-07-23": {
+        "main_artists": ", August Alsina, Headie One, Joel Corry, Joey Bada$$",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 4,
+        "sum_streams": 67465,
+        "min_rank": 81,
+        "max_rank": 200
+    },
+    "2020-07-30": {
+        "main_artists": ", Jacquees",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 15785,
+        "min_rank": 158,
+        "max_rank": 158
+    },
+    "2020-08-06": {
+        "main_artists": ", BRNS, Jake Paul, Nathan Dawe, Saweetie",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 4,
+        "sum_streams": 60372,
+        "min_rank": 135,
+        "max_rank": 190
+    },
+    "2020-08-13": {
+        "main_artists": ", J Balvin, Passenger, Wallows",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 40164,
+        "min_rank": 185,
+        "max_rank": 199
+    },
+    "2020-08-20": {
+        "main_artists": ", Alicia Keys, Internet Money, Nomcebo Zikode",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 67161,
+        "min_rank": 52,
+        "max_rank": 128
+    },
+    "2020-08-27": {
+        "main_artists": ", Matthew Mole, Nea, Reece Madlisa, Synth Peter",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 4,
+        "sum_streams": 62502,
+        "min_rank": 122,
+        "max_rank": 192
+    },
+    "2020-09-03": {
+        "main_artists": ", Bea Miller",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 14068,
+        "min_rank": 199,
+        "max_rank": 199
+    },
+    "2020-09-10": {
+        "main_artists": ", BANNERS, Bryson Tiller, Soa Mattrix, salem ilese",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 4,
+        "sum_streams": 66714,
+        "min_rank": 107,
+        "max_rank": 199
+    },
+    "2020-09-17": {
+        "main_artists": ", Vedo, Vhudie, WhoHeem",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 57535,
+        "min_rank": 88,
+        "max_rank": 193
+    },
+    "2020-09-24": {
+        "main_artists": ", Appel, Bernice West, Loufi, Mthunzi, Ritt Momney, Steve Hofmeyr, Tyler ICU",
+        "count_main_artist": 7,
+        "count_songs": 7,
+        "count_source": 4,
+        "sum_streams": 116030,
+        "min_rank": 103,
+        "max_rank": 198
+    },
+    "2020-10-01": {
+        "main_artists": ", Ashnikko, Sista Prod",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 29432,
+        "min_rank": 163,
+        "max_rank": 195
+    },
+    "2020-10-08": {
+        "main_artists": ", Fleetwood Mac",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 18858,
+        "min_rank": 143,
+        "max_rank": 143
+    },
+    "2020-10-15": {
+        "main_artists": ", Costa Titch, Kelly Khumalo, Mapara A Jazz, Money Man",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 4,
+        "sum_streams": 74183,
+        "min_rank": 99,
+        "max_rank": 171
+    },
+    "2020-10-22": {
+        "main_artists": ", Foushe, Makhadzi",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 46787,
+        "min_rank": 74,
+        "max_rank": 90
+    },
+    "2020-10-29": {
+        "main_artists": ", BLEU, DBN Gogo, DDG, Neon Dreams, Octavian",
+        "count_main_artist": 5,
+        "count_songs": 5,
+        "count_source": 5,
+        "sum_streams": 86401,
+        "min_rank": 139,
+        "max_rank": 199
+    },
+    "2020-11-05": {
+        "main_artists": ", Busta Rhymes, CJ, CORPSE, Clairo, Jub Jub, WizKid",
+        "count_main_artist": 6,
+        "count_songs": 6,
+        "count_source": 6,
+        "sum_streams": 105344,
+        "min_rank": 93,
+        "max_rank": 194
+    },
+    "2020-11-12": {
+        "main_artists": ", Azana, Major League Djz, Maluma",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 49105,
+        "min_rank": 170,
+        "max_rank": 199
+    },
+    "2020-11-19": {
+        "main_artists": ", Da Les, Masego",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 33538,
+        "min_rank": 164,
+        "max_rank": 176
+    },
+    "2020-11-26": {
+        "main_artists": ", Busiswa, Gee Six Five, Mthandazo Gatya",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 47148,
+        "min_rank": 192,
+        "max_rank": 200
+    },
+    "2020-12-03": {
+        "main_artists": ", Alfa Kat, Big Zulu, Boohle, HVME, Mduduzi, Musa Keys, Rethabile Khumalo, Zain SA, Zandimaz",
+        "count_main_artist": 9,
+        "count_songs": 9,
+        "count_source": 8,
+        "sum_streams": 199044,
+        "min_rank": 38,
+        "max_rank": 197
+    },
+    "2020-12-10": {
+        "main_artists": ", The Neighbourhood",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 19033,
+        "min_rank": 170,
+        "max_rank": 170
+    },
+    "2020-12-17": {
+        "main_artists": ", DJ Stokie",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 21775,
+        "min_rank": 140,
+        "max_rank": 140
+    },
+    "2020-12-24": {
+        "main_artists": ", Riaan Benad, The Lowkeys",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 37876,
+        "min_rank": 190,
+        "max_rank": 196
+    },
+    "2020-12-31": {
+        "main_artists": ", U2",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 19920,
+        "min_rank": 159,
+        "max_rank": 159
+    },
+    "2021-01-07": {
+        "main_artists": ", Glass Animals, Masked Wolf",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 36305,
+        "min_rank": 134,
+        "max_rank": 137
+    },
+    "2021-01-14": {
+        "main_artists": ", Busta 929, Ofenbach, Olivia Rodrigo, twocolors",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 4,
+        "sum_streams": 182244,
+        "min_rank": 1,
+        "max_rank": 196
+    },
+    "2021-01-21": {
+        "main_artists": ", Erica Banks, Mi Casa, grandson",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 54299,
+        "min_rank": 115,
+        "max_rank": 200
+    },
+    "2021-01-28": {
+        "main_artists": ", Blaqnick & MasterBlaq, DJ Tarico, Dj Obza",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 56942,
+        "min_rank": 113,
+        "max_rank": 199
+    },
+    "2021-02-04": {
+        "main_artists": ", Emtee, Lady Du",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 57158,
+        "min_rank": 48,
+        "max_rank": 106
+    },
+    "2021-02-11": {
+        "main_artists": ", ATB, DJ Jaivane, Junior De Rocka, Kelvin Momo, Killer Kau",
+        "count_main_artist": 5,
+        "count_songs": 5,
+        "count_source": 5,
+        "sum_streams": 121654,
+        "min_rank": 50,
+        "max_rank": 185
+    },
+    "2021-02-18": {
+        "main_artists": ", Tyla",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 18536,
+        "min_rank": 160,
+        "max_rank": 160
+    },
+    "2021-02-25": {
+        "main_artists": ", Duncan Laurence, Muzzy D Pilot, Nathan Evans, SHELOVESKAMO",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 4,
+        "sum_streams": 91122,
+        "min_rank": 77,
+        "max_rank": 184
+    },
+    "2021-03-04": {
+        "main_artists": ", DJ Cleo, Kali Uchis, Riton",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 65916,
+        "min_rank": 95,
+        "max_rank": 173
+    },
+    "2021-03-11": {
+        "main_artists": ", ElyOtto, SpotemGottem, Vetkuk",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 59513,
+        "min_rank": 109,
+        "max_rank": 191
+    },
+    "2021-03-18": {
+        "main_artists": ", WATTS",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 17948,
+        "min_rank": 179,
+        "max_rank": 179
+    },
+    "2021-03-25": {
+        "main_artists": ", Pink Sweat$, Pooh Shiesty, ROS",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 2,
+        "sum_streams": 57805,
+        "min_rank": 162,
+        "max_rank": 200
+    },
+    "2021-04-01": {
+        "main_artists": ", Kamo Mphela",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 37785,
+        "min_rank": 69,
+        "max_rank": 69
+    },
+    "2021-04-08": {
+        "main_artists": ", AURORA, FATMAN",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 37049,
+        "min_rank": 183,
+        "max_rank": 195
+    },
+    "2021-04-15": {
+        "main_artists": ", Gyakie, Sonder",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 40081,
+        "min_rank": 154,
+        "max_rank": 197
+    },
+    "2021-04-22": {
+        "main_artists": ", Intaba Yase Dubai, Ren, Russ Millions, Young Stoner Life",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 4,
+        "sum_streams": 127364,
+        "min_rank": 13,
+        "max_rank": 198
+    },
+    "2021-04-29": {
+        "main_artists": ", Falz, Sayfar",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 40558,
+        "min_rank": 133,
+        "max_rank": 200
+    },
+    "2021-05-06": {
+        "main_artists": ", Baby Keem, Josiah De Disciple, StarBoi3, Tion Wayne",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 4,
+        "sum_streams": 131116,
+        "min_rank": 36,
+        "max_rank": 159
+    },
+    "2021-05-13": {
+        "main_artists": ", Joey Fatts",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 20830,
+        "min_rank": 149,
+        "max_rank": 149
+    },
+    "2021-05-20": {
+        "main_artists": ", Bella Poarch, Blxckie, Majestic",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 125700,
+        "min_rank": 26,
+        "max_rank": 150
+    },
+    "2021-05-27": {
+        "main_artists": ", Dj Melzi, Felo Le Tee, Gaba Cannal",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 85161,
+        "min_rank": 62,
+        "max_rank": 200
+    },
+    "2021-06-03": {
+        "main_artists": ", Cochise",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 27486,
+        "min_rank": 99,
+        "max_rank": 99
+    },
+    "2021-06-10": {
+        "main_artists": ", Aymos, Cyfred, Dzo 729, Mneskin, OSKIDO, WILLOW",
+        "count_main_artist": 6,
+        "count_songs": 6,
+        "count_source": 6,
+        "sum_streams": 159765,
+        "min_rank": 49,
+        "max_rank": 188
+    },
+    "2021-06-17": {
+        "main_artists": ", Lorde",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 35104,
+        "min_rank": 66,
+        "max_rank": 66
+    },
+    "2021-06-24": {
+        "main_artists": ", ArrDee, Isaiah Rashad, Trinidad Cardona",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 66743,
+        "min_rank": 116,
+        "max_rank": 190
+    },
+    "2021-07-01": {
+        "main_artists": ", Andile Mpisane",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 21870,
+        "min_rank": 174,
+        "max_rank": 174
+    },
+    "2021-07-08": {
+        "main_artists": ", 25K, Eduardo XD, Surf Curse",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 101591,
+        "min_rank": 38,
+        "max_rank": 164
+    },
+    "2021-07-15": {
+        "main_artists": ", BIA, Dave, Djy Zan SA, Geato",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 4,
+        "sum_streams": 100776,
+        "min_rank": 74,
+        "max_rank": 190
+    },
+    "2021-07-29": {
+        "main_artists": ", Belly, Dlala Thukzin, Lloyiso, Smiley, TEEKS",
+        "count_main_artist": 5,
+        "count_songs": 5,
+        "count_source": 5,
+        "sum_streams": 148019,
+        "min_rank": 40,
+        "max_rank": 196
+    },
+    "2021-08-05": {
+        "main_artists": ", Blxst, Dlala Regal, Prince Benza",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 64313,
+        "min_rank": 179,
+        "max_rank": 196
+    },
+    "2021-08-12": {
+        "main_artists": ", Irene-Louise Van Wyk, Kweyama Brothers, Pabi Cooper, Tee Jay, UNLIMITED SOUL",
+        "count_main_artist": 5,
+        "count_songs": 5,
+        "count_source": 5,
+        "sum_streams": 125997,
+        "min_rank": 71,
+        "max_rank": 194
+    },
+    "2021-08-19": {
+        "main_artists": ", Steve Lacy, ThackzinDJ, Tumisho, Zahara",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 4,
+        "sum_streams": 99670,
+        "min_rank": 63,
+        "max_rank": 196
+    },
+    "2021-08-26": {
+        "main_artists": ", Clinton Kane, Emotionz DJ, Ntosh Gazi, Shouse, Skrillex, Sueco, Tai Verdes",
+        "count_main_artist": 7,
+        "count_songs": 7,
+        "count_source": 7,
+        "sum_streams": 181561,
+        "min_rank": 62,
+        "max_rank": 177
+    },
+    "2021-09-02": {
+        "main_artists": ", Amu Classic",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 26427,
+        "min_rank": 134,
+        "max_rank": 134
+    },
+    "2021-09-09": {
+        "main_artists": ", Balcony Mix Africa, Dj Abux, Mellow & Sleazy",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 256720,
+        "min_rank": 19,
+        "max_rank": 159
+    },
+    "2021-09-16": {
+        "main_artists": ", CKay, Chle, Oliver Tree, THE ANXIETY, Zakes Bantwini",
+        "count_main_artist": 5,
+        "count_songs": 5,
+        "count_source": 5,
+        "sum_streams": 309219,
+        "min_rank": 5,
+        "max_rank": 153
+    },
+    "2021-09-23": {
+        "main_artists": ", Sir Trill, Tems",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 72839,
+        "min_rank": 73,
+        "max_rank": 111
+    },
+    "2021-09-30": {
+        "main_artists": ", Gobi Beast",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 22852,
+        "min_rank": 185,
+        "max_rank": 185
+    },
+    "2021-10-07": {
+        "main_artists": ", $uicideboy$, Abidoza, Kevboii, Khanyisa, LISA, Njelic, Skylar Grey",
+        "count_main_artist": 7,
+        "count_songs": 7,
+        "count_source": 7,
+        "sum_streams": 290370,
+        "min_rank": 12,
+        "max_rank": 200
+    },
+    "2021-10-14": {
+        "main_artists": ", Adele, Audiomarc, Dax, Mfana Kah Gogo, Nardo Wick, Nkosazana_Daughter, RealestK",
+        "count_main_artist": 7,
+        "count_songs": 7,
+        "count_source": 7,
+        "sum_streams": 218602,
+        "min_rank": 42,
+        "max_rank": 196
+    },
+    "2021-10-21": {
+        "main_artists": ", Die Heuwels Fantasties, Kvng Vinci, Slade, Young Stunna, evvz",
+        "count_main_artist": 5,
+        "count_songs": 5,
+        "count_source": 5,
+        "sum_streams": 157328,
+        "min_rank": 53,
+        "max_rank": 186
+    },
+    "2021-10-28": {
+        "main_artists": ", 347aidan, BoyWithUke, Gabry Ponte, Joeboy, MKTO, Msaki, NEIKED, Sdala B, Swedish House Mafia, TDK Macassette, TuksinSA",
+        "count_main_artist": 11,
+        "count_songs": 11,
+        "count_source": 9,
+        "sum_streams": 407328,
+        "min_rank": 14,
+        "max_rank": 199
+    },
+    "2021-11-04": {
+        "main_artists": ", Amaarae, Benson Boone, Nomfundo Moh, Ntokzin, Q Twins",
+        "count_main_artist": 5,
+        "count_songs": 5,
+        "count_source": 5,
+        "sum_streams": 148146,
+        "min_rank": 72,
+        "max_rank": 187
+    },
+    "2021-11-11": {
+        "main_artists": ", ACRAZE, MDU aka TRP, Musketeers",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 81073,
+        "min_rank": 123,
+        "max_rank": 163
+    },
+    "2021-11-18": {
+        "main_artists": ", Becky Hill, Ch'cco, FelixThe1st, GAYLE, Iyanya, Jay, Niniola, Will Linley",
+        "count_main_artist": 8,
+        "count_songs": 8,
+        "count_source": 8,
+        "sum_streams": 391872,
+        "min_rank": 5,
+        "max_rank": 200
+    },
+    "2021-11-25": {
+        "main_artists": ", Demi Lee Moore, Theuns Jordaan",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 54621,
+        "min_rank": 152,
+        "max_rank": 157
+    },
+    "2021-12-02": {
+        "main_artists": ", Caltonic SA, Drip Gogo",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 59436,
+        "min_rank": 114,
+        "max_rank": 158
+    },
+    "2021-12-09": {
+        "main_artists": ", Eloff, Emmy Meli, Jaymes Young, Karyendasoul",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 4,
+        "sum_streams": 119026,
+        "min_rank": 66,
+        "max_rank": 195
+    },
+    "2021-12-16": {
+        "main_artists": ", Goya Menor, Q-Mark, SALES",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 83622,
+        "min_rank": 154,
+        "max_rank": 172
+    },
+    "2021-12-23": {
+        "main_artists": ", DJ Ngwazi, Wanitwa Mos",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 1,
+        "sum_streams": 61702,
+        "min_rank": 102,
+        "max_rank": 138
+    },
+    "2021-12-30": {
+        "main_artists": ", Fireboy DML",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 36236,
+        "min_rank": 104,
+        "max_rank": 104
+    },
+    "2022-01-06": {
+        "main_artists": ", Farruko, Jnr Choi",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 53042,
+        "min_rank": 120,
+        "max_rank": 188
+    },
+    "2022-01-13": {
+        "main_artists": ", Carolina Gaitn - La Gaita, Dj Karri, Lauren Spencer-Smith, Muni Long",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 4,
+        "sum_streams": 197405,
+        "min_rank": 28,
+        "max_rank": 132
+    },
+    "2022-01-20": {
+        "main_artists": ", 9umba, Ruth B., The Game",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 256855,
+        "min_rank": 2,
+        "max_rank": 180
+    },
+    "2022-01-27": {
+        "main_artists": ", Jessica Darrow, Lira, The Walters",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 71496,
+        "min_rank": 165,
+        "max_rank": 179
+    },
+    "2022-02-03": {
+        "main_artists": ", Benny The Butcher, Chase Atlantic, Elley Duh, Yung Lean",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 4,
+        "sum_streams": 133143,
+        "min_rank": 45,
+        "max_rank": 193
+    },
+    "2022-02-10": {
+        "main_artists": ", $NOT, Em Beihold, Luude, Tevin Campbell",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 4,
+        "sum_streams": 97639,
+        "min_rank": 167,
+        "max_rank": 194
+    },
+    "2022-02-17": {
+        "main_artists": ", DJ Hlo, Dove Cameron, Fivio Foreign, Jung Kook, Lebza TheVillain, Venom, Villosoul, William Last KRM",
+        "count_main_artist": 8,
+        "count_songs": 8,
+        "count_source": 8,
+        "sum_streams": 348208,
+        "min_rank": 19,
+        "max_rank": 161
+    },
+    "2022-02-24": {
+        "main_artists": ", Mzux Maen, Nicole Elocin, Zuko SA",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 78888,
+        "min_rank": 145,
+        "max_rank": 190
+    },
+    "2022-03-03": {
+        "main_artists": ", Cat Burns, Mduduzi Ncube, Zoocci Coke Dope",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 91094,
+        "min_rank": 74,
+        "max_rank": 166
+    },
+    "2022-03-10": {
+        "main_artists": ", Mary J. Blige, Omah Lay, lil Shordie Scott",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 89982,
+        "min_rank": 76,
+        "max_rank": 192
+    },
+    "2022-03-17": {
+        "main_artists": ", Kevin Gates, Lil Durk, Lucky Daye, Pheelz",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 4,
+        "sum_streams": 110351,
+        "min_rank": 127,
+        "max_rank": 172
+    },
+    "2022-03-24": {
+        "main_artists": ", Coi Leray, Daliwonga, Drizzy Sam Rsa, S'Villa, Stray Kids, Tom Odell, Uncle Waffles, Yeat",
+        "count_main_artist": 8,
+        "count_songs": 8,
+        "count_source": 8,
+        "sum_streams": 421673,
+        "min_rank": 3,
+        "max_rank": 157
+    },
+    "2022-04-07": {
+        "main_artists": ", Frenzyoffixial",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 29765,
+        "min_rank": 109,
+        "max_rank": 109
+    },
+    "2022-04-14": {
+        "main_artists": ", Black Sherif, Sam Deep, Senior Oat",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 116087,
+        "min_rank": 25,
+        "max_rank": 179
+    },
+    "2022-04-21": {
+        "main_artists": ", INNOVATIVE DJz, Marcus MC",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 44034,
+        "min_rank": 186,
+        "max_rank": 199
+    },
+    "2022-04-28": {
+        "main_artists": ", Southside",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 28283,
+        "min_rank": 143,
+        "max_rank": 143
+    },
+    "2022-05-05": {
+        "main_artists": ", Leah Kate",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 26607,
+        "min_rank": 175,
+        "max_rank": 175
+    },
+    "2022-05-12": {
+        "main_artists": ", MashBeatz, Nicky Youre",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 51324,
+        "min_rank": 158,
+        "max_rank": 194
+    },
+    "2022-05-19": {
+        "main_artists": ", Dj Boat, Droomsindroom, Kizz Daniel",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 183285,
+        "min_rank": 21,
+        "max_rank": 150
+    },
+    "2022-05-26": {
+        "main_artists": ", Lojay",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 30703,
+        "min_rank": 126,
+        "max_rank": 126
+    },
+    "2022-06-02": {
+        "main_artists": ", Armani White, Kate Bush, Konke, Nissi",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 4,
+        "sum_streams": 213836,
+        "min_rank": 15,
+        "max_rank": 166
+    },
+    "2022-06-09": {
+        "main_artists": ", HENNYBELIT",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 32586,
+        "min_rank": 117,
+        "max_rank": 117
+    },
+    "2022-06-16": {
+        "main_artists": ", JP Cooper, rum.gold",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 61054,
+        "min_rank": 126,
+        "max_rank": 165
+    },
+    "2022-07-07": {
+        "main_artists": ", Coolkiid Da Vocalist, j-hope",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 59868,
+        "min_rank": 95,
+        "max_rank": 190
+    },
+    "2022-07-14": {
+        "main_artists": ", Robot Boii",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 29070,
+        "min_rank": 159,
+        "max_rank": 159
+    },
+    "2022-07-21": {
+        "main_artists": ", Dinky Kunene, Nkulee501, Rosa Linn",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 91839,
+        "min_rank": 91,
+        "max_rank": 190
+    },
+    "2022-07-28": {
+        "main_artists": ", Central Cee, Imanbek, Oxlade, Rema, uLazi",
+        "count_main_artist": 5,
+        "count_songs": 5,
+        "count_source": 5,
+        "sum_streams": 181854,
+        "min_rank": 21,
+        "max_rank": 197
+    },
+    "2022-08-04": {
+        "main_artists": ", Wendy Shay",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 28299,
+        "min_rank": 192,
+        "max_rank": 192
+    },
+    "2022-08-11": {
+        "main_artists": ", Jay Music, Sofia Carson",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 61791,
+        "min_rank": 169,
+        "max_rank": 176
+    },
+    "2022-08-18": {
+        "main_artists": ", TALK",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 27272,
+        "min_rank": 200,
+        "max_rank": 200
+    },
+    "2022-08-25": {
+        "main_artists": ", Lowsheen, Lwah Ndlunkulu",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 78398,
+        "min_rank": 58,
+        "max_rank": 167
+    },
+    "2022-09-01": {
+        "main_artists": ", BLUE TAPE, Beach Weather, Deep London, JID, Luxury SA, Pushkin & Springle",
+        "count_main_artist": 6,
+        "count_songs": 6,
+        "count_source": 6,
+        "sum_streams": 243775,
+        "min_rank": 65,
+        "max_rank": 189
+    },
+    "2022-09-08": {
+        "main_artists": ", 031CHOPPA, James Hype, Seafret",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 98146,
+        "min_rank": 128,
+        "max_rank": 194
+    },
+    "2022-09-15": {
+        "main_artists": ", d4vd",
+        "count_main_artist": 1,
+        "count_songs": 1,
+        "count_source": 1,
+        "sum_streams": 32084,
+        "min_rank": 137,
+        "max_rank": 137
+    },
+    "2022-09-22": {
+        "main_artists": ", Eliza Rose, JVKE, Montell Fish, Omar Apollo",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 3,
+        "sum_streams": 138292,
+        "min_rank": 81,
+        "max_rank": 183
+    },
+    "2022-09-29": {
+        "main_artists": ", Bezza, Classic Man SmF, Ice Spice, MacG, Pushkin, Temple Boys Cpt",
+        "count_main_artist": 6,
+        "count_songs": 6,
+        "count_source": 6,
+        "sum_streams": 320737,
+        "min_rank": 24,
+        "max_rank": 199
+    },
+    "2022-10-06": {
+        "main_artists": ", Ayra Starr, Camidoh, Smino",
+        "count_main_artist": 3,
+        "count_songs": 3,
+        "count_source": 3,
+        "sum_streams": 101816,
+        "min_rank": 95,
+        "max_rank": 197
+    },
+    "2022-10-13": {
+        "main_artists": ", Glenn Jones, GloRilla, Stephen Sanchez, Victony",
+        "count_main_artist": 4,
+        "count_songs": 4,
+        "count_source": 4,
+        "sum_streams": 125829,
+        "min_rank": 125,
+        "max_rank": 192
+    },
+    "2022-10-20": {
+        "main_artists": ", Soa mattrix, charlieonnafriday",
+        "count_main_artist": 2,
+        "count_songs": 2,
+        "count_source": 2,
+        "sum_streams": 70171,
+        "min_rank": 115,
+        "max_rank": 177
+    }
+}
