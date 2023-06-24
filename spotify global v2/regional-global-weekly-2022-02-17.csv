@@ -1,201 +1,201 @@
-﻿rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,streams
-1,"spotify:track:02MWAaffLxlfxAUY7c5dvx","Glass Animals","Heat Waves","Polydor Records",1,1,60,"31455156"
-2,"spotify:track:5PjdY0CKGZdEuoNab3yDmX","The Kid LAROI, Justin Bieber","STAY (with Justin Bieber)","Columbia",1,3,32,"27193990"
-3,"spotify:track:4fouWK6XVHhzl78KzQ1UjL","GAYLE","abcdefu","Atlantic/Arthouse Records",1,2,14,"26765150"
-4,"spotify:track:1HhNoOuqm1a5MXYEgAFl8o","Imagine Dragons, JID, Arcane, League of Legends","Enemy (with JID) - from the series Arcane League of Legends","Kid Ina Korner / Interscope",4,4,16,"25725045"
-5,"spotify:track:7rglLriMNBPAyuJOMGwi39","Elton John, Dua Lipa, PNAU","Cold Heart - PNAU Remix","EMI",4,5,27,"23556022"
-6,"spotify:track:5Z9KJZvQzH6PFmb8SNkxuk","Lil Nas X, Jack Harlow","INDUSTRY BABY (feat. Jack Harlow)","Columbia",2,6,30,"22093099"
-7,"spotify:track:46IZ0fSY2mpAiktS3KOqds","Adele","Easy On Me","Columbia",1,7,18,"21749043"
-8,"spotify:track:6mmPpaltUZK7xjNlBPQQ0p","Rauw Alejandro, Chencho Corleone","Desesperados","Sony Music Latin/Duars Entertainment",8,11,10,"19390328"
-9,"spotify:track:52xJxFP6TqMuO4Yt0eOkMz","Carolina Gaitán - La Gaita, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz, Encanto - Cast","We Don't Talk About Bruno","Walt Disney Records",8,8,8,"19364443"
-10,"spotify:track:7CAdT0HdiQNlt1C7xk2hep","Jung Kook","Stay Alive (Prod. SUGA of BTS)","BIGHIT MUSIC",10,-1,1,"18807862"
-11,"spotify:track:50nfwKoDiSYg8zOCREWAm5","Ed Sheeran","Shivers","Atlantic Records UK",4,10,23,"18535889"
-12,"spotify:track:1ri9ZUkBJVFUdgwzCnfcYs","Becky G, KAROL G","MAMIII","Kemosabe Records/RCA Records",12,-1,1,"18283042"
-13,"spotify:track:1SOClUWhOi8vHZYMz3GluK","Jaymes Young","Infinity","Atlantic Records",11,12,16,"17154141"
-14,"spotify:track:0e8nrvls4Qqv5Rfa2UhqmO","Lil Nas X","THATS WHAT I WANT","Columbia",3,13,22,"17143953"
-15,"spotify:track:2B4GHvToeLTOBB4QLzW3Ni","Farruko","Pepas","Sony Music Latin",4,14,32,"16018305"
-16,"spotify:track:6Uj1ctrBOjOas8xZXGqKk4","Doja Cat","Woman","Kemosabe Records/RCA Records",6,15,32,"15841781"
-17,"spotify:track:6I3mqTwhRpn34SLVafSH7G","Justin Bieber","Ghost","RBMG/Def Jam",17,19,22,"15521084"
-18,"spotify:track:3rmo8F54jFF8OgYsqTxm5d","Ed Sheeran","Bad Habits","Atlantic Records UK",3,17,34,"15464214"
-19,"spotify:track:46HNZY1i7O6jwTA7Slo2PI","Coldplay, BTS","My Universe","Parlophone UK",3,20,21,"15230867"
-20,"spotify:track:6N1K5OVVCopBjGViHs2IvP","Ed Sheeran, Taylor Swift","The Joker And The Queen (feat. Taylor Swift)","Atlantic Records UK",20,-1,1,"14958068"
-21,"spotify:track:59CfNbkERJ3NoTXDvoURjj","Dove Cameron","Boyfriend","Disruptor Records/Columbia",21,-1,1,"14870380"
-22,"spotify:track:20on25jryn53hWghthWWW3","ACRAZE, Cherish","Do It To It","Thrive Music, LLC",9,18,16,"14665199"
-23,"spotify:track:3XOalgusokruzA5ZBA2Qcb","Gunna, Future, Young Thug","pushin P (feat. Young Thug)","300 Entertainment",14,16,6,"14579861"
-24,"spotify:track:4gzsuuZypVbxs0Af1LSZyB","Tainy, Bad Bunny, Julieta Venegas","Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)","Neon16",12,23,20,"14178814"
-25,"spotify:track:4SqWKzw0CbA05TGszDgMlc","The Walters","I Love You So","Warner Records",21,21,19,"14092128"
-26,"spotify:track:3uUuGVFu1V7jTQL60S1r8z","Lost Frequencies, Calum Scott","Where Are You Now","Epic Amsterdam",20,24,24,"14019364"
-27,"spotify:track:4ZtFanR9U6ndgddUvNcjcG","Olivia Rodrigo","good 4 u","Olivia Rodrigo PS",1,22,40,"13776929"
-28,"spotify:track:2JPLbjOn0wPCngEot2STUS","Bad Bunny","Yonaguni","Rimas Entertainment LLC",3,26,37,"13264611"
-29,"spotify:track:18asYwWugKjjsihZ0YvRxO","Tiësto, Ava Max","The Motto","Atlantic Records",28,28,15,"13068770"
-30,"spotify:track:0VjIjW4GlUZAMYd2vXMi3b","The Weeknd","Blinding Lights","Republic Records",1,32,116,"12327825"
-31,"spotify:track:3Vi5XqYrmQgOYBajMWSvCi","Doja Cat","Need to Know","Kemosabe Records/RCA Records",6,30,36,"12321336"
-32,"spotify:track:503OTo2dSqe7qk76rgsbep","Dr. Dre, Snoop Dogg","Still D.R.E.","Aftermath",32,-1,1,"12023690"
-33,"spotify:track:3AVXwaOGCEL8cmBecfcsFJ","Charlie Puth","Light Switch","Atlantic Records",19,25,4,"11883664"
-34,"spotify:track:3DarAbFujv6eYNliUTyqtz","Doja Cat, SZA","Kiss Me More (feat. SZA)","Kemosabe Records/RCA Records",3,29,45,"11822020"
-35,"spotify:track:2QjOHCTQ1Jl3zawyYOpxh6","The Neighbourhood","Sweater Weather","Columbia",32,34,77,"11787446"
-36,"spotify:track:2gQPv5jvVPqU2a9HhMNO1v","BoyWithUke","Toxic","Republic Records",23,33,18,"11430107"
-37,"spotify:track:5TMLavqGRKNxgzMBrVpC9R","zzoilo, Aitana","Mon Amour - Remix","Universal Music Spain S.L.",35,37,24,"11236075"
-38,"spotify:track:7lQ8MOhq6IN2w8EYcFNSUk","Eminem","Without Me","Aftermath",38,71,21,"11152878"
-39,"spotify:track:5CZ40GBx1sQ9agT82CLQCT","Olivia Rodrigo","traitor","Olivia Rodrigo PS",7,38,39,"11140301"
-40,"spotify:track:6K5ph5mq1qprHae3TrgTj5","Jessica Darrow","Surface Pressure - From ""Encanto""/Soundtrack Version","UME - Global Clearing House",23,31,7,"11032586"
-41,"spotify:track:2K7xn816oNHJZ0aVqdQsha","The Neighbourhood","Softcore","Columbia",37,42,6,"10991129"
-42,"spotify:track:1SC5rEoYDGUK4NfG82494W","Lil Nas X","MONTERO (Call Me By Your Name)","Columbia",1,41,47,"10761851"
-43,"spotify:track:1ZMGp9MTXbtAPvcKa0U3zS","Mahmood, BLANCO","Brividi","Universal Music Italia srL.",9,9,3,"10652572"
-44,"spotify:track:58HvfVOeJY7lUuCqF0m3ly","Elley Duhé","MIDDLE OF THE NIGHT","Not Fit For Society/RCA Records",44,61,8,"10599183"
-45,"spotify:track:3Kkjo3cT83cw09VJyrLNwX","Adele","Oh My God","Columbia",3,40,13,"10583318"
-46,"spotify:track:2eAvDnpXP5W0cVtiI0PUxV","Ruth B.","Dandelions","Columbia",46,51,27,"10540121"
-47,"spotify:track:5nujrmhLynf4yMoMtj8AQF","Dua Lipa, DaBaby","Levitating (feat. DaBaby)","Warner Records",4,47,72,"10378277"
-48,"spotify:track:0IuVhCflrQPMGRrOyoY5RW","Tate McRae","she's all i wanna be","RCA Records Label",43,43,2,"10188073"
-49,"spotify:track:1v7L65Lzy0j0vdpRjJewt1","Eminem","Lose Yourself - From ""8 Mile"" Soundtrack","Aftermath",49,-1,61,"10171182"
-50,"spotify:track:4RVwu0g32PAqgUiJoXsdF8","Billie Eilish","Happier Than Ever","Darkroom/Interscope Records",6,49,29,"9998749"
-51,"spotify:track:3yfqSUWxFvZELEM4PmlwIR","Eminem","The Real Slim Shady","Interscope",51,97,37,"9948913"
-52,"spotify:track:4MzXwWMhyBbmu6hOcLVD49","Bad Bunny, Jhay Cortez","DÁKITI","Rimas Entertainment LLC",1,56,68,"9941704"
-53,"spotify:track:2Xr1dTzJee307rmrkt8c0g","CKay","love nwantiti (ah ah ah)","Chocolate City Music",9,44,23,"9932474"
-54,"spotify:track:1nH2PkJL1XoUq8oE6tBZoU","The Weeknd","Sacrifice","XO / Republic Records",3,35,6,"9917900"
-55,"spotify:track:1bjhYUwKUHEg5fHknxFObO","Frank Ocean","Lost","Red Zone Entertainment / IDJ",52,57,5,"9880886"
-56,"spotify:track:6lX6l7OuA3qrnIRfdsr0dw","Blessd, Justin Quiles, Lenny Tavárez","Medallo","WEA Latina",49,53,13,"9871999"
-57,"spotify:track:4huBDGP4I3S0pYI0EaRN1c","Fivio Foreign, Kanye West, Alicia Keys","City of Gods","RichFish/Columbia",57,-1,1,"9818596"
-58,"spotify:track:2gpWyfu7eZ01zzncHpxOtA","Swedish House Mafia, The Weeknd","Moth To A Flame (with The Weeknd)","Republic Records",7,39,17,"9773530"
-59,"spotify:track:3yMC1KsTwh0ceXdIe4QQAQ","Lauren Spencer Smith","Fingers Crossed","Three Name Productions, Inc./ Island Records & Republic Records",17,36,6,"9667842"
-60,"spotify:track:79nEEoEPY2w8EXj9hjn5oc","Yung Lean","Ginseng Strip 2002","YEAR0001",44,45,3,"9644786"
-61,"spotify:track:5wANPM4fQCJwkGd4rN57mH","Olivia Rodrigo","drivers license","Olivia Rodrigo PS",1,52,58,"9627666"
-62,"spotify:track:3Wrjm47oTz2sjIgck11l5e","Måneskin","Beggin'","RCA Records Label",1,50,37,"9619168"
-63,"spotify:track:5vUnjhBzRJJIAOJPde6zDx","Jnr Choi, Sam Tompkins","TO THE MOON","Jnr Choi/Epic",55,55,6,"9596999"
-64,"spotify:track:6ylDpki1VpIsc525KC1ojF","Sebastian Yatra","Tacones Rojos","UMLE - Latino",47,54,13,"9546651"
-65,"spotify:track:10hMM5nsZQf66ldBlgWBfG","Labrinth, Zendaya","All For Us - from the HBO Original Series Euphoria","Republic Records",65,65,6,"9334704"
-66,"spotify:track:2bBClS4zzrRd4Aj59NaKSv","Kodak Black","Super Gremlin","Atlantic Records",45,46,10,"9292359"
-67,"spotify:track:37BZB0z9T8Xu7U3e65qxFy","The Weeknd, Ariana Grande","Save Your Tears (with Ariana Grande) (Remix)","Republic Records",5,59,43,"9146577"
-68,"spotify:track:0NBgyml7T0IvUNbXIkcSpH","Xamã, Gustah, Neo Beats, Bagua Records","Malvadão 3","Bagua Records",33,58,8,"9107956"
-69,"spotify:track:0sTlGEld0h8kIPZaKDYUf4","The Rare Occasions","Notion","Elektra (NEK)",67,67,6,"8821888"
-70,"spotify:track:1mWdTewIgB3gtBM3TOSFhB","BTS","Butter","BIGHIT MUSIC",2,89,39,"8769843"
-71,"spotify:track:3rdAz1fbUfZxYgaCviYhRo","Rauw Alejandro","Todo De Ti","Sony Music Latin/Duars Entertainment",2,62,39,"8767115"
-72,"spotify:track:2vmfvSoZBFAt9hhRoEByLi","Aventura, Bad Bunny","Volví","Rimas Entertainment LLC",10,63,29,"8602878"
-73,"spotify:track:6EtKlIQmGPB9SX8UjDJG5s","Labrinth","Formula","Masterworks",70,70,5,"8583901"
-74,"spotify:track:00Blm7zeNqgYLPtW6zg8cj","Post Malone, The Weeknd","One Right Now (with The Weeknd)","Republic Records",9,60,15,"8396505"
-75,"spotify:track:5QO79kh1waicV47BqGRL3g","The Weeknd","Save Your Tears","Republic Records",2,72,63,"8366652"
-76,"spotify:track:6UelLqGlWMcVH1E5c4H7lY","Harry Styles","Watermelon Sugar","Columbia",4,64,118,"8284212"
-77,"spotify:track:58ge6dfP91o9oXMzq3XkIS","Arctic Monkeys","505","Domino Recording Co",77,78,7,"8205485"
-78,"spotify:track:37y7iDayfwm3WXn5BiAoRk","Steve Lacy","Dark Red","Three Quarter",66,74,28,"8147800"
-79,"spotify:track:42Xba467wgGvYrR2EE6s0i","Juice WRLD","Cigarettes","Grade A Productions/Interscope Records",27,27,2,"8145248"
-80,"spotify:track:7hU3IHwjX150XLoTVmjD0q","LISA","MONEY","YG Entertainment/Interscope Records",5,66,23,"7962960"
-81,"spotify:track:4xkOaSrkexMciUUogZKVTS","Eminem, Nate Dogg","Till I Collapse","Aftermath",81,136,34,"7955650"
-82,"spotify:track:29m79w9xPMH4YCD6r8JSmV","AP Dhillon, Gurinder Gill, Intense","Excuses","RUN-UP RECORDS",56,68,5,"7890043"
-83,"spotify:track:4iJyoBOLtHqaGxP12qzhQI","Justin Bieber, Daniel Caesar, Giveon","Peaches (feat. Daniel Caesar & Giveon)","RBMG/Def Jam",1,76,48,"7885673"
-84,"spotify:track:2Gq636OOGgxCTqEuzCZhsa","Bizarrap, Tiago PZK","Tiago PZK: Bzrp Music Sessions, Vol. 48","DALE PLAY Records",37,73,7,"7872299"
-85,"spotify:track:0Bv7O6fmZk3GrNQFYJaXPn","La Pantera, Quevedo, Juseph, Abhir Hathi, Bejo, Cruz Cafuné, EL IMA","Cayó La Noche (feat. Cruz Cafuné, Abhir Hathi, Bejo, EL IMA) [Remix]","La Pantera",85,128,3,"7821987"
-86,"spotify:track:4LwU4Vp6od3Sb08CsP99GC","Dr. Dre, Snoop Dogg","The Next Episode","Aftermath",86,-1,1,"7798510"
-87,"spotify:track:4b1yxSdlumA8N4fEk4UOZp","Stephanie Beatriz, Olga Merediz, Encanto - Cast","The Family Madrigal","Walt Disney Records",64,69,6,"7772667"
-88,"spotify:track:1ZdhOMWyFR8Iv9eylMGYg2","Labrinth","Mount Everest","Syco Music",88,177,2,"7766987"
-89,"spotify:track:7jtQIBanIiJOMS6RyCx6jZ","Tom Odell","Another Love","ITNO/Columbia",76,84,45,"7722193"
-90,"spotify:track:6HU7h9RYOaPRFeh0R3UeAr","Olivia Rodrigo","deja vu","Olivia Rodrigo PS",3,81,46,"7712323"
-91,"spotify:track:7qEHsqek33rTcFNT9PFqLf","Lewis Capaldi","Someone You Loved","Vertigo Berlin",4,85,163,"7698268"
-92,"spotify:track:7iL6o9tox1zgHpKUfh9vuC","50 Cent","In Da Club","Shady Records",92,-1,1,"7647277"
-93,"spotify:track:2BEcap3xJtmiPaHKyfQi4e","Rvssian, Rauw Alejandro, Chris Brown","Nostálgico","Sony Music Latin",40,82,23,"7623481"
-94,"spotify:track:5QDLhrAOJJdNAmCTJ8xMyW","BTS","Dynamite","BIGHIT MUSIC",2,98,78,"7593204"
-95,"spotify:track:3PfIrDoz19wz7qK7tYeu62","Dua Lipa","Don't Start Now","Warner Records",2,93,120,"7566593"
-96,"spotify:track:0RiRZpuVRbi7oqRdSMwhQY","Post Malone, Swae Lee","Sunflower - Spider-Man: Into the Spider-Verse","Republic Records",1,86,174,"7556746"
-97,"spotify:track:3Oww84xrmgjyr5J1ilOmAf","Luude, Colin Hay","Down Under (feat. Colin Hay)","Sweat It Out",72,75,5,"7542382"
-98,"spotify:track:0pqnGHJpmpxLKifKRmU6WP","Imagine Dragons","Believer","Kid Ina Korner / Interscope",16,91,263,"7480027"
-99,"spotify:track:78kygHp1dvW1kncYjBgbe1","Ryan Castro","Mujeriego","Sony Music Entertainment",94,94,3,"7407499"
-100,"spotify:track:0G2zPzWqVjR68iNPmx2TBe","Mora, Bad Bunny, Sech","Volando - Remix","Rimas Entertainment LLC",19,87,32,"7379599"
-101,"spotify:track:0k4d5YPDr1r7FX77VdqWez","Doja Cat, The Weeknd","You Right","Kemosabe Records/RCA Records",15,92,34,"7334550"
-102,"spotify:track:5dXWFMwD7I7zXsInONVl0H","SZA","I Hate U","Top Dawg Entertainment/RCA Records",19,77,11,"7306039"
-103,"spotify:track:0u2P5u6lvoDfwTYjAADbn4","Billie Eilish, Khalid","lovely (with Khalid)","Darkroom",24,96,200,"7258745"
-104,"spotify:track:7gVzhRCrLRUBEGdS7zNTp0","Zé Felipe","Malvada","Som Livre",104,138,2,"7187646"
-105,"spotify:track:07MDkzWARZaLEdKxo6yArG","THE ANXIETY, WILLOW, Tyler Cole","Meet Me At Our Spot","MSFTSMusic / Roc Nation Records, LLC",24,88,24,"7103529"
-106,"spotify:track:7EkWXAI1wn8Ii883ecd9xr","Surf Curse","Freaks","Surf Curse",55,103,42,"7095504"
-107,"spotify:track:68HocO7fx9z0MgDU0ZPHro","NIKI","Every Summertime","MARVEL/Hollywood Records, Inc./Interscope Records",83,90,6,"7092077"
-108,"spotify:track:4r9jkMEnArtWGH2rL2FZl0","Bad Bunny","A Tu Merced","Rimas Entertainment LLC",52,113,14,"7057283"
-109,"spotify:track:1LPSkqVhWVRUkKE03YUkpB","Bruno Mars, Anderson .Paak, Silk Sonic","Leave The Door Open","Aftermath Entertainment/Atlantic",5,115,50,"6986087"
-110,"spotify:track:3QGxgNaqaFSpORp2OVLXHR","Chefin, Mainstreet","212","Mainstreet Records",89,106,4,"6934554"
-111,"spotify:track:5719MEdRQcH4c3phXqX7WN","Hugo & Guilherme, Marília Mendonça","Mal Feito - Ao Vivo","Som Livre",72,104,5,"6925310"
-112,"spotify:track:2KnLkZ3z7PO3kgVGHGqDpD","Shawn Mendes","It'll Be Okay","Shawn Mendes LP4-5 PS/ Island",55,83,11,"6889544"
-113,"spotify:track:4gvrJnKCKIPiacNsWVQwEU","CKay, Dj Yo!, AX'EL","love nwantiti (feat. Dj Yo! & AX'EL) - Remix","WM South Africa",14,99,22,"6843450"
-114,"spotify:track:3M0lSi5WW79CXQamgSBIjx","Chase Atlantic","Swim","Warner Records",108,108,4,"6814655"
-115,"spotify:track:5enxwA8aAbwZbf5qCHORXi","Taylor Swift","All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)","Taylor Swift",1,101,14,"6765792"
-116,"spotify:track:2BcMwX1MPV6ZHP4tUT9uq6","Drake, 21 Savage, Project Pat","Knife Talk (with 21 Savage ft. Project Pat)","OVO",10,110,24,"6759972"
-117,"spotify:track:0tgVpDi06FyKpA1z0VMD4v","Ed Sheeran","Perfect","Atlantic Records UK",4,132,257,"6703318"
-118,"spotify:track:4TGwERXRlyQtBdggYTHo6j","Tiago PZK, LIT killah, Maria Becerra, Nicki Nicole","Entre Nosotros (Remix) [con Nicki Nicole]","WEA Latina",53,102,6,"6699143"
-119,"spotify:track:7sMBvZCSUl99bJLXZaLa0b","Bruno Mars, Anderson .Paak, Silk Sonic","Smokin Out The Window","Aftermath Entertainment/Atlantic",8,95,15,"6692355"
-120,"spotify:track:5E30LdtzQTGqRvNd7l6kG5","The Neighbourhood","Daddy Issues","Columbia",99,109,71,"6674343"
-121,"spotify:track:6f5ExP43esnvdKPddwKXJH","NEIKED, Mae Muller, Polo G","Better Days (NEIKED x Mae Muller x Polo G)","Capitol",32,105,18,"6650469"
-122,"spotify:track:7lcI4X8RZxK4zIknJcwpBq","Nicki Minaj, Lil Baby","Bussin","Republic Records",122,-1,1,"6644680"
-123,"spotify:track:1mSviQV9iQnGSRyvTIuxAj","Alvaro Diaz, Rauw Alejandro","Problemón","UMG Recordings, Inc./Universal Music Latino",123,147,4,"6603313"
-124,"spotify:track:3AJwUDP919kvQ9QcozQPxg","Coldplay","Yellow","Parlophone UK",101,123,61,"6602402"
-125,"spotify:track:4jPy3l0RUwlUI9T5XHBW2m","24kGoldn, iann dior","Mood (feat. iann dior)","Records/Columbia",1,116,80,"6554542"
-126,"spotify:track:0W6I02J9xcqK8MtSeosEXb","Doja Cat","Get Into It (Yuh)","Kemosabe Records/RCA Records",36,121,29,"6545110"
-127,"spotify:track:3o9kpgkIcffx0iSwxhuNI2","Em Beihold","Numb Little Bug","Republic Records/Moon Projects, LLC.",117,117,3,"6534555"
-128,"spotify:track:5W1qmxHrMlQGGAiFA3ZQqP","Dímelo Flow, Dalex, Sech, Justin Quiles, Arcangel, De La Ghetto, Lenny Tavárez","Se Le Ve","Rich Music",128,133,7,"6516043"
-129,"spotify:track:5g7sDjBhZ4I3gcFIpkrLuI","Bruno Mars","Locked out of Heaven","Atlantic Records",111,131,7,"6499827"
-130,"spotify:track:1DIXPcTDzTj8ZMHt3PDt8p","Coolio, L.V.","Gangsta's Paradise","Tommy Boy Music, LLC",130,164,17,"6426198"
-131,"spotify:track:3XoYqtiWHhsk59frZupImG","Diane Guerrero, Stephanie Beatriz","What Else Can I Do?","Walt Disney Records",84,100,6,"6418206"
-132,"spotify:track:2tpWsVSb9UEmDRxAl1zhX1","OneRepublic","Counting Stars","Mosley / Interscope",129,130,49,"6395454"
-133,"spotify:track:3U4isOIWM3VvDubwSI3y7a","John Legend","All of Me","G.O.O.D. Music/Columbia",110,175,149,"6387936"
-134,"spotify:track:68Dni7IE4VyPkTOH9mRWHr","J. Cole","No Role Modelz","Roc Nation Records LLC",119,126,30,"6387080"
-135,"spotify:track:0bI7K9Becu2dtXK1Q3cZNB","Tiësto, KAROL G","Don't Be Shy","Atlantic Records",38,119,27,"6365427"
-136,"spotify:track:2USlegnFJLrVLpoVfPimKB","Gabry Ponte, LUM!X, Prezioso","Thunder","Spinnin' Records",110,122,11,"6353585"
-137,"spotify:track:1PNs0uGru3TcrA94kpyGnc","Nicki Minaj, Lil Baby","Do We Have A Problem?","Republic Records",48,48,2,"6341029"
-138,"spotify:track:0fea68AdmYNygeTGI4RC18","J Balvin, Bad Bunny","LA CANCIÓN","Universal Music Latino / Rimas",17,135,59,"6321947"
-139,"spotify:track:1u8c2t2Cy7UBoG4ArRcF5g","Taylor Swift","Blank Space","Big Machine Records, LLC",139,141,15,"6269526"
-140,"spotify:track:5rohUzwEoRsUvAA1Bf3DLo","Sebastian Yatra","Dos Oruguitas","Walt Disney Records",93,107,6,"6260263"
-141,"spotify:track:4xqrdfXkTW4T0RauPLv3WA","Conan Gray","Heather","Republic Records",12,129,82,"6234852"
-142,"spotify:track:7qiZfU4dY1lWllzX7mPBI3","Ed Sheeran","Shape of You","Atlantic Records UK",1,148,264,"6214539"
-143,"spotify:track:7FIWs0pqAYbP91WWM0vlTQ","Eminem, Juice WRLD","Godzilla (feat. Juice WRLD)","Shady/Aftermath/Interscope Records",4,-1,71,"6186783"
-144,"spotify:track:161DnLWsx1i3u1JT05lzqU","Bruno Mars","Talking to the Moon","Elektra (NEK)",45,137,45,"6170749"
-145,"spotify:track:1c4htMHiolERc0YJvZNdlc","George Henrique & Rodrigo, Marília Mendonça","Vai Lá Em Casa Hoje","Worldshow Promoções e Eventos",66,124,13,"6157928"
-146,"spotify:track:2vXKRlJBXyOcvZYTdNeckS","Gesaffelstein, The Weeknd","Lost in the Fire (feat. The Weeknd)","Columbia",12,127,16,"6150763"
-147,"spotify:track:09gysnJpfQ3ublBmJDfcEC","Amaarae, Kali Uchis, Moliy","SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)","0207 Def Jam",23,114,16,"6140903"
-148,"spotify:track:3xRH6FPVtheDyNla3T1FE7","Muni Long","Hrs & Hrs","Supergiant Records, LLC / Def Jam Recordings",119,134,4,"6121588"
-149,"spotify:track:05bfbizlM5AX6Mf1RRyMho","Nio Garcia, J Balvin, Bad Bunny","AM Remix","Flow La Movie",14,140,34,"6104039"
-150,"spotify:track:3UmaczJpikHgJFyBTAJVoz","Eminem, Dido","Stan","Interscope",150,-1,1,"6093133"
-151,"spotify:track:11iIikXxC6NP0Ma8vMD27x","Vundabar","Alien Blues","Gawk Records, under exclusive license to Amuseio AB",118,118,5,"6077658"
-152,"spotify:track:4HzqWEdAbzcVFDv0pvxV4w","Maluma","Sobrio","Sony Music Latin",41,146,32,"6055581"
-153,"spotify:track:35mvY5S1H3J2QZyna3TFe0","Ariana Grande","positions","Republic Records",1,145,69,"6018584"
-154,"spotify:track:186NCtNk1tUYS7c2DxgJ7O","V","Christmas Tree","MOST CONTENTS",100,-1,4,"6016498"
-155,"spotify:track:0ct6r3EGTcMLPtrXHDvVjc","Avicii","The Nights","Universal Music AB",44,153,49,"6006569"
-156,"spotify:track:2N8m6CYs74qQO4mjVcXO30","Tones And I","Dance Monkey","Elektra (NEK)",1,143,135,"5967374"
-157,"spotify:track:48QmG1dfvMuYLxMPt7KSRA","Sean Paul, Dua Lipa","No Lie","Universal-Island Records Ltd.",80,152,29,"5965414"
-158,"spotify:track:6IAZHEBUIGJ6NJKxxOBIEr","Adele","Rolling in the Deep","XL Recordings",36,149,20,"5951601"
-159,"spotify:track:285pBltuF7vW8TeWk8hdRR","Juice WRLD","Lucid Dreams","Juice WRLD Mixtape / ISR P&D",3,142,189,"5937976"
-160,"spotify:track:2tGvwE8GcFKwNdAXMnlbfl","Olivia Rodrigo","happier","Olivia Rodrigo PS",12,156,39,"5930254"
-161,"spotify:track:3QFInJAm9eyaho5vBzxInN","Baby Keem, Kendrick Lamar","family ties (with Kendrick Lamar)","Columbia",30,189,24,"5929672"
-162,"spotify:track:3JCaq3KDSROg3TXhdiDa9n","Jhayco, Anuel AA","Ley Seca","N&E Entertainment LLC",44,160,24,"5924638"
-163,"spotify:track:5elW2CKSoqjYoJ32AGDxf1","ENHYPEN","Polaroid Love","BELIFT LAB",158,161,3,"5911058"
-164,"spotify:track:7yq4Qj7cqayVTp3FF9CWbm","Vance Joy","Riptide","F-Stop Records/Atlantic",122,171,59,"5906887"
-165,"spotify:track:0gucTLf7trAf37Ua1uAyAu","Nirvana","Smells Like Teen Spirit","Geffen",109,154,58,"5905822"
-166,"spotify:track:1XGmzt0PVuFgQYYnV2It7A","Maroon 5, Wiz Khalifa","Payphone","Interscope Records*",166,173,9,"5892438"
-167,"spotify:track:48q0vSHcJdhK3IiXH8C5WJ","Arctic Monkeys","Why'd You Only Call Me When You're High?","Domino Recording Co",104,159,28,"5869175"
-168,"spotify:track:2gMXnyrvIjhVBUZwvLZDMP","Lewis Capaldi","Before You Go","Vertigo Berlin",19,157,117,"5857891"
-169,"spotify:track:1zi7xx7UVEFkmKfv06H8x0","Drake, Wizkid, Kyla","One Dance","Cash Money Records/Young Money Ent./Universal Rec.",12,166,115,"5850316"
-170,"spotify:track:6f3Slt0GbA2bPZlz0aIFXN","Tiësto","The Business","Atlantic Records",9,155,68,"5841031"
-171,"spotify:track:5uCax9HTNlzGybIStD3vDh","James Arthur","Say You Won't Let Go","Columbia",7,184,263,"5816508"
-172,"spotify:track:6N22FZs2ZhPBYi3b9XPajV","Labrinth","Still Don't Know My Name","Masterworks",53,172,17,"5804415"
-173,"spotify:track:69vlMrzHwATKzupwNcUPyK","Bad Bunny, Daddy Yankee","La Santa","Rimas Entertainment LLC",14,-1,18,"5803841"
-174,"spotify:track:3nOz1U41SZZ0N3fuUWr9nb","Emmy Meli","I AM WOMAN","Disruptor Records/Arista Records",51,120,12,"5788525"
-175,"spotify:track:3dYD57lRAUcMHufyqn9GcI","Hozier","Take Me To Church","Universal-Island Records Ltd.",108,168,70,"5770317"
-176,"spotify:track:003vvx7Niy0yvhvHt4a68B","The Killers","Mr. Brightside","Island Records",98,169,82,"5770226"
-177,"spotify:track:21jGcNKet2qwijlDFuPiPb","Post Malone","Circles","Republic Records",1,167,129,"5768620"
-178,"spotify:track:7KXjTSCq5nL1LoYtL7XAwS","Kendrick Lamar","HUMBLE.","Aftermath",1,-1,96,"5723716"
-179,"spotify:track:2VxeLyX666F8uXCJ0dZF8B","Lady Gaga, Bradley Cooper","Shallow","A Star is Born OST",3,193,175,"5708256"
-180,"spotify:track:6P096SaOzrgGxs8NWOfX7M","Tiago PZK, Trueno","Salimo de Noche","WM Chile",72,158,16,"5706805"
-181,"spotify:track:6nkoWsFZeFt5dUdNmlIceh","Gusttavo Lima","Bloqueado - Ao Vivo","Sony Music Entertainment",106,163,8,"5677737"
-182,"spotify:track:5JCoSi02qi3jJeHdZXMmR8","Olivia Rodrigo","favorite crime","Olivia Rodrigo PS",11,178,35,"5653082"
-183,"spotify:track:2t16D9V5FmmRAJjsSpwvZf","Labrinth","When I R.I.P.","Masterworks",183,192,2,"5620241"
-184,"spotify:track:60ynsPSSKe6O3sfwRnIBRf","Doja Cat","Streets","Kemosabe Records/RCA Records",9,191,42,"5615335"
-185,"spotify:track:6potEImiklXkwD9qFzpu15","Labrinth","Forever","Masterworks",185,-1,1,"5592195"
-186,"spotify:track:4XvcHTUfIlWfyJTRG0aqlo","Sleepy Hallow","2055","Winners Circle/RCA Records",31,179,31,"5588119"
-187,"spotify:track:45bE4HXI0AwGZXfZtMp8JR","Tate McRae","you broke me first","RCA Records Label",13,170,82,"5574007"
-188,"spotify:track:0eu4C55hL6x29mmeAjytzC","Oliver Tree","Life Goes On","Atlantic Records",15,162,24,"5573218"
-189,"spotify:track:7H0ya83CMmgFcOhw0UB6ow","Beach House","Space Song","Apple Orchard Music",174,183,5,"5572622"
-190,"spotify:track:7iHHlCbsFou5DZSW5HCPfs","Boza, Lunay, Lenny Tavárez, Juhn, Beéle","Ella - Remix","Sony Music Latin",178,186,5,"5563264"
-191,"spotify:track:6v3KW9xbzN5yKLt9YKDYA2","Shawn Mendes, Camila Cabello","Señorita","Island Records",1,195,133,"5559557"
-192,"spotify:track:70pwY1UfPmSVE3ybPjFy0p","Future","Worst Day","Epic",192,-1,1,"5557686"
-193,"spotify:track:22skzmqfdWrjJylampe0kt","Macklemore & Ryan Lewis, Macklemore, Ryan Lewis, Ray Dalton","Can't Hold Us (feat. Ray Dalton)","Macklemore",149,-1,17,"5550133"
-194,"spotify:track:4pt5fDVTg5GhEvEtlz9dKk","Måneskin","I WANNA BE YOUR SLAVE","RCA Records Label",8,174,39,"5549171"
-195,"spotify:track:0fv2KH6hac06J86hBUTcSf","Tyler, The Creator","NEW MAGIC WAND","Columbia",54,-1,3,"5548633"
-196,"spotify:track:4u7EnebtmKWzUH433cf5Qv","Queen","Bohemian Rhapsody - Remastered 2011","EMI",11,-1,177,"5508788"
-197,"spotify:track:35wvL50xvKpCHEJPxLOLPI","Bad Bunny","Si Estuviésemos Juntos","Rimas Entertainment LLC",197,-1,1,"5496274"
-198,"spotify:track:1J14CdDAvBTE1AJYUOwl6C","Duncan Laurence","Arcade","Universal Music, a division of Universal International Music BV",23,185,56,"5488431"
-199,"spotify:track:2J2Z1SkXYghSajLibnQHOa","Sia","Unstoppable","Monkey Puzzle Records/RCA Records",199,-1,1,"5482876"
-200,"spotify:track:7BqBn9nzAq8spo5e7cZ0dJ","Bruno Mars","Just the Way You Are","Elektra (NEK)",133,-1,21,"5474284"
+rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,streams,End Date
+1,spotify:track:02MWAaffLxlfxAUY7c5dvx,Glass Animals,Heat Waves,Polydor Records,1,1,60,31455156,2022-02-17
+2,spotify:track:5PjdY0CKGZdEuoNab3yDmX,"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),Columbia,1,3,32,27193990,2022-02-17
+3,spotify:track:4fouWK6XVHhzl78KzQ1UjL,GAYLE,abcdefu,Atlantic/Arthouse Records,1,2,14,26765150,2022-02-17
+4,spotify:track:1HhNoOuqm1a5MXYEgAFl8o,"Imagine Dragons, JID, Arcane, League of Legends",Enemy (with JID) - from the series Arcane League of Legends,Kid Ina Korner / Interscope,4,4,16,25725045,2022-02-17
+5,spotify:track:7rglLriMNBPAyuJOMGwi39,"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,EMI,4,5,27,23556022,2022-02-17
+6,spotify:track:5Z9KJZvQzH6PFmb8SNkxuk,"Lil Nas X, Jack Harlow",INDUSTRY BABY (feat. Jack Harlow),Columbia,2,6,30,22093099,2022-02-17
+7,spotify:track:46IZ0fSY2mpAiktS3KOqds,Adele,Easy On Me,Columbia,1,7,18,21749043,2022-02-17
+8,spotify:track:6mmPpaltUZK7xjNlBPQQ0p,"Rauw Alejandro, Chencho Corleone",Desesperados,Sony Music Latin/Duars Entertainment,8,11,10,19390328,2022-02-17
+9,spotify:track:52xJxFP6TqMuO4Yt0eOkMz,"Carolina Gaitán - La Gaita, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz, Encanto - Cast",We Don't Talk About Bruno,Walt Disney Records,8,8,8,19364443,2022-02-17
+10,spotify:track:7CAdT0HdiQNlt1C7xk2hep,Jung Kook,Stay Alive (Prod. SUGA of BTS),BIGHIT MUSIC,10,-1,1,18807862,2022-02-17
+11,spotify:track:50nfwKoDiSYg8zOCREWAm5,Ed Sheeran,Shivers,Atlantic Records UK,4,10,23,18535889,2022-02-17
+12,spotify:track:1ri9ZUkBJVFUdgwzCnfcYs,"Becky G, KAROL G",MAMIII,Kemosabe Records/RCA Records,12,-1,1,18283042,2022-02-17
+13,spotify:track:1SOClUWhOi8vHZYMz3GluK,Jaymes Young,Infinity,Atlantic Records,11,12,16,17154141,2022-02-17
+14,spotify:track:0e8nrvls4Qqv5Rfa2UhqmO,Lil Nas X,THATS WHAT I WANT,Columbia,3,13,22,17143953,2022-02-17
+15,spotify:track:2B4GHvToeLTOBB4QLzW3Ni,Farruko,Pepas,Sony Music Latin,4,14,32,16018305,2022-02-17
+16,spotify:track:6Uj1ctrBOjOas8xZXGqKk4,Doja Cat,Woman,Kemosabe Records/RCA Records,6,15,32,15841781,2022-02-17
+17,spotify:track:6I3mqTwhRpn34SLVafSH7G,Justin Bieber,Ghost,RBMG/Def Jam,17,19,22,15521084,2022-02-17
+18,spotify:track:3rmo8F54jFF8OgYsqTxm5d,Ed Sheeran,Bad Habits,Atlantic Records UK,3,17,34,15464214,2022-02-17
+19,spotify:track:46HNZY1i7O6jwTA7Slo2PI,"Coldplay, BTS",My Universe,Parlophone UK,3,20,21,15230867,2022-02-17
+20,spotify:track:6N1K5OVVCopBjGViHs2IvP,"Ed Sheeran, Taylor Swift",The Joker And The Queen (feat. Taylor Swift),Atlantic Records UK,20,-1,1,14958068,2022-02-17
+21,spotify:track:59CfNbkERJ3NoTXDvoURjj,Dove Cameron,Boyfriend,Disruptor Records/Columbia,21,-1,1,14870380,2022-02-17
+22,spotify:track:20on25jryn53hWghthWWW3,"ACRAZE, Cherish",Do It To It,"Thrive Music, LLC",9,18,16,14665199,2022-02-17
+23,spotify:track:3XOalgusokruzA5ZBA2Qcb,"Gunna, Future, Young Thug",pushin P (feat. Young Thug),300 Entertainment,14,16,6,14579861,2022-02-17
+24,spotify:track:4gzsuuZypVbxs0Af1LSZyB,"Tainy, Bad Bunny, Julieta Venegas",Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),Neon16,12,23,20,14178814,2022-02-17
+25,spotify:track:4SqWKzw0CbA05TGszDgMlc,The Walters,I Love You So,Warner Records,21,21,19,14092128,2022-02-17
+26,spotify:track:3uUuGVFu1V7jTQL60S1r8z,"Lost Frequencies, Calum Scott",Where Are You Now,Epic Amsterdam,20,24,24,14019364,2022-02-17
+27,spotify:track:4ZtFanR9U6ndgddUvNcjcG,Olivia Rodrigo,good 4 u,Olivia Rodrigo PS,1,22,40,13776929,2022-02-17
+28,spotify:track:2JPLbjOn0wPCngEot2STUS,Bad Bunny,Yonaguni,Rimas Entertainment LLC,3,26,37,13264611,2022-02-17
+29,spotify:track:18asYwWugKjjsihZ0YvRxO,"Tiësto, Ava Max",The Motto,Atlantic Records,28,28,15,13068770,2022-02-17
+30,spotify:track:0VjIjW4GlUZAMYd2vXMi3b,The Weeknd,Blinding Lights,Republic Records,1,32,116,12327825,2022-02-17
+31,spotify:track:3Vi5XqYrmQgOYBajMWSvCi,Doja Cat,Need to Know,Kemosabe Records/RCA Records,6,30,36,12321336,2022-02-17
+32,spotify:track:503OTo2dSqe7qk76rgsbep,"Dr. Dre, Snoop Dogg",Still D.R.E.,Aftermath,32,-1,1,12023690,2022-02-17
+33,spotify:track:3AVXwaOGCEL8cmBecfcsFJ,Charlie Puth,Light Switch,Atlantic Records,19,25,4,11883664,2022-02-17
+34,spotify:track:3DarAbFujv6eYNliUTyqtz,"Doja Cat, SZA",Kiss Me More (feat. SZA),Kemosabe Records/RCA Records,3,29,45,11822020,2022-02-17
+35,spotify:track:2QjOHCTQ1Jl3zawyYOpxh6,The Neighbourhood,Sweater Weather,Columbia,32,34,77,11787446,2022-02-17
+36,spotify:track:2gQPv5jvVPqU2a9HhMNO1v,BoyWithUke,Toxic,Republic Records,23,33,18,11430107,2022-02-17
+37,spotify:track:5TMLavqGRKNxgzMBrVpC9R,"zzoilo, Aitana",Mon Amour - Remix,Universal Music Spain S.L.,35,37,24,11236075,2022-02-17
+38,spotify:track:7lQ8MOhq6IN2w8EYcFNSUk,Eminem,Without Me,Aftermath,38,71,21,11152878,2022-02-17
+39,spotify:track:5CZ40GBx1sQ9agT82CLQCT,Olivia Rodrigo,traitor,Olivia Rodrigo PS,7,38,39,11140301,2022-02-17
+40,spotify:track:6K5ph5mq1qprHae3TrgTj5,Jessica Darrow,"Surface Pressure - From ""Encanto""/Soundtrack Version",UME - Global Clearing House,23,31,7,11032586,2022-02-17
+41,spotify:track:2K7xn816oNHJZ0aVqdQsha,The Neighbourhood,Softcore,Columbia,37,42,6,10991129,2022-02-17
+42,spotify:track:1SC5rEoYDGUK4NfG82494W,Lil Nas X,MONTERO (Call Me By Your Name),Columbia,1,41,47,10761851,2022-02-17
+43,spotify:track:1ZMGp9MTXbtAPvcKa0U3zS,"Mahmood, BLANCO",Brividi,Universal Music Italia srL.,9,9,3,10652572,2022-02-17
+44,spotify:track:58HvfVOeJY7lUuCqF0m3ly,Elley Duhé,MIDDLE OF THE NIGHT,Not Fit For Society/RCA Records,44,61,8,10599183,2022-02-17
+45,spotify:track:3Kkjo3cT83cw09VJyrLNwX,Adele,Oh My God,Columbia,3,40,13,10583318,2022-02-17
+46,spotify:track:2eAvDnpXP5W0cVtiI0PUxV,Ruth B.,Dandelions,Columbia,46,51,27,10540121,2022-02-17
+47,spotify:track:5nujrmhLynf4yMoMtj8AQF,"Dua Lipa, DaBaby",Levitating (feat. DaBaby),Warner Records,4,47,72,10378277,2022-02-17
+48,spotify:track:0IuVhCflrQPMGRrOyoY5RW,Tate McRae,she's all i wanna be,RCA Records Label,43,43,2,10188073,2022-02-17
+49,spotify:track:1v7L65Lzy0j0vdpRjJewt1,Eminem,"Lose Yourself - From ""8 Mile"" Soundtrack",Aftermath,49,-1,61,10171182,2022-02-17
+50,spotify:track:4RVwu0g32PAqgUiJoXsdF8,Billie Eilish,Happier Than Ever,Darkroom/Interscope Records,6,49,29,9998749,2022-02-17
+51,spotify:track:3yfqSUWxFvZELEM4PmlwIR,Eminem,The Real Slim Shady,Interscope,51,97,37,9948913,2022-02-17
+52,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhayco",DÁKITI,Rimas Entertainment LLC,1,56,68,9941704,2022-02-17
+53,spotify:track:2Xr1dTzJee307rmrkt8c0g,CKay,love nwantiti (ah ah ah),Chocolate City Music,9,44,23,9932474,2022-02-17
+54,spotify:track:1nH2PkJL1XoUq8oE6tBZoU,The Weeknd,Sacrifice,XO / Republic Records,3,35,6,9917900,2022-02-17
+55,spotify:track:1bjhYUwKUHEg5fHknxFObO,Frank Ocean,Lost,Red Zone Entertainment / IDJ,52,57,5,9880886,2022-02-17
+56,spotify:track:6lX6l7OuA3qrnIRfdsr0dw,"Blessd, Justin Quiles, Lenny Tavárez",Medallo,WEA Latina,49,53,13,9871999,2022-02-17
+57,spotify:track:4huBDGP4I3S0pYI0EaRN1c,"Fivio Foreign, Kanye West, Alicia Keys",City of Gods,RichFish/Columbia,57,-1,1,9818596,2022-02-17
+58,spotify:track:2gpWyfu7eZ01zzncHpxOtA,"Swedish House Mafia, The Weeknd",Moth To A Flame (with The Weeknd),Republic Records,7,39,17,9773530,2022-02-17
+59,spotify:track:3yMC1KsTwh0ceXdIe4QQAQ,Lauren Spencer Smith,Fingers Crossed,"Three Name Productions, Inc./ Island Records & Republic Records",17,36,6,9667842,2022-02-17
+60,spotify:track:79nEEoEPY2w8EXj9hjn5oc,Yung Lean,Ginseng Strip 2002,YEAR0001,44,45,3,9644786,2022-02-17
+61,spotify:track:5wANPM4fQCJwkGd4rN57mH,Olivia Rodrigo,drivers license,Olivia Rodrigo PS,1,52,58,9627666,2022-02-17
+62,spotify:track:3Wrjm47oTz2sjIgck11l5e,Måneskin,Beggin',RCA Records Label,1,50,37,9619168,2022-02-17
+63,spotify:track:5vUnjhBzRJJIAOJPde6zDx,"Jnr Choi, Sam Tompkins",TO THE MOON,Jnr Choi/Epic,55,55,6,9596999,2022-02-17
+64,spotify:track:6ylDpki1VpIsc525KC1ojF,Sebastian Yatra,Tacones Rojos,UMLE - Latino,47,54,13,9546651,2022-02-17
+65,spotify:track:10hMM5nsZQf66ldBlgWBfG,"Labrinth, Zendaya",All For Us - from the HBO Original Series Euphoria,Republic Records,65,65,6,9334704,2022-02-17
+66,spotify:track:2bBClS4zzrRd4Aj59NaKSv,Kodak Black,Super Gremlin,Atlantic Records,45,46,10,9292359,2022-02-17
+67,spotify:track:37BZB0z9T8Xu7U3e65qxFy,"The Weeknd, Ariana Grande",Save Your Tears (with Ariana Grande) (Remix),Republic Records,5,59,43,9146577,2022-02-17
+68,spotify:track:0NBgyml7T0IvUNbXIkcSpH,"Xamã, Gustah, Neo Beats, Bagua Records",Malvadão 3,Bagua Records,33,58,8,9107956,2022-02-17
+69,spotify:track:0sTlGEld0h8kIPZaKDYUf4,The Rare Occasions,Notion,Elektra (NEK),67,67,6,8821888,2022-02-17
+70,spotify:track:1mWdTewIgB3gtBM3TOSFhB,BTS,Butter,BIGHIT MUSIC,2,89,39,8769843,2022-02-17
+71,spotify:track:3rdAz1fbUfZxYgaCviYhRo,Rauw Alejandro,Todo De Ti,Sony Music Latin/Duars Entertainment,2,62,39,8767115,2022-02-17
+72,spotify:track:2vmfvSoZBFAt9hhRoEByLi,"Aventura, Bad Bunny",Volví,Rimas Entertainment LLC,10,63,29,8602878,2022-02-17
+73,spotify:track:6EtKlIQmGPB9SX8UjDJG5s,Labrinth,Formula,Masterworks,70,70,5,8583901,2022-02-17
+74,spotify:track:00Blm7zeNqgYLPtW6zg8cj,"Post Malone, The Weeknd",One Right Now (with The Weeknd),Republic Records,9,60,15,8396505,2022-02-17
+75,spotify:track:5QO79kh1waicV47BqGRL3g,The Weeknd,Save Your Tears,Republic Records,2,72,63,8366652,2022-02-17
+76,spotify:track:6UelLqGlWMcVH1E5c4H7lY,Harry Styles,Watermelon Sugar,Columbia,4,64,118,8284212,2022-02-17
+77,spotify:track:58ge6dfP91o9oXMzq3XkIS,Arctic Monkeys,505,Domino Recording Co,77,78,7,8205485,2022-02-17
+78,spotify:track:37y7iDayfwm3WXn5BiAoRk,Steve Lacy,Dark Red,Three Quarter,66,74,28,8147800,2022-02-17
+79,spotify:track:42Xba467wgGvYrR2EE6s0i,Juice WRLD,Cigarettes,Grade A Productions/Interscope Records,27,27,2,8145248,2022-02-17
+80,spotify:track:7hU3IHwjX150XLoTVmjD0q,LISA,MONEY,YG Entertainment/Interscope Records,5,66,23,7962960,2022-02-17
+81,spotify:track:4xkOaSrkexMciUUogZKVTS,"Eminem, Nate Dogg",Till I Collapse,Aftermath,81,136,34,7955650,2022-02-17
+82,spotify:track:29m79w9xPMH4YCD6r8JSmV,"AP Dhillon, Gurinder Gill, Intense",Excuses,RUN-UP RECORDS,56,68,5,7890043,2022-02-17
+83,spotify:track:4iJyoBOLtHqaGxP12qzhQI,"Justin Bieber, Daniel Caesar, Giveon",Peaches (feat. Daniel Caesar & Giveon),RBMG/Def Jam,1,76,48,7885673,2022-02-17
+84,spotify:track:2Gq636OOGgxCTqEuzCZhsa,"Bizarrap, Tiago PZK","Tiago PZK: Bzrp Music Sessions, Vol. 48",DALE PLAY Records,37,73,7,7872299,2022-02-17
+85,spotify:track:0Bv7O6fmZk3GrNQFYJaXPn,"La Pantera, Quevedo, Juseph, Abhir Hathi, Bejo, Cruz Cafuné, EL IMA","Cayó La Noche (feat. Cruz Cafuné, Abhir Hathi, Bejo, EL IMA) [Remix]",La Pantera,85,128,3,7821987,2022-02-17
+86,spotify:track:4LwU4Vp6od3Sb08CsP99GC,"Dr. Dre, Snoop Dogg",The Next Episode,Aftermath,86,-1,1,7798510,2022-02-17
+87,spotify:track:4b1yxSdlumA8N4fEk4UOZp,"Stephanie Beatriz, Olga Merediz, Encanto - Cast",The Family Madrigal,Walt Disney Records,64,69,6,7772667,2022-02-17
+88,spotify:track:1ZdhOMWyFR8Iv9eylMGYg2,Labrinth,Mount Everest,Syco Music,88,177,2,7766987,2022-02-17
+89,spotify:track:7jtQIBanIiJOMS6RyCx6jZ,Tom Odell,Another Love,ITNO/Columbia,76,84,45,7722193,2022-02-17
+90,spotify:track:6HU7h9RYOaPRFeh0R3UeAr,Olivia Rodrigo,deja vu,Olivia Rodrigo PS,3,81,46,7712323,2022-02-17
+91,spotify:track:7qEHsqek33rTcFNT9PFqLf,Lewis Capaldi,Someone You Loved,Vertigo Berlin,4,85,163,7698268,2022-02-17
+92,spotify:track:7iL6o9tox1zgHpKUfh9vuC,50 Cent,In Da Club,Shady Records,92,-1,1,7647277,2022-02-17
+93,spotify:track:2BEcap3xJtmiPaHKyfQi4e,"Rvssian, Rauw Alejandro, Chris Brown",Nostálgico,Sony Music Latin,40,82,23,7623481,2022-02-17
+94,spotify:track:5QDLhrAOJJdNAmCTJ8xMyW,BTS,Dynamite,BIGHIT MUSIC,2,98,78,7593204,2022-02-17
+95,spotify:track:3PfIrDoz19wz7qK7tYeu62,Dua Lipa,Don't Start Now,Warner Records,2,93,120,7566593,2022-02-17
+96,spotify:track:0RiRZpuVRbi7oqRdSMwhQY,"Post Malone, Swae Lee",Sunflower - Spider-Man: Into the Spider-Verse,Republic Records,1,86,174,7556746,2022-02-17
+97,spotify:track:3Oww84xrmgjyr5J1ilOmAf,"Luude, Colin Hay",Down Under (feat. Colin Hay),Sweat It Out,72,75,5,7542382,2022-02-17
+98,spotify:track:0pqnGHJpmpxLKifKRmU6WP,Imagine Dragons,Believer,Kid Ina Korner / Interscope,16,91,263,7480027,2022-02-17
+99,spotify:track:78kygHp1dvW1kncYjBgbe1,Ryan Castro,Mujeriego,Sony Music Entertainment,94,94,3,7407499,2022-02-17
+100,spotify:track:0G2zPzWqVjR68iNPmx2TBe,"Mora, Bad Bunny, Sech",Volando - Remix,Rimas Entertainment LLC,19,87,32,7379599,2022-02-17
+101,spotify:track:0k4d5YPDr1r7FX77VdqWez,"Doja Cat, The Weeknd",You Right,Kemosabe Records/RCA Records,15,92,34,7334550,2022-02-17
+102,spotify:track:5dXWFMwD7I7zXsInONVl0H,SZA,I Hate U,Top Dawg Entertainment/RCA Records,19,77,11,7306039,2022-02-17
+103,spotify:track:0u2P5u6lvoDfwTYjAADbn4,"Billie Eilish, Khalid",lovely (with Khalid),Darkroom,24,96,200,7258745,2022-02-17
+104,spotify:track:7gVzhRCrLRUBEGdS7zNTp0,Zé Felipe,Malvada,Som Livre,104,138,2,7187646,2022-02-17
+105,spotify:track:07MDkzWARZaLEdKxo6yArG,"THE ANXIETY, WILLOW, Tyler Cole",Meet Me At Our Spot,"MSFTSMusic / Roc Nation Records, LLC",24,88,24,7103529,2022-02-17
+106,spotify:track:7EkWXAI1wn8Ii883ecd9xr,Surf Curse,Freaks,Surf Curse,55,103,42,7095504,2022-02-17
+107,spotify:track:68HocO7fx9z0MgDU0ZPHro,NIKI,Every Summertime,"MARVEL/Hollywood Records, Inc./Interscope Records",83,90,6,7092077,2022-02-17
+108,spotify:track:4r9jkMEnArtWGH2rL2FZl0,Bad Bunny,A Tu Merced,Rimas Entertainment LLC,52,113,14,7057283,2022-02-17
+109,spotify:track:1LPSkqVhWVRUkKE03YUkpB,"Bruno Mars, Anderson .Paak, Silk Sonic",Leave The Door Open,Aftermath Entertainment/Atlantic,5,115,50,6986087,2022-02-17
+110,spotify:track:3QGxgNaqaFSpORp2OVLXHR,"Chefin, Mainstreet",212,Mainstreet Records,89,106,4,6934554,2022-02-17
+111,spotify:track:5719MEdRQcH4c3phXqX7WN,"Hugo & Guilherme, Marília Mendonça",Mal Feito - Ao Vivo,Som Livre,72,104,5,6925310,2022-02-17
+112,spotify:track:2KnLkZ3z7PO3kgVGHGqDpD,Shawn Mendes,It'll Be Okay,Shawn Mendes LP4-5 PS/ Island,55,83,11,6889544,2022-02-17
+113,spotify:track:4gvrJnKCKIPiacNsWVQwEU,"CKay, Dj Yo!, AX'EL",love nwantiti (feat. Dj Yo! & AX'EL) - Remix,WM South Africa,14,99,22,6843450,2022-02-17
+114,spotify:track:3M0lSi5WW79CXQamgSBIjx,Chase Atlantic,Swim,Warner Records,108,108,4,6814655,2022-02-17
+115,spotify:track:5enxwA8aAbwZbf5qCHORXi,Taylor Swift,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),Taylor Swift,1,101,14,6765792,2022-02-17
+116,spotify:track:2BcMwX1MPV6ZHP4tUT9uq6,"Drake, 21 Savage, Project Pat",Knife Talk (with 21 Savage ft. Project Pat),OVO,10,110,24,6759972,2022-02-17
+117,spotify:track:0tgVpDi06FyKpA1z0VMD4v,Ed Sheeran,Perfect,Atlantic Records UK,4,132,257,6703318,2022-02-17
+118,spotify:track:4TGwERXRlyQtBdggYTHo6j,"Tiago PZK, LIT killah, Maria Becerra, Nicki Nicole",Entre Nosotros (Remix) [con Nicki Nicole],WEA Latina,53,102,6,6699143,2022-02-17
+119,spotify:track:7sMBvZCSUl99bJLXZaLa0b,"Bruno Mars, Anderson .Paak, Silk Sonic",Smokin Out The Window,Aftermath Entertainment/Atlantic,8,95,15,6692355,2022-02-17
+120,spotify:track:5E30LdtzQTGqRvNd7l6kG5,The Neighbourhood,Daddy Issues,Columbia,99,109,71,6674343,2022-02-17
+121,spotify:track:6f5ExP43esnvdKPddwKXJH,"NEIKED, Mae Muller, Polo G",Better Days (NEIKED x Mae Muller x Polo G),Capitol Records UK / EMI,32,105,18,6650469,2022-02-17
+122,spotify:track:7lcI4X8RZxK4zIknJcwpBq,"Nicki Minaj, Lil Baby",Bussin,Republic Records,122,-1,1,6644680,2022-02-17
+123,spotify:track:1mSviQV9iQnGSRyvTIuxAj,"Alvaro Diaz, Rauw Alejandro",Problemón,"UMG Recordings, Inc./Universal Music Latino",123,147,4,6603313,2022-02-17
+124,spotify:track:3AJwUDP919kvQ9QcozQPxg,Coldplay,Yellow,Parlophone UK,101,123,61,6602402,2022-02-17
+125,spotify:track:4jPy3l0RUwlUI9T5XHBW2m,"24kGoldn, iann dior",Mood (feat. iann dior),Records/Columbia,1,116,80,6554542,2022-02-17
+126,spotify:track:0W6I02J9xcqK8MtSeosEXb,Doja Cat,Get Into It (Yuh),Kemosabe Records/RCA Records,36,121,29,6545110,2022-02-17
+127,spotify:track:3o9kpgkIcffx0iSwxhuNI2,Em Beihold,Numb Little Bug,"Republic Records/Moon Projects, LLC.",117,117,3,6534555,2022-02-17
+128,spotify:track:5W1qmxHrMlQGGAiFA3ZQqP,"Dímelo Flow, Dalex, Sech, Justin Quiles, Arcángel, De La Ghetto, Lenny Tavárez",Se Le Ve,Rich Music,128,133,7,6516043,2022-02-17
+129,spotify:track:5g7sDjBhZ4I3gcFIpkrLuI,Bruno Mars,Locked out of Heaven,Atlantic Records,111,131,7,6499827,2022-02-17
+130,spotify:track:1DIXPcTDzTj8ZMHt3PDt8p,"Coolio, L.V.",Gangsta's Paradise,"Tommy Boy Music, LLC",130,164,17,6426198,2022-02-17
+131,spotify:track:3XoYqtiWHhsk59frZupImG,"Diane Guerrero, Stephanie Beatriz",What Else Can I Do?,Walt Disney Records,84,100,6,6418206,2022-02-17
+132,spotify:track:2tpWsVSb9UEmDRxAl1zhX1,OneRepublic,Counting Stars,Mosley / Interscope,129,130,49,6395454,2022-02-17
+133,spotify:track:3U4isOIWM3VvDubwSI3y7a,John Legend,All of Me,G.O.O.D. Music/Columbia,110,175,149,6387936,2022-02-17
+134,spotify:track:68Dni7IE4VyPkTOH9mRWHr,J. Cole,No Role Modelz,Roc Nation Records LLC,119,126,30,6387080,2022-02-17
+135,spotify:track:0bI7K9Becu2dtXK1Q3cZNB,"Tiësto, KAROL G",Don't Be Shy,Atlantic Records,38,119,27,6365427,2022-02-17
+136,spotify:track:2USlegnFJLrVLpoVfPimKB,"Gabry Ponte, LUM!X, Prezioso",Thunder,Spinnin' Records,110,122,11,6353585,2022-02-17
+137,spotify:track:1PNs0uGru3TcrA94kpyGnc,"Nicki Minaj, Lil Baby",Do We Have A Problem?,Republic Records,48,48,2,6341029,2022-02-17
+138,spotify:track:0fea68AdmYNygeTGI4RC18,"J Balvin, Bad Bunny",LA CANCIÓN,Universal Music Latino / Rimas,17,135,59,6321947,2022-02-17
+139,spotify:track:1u8c2t2Cy7UBoG4ArRcF5g,Taylor Swift,Blank Space,"Big Machine Records, LLC",139,141,15,6269526,2022-02-17
+140,spotify:track:5rohUzwEoRsUvAA1Bf3DLo,Sebastian Yatra,Dos Oruguitas,Walt Disney Records,93,107,6,6260263,2022-02-17
+141,spotify:track:4xqrdfXkTW4T0RauPLv3WA,Conan Gray,Heather,Republic Records,12,129,82,6234852,2022-02-17
+142,spotify:track:7qiZfU4dY1lWllzX7mPBI3,Ed Sheeran,Shape of You,Atlantic Records UK,1,148,264,6214539,2022-02-17
+143,spotify:track:7FIWs0pqAYbP91WWM0vlTQ,"Eminem, Juice WRLD",Godzilla (feat. Juice WRLD),Shady/Aftermath/Interscope Records,4,-1,71,6186783,2022-02-17
+144,spotify:track:161DnLWsx1i3u1JT05lzqU,Bruno Mars,Talking to the Moon,Elektra (NEK),45,137,45,6170749,2022-02-17
+145,spotify:track:1c4htMHiolERc0YJvZNdlc,"George Henrique & Rodrigo, Marília Mendonça",Vai Lá Em Casa Hoje,Worldshow Promoções e Eventos,66,124,13,6157928,2022-02-17
+146,spotify:track:2vXKRlJBXyOcvZYTdNeckS,"Gesaffelstein, The Weeknd",Lost in the Fire (feat. The Weeknd),Columbia,12,127,16,6150763,2022-02-17
+147,spotify:track:09gysnJpfQ3ublBmJDfcEC,"Amaarae, Kali Uchis, Moliy",SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),0207 Def Jam,23,114,16,6140903,2022-02-17
+148,spotify:track:3xRH6FPVtheDyNla3T1FE7,Muni Long,Hrs & Hrs,"Supergiant Records, LLC / Def Jam Recordings",119,134,4,6121588,2022-02-17
+149,spotify:track:05bfbizlM5AX6Mf1RRyMho,"Nio Garcia, J Balvin, Bad Bunny",AM Remix,Flow La Movie,14,140,34,6104039,2022-02-17
+150,spotify:track:3UmaczJpikHgJFyBTAJVoz,"Eminem, Dido",Stan,Interscope,150,-1,1,6093133,2022-02-17
+151,spotify:track:11iIikXxC6NP0Ma8vMD27x,Vundabar,Alien Blues,"Gawk Records, under exclusive license to Amuseio AB",118,118,5,6077658,2022-02-17
+152,spotify:track:4HzqWEdAbzcVFDv0pvxV4w,Maluma,Sobrio,Sony Music Latin,41,146,32,6055581,2022-02-17
+153,spotify:track:35mvY5S1H3J2QZyna3TFe0,Ariana Grande,positions,Republic Records,1,145,69,6018584,2022-02-17
+154,spotify:track:186NCtNk1tUYS7c2DxgJ7O,V,Christmas Tree,MOST CONTENTS,100,-1,4,6016498,2022-02-17
+155,spotify:track:0ct6r3EGTcMLPtrXHDvVjc,Avicii,The Nights,Universal Music AB,44,153,49,6006569,2022-02-17
+156,spotify:track:2N8m6CYs74qQO4mjVcXO30,Tones And I,Dance Monkey,Elektra (NEK),1,143,135,5967374,2022-02-17
+157,spotify:track:48QmG1dfvMuYLxMPt7KSRA,"Sean Paul, Dua Lipa",No Lie,Universal-Island Records Ltd.,80,152,29,5965414,2022-02-17
+158,spotify:track:6IAZHEBUIGJ6NJKxxOBIEr,Adele,Rolling in the Deep,XL Recordings,36,149,20,5951601,2022-02-17
+159,spotify:track:285pBltuF7vW8TeWk8hdRR,Juice WRLD,Lucid Dreams,Juice WRLD Mixtape / ISR P&D,3,142,189,5937976,2022-02-17
+160,spotify:track:2tGvwE8GcFKwNdAXMnlbfl,Olivia Rodrigo,happier,Olivia Rodrigo PS,12,156,39,5930254,2022-02-17
+161,spotify:track:3QFInJAm9eyaho5vBzxInN,"Baby Keem, Kendrick Lamar",family ties (with Kendrick Lamar),Columbia,30,189,24,5929672,2022-02-17
+162,spotify:track:3JCaq3KDSROg3TXhdiDa9n,"Jhayco, Anuel AA",Ley Seca,N&E Entertainment LLC,44,160,24,5924638,2022-02-17
+163,spotify:track:5elW2CKSoqjYoJ32AGDxf1,ENHYPEN,Polaroid Love,BELIFT LAB,158,161,3,5911058,2022-02-17
+164,spotify:track:7yq4Qj7cqayVTp3FF9CWbm,Vance Joy,Riptide,F-Stop Records/Atlantic,122,171,59,5906887,2022-02-17
+165,spotify:track:0gucTLf7trAf37Ua1uAyAu,Nirvana,Smells Like Teen Spirit,Geffen,109,154,58,5905822,2022-02-17
+166,spotify:track:1XGmzt0PVuFgQYYnV2It7A,"Maroon 5, Wiz Khalifa",Payphone,Interscope Records*,166,173,9,5892438,2022-02-17
+167,spotify:track:48q0vSHcJdhK3IiXH8C5WJ,Arctic Monkeys,Why'd You Only Call Me When You're High?,Domino Recording Co,104,159,28,5869175,2022-02-17
+168,spotify:track:2gMXnyrvIjhVBUZwvLZDMP,Lewis Capaldi,Before You Go,Vertigo Berlin,19,157,117,5857891,2022-02-17
+169,spotify:track:1zi7xx7UVEFkmKfv06H8x0,"Drake, Wizkid, Kyla",One Dance,Cash Money Records/Young Money Ent./Universal Rec.,12,166,115,5850316,2022-02-17
+170,spotify:track:6f3Slt0GbA2bPZlz0aIFXN,Tiësto,The Business,Atlantic Records,9,155,68,5841031,2022-02-17
+171,spotify:track:5uCax9HTNlzGybIStD3vDh,James Arthur,Say You Won't Let Go,Columbia,7,184,263,5816508,2022-02-17
+172,spotify:track:6N22FZs2ZhPBYi3b9XPajV,Labrinth,Still Don't Know My Name,Masterworks,53,172,17,5804415,2022-02-17
+173,spotify:track:69vlMrzHwATKzupwNcUPyK,"Bad Bunny, Daddy Yankee",La Santa,Rimas Entertainment LLC,14,-1,18,5803841,2022-02-17
+174,spotify:track:3nOz1U41SZZ0N3fuUWr9nb,Emmy Meli,I AM WOMAN,Disruptor Records/Arista Records,51,120,12,5788525,2022-02-17
+175,spotify:track:3dYD57lRAUcMHufyqn9GcI,Hozier,Take Me To Church,Universal-Island Records Ltd.,108,168,70,5770317,2022-02-17
+176,spotify:track:003vvx7Niy0yvhvHt4a68B,The Killers,Mr. Brightside,Island Records,98,169,82,5770226,2022-02-17
+177,spotify:track:21jGcNKet2qwijlDFuPiPb,Post Malone,Circles,Republic Records,1,167,129,5768620,2022-02-17
+178,spotify:track:7KXjTSCq5nL1LoYtL7XAwS,Kendrick Lamar,HUMBLE.,Aftermath,1,-1,96,5723716,2022-02-17
+179,spotify:track:2VxeLyX666F8uXCJ0dZF8B,"Lady Gaga, Bradley Cooper",Shallow,A Star is Born OST,3,193,175,5708256,2022-02-17
+180,spotify:track:6P096SaOzrgGxs8NWOfX7M,"Tiago PZK, Trueno",Salimo de Noche,WM Chile,72,158,16,5706805,2022-02-17
+181,spotify:track:6nkoWsFZeFt5dUdNmlIceh,Gusttavo Lima,Bloqueado - Ao Vivo,Sony Music Entertainment,106,163,8,5677737,2022-02-17
+182,spotify:track:5JCoSi02qi3jJeHdZXMmR8,Olivia Rodrigo,favorite crime,Olivia Rodrigo PS,11,178,35,5653082,2022-02-17
+183,spotify:track:2t16D9V5FmmRAJjsSpwvZf,Labrinth,When I R.I.P.,Masterworks,183,192,2,5620241,2022-02-17
+184,spotify:track:60ynsPSSKe6O3sfwRnIBRf,Doja Cat,Streets,Kemosabe Records/RCA Records,9,191,42,5615335,2022-02-17
+185,spotify:track:6potEImiklXkwD9qFzpu15,Labrinth,Forever,Masterworks,185,-1,1,5592195,2022-02-17
+186,spotify:track:4XvcHTUfIlWfyJTRG0aqlo,Sleepy Hallow,2055,Winners Circle/RCA Records,31,179,31,5588119,2022-02-17
+187,spotify:track:45bE4HXI0AwGZXfZtMp8JR,Tate McRae,you broke me first,RCA Records Label,13,170,82,5574007,2022-02-17
+188,spotify:track:0eu4C55hL6x29mmeAjytzC,Oliver Tree,Life Goes On,Atlantic Records,15,162,24,5573218,2022-02-17
+189,spotify:track:7H0ya83CMmgFcOhw0UB6ow,Beach House,Space Song,Apple Orchard Music,174,183,5,5572622,2022-02-17
+190,spotify:track:7iHHlCbsFou5DZSW5HCPfs,"Boza, Lunay, Lenny Tavárez, Juhn, Beéle",Ella - Remix,Sony Music Latin,178,186,5,5563264,2022-02-17
+191,spotify:track:6v3KW9xbzN5yKLt9YKDYA2,"Shawn Mendes, Camila Cabello",Señorita,Island Records,1,195,133,5559557,2022-02-17
+192,spotify:track:70pwY1UfPmSVE3ybPjFy0p,Future,Worst Day,Epic,192,-1,1,5557686,2022-02-17
+193,spotify:track:22skzmqfdWrjJylampe0kt,"Macklemore & Ryan Lewis, Macklemore, Ryan Lewis, Ray Dalton",Can't Hold Us (feat. Ray Dalton),Macklemore,149,-1,17,5550133,2022-02-17
+194,spotify:track:4pt5fDVTg5GhEvEtlz9dKk,Måneskin,I WANNA BE YOUR SLAVE,RCA Records Label,8,174,39,5549171,2022-02-17
+195,spotify:track:0fv2KH6hac06J86hBUTcSf,"Tyler, The Creator",NEW MAGIC WAND,Columbia,54,-1,3,5548633,2022-02-17
+196,spotify:track:4u7EnebtmKWzUH433cf5Qv,Queen,Bohemian Rhapsody - Remastered 2011,EMI,11,-1,177,5508788,2022-02-17
+197,spotify:track:35wvL50xvKpCHEJPxLOLPI,Bad Bunny,Si Estuviésemos Juntos,Rimas Entertainment LLC,197,-1,1,5496274,2022-02-17
+198,spotify:track:1J14CdDAvBTE1AJYUOwl6C,Duncan Laurence,Arcade,"Universal Music, a division of Universal International Music BV",23,185,56,5488431,2022-02-17
+199,spotify:track:2J2Z1SkXYghSajLibnQHOa,Sia,Unstoppable,Monkey Puzzle Records/RCA Records,199,-1,1,5482876,2022-02-17
+200,spotify:track:7BqBn9nzAq8spo5e7cZ0dJ,Bruno Mars,Just the Way You Are,Elektra (NEK),133,-1,21,5474284,2022-02-17
