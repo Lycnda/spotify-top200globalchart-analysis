@@ -1,5 +1,5 @@
 Cluster,Mean squared error,r-squared,method
-2,3014.0360257360717,0.06322563791143665,"all numeric features, k-means groups and linear regression"
-3,2717938.9839216033,-843.7462260299308,"all numeric features, k-means groups and linear regression"
-1,2114.0501291253177,0.34294482739270693,"all numeric features, k-means groups and linear regression"
-0,8036.985640366352,-1.4979270427036386,"all numeric features, k-means groups and linear regression"
+2,1855.6509699795365,0.4188448778922391,"all numeric features, k-means groups and linear regression"
+3,3496.0257905958115,-0.09488978697755601,"all numeric features, k-means groups and linear regression"
+0,2988.885134066209,0.06393716644166425,"all numeric features, k-means groups and linear regression"
+1,18587.729694553036,-4.8213287385952475,"all numeric features, k-means groups and linear regression"

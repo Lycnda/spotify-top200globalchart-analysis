@@ -1,2 +1,2 @@
 Cluster,Mean squared error,r-squared,method
-All,3771.7311950535973,-0.17226902865336324,"all numeric features, no groupings, linear regression"
+All,1815.3483562458914,0.43146690152952727,"all numeric features, no groupings, linear regression"
