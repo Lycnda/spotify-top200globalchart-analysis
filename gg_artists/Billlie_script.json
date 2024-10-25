@@ -1,0 +1,23 @@
+{
+    "Billlie": {
+        "num_of_streams": "82313",
+        "min_rank": "127",
+        "max_rank": "174",
+        "min_date": "2022-03-17",
+        "max_date": "2022-04-21",
+        "num_unique_songs": "1",
+        "artistappearanceCount": "6",
+        "unique_songs": [
+            "GingaMingaYo (the strange world)"
+        ],
+        "source_end_date_latest_ls": {
+            "MYSTIC STORY": "2022-04-21"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-04-07": "GingaMingaYo (the strange world)"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-04-21": "GingaMingaYo (the strange world)"
+        }
+    }
+}

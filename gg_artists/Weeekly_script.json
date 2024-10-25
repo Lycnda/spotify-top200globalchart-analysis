@@ -1,0 +1,23 @@
+{
+    "Weeekly": {
+        "num_of_streams": "631713",
+        "min_rank": "33",
+        "max_rank": "200",
+        "min_date": "2021-04-08",
+        "max_date": "2022-02-10",
+        "num_unique_songs": "1",
+        "artistappearanceCount": "36",
+        "unique_songs": [
+            "After School"
+        ],
+        "source_end_date_latest_ls": {
+            "PLAY M ENTERTAINMENT CORP.": "2022-02-10"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2021-05-20": "After School"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-01-20": "After School"
+        }
+    }
+}

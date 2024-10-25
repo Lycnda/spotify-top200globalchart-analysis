@@ -1,0 +1,24 @@
+{
+    "MAMAMOO": {
+        "num_of_streams": "90352",
+        "min_rank": "94",
+        "max_rank": "167",
+        "min_date": "2021-06-10",
+        "max_date": "2022-11-03",
+        "num_unique_songs": "2",
+        "artistappearanceCount": "4",
+        "unique_songs": [
+            "ILLELLA",
+            "Where Are We Now"
+        ],
+        "source_end_date_latest_ls": {
+            "RBW Inc.": "2022-11-03"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-10-20": "ILLELLA"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-11-03": "ILLELLA"
+        }
+    }
+}

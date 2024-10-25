@@ -1,18 +1,28 @@
 main_artist,track_name,End Date,rank difference
   Damons year,josee!,2023-01-05,0
   Damons year,yours,2022-08-25,0
+$,530,2024-08-08,0
 $,BACK TO ME,2024-02-15,0
 $,BEG FORGIVENESS,2024-02-15,0
 $,BURN,2024-02-15,0
 $,CARNIVAL,2024-02-15,0
 $,DO IT,2024-02-15,0
+$,FIELD TRIP,2024-08-08,0
+$,FRIED,2024-08-08,0
 $,FUK SUMN,2024-02-15,0
 $,HOODRAT,2024-02-15,0
+$,HUSBAND,2024-08-08,0
 $,KEYS TO MY LIFE,2024-02-15,0
+$,LIFESTYLE,2024-08-08,0
 $,PAID,2024-02-15,0
 $,PAPERWORK,2024-02-15,0
+$,PROMOTION,2024-08-08,0
+$,RIVER,2024-08-08,0
+$,SKY CITY,2024-08-08,0
+$,SLIDE,2024-08-08,0
 $,STARS,2024-02-15,0
 $,TALKING,2024-02-15,0
+$,TIME MOVING SLOW,2024-08-08,0
 $,VULTURES,2024-02-15,0
 (G)I-DLE,ALREADY,2022-03-17,0
 (G)I-DLE,Allergy,2023-05-18,0
@@ -25,6 +35,7 @@ $,VULTURES,2024-02-15,0
 (G)I-DLE,HWAA,2021-02-18,0
 (G)I-DLE,I DO,2023-07-20,0
 (G)I-DLE,I Want That,2023-10-12,0
+(G)I-DLE,Klaxon,2024-07-11,0
 (G)I-DLE,LIAR,2022-03-17,0
 (G)I-DLE,LOVE,2022-10-20,0
 (G)I-DLE,Last Dance (Prod. GroovyRoom),2021-05-06,0
@@ -55,6 +66,7 @@ $,VULTURES,2024-02-15,0
 (G)I-DLE,TOMBOY,2023-05-04,0
 (G)I-DLE,VILLAIN DIES,2022-03-17,0
 (G)I-DLE,Wife,2024-01-25,0
+*NSYNC,Bye Bye Bye - From Deadpool and Wolverine Soundtrack,2024-08-08,0
 -,MLK Interlude,2021-03-25,0
 10-FEET,10-FEET_NA,2023-01-12,0
 10-FEET,10-FEET_NA,2023-02-16,0
@@ -142,6 +154,7 @@ ASH ISLAND,MELODY,2021-04-08,0
 ASH ISLAND,MELODY,2021-05-06,0
 ASH ISLAND,MELODY,2022-04-28,0
 ASH ISLAND,Nightmare,2022-06-30,0
+ASH ISLAND,OST ( Feat.CHANMINA ),2024-07-18,0
 ASH ISLAND,One More Night (Feat. lIlBOI),2021-03-11,0
 ASH ISLAND,Play,2021-10-07,0
 ASH ISLAND,Rose In The Heart,2023-05-11,0
@@ -156,6 +169,7 @@ ATEEZ,Guerrilla,2022-08-04,0
 ATEEZ,HALAZIA,2023-01-05,0
 ATEEZ,WORK,2024-06-06,0
 AURORA,Runaway,2021-04-29,0
+Adam Levine,Lost Stars,2024-10-03,0
 Adele,All Night Parking (with Erroll Garner) Interlude,2021-11-25,0
 Adele,Can I Get It,2021-11-25,0
 Adele,Cry Your Heart Out,2021-11-25,0
@@ -289,6 +303,8 @@ B.I,Remember me,2021-10-14,0
 B.I,Remember me,2021-10-28,0
 B.I,illa illa,2021-06-10,0
 BABYMONSTER,BATTER UP,2023-11-30,0
+BABYMONSTER,FOREVER,2024-07-04,0
+BABYMONSTER,FOREVER,2024-08-15,0
 BABYMONSTER,LIKE THAT,2024-04-11,0
 BABYMONSTER,SHEESH,2024-04-04,0
 BABYMONSTER,SHEESH,2024-05-02,0
@@ -297,9 +313,15 @@ BAEKHYUN,All I Got,2021-04-01,0
 BAEKHYUN,Amusement Park,2021-02-04,0
 BAEKHYUN,Bambi,2021-04-01,0
 BAEKHYUN,Candy,2021-02-04,0
+BAEKHYUN,Cold Heart,2024-09-12,0
 BAEKHYUN,Cry For Love,2021-04-01,0
+BAEKHYUN,Good Morning,2024-09-12,0
 BAEKHYUN,Love Scene,2021-04-01,0
+BAEKHYUN,Pineapple Slice,2024-09-12,0
 BAEKHYUN,Privacy,2021-04-01,0
+BAEKHYUN,Rendez-Vous,2024-09-12,0
+BAEKHYUN,Truth Be Told,2024-09-12,0
+BAEKHYUN,Woo,2024-09-12,0
 BE'O, (MAD),2023-12-07,0
 BE'O,BAD LOVE,2021-11-25,0
 BE'O,Baby,2023-07-06,0
@@ -358,6 +380,7 @@ BIG Naughty,One-Way,2023-11-30,0
 BIG Naughty,Poker (Feat. Dvwn),2022-06-16,0
 BIG Naughty,"Romance Symphony (Feat. CHANGMO, Jay Park)",2022-06-16,0
 BIG Naughty,"Romance Symphony (Feat. CHANGMO, Jay Park)",2022-11-17,0
+BIG Naughty,Sunkissed (Feat. MARK of NCT),2024-07-04,0
 BIG Naughty,The invention of romance (WEBTOON 'Discovery of Love' X BIG Naughty),2022-08-25,0
 BIG Naughty,Vancouver,2022-05-12,0
 BIG Naughty,Vancouver,2022-06-30,0
@@ -433,8 +456,12 @@ BOL4,Seoul,2022-04-28,0
 BOL4,Some,2022-04-14,0
 BOL4,Space,2021-11-04,0
 BOL4,To My Youth,2022-05-05,0
+BOYNEXTDOOR,20,2024-09-12,0
 BOYNEXTDOOR,But Sometimes,2023-09-07,0
+BOYNEXTDOOR,Dangerous,2024-09-05,0
 BOYNEXTDOOR,"Earth, Wind & Fire",2024-04-18,0
+BOYNEXTDOOR,Gonna Be A Rock,2024-09-12,0
+BOYNEXTDOOR,Nice Guy,2024-09-12,0
 BOYNEXTDOOR,OUR,2024-04-25,0
 BOYS PLANET,Hot Summer,2023-04-27,0
 BOYS PLANET,Jelly Pop,2023-04-27,0
@@ -646,6 +673,7 @@ BTS,dimple,2021-02-04,0
 BUMJIN,A Letter,2023-11-02,0
 BUMJIN,A Letter,2023-12-14,0
 BUMJIN,A Letter,2024-05-23,0
+BUMJIN,A Letter,2024-07-04,0
 Baby Keem,durag activity (with Travis Scott),2021-05-06,0
 Baby Keem,family ties (with Kendrick Lamar),2021-09-02,0
 Bad Bunny,DKITI,2021-02-11,0
@@ -704,6 +732,7 @@ Benson Boone,Ghost Town,2021-11-04,0
 Benson Boone,Ghost Town,2022-04-07,0
 Benson Boone,Ghost Town,2022-11-17,0
 Benson Boone,Slow It Down,2024-03-28,0
+Benson Boone,Slow It Down,2024-08-08,0
 BewhY,Celebration,2021-08-05,0
 Beyonc,ALIEN SUPERSTAR,2022-08-04,0
 Beyonc,AMERICA HAS A PROBLEM (feat. Kendrick Lamar),2023-05-25,0
@@ -746,6 +775,7 @@ Bing Crosby,White Christmas,2021-12-23,0
 Bizarrap,"Quevedo: Bzrp Music Sessions, Vol. 52",2022-09-01,0
 Bizarrap,"Shakira: Bzrp Music Sessions, Vol. 53",2023-01-19,0
 Black Eyed Peas,GIRL LIKE ME,2021-02-25,0
+Block B,HER,2024-09-19,0
 Blxst,Chosen (feat. Ty Dolla $ign),2021-07-22,0
 Blxst,Chosen (feat. Ty Dolla $ign),2021-11-04,0
 BoA,Better,2021-09-09,0
@@ -856,21 +886,27 @@ Camila Cabello,Don't Go Yet,2021-07-29,0
 Camila Cabello,I LUV IT (feat. Playboi Carti),2024-04-04,0
 Camila Cabello,Oh Na Na,2021-11-04,0
 Camila Cabello,psychofreak (feat. WILLOW),2022-04-14,0
+Car,"Car, the garden_NA",2024-09-19,0
+Car,Closely Far Away,2024-09-19,0
 Cardi B,Hot Shit (feat. Ye & Lil Durk),2022-07-07,0
 Cardi B,Up,2021-02-11,0
 Cardi B,WAP (feat. Megan Thee Stallion),2021-02-04,0
 Cardi B,WAP (feat. Megan Thee Stallion),2021-04-15,0
 Carolina Gaitn - La Gaita,We Don't Talk About Bruno,2022-01-06,0
 Central Cee,BAND4BAND (feat. Lil Baby),2024-06-06,0
+Central Cee,BAND4BAND (feat. Lil Baby),2024-08-01,0
 Central Cee,Doja,2022-08-04,0
 Central Cee,Doja,2022-11-24,0
 Central Cee,LET GO,2022-12-22,0
 Chang Kiha,Envy None,2022-03-31,0
 Chappell Roan,"Good Luck, Babe!",2024-06-06,0
+Chappell Roan,"Good Luck, Babe!",2024-07-11,0
 Charli XCX,360,2024-05-16,0
 Charli XCX,Good Ones,2021-09-09,0
 Charli XCX,Speed Drive (From Barbie The Album),2023-07-27,0
 Charli xcx,360,2024-06-13,0
+Charli xcx,Apple,2024-08-08,0
+Charli xcx,Guess featuring Billie Eilish,2024-08-08,0
 Charlie Puth,Attention,2021-02-11,0
 Charlie Puth,Attention,2023-03-02,0
 Charlie Puth,Charlie Be Quiet!,2022-10-06,0
@@ -934,6 +970,7 @@ Charlie Puth,Theres A First Time For Everything,2022-10-13,0
 Charlie Puth,We Don't Talk Anymore (feat. Selena Gomez),2021-02-11,0
 Charlie Puth,We Don't Talk Anymore (feat. Selena Gomez),2023-03-23,0
 Charlie Puth,We Don't Talk Anymore (feat. Selena Gomez),2023-10-26,0
+Charlie Puth,We Don't Talk Anymore (feat. Selena Gomez),2024-07-11,0
 Charlie Puth,When Youre Sad Im Sad,2022-10-13,0
 Chle,Have Mercy,2021-09-23,0
 Choi Yu Ree,Forest,2023-11-16,0
@@ -971,6 +1008,8 @@ Coldplay,My Universe - Acoustic Version,2021-09-30,0
 Coldplay,My Universe - Instrumental,2021-09-30,0
 Coldplay,My Universe - SUGA's Remix,2021-10-21,0
 Coldplay,My Universe - Supernova 7 Mix,2021-09-30,0
+Coldplay,Viva La Vida,2024-07-04,0
+Coldplay,Viva La Vida,2024-07-25,0
 Coldplay,Yellow,2021-09-30,0
 Coldplay,feelslikeimfallinginlove,2024-06-27,0
 Conan Gray,Astronomy,2021-05-13,0
@@ -993,12 +1032,14 @@ Coogie,Right Now (Feat. Crush),2023-10-12,0
 Cosmic Boy,"Can I Love ? (feat. youra, Meego)",2021-02-18,0
 Cosmic Boy,"Can I Love ? (feat. youra, Meego)",2021-11-25,0
 Crash Adams,Give Me a Kiss,2022-09-29,0
+Creepy Nuts, - Otonoke,2024-10-10,0
 Creepy Nuts,Bling-Bang-Bang-Born,2024-01-18,0
 Crush,By Your Side,2024-04-25,0
 Crush,Click Like (Prod. Crush) (Feat. Paul Blanco),2023-09-07,0
 Crush,Ego,2023-11-23,0
 Crush,Hmm-cheat,2023-11-23,0
 Crush,Love You With All My Heart,2024-04-04,0
+Crush,Love You With All My Heart,2024-10-03,0
 Crush,Rush Hour (Feat. j-hope of BTS),2022-09-29,0
 Crush,Rush Hour (Feat. j-hope of BTS),2022-10-27,0
 Crush,Rush Hour (Feat. j-hope of BTS),2022-11-17,0
@@ -1021,20 +1062,33 @@ D.O.,Somebody,2023-09-28,0
 D.O.,That's okay,2023-09-07,0
 DAVICHI,Just hug me,2021-04-22,0
 DAWN ,Dear My Light,2023-04-20,0
+DAY6,COUNTER,2024-09-05,0
+DAY6,Congratulations,2024-07-18,0
 DAY6,Get The Hell Out,2024-03-21,0
 DAY6,HAPPY,2024-03-21,0
+DAY6,HAPPY,2024-10-17,0
 DAY6,Healer,2021-04-22,0
+DAY6,Help Me Rock&Roll,2024-09-05,0
+DAY6,I'm Fine,2024-09-05,0
 DAY6,Love me or Leave me,2024-03-28,0
+DAY6,Melt Down,2024-09-05,0
+DAY6,Melt Down,2024-09-26,0
+DAY6,Monster,2024-09-05,0
 DAY6,ONE,2021-04-22,0
 DAY6,Only,2021-04-22,0
 DAY6,Sad Ending,2024-03-21,0
+DAY6,She Smiled,2024-09-05,0
+DAY6,Shxtty Game,2024-09-05,0
+DAY6,Still There,2024-09-05,0
 DAY6,The Power of Love,2024-03-21,0
 DAY6,Time of Our Life -Japanese ver.- - Japanese ver.,2022-11-10,0
 DAY6,Time of Our Life -Japanese ver.- - Japanese ver.,2023-06-08,0
 DAY6,Time of Our Life -Japanese ver.- - Japanese ver.,2023-07-20,0
 DAY6,Time of Our Life -Japanese ver.- - Japanese ver.,2023-11-30,0
 DAY6,Time of Our Life -Japanese ver.- - Japanese ver.,2024-06-27,0
+DAY6,Time of Our Life -Japanese ver.- - Japanese ver.,2024-10-03,0
 DAY6,Welcome to the Show,2024-03-21,0
+DAY6,Welcome to the Show,2024-09-26,0
 DAY6,You Were Beautiful,2021-02-04,0
 DAY6,You Were Beautiful,2023-01-12,0
 DAY6,You make Me,2021-04-22,0
@@ -1108,6 +1162,8 @@ Dhruv,double take,2021-12-02,0
 Dhruv,double take,2022-11-03,0
 Dhruv,double take,2023-02-09,0
 Dhruv,double take,2024-01-11,0
+Dhruv,double take,2024-08-29,0
+Dhruv,double take,2024-10-03,0
 Djo,End of Beginning,2024-03-07,0
 Doechii,What It Is (Solo Version),2023-07-13,0
 Doja Cat,Agora Hills,2023-09-28,0
@@ -1230,6 +1286,7 @@ Dua Lipa,We're Good,2021-06-17,0
 Duke & Jones,Jiggle Jiggle,2022-06-02,0
 Duncan Laurence,Arcade,2021-03-04,0
 Dynamicduo,AEAO,2023-07-20,0
+Dynamicduo,Guilty,2024-09-05,0
 Dynamicduo,"Smoke (Prod. Dynamicduo, Padi)",2023-09-07,0
 E SENS,A Yo (Feat. Beenzino),2023-07-20,0
 E SENS,Gas (Feat. Jibin),2023-07-20,0
@@ -1243,15 +1300,19 @@ ENHYPEN,Bite Me,2023-05-25,0
 ENHYPEN,Bite Me,2023-09-21,0
 ENHYPEN,Bite Me - Japanese Ver.,2023-09-07,0
 ENHYPEN,Blessed-Cursed,2022-01-13,0
+ENHYPEN,Brought The Heat Back,2024-07-18,0
 ENHYPEN,Drunk-Dazed,2021-04-29,0
 ENHYPEN,Fatal Trouble,2024-05-23,0
 ENHYPEN,Future Perfect (Pass the MIC),2022-07-07,0
 ENHYPEN,I NEED U - Spotify Singles,2024-02-22,0
+ENHYPEN,Moonstruck,2024-07-18,0
 ENHYPEN,Polaroid Love,2022-01-20,0
 ENHYPEN,Polaroid Love,2022-02-24,0
 ENHYPEN,Polaroid Love,2022-07-14,0
 ENHYPEN,Sweet Venom,2023-11-23,0
 ENHYPEN,Tamed-Dashed,2021-10-21,0
+ENHYPEN,XO (Only If You Say Yes),2024-07-18,0
+ENHYPEN,Your Eyes Only,2024-07-18,0
 ESEGYE, RomanceYouthLove,2023-07-20,0
 EXID,FIRE,2022-10-06,0
 EXO,Cream Soda,2023-07-13,0
@@ -1263,6 +1324,7 @@ EXO,No matter,2021-06-10,0
 EXO,Paradise,2021-06-10,0
 EXO,Runaway,2021-06-10,0
 EXO,The First Snow,2021-12-23,0
+Earth,September,2024-09-26,0
 Ed Sheeran,2step,2021-11-04,0
 Ed Sheeran,2step (feat. Lil Baby),2022-04-28,0
 Ed Sheeran,Afterglow,2021-02-04,0
@@ -1334,6 +1396,8 @@ FIFTY FIFTY,Cupid - Twin Ver.,2023-03-16,0
 FIFTY FIFTY,Cupid - Twin Ver.,2023-08-03,0
 FIFTY FIFTY,Higher,2023-04-13,0
 FIFTY FIFTY,Lovin' Me,2023-04-13,0
+FIFTY FIFTY,SOS,2024-09-26,0
+FIFTY FIFTY,Starry Night,2024-09-05,0
 FKA twigs,tears in the club (feat. the weeknd),2021-12-23,0
 Farruko,Pepas,2021-08-19,0
 Fireboy DML,Peru,2021-12-30,0
@@ -1359,6 +1423,7 @@ GAYLE,abcdefu,2021-11-25,0
 GAYLE,abcdefu,2022-02-10,0
 GAYLE,abcdefu,2022-06-09,0
 GAYLE,abcdefu,2022-06-23,0
+GEMN, - Fatal,2024-07-11,0
 GFRIEND,MAGO,2021-05-27,0
 GIRIBOY,"100 (Prod. GIRIBOY, YEOHO) (Feat. YUNHWAY)",2022-09-15,0
 GIRIBOY,"No Tomorrow (Feat. lIlBOI, nafla)",2021-10-21,0
@@ -1383,6 +1448,7 @@ Gaeko,Wake Up (Prod. CODE KUNST),2022-04-07,0
 Gaho,Gaho_NA,2021-02-04,0
 Galantis,Heartbreak Anthem (with David Guetta & Little Mix),2021-05-27,0
 Geegooin,Press F5 (Feat. GRAY),2021-11-25,0
+Geeks,Officially Missing You,2024-09-12,0
 Gen Hoshino,Comedy,2022-04-14,0
 Gguggugi,Switch,2023-04-13,0
 Girls' Generation,FOREVER 1,2022-08-11,0
@@ -1447,6 +1513,7 @@ HIGHLIGHT,NOT THE END,2021-05-13,0
 HOMIES,BUSINESS MAN,2021-12-23,0
 HOMIES,FOCUS,2021-12-23,0
 HOMIES,GENERATION(Prod. Lean$moke),2021-12-23,0
+HOMIES,NOSAE NOSAE,2024-09-19,0
 HOMIES,Pour soju on my grave when I die,2022-09-29,0
 HOMIES,Siren,2021-02-11,0
 HOMIES,Siren,2021-07-08,0
@@ -1465,8 +1532,11 @@ HWASA,Chili,2023-10-12,0
 HWASA,I Love My Body,2023-09-14,0
 HWASA,I`m a B,2021-12-02,0
 HYO,Second (feat. BIBI),2021-08-19,0
+HYUKOH,Glue,2024-07-18,0
 HYUKOH,TOMBOY,2024-05-16,0
 HYUKOH,Wi Ing Wi Ing,2023-06-29,0
+HYUKOH,Y,2024-07-18,0
+HYUKOH,Young Man,2024-07-04,0
 Halsey,"I am not a woman, I'm a god",2021-09-02,0
 Halsey,Lilith (feat. SUGA of BTS) (Diablo IV Anthem),2023-06-08,0
 Halsey,Lilith (feat. SUGA of BTS) (Diablo IV Anthem),2023-06-22,0
@@ -1475,6 +1545,7 @@ Halsey,Lilith (feat. SUGA of BTS) (Diablo IV Anthem),2023-08-10,0
 Halsey,So Good,2022-06-16,0
 Halsey,Without Me,2021-02-25,0
 Han Yo Han,This Is Me (Feat. CHANGMO),2021-09-23,0
+Hanumankind,Big Dawgs,2024-08-15,0
 Harry Styles,Adore You,2021-02-11,0
 Harry Styles,Adore You,2021-03-18,0
 Harry Styles,Adore You,2021-08-19,0
@@ -1509,6 +1580,7 @@ Harry Styles,Watermelon Sugar,2022-08-04,0
 Harry Styles,Watermelon Sugar,2022-11-24,0
 Heo Hoy Kyung,So life goes on,2023-01-19,0
 Hikaru Utada,One Last Kiss,2021-03-18,0
+Hotel Ugly,Shut up My Moms Calling,2024-10-10,0
 Hozier,Too Sweet,2024-04-04,0
 Hozier,Too Sweet,2024-04-25,0
 Huh,Burn Up (Feat. Dynamicduo) (Prod. R.Tee),2022-12-22,0
@@ -1518,11 +1590,15 @@ Huh,"Way up (Feat. CAMO, JUSTHIS) (Prod. R.Tee)",2023-01-05,0
 HyunA,I'm Not Cool,2021-03-11,0
 HyunA&DAWN,PING PONG,2021-09-16,0
 ILLIT,Lucky Girl Syndrome,2024-03-28,0
+ILLIT,Lucky Girl Syndrome,2024-08-08,0
 ILLIT,Magnetic,2024-03-28,0
 ILLIT,Magnetic,2024-04-11,0
 ILLIT,Magnetic,2024-04-25,0
 ILLIT,Magnetic,2024-05-09,0
 ILLIT,Magnetic,2024-05-23,0
+ILLIT,Magnetic,2024-07-18,0
+ILLIT,Magnetic,2024-08-01,0
+ILLIT,Magnetic,2024-08-22,0
 ILLIT,Midnight Fiction,2024-03-28,0
 ILLIT,My World,2024-03-28,0
 ISEGYE IDOL,KIDDING,2023-08-24,0
@@ -1591,6 +1667,7 @@ IU,Love poem,2021-03-18,0
 IU,Love poem,2021-04-01,0
 IU,Love wins all,2024-01-25,0
 IU,Love wins all,2024-02-29,0
+IU,Love wins all,2024-07-04,0
 IU,Merry Christmas ahead (feat.Chundung),2021-12-23,0
 IU,Mother Nature (HO),2022-02-03,0
 IU,My sea,2021-03-25,0
@@ -1703,6 +1780,7 @@ IVE,Take It,2021-12-09,0
 IZ*ONE,FIESTA,2021-02-11,0
 IZ*ONE,Panorama,2021-02-04,0
 IZ*ONE,Panorama,2021-07-15,0
+Ice Spice,Did It First (with Central Cee),2024-08-01,0
 Imagine Dragons,Bones,2022-03-17,0
 Imagine Dragons,Bones,2022-04-21,0
 Imagine Dragons,Bones,2023-02-16,0
@@ -1731,9 +1809,13 @@ J. Cole,p r i d e . i s . t h e . d e v i l (with Lil Baby),2021-05-20,0
 J. Cole,p u n c h i n  . t h e . c l o c k,2021-05-20,0
 J. Cole,t h e . c l i m b . b a c k,2021-05-20,0
 J.Tajor,Like I Do,2024-01-11,0
+JAEHYUN,Dandelion,2024-08-29,0
 JAEHYUN,Forever Only,2022-08-25,0
+JAEHYUN,Roses,2024-08-29,0
+JAEHYUN,Smoke,2024-09-05,0
 JAEHYUN,Try Again,2022-03-03,0
 JANNABI,A thought on an autumn night,2022-09-29,0
+JANNABI,A thought on an autumn night,2024-10-10,0
 JANNABI,ASTEARSGOBY,2022-05-12,0
 JANNABI,Baby I Need You,2022-04-21,0
 JANNABI,Baby I Need You,2022-05-05,0
@@ -1753,6 +1835,7 @@ JANNABI,for lovers who hesitate,2024-05-16,0
 JANNABI,summerfallwinter sprinG.,2022-05-12,0
 JAURIM,", ",2022-02-17,0
 JAURIM,STAY WITH ME,2021-12-02,0
+JENNIE,Mantra,2024-10-17,0
 JENNIE,SOLO,2021-03-18,0
 JENNIE,You & Me,2023-10-12,0
 JENNIE,You & Me,2023-10-19,0
@@ -1863,9 +1946,18 @@ Jimin,Alone,2023-12-07,0
 Jimin,Alone,2023-12-14,0
 Jimin,Alone,2024-02-29,0
 Jimin,Alone,2024-06-27,0
+Jimin,Alone,2024-07-18,0
 Jimin,"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Sped Up",2023-05-25,0
 Jimin,"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",2023-05-11,0
 Jimin,"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",2023-06-22,0
+Jimin,Be Mine,2024-07-25,0
+Jimin,Be Mine,2024-08-22,0
+Jimin,Be Mine,2024-09-05,0
+Jimin,Be Mine,2024-09-12,0
+Jimin,Be Mine,2024-09-19,0
+Jimin,Be Mine,2024-09-26,0
+Jimin,Be Mine,2024-10-03,0
+Jimin,Be Mine,2024-10-10,0
 Jimin,Christmas Love,2023-03-09,0
 Jimin,Christmas Love,2023-06-22,0
 Jimin,Christmas Love,2023-11-23,0
@@ -1885,6 +1977,12 @@ Jimin,Closer Than This,2024-04-18,0
 Jimin,Closer Than This,2024-04-25,0
 Jimin,Closer Than This,2024-05-09,0
 Jimin,Closer Than This,2024-05-23,0
+Jimin,Closer Than This,2024-07-11,0
+Jimin,Closer Than This,2024-07-18,0
+Jimin,Closer Than This,2024-07-25,0
+Jimin,Closer Than This,2024-08-01,0
+Jimin,Closer Than This,2024-08-08,0
+Jimin,Closer Than This,2024-09-12,0
 Jimin,Face-off,2023-03-30,0
 Jimin,Face-off,2023-05-11,0
 Jimin,Face-off,2023-06-22,0
@@ -1901,6 +1999,9 @@ Jimin,Interlude : Dive,2023-03-30,0
 Jimin,Interlude : Dive,2023-07-06,0
 Jimin,Interlude : Dive,2023-12-07,0
 Jimin,Interlude : Dive,2024-04-04,0
+Jimin,Interlude : Showtime,2024-07-25,0
+Jimin,Interlude : Showtime,2024-08-08,0
+Jimin,Interlude : Showtime,2024-08-22,0
 Jimin,Like Crazy,2023-03-30,0
 Jimin,Like Crazy,2023-04-06,0
 Jimin,Like Crazy,2023-04-13,0
@@ -1949,6 +2050,9 @@ Jimin,Like Crazy,2024-05-16,0
 Jimin,Like Crazy,2024-05-30,0
 Jimin,Like Crazy,2024-06-13,0
 Jimin,Like Crazy,2024-06-27,0
+Jimin,Like Crazy,2024-07-04,0
+Jimin,Like Crazy,2024-07-11,0
+Jimin,Like Crazy,2024-07-18,0
 Jimin,Like Crazy (Deep House Remix),2023-03-30,0
 Jimin,Like Crazy (Deep House Remix),2023-05-04,0
 Jimin,Like Crazy (English Version),2023-03-30,0
@@ -1991,6 +2095,11 @@ Jimin,Promise,2023-03-09,0
 Jimin,Promise,2023-06-22,0
 Jimin,Promise,2023-09-28,0
 Jimin,Promise,2023-12-21,0
+Jimin,Rebirth (Intro),2024-07-25,0
+Jimin,Rebirth (Intro),2024-08-22,0
+Jimin,Rebirth (Intro),2024-09-19,0
+Jimin,Rebirth (Intro),2024-10-03,0
+Jimin,Rebirth (Intro),2024-10-10,0
 Jimin,Set Me Free Pt.2,2023-03-23,0
 Jimin,Set Me Free Pt.2,2023-03-30,0
 Jimin,Set Me Free Pt.2,2023-04-20,0
@@ -2019,6 +2128,43 @@ Jimin,Set Me Free Pt.2,2024-04-18,0
 Jimin,Set Me Free Pt.2,2024-04-25,0
 Jimin,Set Me Free Pt.2,2024-05-09,0
 Jimin,Set Me Free Pt.2,2024-05-23,0
+Jimin,Set Me Free Pt.2,2024-07-18,0
+Jimin,Slow Dance (feat. Sofia Carson),2024-07-25,0
+Jimin,Slow Dance (feat. Sofia Carson),2024-08-01,0
+Jimin,Slow Dance (feat. Sofia Carson),2024-08-22,0
+Jimin,Slow Dance (feat. Sofia Carson),2024-09-19,0
+Jimin,Slow Dance (feat. Sofia Carson),2024-09-26,0
+Jimin,Smeraldo Garden Marching Band (feat. Loco),2024-07-04,0
+Jimin,Smeraldo Garden Marching Band (feat. Loco),2024-07-11,0
+Jimin,Smeraldo Garden Marching Band (feat. Loco),2024-07-18,0
+Jimin,Smeraldo Garden Marching Band (feat. Loco),2024-08-15,0
+Jimin,Smeraldo Garden Marching Band (feat. Loco),2024-08-22,0
+Jimin,Smeraldo Garden Marching Band (feat. Loco),2024-08-29,0
+Jimin,Smeraldo Garden Marching Band (feat. Loco),2024-09-12,0
+Jimin,Smeraldo Garden Marching Band (feat. Loco),2024-09-26,0
+Jimin,Who,2024-07-25,0
+Jimin,Who,2024-08-01,0
+Jimin,Who,2024-08-08,0
+Jimin,Who,2024-08-15,0
+Jimin,Who,2024-08-22,0
+Jimin,Who,2024-08-29,0
+Jimin,Who,2024-09-05,0
+Jimin,Who,2024-09-12,0
+Jimin,Who,2024-09-19,0
+Jimin,Who,2024-09-26,0
+Jimin,Who,2024-10-03,0
+Jimin,Who,2024-10-10,0
+Jimin,Who,2024-10-17,0
+Jimin,Who (Acoustic Remix),2024-07-25,0
+Jimin,Who (Acoustic Remix),2024-08-22,0
+Jimin,Who (Beautiful Mind Remix),2024-07-25,0
+Jimin,Who (Funky Remix),2024-07-25,0
+Jimin,Who (Funky Remix),2024-09-19,0
+Jimin,Who (Instrumental),2024-07-25,0
+Jimin,Who (Rock Remix),2024-07-25,0
+Jimin,Who (Rock Remix),2024-08-22,0
+Jimin,Who (Shibuyakei Remix),2024-07-25,0
+Jimin,Who (Shibuyakei Remix),2024-09-12,0
 Jimin,With you,2022-04-28,0
 Jimin,With you,2022-05-19,0
 Jimin,With you,2022-07-14,0
@@ -2026,6 +2172,8 @@ Jimin,With you,2022-11-17,0
 Jimin,With you,2022-12-01,0
 Jimin,With you,2023-09-21,0
 Jimin,With you - Instrumental,2022-04-28,0
+Jin,Super Tuna,2024-10-17,0
+Jin,The Astronaut,2024-10-17,0
 Joe Mesmar,Blood & Sand,2022-09-29,0
 Joel Corry,BED,2021-03-25,0
 Joel Corry,OUT OUT (feat. Charli XCX & Saweetie),2021-09-16,0
@@ -2077,6 +2225,10 @@ Jung Kook,3D (feat. Jack Harlow),2024-04-25,0
 Jung Kook,3D (feat. Jack Harlow),2024-05-09,0
 Jung Kook,3D (feat. Jack Harlow),2024-05-23,0
 Jung Kook,3D (feat. Jack Harlow),2024-06-06,0
+Jung Kook,3D (feat. Jack Harlow),2024-07-18,0
+Jung Kook,3D (feat. Jack Harlow),2024-08-22,0
+Jung Kook,3D (feat. Jack Harlow),2024-09-19,0
+Jung Kook,3D (feat. Jack Harlow),2024-09-26,0
 Jung Kook,3D (feat. Jack Harlow) (A. G. Cook Remix),2023-10-12,0
 Jung Kook,3D (feat. Jack Harlow) (Instrumental),2023-10-05,0
 Jung Kook,3D (feat. Jack Harlow) (MK Remix),2023-11-02,0
@@ -2095,9 +2247,11 @@ Jung Kook,My You,2023-07-06,0
 Jung Kook,My You,2023-07-20,0
 Jung Kook,My You,2023-08-03,0
 Jung Kook,Never Let Go,2024-06-13,0
+Jung Kook,Never Let Go,2024-07-18,0
 Jung Kook,Please Don't Change (feat. DJ Snake),2023-11-09,0
 Jung Kook,Please Don't Change (feat. DJ Snake),2023-12-14,0
 Jung Kook,Please Don't Change (feat. DJ Snake),2024-01-11,0
+Jung Kook,Please Don't Change (feat. DJ Snake),2024-09-05,0
 Jung Kook,Seven (David Guetta Remix - Extended),2023-11-02,0
 Jung Kook,Seven (David Guetta Remix),2023-11-02,0
 Jung Kook,Seven (feat. Latto),2023-07-20,0
@@ -2140,6 +2294,17 @@ Jung Kook,Seven (feat. Latto) (Explicit Ver.),2024-04-18,0
 Jung Kook,Seven (feat. Latto) (Explicit Ver.),2024-04-25,0
 Jung Kook,Seven (feat. Latto) (Explicit Ver.),2024-05-02,0
 Jung Kook,Seven (feat. Latto) (Explicit Ver.),2024-05-16,0
+Jung Kook,Seven (feat. Latto) (Explicit Ver.),2024-07-04,0
+Jung Kook,Seven (feat. Latto) (Explicit Ver.),2024-07-11,0
+Jung Kook,Seven (feat. Latto) (Explicit Ver.),2024-07-18,0
+Jung Kook,Seven (feat. Latto) (Explicit Ver.),2024-07-25,0
+Jung Kook,Seven (feat. Latto) (Explicit Ver.),2024-08-22,0
+Jung Kook,Seven (feat. Latto) (Explicit Ver.),2024-09-05,0
+Jung Kook,Seven (feat. Latto) (Explicit Ver.),2024-09-12,0
+Jung Kook,Seven (feat. Latto) (Explicit Ver.),2024-09-19,0
+Jung Kook,Seven (feat. Latto) (Explicit Ver.),2024-09-26,0
+Jung Kook,Seven (feat. Latto) (Explicit Ver.),2024-10-03,0
+Jung Kook,Seven (feat. Latto) (Explicit Ver.),2024-10-10,0
 Jung Kook,Seven (feat. Latto) (Festival Mix),2023-07-27,0
 Jung Kook,Seven (feat. Latto) (Instrumental),2023-07-20,0
 Jung Kook,Seven (feat. Latto) (Island Mix),2023-07-27,0
@@ -2167,6 +2332,7 @@ Jung Kook,Standing Next to You,2024-04-18,0
 Jung Kook,Standing Next to You,2024-04-25,0
 Jung Kook,Standing Next to You,2024-05-09,0
 Jung Kook,Standing Next to You,2024-05-23,0
+Jung Kook,Standing Next to You,2024-07-11,0
 Jung Kook,Standing Next to You (USHER Remix),2023-12-07,0
 Jung Kook,Standing Next to You (USHER Remix),2023-12-28,0
 Jung Kook,Stay Alive (Prod. SUGA of BTS),2022-02-17,0
@@ -2185,6 +2351,11 @@ Jung Kook,Yes or No,2023-12-14,0
 Jung Kook,Yes or No,2023-12-21,0
 Jung Kook,Yes or No,2024-01-11,0
 Jung Kook,Yes or No,2024-01-25,0
+Jung Kook,Yes or No,2024-07-11,0
+Jung Kook,Yes or No,2024-07-18,0
+Jung Kook,Yes or No,2024-08-01,0
+Jung Kook,Yes or No,2024-08-08,0
+Jung Kook,Yes or No,2024-09-05,0
 Justin Bieber,2 Much,2021-03-25,0
 Justin Bieber,Anyone,2021-02-04,0
 Justin Bieber,Anyone,2021-04-15,0
@@ -2204,6 +2375,8 @@ Justin Bieber,Ghost,2023-11-02,0
 Justin Bieber,Ghost,2023-11-23,0
 Justin Bieber,Ghost,2024-01-18,0
 Justin Bieber,Ghost,2024-04-11,0
+Justin Bieber,Ghost,2024-08-01,0
+Justin Bieber,Ghost,2024-09-26,0
 Justin Bieber,Hailey,2021-10-14,0
 Justin Bieber,Hold On,2021-03-11,0
 Justin Bieber,Hold On,2021-04-15,0
@@ -2229,6 +2402,7 @@ Justin Bieber,Love Yourself,2021-09-30,0
 Justin Bieber,Love Yourself,2023-07-20,0
 Justin Bieber,Love Yourself,2023-09-28,0
 Justin Bieber,Love Yourself,2024-02-15,0
+Justin Bieber,Love Yourself,2024-08-29,0
 Justin Bieber,Loved By You (feat. Burna Boy),2021-03-25,0
 Justin Bieber,Mistletoe,2021-12-02,0
 Justin Bieber,Mistletoe,2023-12-14,0
@@ -2285,9 +2459,17 @@ KANGDANIEL,Wasteland,2023-08-03,0
 KARA,STEP,2022-12-08,0
 KARA,WHEN I MOVE,2022-12-01,0
 KARD,ICKY,2023-06-08,0
+KATSEYE,Touch,2024-08-15,0
+KATSEYE,Touch (ft. YEONJUN of TOMORROW X TOGETHER),2024-10-17,0
 KEY,BAD LOVE,2021-10-07,0
+KEY,Going Up,2024-10-03,0
+KEY,Golden,2024-09-26,0
 KEY,Good & Great,2023-09-21,0
 KEY,Hate that,2021-09-02,0
+KEY,I Know,2024-09-26,0
+KEY,Novacaine,2024-10-03,0
+KEY,Overthink,2024-09-26,0
+KEY,Pleasure Shop,2024-09-26,0
 KHAN,"COMPASS (Feat. UNEDUCATED KID, SUPERBEE) (Prod. R.Tee)",2022-12-22,0
 KHAN,GOBLIN (Feat. Homies) (Prod. R.Tee),2022-12-29,0
 KIHYUN,Youth,2022-10-27,0
@@ -2295,10 +2477,18 @@ KISS OF LIFE,Bad News,2023-11-23,0
 KISS OF LIFE,Bad News,2023-11-30,0
 KISS OF LIFE,Midas Touch,2024-04-04,0
 KISS OF LIFE,Midas Touch,2024-04-18,0
+KISS OF LIFE,Midas Touch,2024-07-18,0
+KISS OF LIFE,Midas Touch,2024-10-10,0
 KISS OF LIFE,Nobody Knows,2024-01-11,0
 KISS OF LIFE,Nothing,2024-04-11,0
+KISS OF LIFE,R.E.M,2024-10-10,0
 KISS OF LIFE,Shhh,2023-07-27,0
+KISS OF LIFE,Sticky,2024-07-04,0
+KISS OF LIFE,Sticky,2024-08-15,0
 KISS OF LIFE,Sugarcoat (NATTY Solo),2023-07-13,0
+KISS OF LIFE,Te Quiero,2024-07-04,0
+KIXO, ?,2024-09-05,0
+KIXO, ?,2024-09-12,0
 KOONTA,"Double Up (Feat. Yumdda, The Quiett, MUSHVENOM, Layone)",2021-12-09,0
 KOONTA,Hopefully (Feat. Jung In) (Prod. TOIL),2021-12-02,0
 KOONTA,"Timing (Feat. Yumdda, BIG Naughty) (Prod. TOIL)",2021-12-09,0
@@ -2312,9 +2502,11 @@ Kanye West,Believe What I Say,2021-09-02,0
 Kanye West,Come to Life,2021-09-02,0
 Kanye West,Donda,2021-09-02,0
 Kanye West,Donda Chant,2021-09-02,0
+Kanye West,Father Stretch My Hands Pt. 1,2024-08-29,0
 Kanye West,God Breathed,2021-09-02,0
 Kanye West,Heaven and Hell,2021-09-02,0
 Kanye West,Hurricane,2021-09-02,0
+Kanye West,I Wonder,2024-08-29,0
 Kanye West,Jail,2021-09-02,0
 Kanye West,Jail pt 2,2021-09-02,0
 Kanye West,Jesus Lord,2021-09-02,0
@@ -2333,6 +2525,7 @@ Kanye West,Ok Ok pt 2,2021-09-02,0
 Kanye West,Praise God,2021-09-02,0
 Kanye West,Pure Souls,2021-09-02,0
 Kanye West,Remote Control,2021-09-02,0
+Kanye West,Runaway,2024-08-29,0
 Kanye West,Tell The Vision,2021-09-02,0
 Kanye West,True Love,2022-06-02,0
 Kate Bush,Running Up That Hill (A Deal With God),2022-06-02,0
@@ -2376,6 +2569,7 @@ Kenshi Yonezu,KICK BACK,2023-05-11,0
 Kenshi Yonezu,LADY,2023-03-30,0
 Kenshi Yonezu,LADY,2023-11-09,0
 Kenshi Yonezu,Lemon,2022-02-10,0
+Kenshi Yonezu,Lemon,2024-07-11,0
 Kenya Grace,Strangers,2023-09-21,0
 Kep1er,THE GIRLS (Cant turn me down),2022-06-02,0
 Kep1er,Up!,2022-06-30,0
@@ -2393,6 +2587,7 @@ Kim MinSeok,DrunKen Confession,2022-07-21,0
 Kim MinSeok,DrunKen Confession,2022-08-18,0
 Kim Na Young,There For You,2021-12-30,0
 Kim Seungmin,"Drivin (Feat. Layone, BIG Naughty)",2022-08-18,0
+Kim Seungmin,Hope You're Doing Well,2024-10-17,0
 Kim Seungmin,My pleasure Is That You Ride The Bentley,2022-07-28,0
 Kim Seungmin,My pleasure Is That You Ride The Bentley,2022-11-03,0
 Kim Seungmin,"One, Two (Feat. Punch)",2022-08-11,0
@@ -2400,6 +2595,7 @@ Kim Taeri,With,2022-03-24,0
 King Gnu,King Gnu_NA,2022-02-24,0
 King Gnu,SPECIALZ,2023-09-07,0
 KingLee,Rumble,2023-12-21,0
+Kocchi no Kento,Hai Yorokonde,2024-07-11,0
 Kodak Black,"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",2023-05-18,0
 Kodak Black,"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",2023-06-01,0
 Kodak Black,"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",2023-06-08,0
@@ -2430,6 +2626,7 @@ LANY,dancing in the kitchen,2021-07-01,0
 LANY,ex i never had,2021-09-09,0
 LANY,"never mind, let's break up",2021-08-26,0
 LANY,up to me,2021-07-22,0
+LE SSERAFIM,1-800-hot-n-fun,2024-09-05,0
 LE SSERAFIM,ANTIFRAGILE,2022-10-20,0
 LE SSERAFIM,ANTIFRAGILE,2022-11-10,0
 LE SSERAFIM,ANTIFRAGILE,2022-11-17,0
@@ -2452,6 +2649,12 @@ LE SSERAFIM,Blue Flame,2022-05-05,0
 LE SSERAFIM,Blue Flame,2022-08-18,0
 LE SSERAFIM,Blue Flame (2023 Ver.),2023-05-04,0
 LE SSERAFIM,Burn the Bridge,2023-05-04,0
+LE SSERAFIM,CRAZY,2024-09-05,0
+LE SSERAFIM,CRAZY,2024-09-12,0
+LE SSERAFIM,CRAZY,2024-09-26,0
+LE SSERAFIM,CRAZY (feat. PinkPantheress),2024-09-12,0
+LE SSERAFIM,Chasing Lightning,2024-09-05,0
+LE SSERAFIM,Crazier,2024-09-05,0
 LE SSERAFIM,EASY,2024-02-22,0
 LE SSERAFIM,EASY,2024-03-07,0
 LE SSERAFIM,EASY,2024-04-04,0
@@ -2494,8 +2697,12 @@ LE SSERAFIM,Perfect Night,2024-01-25,0
 LE SSERAFIM,Perfect Night,2024-02-08,0
 LE SSERAFIM,Perfect Night,2024-02-15,0
 LE SSERAFIM,Perfect Night,2024-05-23,0
+LE SSERAFIM,Perfect Night,2024-08-01,0
+LE SSERAFIM,Pierrot,2024-09-05,0
 LE SSERAFIM,Smart,2024-02-22,0
 LE SSERAFIM,Smart,2024-03-21,0
+LE SSERAFIM,Smart,2024-07-11,0
+LE SSERAFIM,Smart,2024-07-25,0
 LE SSERAFIM,Sour Grapes,2022-07-07,0
 LE SSERAFIM,Sour Grapes,2022-07-21,0
 LE SSERAFIM,Swan Song,2024-02-22,0
@@ -2510,9 +2717,11 @@ LE SSERAFIM,We got so much,2024-02-22,0
 LEE CHAE YEON,KNOCK,2023-04-27,0
 LEE CHANGSUB,Heavenly fate,2024-04-04,0
 LEE CHANGSUB,Heavenly fate,2024-06-13,0
+LEE CHANGSUB,Heavenly fate,2024-08-01,0
 LEE CHANHYUK,Panorama,2022-10-27,0
 LEE SEUNG YOON,The Giving Tree,2022-01-13,0
 LEE SEUNG YOON,The Giving Tree,2022-01-27,0
+LEECHANGSUB,Heavenly fate,2024-10-10,0
 LET ME KNOW,Ai to Highball,2024-04-18,0
 LISA,LALISA,2021-09-16,0
 LISA,MONEY,2021-09-16,0
@@ -2520,14 +2729,21 @@ LISA,MONEY,2021-10-28,0
 LISA,MONEY,2021-12-30,0
 LISA,MONEY,2022-03-03,0
 LISA,MONEY,2022-04-07,0
+LISA,Moonlit Floor,2024-10-10,0
+LISA,New Woman (feat. ROSALA),2024-08-22,0
+LISA,Rockstar,2024-07-04,0
 LOONA,Flip That,2022-06-30,0
 LOONA,POSE,2022-06-02,0
 LOONA,PTT (Paint The Town),2021-07-08,0
 LUCY,Flowering,2024-03-28,0
 LUCY,The knight who can't die and the silk cradle,2024-03-28,0
+LUCY,Villain,2024-08-22,0
 Labrinth,Im Tired (with Zendaya) - Bonus Track,2022-03-10,0
 Lady Gaga,Bloody Mary,2022-12-15,0
 Lady Gaga,Bloody Mary,2023-01-12,0
+Lady Gaga,Die With A Smile,2024-08-22,0
+Lady Gaga,Die With A Smile,2024-09-12,0
+Lady Gaga,Die With A Smile,2024-10-03,0
 Lady Gaga,Hold My Hand,2022-06-30,0
 Lady Gaga,Rain On Me (with Ariana Grande),2021-02-04,0
 Lady Gaga,Shallow,2021-02-18,0
@@ -2674,6 +2890,8 @@ Lim Young Woong,A Psalm of Life,2022-08-18,0
 Lim Young Woong,A Psalm of Life,2023-03-23,0
 Lim Young Woong,A Psalm of Life,2023-05-25,0
 Lim Young Woong,A Psalm of Life,2023-08-24,0
+Lim Young Woong,A Psalm of Life,2024-07-11,0
+Lim Young Woong,A Psalm of Life,2024-08-08,0
 Lim Young Woong,A bientot,2022-05-26,0
 Lim Young Woong,A bientot,2023-01-26,0
 Lim Young Woong,A bientot,2023-03-16,0
@@ -2685,6 +2903,8 @@ Lim Young Woong,A bientot,2023-08-31,0
 Lim Young Woong,A bientot,2023-12-07,0
 Lim Young Woong,A bientot,2024-01-18,0
 Lim Young Woong,A bientot,2024-04-18,0
+Lim Young Woong,A bientot,2024-07-18,0
+Lim Young Woong,A bientot,2024-09-26,0
 Lim Young Woong,Do or Die,2023-10-12,0
 Lim Young Woong,Do or Die,2023-12-14,0
 Lim Young Woong,Do or Die,2023-12-21,0
@@ -2699,6 +2919,9 @@ Lim Young Woong,Do or Die,2024-04-04,0
 Lim Young Woong,Do or Die,2024-04-11,0
 Lim Young Woong,Do or Die,2024-05-02,0
 Lim Young Woong,Do or Die,2024-05-16,0
+Lim Young Woong,Do or Die,2024-07-04,0
+Lim Young Woong,Do or Die,2024-08-15,0
+Lim Young Woong,Do or Die,2024-08-29,0
 Lim Young Woong,Elevator,2023-03-02,0
 Lim Young Woong,Elevator,2023-05-04,0
 Lim Young Woong,Elevator,2023-09-21,0
@@ -2716,6 +2939,7 @@ Lim Young Woong,Father,2023-10-05,0
 Lim Young Woong,Father,2024-01-11,0
 Lim Young Woong,Father,2024-01-18,0
 Lim Young Woong,Father,2024-05-16,0
+Lim Young Woong,Father,2024-07-11,0
 Lim Young Woong,Grain of Sand,2023-06-08,0
 Lim Young Woong,Grain of Sand,2023-06-22,0
 Lim Young Woong,Grain of Sand,2023-09-14,0
@@ -2736,6 +2960,10 @@ Lim Young Woong,Grain of Sand,2024-03-28,0
 Lim Young Woong,Grain of Sand,2024-04-04,0
 Lim Young Woong,Grain of Sand,2024-04-11,0
 Lim Young Woong,Grain of Sand,2024-05-02,0
+Lim Young Woong,Grain of Sand,2024-07-04,0
+Lim Young Woong,Grain of Sand,2024-07-11,0
+Lim Young Woong,Grain of Sand,2024-08-01,0
+Lim Young Woong,Grain of Sand,2024-08-22,0
 Lim Young Woong,HERO,2022-06-02,0
 Lim Young Woong,HERO,2023-05-18,0
 Lim Young Woong,HERO,2023-06-08,0
@@ -2744,8 +2972,13 @@ Lim Young Woong,HERO,2023-11-23,0
 Lim Young Woong,HERO,2024-01-25,0
 Lim Young Woong,HERO,2024-02-01,0
 Lim Young Woong,HERO,2024-03-21,0
+Lim Young Woong,HERO,2024-10-10,0
 Lim Young Woong,Hate you,2023-03-09,0
 Lim Young Woong,Home,2024-05-09,0
+Lim Young Woong,Home,2024-08-15,0
+Lim Young Woong,Home,2024-09-05,0
+Lim Young Woong,Home,2024-09-26,0
+Lim Young Woong,Home,2024-10-10,0
 Lim Young Woong,I Love You,2022-05-19,0
 Lim Young Woong,I Love You,2022-07-14,0
 Lim Young Woong,I Love You,2022-10-06,0
@@ -2753,6 +2986,7 @@ Lim Young Woong,I Love You,2023-05-18,0
 Lim Young Woong,I Love You,2023-09-21,0
 Lim Young Woong,I Love You,2023-11-23,0
 Lim Young Woong,I Love You,2024-02-01,0
+Lim Young Woong,I Love You,2024-08-15,0
 Lim Young Woong,IM HERO -  ,2022-04-28,0
 Lim Young Woong,If We Ever Meet Again,2022-05-12,0
 Lim Young Woong,If We Ever Meet Again,2022-06-30,0
@@ -2769,6 +3003,7 @@ Lim Young Woong,If We Ever Meet Again,2023-09-28,0
 Lim Young Woong,If We Ever Meet Again,2023-12-14,0
 Lim Young Woong,If We Ever Meet Again,2023-12-21,0
 Lim Young Woong,If We Ever Meet Again,2024-02-15,0
+Lim Young Woong,If We Ever Meet Again,2024-10-10,0
 Lim Young Woong,London Boy,2022-11-24,0
 Lim Young Woong,London Boy,2023-01-26,0
 Lim Young Woong,London Boy,2023-03-09,0
@@ -2788,6 +3023,7 @@ Lim Young Woong,London Boy,2024-01-04,0
 Lim Young Woong,London Boy,2024-01-25,0
 Lim Young Woong,London Boy,2024-03-14,0
 Lim Young Woong,London Boy,2024-05-02,0
+Lim Young Woong,London Boy,2024-07-18,0
 Lim Young Woong,Love Always Run Away,2021-11-18,0
 Lim Young Woong,Love Always Run Away,2022-02-17,0
 Lim Young Woong,Love Always Run Away,2022-03-17,0
@@ -2796,14 +3032,19 @@ Lim Young Woong,Love Always Run Away,2023-03-09,0
 Lim Young Woong,Love Always Run Away,2023-09-21,0
 Lim Young Woong,Love Always Run Away,2024-01-11,0
 Lim Young Woong,Love Always Run Away,2024-02-22,0
+Lim Young Woong,Love Always Run Away,2024-07-11,0
+Lim Young Woong,Love Always Run Away,2024-09-12,0
+Lim Young Woong,Love Always Run Away,2024-09-26,0
 Lim Young Woong,Love Letter,2022-05-26,0
 Lim Young Woong,Love Letter,2023-05-11,0
 Lim Young Woong,Love Letter,2023-08-31,0
 Lim Young Woong,Love Letter,2023-10-12,0
 Lim Young Woong,Love Letter,2023-11-30,0
+Lim Young Woong,Love Letter,2024-07-04,0
 Lim Young Woong,Love Station,2022-05-26,0
 Lim Young Woong,Love Station,2023-10-05,0
 Lim Young Woong,Love Station,2023-10-12,0
+Lim Young Woong,Love Station,2024-09-05,0
 Lim Young Woong,Lovely Touch,2022-05-26,0
 Lim Young Woong,Lovely Touch,2022-06-30,0
 Lim Young Woong,Lovely Touch,2022-08-25,0
@@ -2816,12 +3057,14 @@ Lim Young Woong,Lovely Touch,2023-08-31,0
 Lim Young Woong,Lovely Touch,2023-10-05,0
 Lim Young Woong,Lovely Touch,2023-10-12,0
 Lim Young Woong,Lovely Touch,2024-01-04,0
+Lim Young Woong,Lovely Touch,2024-07-11,0
 Lim Young Woong,Loving You,2022-06-02,0
 Lim Young Woong,Loving You,2022-08-25,0
 Lim Young Woong,Loving You,2023-04-13,0
 Lim Young Woong,Loving You,2023-04-20,0
 Lim Young Woong,Loving You,2023-05-04,0
 Lim Young Woong,Loving You,2024-02-01,0
+Lim Young Woong,Loving You,2024-07-25,0
 Lim Young Woong,My Starry Love,2022-06-02,0
 Lim Young Woong,My Starry Love,2023-04-06,0
 Lim Young Woong,My Starry Love,2023-05-11,0
@@ -2833,6 +3076,7 @@ Lim Young Woong,Nest,2022-05-26,0
 Lim Young Woong,Nest,2022-08-18,0
 Lim Young Woong,Nest,2024-01-18,0
 Lim Young Woong,Nest,2024-04-11,0
+Lim Young Woong,Nest,2024-09-05,0
 Lim Young Woong,"Our Blues, Our Life",2022-05-12,0
 Lim Young Woong,"Our Blues, Our Life",2023-08-03,0
 Lim Young Woong,"Our Blues, Our Life",2023-08-31,0
@@ -2858,6 +3102,7 @@ Lim Young Woong,Polaroid,2023-12-28,0
 Lim Young Woong,Polaroid,2024-03-28,0
 Lim Young Woong,Polaroid,2024-04-04,0
 Lim Young Woong,Polaroid,2024-04-25,0
+Lim Young Woong,Polaroid,2024-08-22,0
 Lim Young Woong,Rainbow,2022-05-19,0
 Lim Young Woong,Rainbow,2022-06-30,0
 Lim Young Woong,Rainbow,2022-08-18,0
@@ -2872,6 +3117,7 @@ Lim Young Woong,Rainbow,2023-12-28,0
 Lim Young Woong,Rainbow,2024-02-08,0
 Lim Young Woong,Rainbow,2024-03-14,0
 Lim Young Woong,Rainbow,2024-05-02,0
+Lim Young Woong,Rainbow,2024-09-26,0
 Lim Young Woong,Trust in me,2022-06-02,0
 Lim Young Woong,Trust in me,2023-02-16,0
 Lim Young Woong,Trust in me,2023-05-04,0
@@ -2881,6 +3127,12 @@ Lim Young Woong,Two fists,2023-03-16,0
 Lim Young Woong,Two fists,2023-11-09,0
 Lim Young Woong,Warmth,2024-05-09,0
 Lim Young Woong,Warmth,2024-05-23,0
+Lim Young Woong,Warmth,2024-08-15,0
+Lim Young Woong,Warmth,2024-09-05,0
+Lim Young Woong,Warmth,2024-09-26,0
+Lim Young Woong,Warmth,2024-10-10,0
+Linkin Park,Heavy Is the Crown,2024-10-03,0
+Linkin Park,The Emptiness Machine,2024-09-12,0
 Livingston,Architect,2024-04-04,0
 Lizzo,About Damn Time,2022-04-21,0
 Lizzo,Rumors (feat. Cardi B),2021-08-19,0
@@ -2912,6 +3164,8 @@ MAX,STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM),2024-02-15,0
 MEDUZA,Paradise (feat. Dermot Kennedy),2021-02-04,0
 MEENOI,Tea time (Feat. 10CM),2022-03-31,0
 MEENOI,and you (Feat. ZICO),2023-11-16,0
+MEOVV,MEOW,2024-09-12,0
+MEOVV,MEOW,2024-09-26,0
 MI,You (Prod. SUGA of BTS),2021-10-21,0
 MINNIE,Like A Dream,2024-05-16,0
 MINO,TANG!,2021-12-09,0
@@ -2971,6 +3225,8 @@ Masked Wolf,Astronaut In The Ocean,2021-04-29,0
 Masked Wolf,Astronaut In The Ocean,2021-05-20,0
 Masked Wolf,Astronaut In The Ocean,2021-07-01,0
 Matt Champion,Slow Motion,2024-03-14,0
+Megan Thee Stallion,Mamushi (feat. Yuki Chiba),2024-07-18,0
+Megan Thee Stallion,Neva Play (feat. RM of BTS),2024-09-12,0
 Megan Thee Stallion,Sweetest Pie,2022-03-17,0
 Megan Thee Stallion,Thot Shit,2021-06-17,0
 Megan Thee Stallion,Thot Shit,2021-08-26,0
@@ -3015,6 +3271,7 @@ Mudd the student,"MOSS (Feat. MINO, BOBBY) (Prod. MINO)",2021-11-25,0
 Muni Long,Hrs & Hrs,2022-02-10,0
 Mustard,Parking Lot,2024-06-27,0
 N.Flying,Blue Moon,2024-06-06,0
+N.Flying,Into You,2024-07-04,0
 N.Flying,Star,2024-06-06,0
 NAYEON,ABCD,2024-06-27,0
 NAYEON,NO PROBLEM (Feat. Felix of Stray Kids),2022-06-30,0
@@ -3065,6 +3322,7 @@ NCT 127,Tasty,2022-09-22,0
 NCT 127,The Rainy Night,2021-09-23,0
 NCT 127,Time Lapse,2022-09-22,0
 NCT 127,Vitamin,2022-09-22,0
+NCT 127,Walk,2024-07-18,0
 NCT 127,gimme gimme,2021-02-18,0
 NCT 2021,Beautiful,2021-12-23,0
 NCT DOJAEJUNG,Can We Go Back,2023-04-20,0
@@ -3108,6 +3366,7 @@ NCT DREAM,Moon,2022-12-22,0
 NCT DREAM,My Youth,2021-05-13,0
 NCT DREAM,Never Goodbye,2022-03-31,0
 NCT DREAM,Rainbow,2021-05-13,0
+NCT DREAM,Rains in Heaven,2024-08-29,0
 NCT DREAM,Replay,2022-03-31,0
 NCT DREAM,Rewind,2022-03-31,0
 NCT DREAM,Ridin',2021-02-04,0
@@ -3133,6 +3392,8 @@ NCT U,My Everything,2021-02-04,0
 NCT U,PADO,2023-09-07,0
 NCT U,Round&Round,2021-12-23,0
 NCT U,Universe (Let's Play Ball),2021-12-16,0
+NCT WISH,Dunk Shot,2024-09-12,0
+NCT WISH,Steady,2024-09-26,0
 NCT WISH,WISH - Korean Ver.,2024-03-21,0
 NEIKED,Better Days (NEIKED x Mae Muller x Polo G),2021-10-28,0
 NF,The Search,2023-03-09,0
@@ -3146,6 +3407,8 @@ NMIXX,Love Me Like This,2023-03-23,0
 NMIXX,O.O,2022-02-24,0
 NMIXX,Party O'Clock,2023-07-20,0
 NMIXX,Roller Coaster,2023-07-06,0
+NMIXX,SICKUHH (Feat. Kid Milli),2024-08-29,0
+NMIXX,See that?,2024-08-22,0
 NMIXX,Soar (Breaker),2023-12-07,0
 NMIXX,Soar (Breaker),2023-12-21,0
 NMIXX,"Young, Dumb, Stupid",2023-03-16,0
@@ -3156,10 +3419,13 @@ Nat King Cole,The Christmas Song (Merry Christmas To You),2021-12-23,0
 Nerd Connection,Good Night Good Dream,2022-02-03,0
 Nerd Connection,Good Night Good Dream,2022-09-22,0
 Nerd Connection,Good Night Good Dream,2023-10-12,0
+Nerd Connection,Good Night Good Dream,2024-07-04,0
 Nerd Connection,If I have you only (My love X Nerd Connection),2023-11-16,0
 Nerd Connection,If I have you only (My love X Nerd Connection),2024-04-25,0
+Nerd Connection,If I have you only (My love X Nerd Connection),2024-08-22,0
 Nerd Connection,Silently Completely Eternally,2024-02-08,0
 Nerd Connection,Silently Completely Eternally,2024-02-29,0
+Nerd Connection,Silently Completely Eternally,2024-08-08,0
 NewJeans,ASAP,2023-07-27,0
 NewJeans,Attention,2022-08-04,0
 NewJeans,Attention,2022-08-11,0
@@ -3185,6 +3451,9 @@ NewJeans,Attention,2024-06-27,0
 NewJeans,Attention (250 Remix),2023-12-21,0
 NewJeans,Beautiful Restriction,2023-09-07,0
 NewJeans,Bubble Gum,2024-05-30,0
+NewJeans,Bubble Gum,2024-07-11,0
+NewJeans,Bubble Gum,2024-07-18,0
+NewJeans,Bubble Gum,2024-08-15,0
 NewJeans,Bubble Gum (Instrumental),2024-05-30,0
 NewJeans,Cookie,2022-08-04,0
 NewJeans,Cookie,2022-08-18,0
@@ -3194,6 +3463,7 @@ NewJeans,Cookie,2022-09-15,0
 NewJeans,Cookie,2023-01-05,0
 NewJeans,Cookie,2023-01-19,0
 NewJeans,Cookie,2023-06-08,0
+NewJeans,Cookie,2024-07-04,0
 NewJeans,Cookie (FRNK Remix),2023-12-28,0
 NewJeans,Cool With You,2023-07-27,0
 NewJeans,Cool With You,2023-08-24,0
@@ -3217,6 +3487,7 @@ NewJeans,Ditto,2023-07-13,0
 NewJeans,Ditto,2023-09-07,0
 NewJeans,Ditto,2023-10-05,0
 NewJeans,Ditto,2023-10-19,0
+NewJeans,Ditto,2024-08-01,0
 NewJeans,Ditto (250 Remix),2023-12-21,0
 NewJeans,ETA,2023-07-27,0
 NewJeans,ETA,2023-08-10,0
@@ -3224,8 +3495,12 @@ NewJeans,ETA,2023-08-31,0
 NewJeans,ETA,2023-09-07,0
 NewJeans,ETA,2024-05-23,0
 NewJeans,ETA,2024-06-27,0
+NewJeans,ETA,2024-09-05,0
 NewJeans,Get Up,2023-07-27,0
 NewJeans,How Sweet,2024-05-30,0
+NewJeans,How Sweet,2024-07-18,0
+NewJeans,How Sweet,2024-08-08,0
+NewJeans,How Sweet,2024-08-15,0
 NewJeans,How Sweet (Instrumental),2024-05-30,0
 NewJeans,Hurt,2022-08-04,0
 NewJeans,Hurt,2022-11-10,0
@@ -3234,6 +3509,8 @@ NewJeans,Hurt,2023-02-09,0
 NewJeans,Hurt,2023-03-02,0
 NewJeans,Hurt,2023-09-14,0
 NewJeans,Hurt,2023-10-19,0
+NewJeans,Hurt,2024-09-12,0
+NewJeans,Hurt,2024-09-26,0
 NewJeans,Hype Boy,2022-08-04,0
 NewJeans,Hype Boy,2022-08-18,0
 NewJeans,Hype Boy,2022-09-15,0
@@ -3268,6 +3545,7 @@ NewJeans,New Jeans,2023-08-24,0
 NewJeans,New Jeans,2023-12-21,0
 NewJeans,New Jeans,2024-01-11,0
 NewJeans,New Jeans,2024-01-18,0
+NewJeans,New Jeans,2024-07-25,0
 NewJeans,OMG,2023-01-05,0
 NewJeans,OMG,2023-01-12,0
 NewJeans,OMG,2023-01-19,0
@@ -3283,9 +3561,12 @@ NewJeans,OMG,2023-04-20,0
 NewJeans,OMG,2023-05-11,0
 NewJeans,OMG,2024-01-11,0
 NewJeans,OMG,2024-04-11,0
+NewJeans,OMG,2024-10-03,0
 NewJeans,OMG (FRNK Remix),2023-12-21,0
 NewJeans,Our Night is more beautiful than your Day,2023-11-30,0
 NewJeans,Right Now,2024-06-27,0
+NewJeans,Right Now,2024-08-08,0
+NewJeans,Right Now,2024-09-19,0
 NewJeans,Right Now (Instrumental),2024-06-27,0
 NewJeans,Super Shy,2023-07-13,0
 NewJeans,Super Shy,2023-07-20,0
@@ -3297,7 +3578,13 @@ NewJeans,Super Shy,2023-12-21,0
 NewJeans,Super Shy,2024-03-07,0
 NewJeans,Super Shy,2024-04-04,0
 NewJeans,Super Shy,2024-04-18,0
+NewJeans,Super Shy,2024-07-25,0
+NewJeans,Super Shy,2024-10-17,0
 NewJeans,Supernatural,2024-06-27,0
+NewJeans,Supernatural,2024-07-11,0
+NewJeans,Supernatural,2024-07-18,0
+NewJeans,Supernatural,2024-08-15,0
+NewJeans,Supernatural,2024-09-19,0
 NewJeans,Supernatural (Instrumental),2024-06-27,0
 NewJeans,Zero,2023-04-06,0
 NewJeans,Zero (J.I.D Remix),2023-06-29,0
@@ -3309,6 +3596,8 @@ Nicki Minaj,Do We Have A Problem?,2022-02-10,0
 Nicki Minaj,Super Freaky Girl,2022-08-18,0
 Nicky Youre,Sunroof,2022-05-19,0
 Nicky Youre,Sunroof,2023-02-23,0
+Nicky Youre,Sunroof,2024-08-15,0
+Nicky Youre,Sunroof,2024-10-17,0
 Nilo,He' Story,2022-11-10,0
 Normani,Wild Side (feat. Cardi B),2021-07-22,0
 OFFICIAL HIGE DANDISM,Mixed Nuts,2022-04-21,0
@@ -3332,6 +3621,7 @@ ONF,Beautiful Beautiful,2021-03-04,0
 OVAN,I Need You,2022-02-03,0
 Oasis,Don't Look Back in Anger - Remastered,2021-07-01,0
 Oasis,Don't Look Back in Anger - Remastered,2024-04-25,0
+Oasis,Wonderwall - Remastered,2024-08-29,0
 Oliver Tree,Life Goes On,2021-09-16,0
 Olivia Rodrigo,"1 step forward, 3 steps back",2021-05-27,0
 Olivia Rodrigo,all-american bitch,2023-09-14,0
@@ -3373,6 +3663,7 @@ OneRepublic,I Ain't Worried,2022-10-13,0
 OneRepublic,I Ain't Worried,2022-11-10,0
 OneRepublic,I Ain't Worried,2023-01-12,0
 OneRepublic,I Ain't Worried,2023-10-19,0
+OneRepublic,I Ain't Worried,2024-07-04,0
 OneRepublic,Run,2021-05-13,0
 OneRepublic,Someday,2021-09-02,0
 Overdose,Over Me,2023-04-13,0
@@ -3380,7 +3671,21 @@ PARK HYEON JIN,PARADISE (Feat. meenoi),2021-04-29,0
 PATEKO,"Rainy day (Feat. ASH ISLAND, Skinny Brown)",2021-07-08,0
 PATEKO,"Rainy day (Feat. ASH ISLAND, Skinny Brown)",2021-10-21,0
 PATEKO,Think About You,2023-03-09,0
+PLAVE,Dear. PLLI,2024-08-29,0
+PLAVE,From,2024-08-22,0
+PLAVE,I Just Love Ya,2024-08-29,0
+PLAVE,Merry PLLIstmas,2024-08-22,0
+PLAVE,Our Movie,2024-08-22,0
+PLAVE,Pixel world,2024-08-29,0
+PLAVE,Pump Up The Volume!,2024-08-22,0
 PLAVE,The 6th Summer,2023-08-31,0
+PLAVE,The 6th Summer,2024-10-10,0
+PLAVE,Virtual Idol,2024-08-22,0
+PLAVE,WAY 4 LUV,2024-08-22,0
+PLAVE,Wait for you,2024-08-22,0
+PLAVE,Watch Me Woo!,2024-08-22,0
+PLAVE,What If,2024-10-17,0
+PLAVE,Why?,2024-08-22,0
 PSY,Celeb,2022-05-05,0
 PSY,That That (prod.&feat. SUGA of BTS),2022-05-05,0
 PSY,That That (prod.&feat. SUGA of BTS),2022-06-23,0
@@ -3414,6 +3719,7 @@ Pink Sweat$,Midnight River (feat. 6LACK),2021-12-16,0
 Pink Sweat$,Nothing Feels Better,2021-10-28,0
 PinkPantheress,Boy's a liar Pt. 2,2023-02-16,0
 PinkPantheress,Just for Me,2021-08-19,0
+Playboi Carti,ALL RED,2024-09-19,0
 Polo G,RAPSTAR,2021-04-15,0
 Pop Smoke,What You Know Bout Love,2021-02-11,0
 Porter Robinson,Everything Goes On,2022-07-21,0
@@ -3426,8 +3732,10 @@ Post Malone,Circles,2023-05-04,0
 Post Malone,Cooped Up (with Roddy Ricch),2022-05-19,0
 Post Malone,Enough Is Enough,2023-08-03,0
 Post Malone,Euthanasia,2022-06-09,0
+Post Malone,Guy For That (Feat. Luke Combs),2024-08-01,0
 Post Malone,I Cannot Be (A Sadder Song) (with Gunna),2022-06-09,0
 Post Malone,I Had Some Help (Feat. Morgan Wallen),2024-05-16,0
+Post Malone,I Had Some Help (Feat. Morgan Wallen),2024-08-08,0
 Post Malone,I Like You (A Happier Song) (with Doja Cat),2022-06-09,0
 Post Malone,I Like You (A Happier Song) (with Doja Cat),2023-01-26,0
 Post Malone,I Like You (A Happier Song) (with Doja Cat),2023-02-23,0
@@ -3458,30 +3766,41 @@ Post Malone,Sunflower - Spider-Man: Into the Spider-Verse,2023-07-06,0
 Post Malone,Sunflower - Spider-Man: Into the Spider-Verse,2023-08-31,0
 Post Malone,Sunflower - Spider-Man: Into the Spider-Verse,2023-11-23,0
 Post Malone,Sunflower - Spider-Man: Into the Spider-Verse,2023-12-14,0
+Post Malone,Sunflower - Spider-Man: Into the Spider-Verse,2024-07-25,0
+Post Malone,Sunflower - Spider-Man: Into the Spider-Verse,2024-09-26,0
 Post Malone,Too Cool To Die,2023-08-03,0
 Post Malone,Waiting For A Miracle,2022-06-09,0
 Post Malone,Wasting Angels (with The Kid LAROI),2022-06-09,0
 Post Malone,When Im Alone,2022-06-09,0
 Post Malone,Wrapped Around Your Finger,2022-06-09,0
+Primary,Johnny,2024-09-12,0
 QM,COME TO MY STU (Feat. Leellamarz),2022-12-15,0
 QWER,Discord,2023-11-09,0
+QWER,FAKE IDOL,2024-09-12,0
+QWER,My Name is Malguem,2024-09-26,0
+QWER,My Name is Malguem,2024-10-17,0
 QWER,T.B.H,2024-04-04,0
 QWER,T.B.H,2024-06-06,0
+Quavo,Tough,2024-07-11,0
 RADWIMPS,KANATA HALUKA,2023-03-16,0
 RADWIMPS,Suzume,2023-03-09,0
 RAYE,Escapism.,2023-01-05,0
 RIIZE,9 Days,2024-05-02,0
 RIIZE,Boom Boom Bass,2024-06-27,0
+RIIZE,Boom Boom Bass,2024-08-29,0
+RIIZE,Combo,2024-09-12,0
 RIIZE,Get A Guitar,2023-09-07,0
 RIIZE,Get A Guitar,2024-01-18,0
 RIIZE,Get A Guitar,2024-02-01,0
 RIIZE,Get A Guitar,2024-03-14,0
+RIIZE,Get A Guitar,2024-10-10,0
 RIIZE,Honestly,2024-05-02,0
 RIIZE,Impossible,2024-04-25,0
 RIIZE,Love 119,2024-01-11,0
 RIIZE,Love 119,2024-03-14,0
 RIIZE,Love 119,2024-03-28,0
 RIIZE,Love 119,2024-04-11,0
+RIIZE,Lucky,2024-08-08,0
 RIIZE,Memories,2023-08-31,0
 RIIZE,Memories,2024-04-04,0
 RIIZE,Memories,2024-05-16,0
@@ -3582,12 +3901,14 @@ SEB,seaside_demo,2021-06-17,0
 SEULGI,28 Reasons,2022-10-06,0
 SEUNGKWAN,As It Was - Spotify Singles,2022-10-06,0
 SEVENTEEN,'bout you,2022-06-02,0
+SEVENTEEN,1 TO 13,2024-10-17,0
 SEVENTEEN,2 MINUS 1 (Bonus Track),2021-10-28,0
 SEVENTEEN,Anyone,2021-06-24,0
 SEVENTEEN,April shower,2023-04-27,0
 SEVENTEEN,Ash,2022-06-02,0
 SEVENTEEN,Back 2 Back,2023-10-26,0
 SEVENTEEN,CHEERS,2022-07-21,0
+SEVENTEEN,Candy,2024-10-17,0
 SEVENTEEN,Cheers to youth,2024-05-02,0
 SEVENTEEN,Crush,2021-10-28,0
 SEVENTEEN,DON QUIXOTE,2022-06-02,0
@@ -3597,6 +3918,7 @@ SEVENTEEN,Darl+ing,2023-06-01,0
 SEVENTEEN,Diamond Days,2023-10-26,0
 SEVENTEEN,Domino,2022-06-02,0
 SEVENTEEN,Dust,2023-04-27,0
+SEVENTEEN,Eyes on you,2024-10-17,0
 SEVENTEEN,F*ck My Life,2023-04-27,0
 SEVENTEEN,Fire,2023-04-27,0
 SEVENTEEN,GAM3 BO1,2021-06-24,0
@@ -3614,6 +3936,7 @@ SEVENTEEN,IF you leave me,2022-06-02,0
 SEVENTEEN,Imperfect love,2021-10-28,0
 SEVENTEEN,Is It Still Beautiful,2021-08-19,0
 SEVENTEEN,LALALI,2024-05-02,0
+SEVENTEEN,"LOVE, MONEY, FAME (feat. DJ Khaled)",2024-10-17,0
 SEVENTEEN,Left & Right,2021-02-04,0
 SEVENTEEN,MAESTRO,2024-05-02,0
 SEVENTEEN,March,2022-06-02,0
@@ -3668,6 +3991,7 @@ STAYC,ASAP,2021-10-14,0
 STAYC,ASAP,2022-02-10,0
 STAYC,BEAUTIFUL MONSTER,2022-07-21,0
 STAYC,Bubble,2023-08-24,0
+STAYC,Cheeky Icy Thang,2024-07-11,0
 STAYC,Fancy - Spotify Singles,2024-03-21,0
 STAYC,Poppy (Korean Ver.),2023-02-09,0
 STAYC,RUN2U,2022-02-24,0
@@ -3699,6 +4023,7 @@ SZA,Kill Bill,2023-02-23,0
 SZA,Kill Bill,2023-06-01,0
 SZA,Kill Bill,2023-12-14,0
 SZA,Kill Bill,2024-05-23,0
+SZA,Kill Bill,2024-08-22,0
 SZA,Kill Bill (feat. Doja Cat),2023-04-20,0
 SZA,Love Language,2022-12-15,0
 SZA,Low,2022-12-15,0
@@ -3713,15 +4038,22 @@ SZA,Snooze,2022-12-15,0
 SZA,Snooze,2023-05-11,0
 SZA,Snooze (Acoustic) (feat. Justin Bieber),2023-09-21,0
 SZA,Used (feat. Don Toliver),2022-12-15,0
+Sabrina Carpenter,Bed Chem,2024-09-05,0
 Sabrina Carpenter,Espresso,2024-04-18,0
 Sabrina Carpenter,Espresso,2024-05-09,0
+Sabrina Carpenter,Espresso,2024-08-29,0
+Sabrina Carpenter,Espresso,2024-09-05,0
 Sabrina Carpenter,Feather,2024-01-18,0
+Sabrina Carpenter,Good Graces,2024-08-29,0
 Sabrina Carpenter,Nonsense,2022-12-15,0
 Sabrina Carpenter,Nonsense,2023-01-26,0
 Sabrina Carpenter,Nonsense,2023-03-16,0
 Sabrina Carpenter,Nonsense,2024-02-08,0
+Sabrina Carpenter,Nonsense,2024-08-22,0
 Sabrina Carpenter,Please Please Please,2024-06-13,0
+Sabrina Carpenter,Please Please Please,2024-08-08,0
 Sabrina Carpenter,Skin,2021-02-04,0
+Sabrina Carpenter,Taste,2024-08-29,0
 Sam Fischer,What Other People Say,2021-02-18,0
 Sam Kim,Love Me Like That,2021-07-29,0
 Sam Kim,Summer Rain,2022-01-13,0
@@ -3732,6 +4064,7 @@ Sam Smith,I'm Not Here To Make Friends,2023-02-02,0
 Sam Smith,I'm Not The Only One,2022-09-15,0
 Sam Smith,I'm Not The Only One,2023-07-20,0
 Sam Smith,I'm Not The Only One,2023-08-24,0
+Sam Smith,Im Not The Only One (feat. TAEYEON),2024-09-05,0
 Sam Smith,Love Me More,2022-05-05,0
 Sam Smith,Unholy (feat. Kim Petras),2022-09-29,0
 Sam Smith,Unholy (feat. Kim Petras),2022-10-20,0
@@ -3742,6 +4075,7 @@ Sampa the Great,Energy,2021-10-07,0
 Sandeul,Slightly Tipsy (She is My Type X SANDEUL),2021-09-23,0
 Saweetie,Best Friend (feat. Doja Cat),2021-02-04,0
 Say Yes!,Say My Name,2023-04-13,0
+Seiko Matsuda,Seiko Matsuda_NA,2024-07-04,0
 Selena Gomez,Baila Conmigo (with Rauw Alejandro),2021-02-04,0
 Selena Gomez,Lose You To Love Me,2021-02-11,0
 Selena Gomez,Love On,2024-02-29,0
@@ -3789,6 +4123,7 @@ Stray Kids,CIRCUS (Korean Ver.),2022-10-13,0
 Stray Kids,COMFLEX,2023-11-16,0
 Stray Kids,"Can't Stop (Seungmin, I.N)",2022-10-13,0
 Stray Kids,Charmer,2022-03-24,0
+Stray Kids,Chk Chk Boom,2024-07-25,0
 Stray Kids,Collision,2023-06-08,0
 Stray Kids,Cover Me,2023-11-16,0
 Stray Kids,DLC,2023-06-08,0
@@ -3797,7 +4132,9 @@ Stray Kids,FREEZE,2022-03-24,0
 Stray Kids,GET LIT,2023-06-08,0
 Stray Kids,Give Me Your TMI,2022-10-13,0
 Stray Kids,Hall of Fame,2023-06-08,0
+Stray Kids,I Like It,2024-07-25,0
 Stray Kids,ITEM,2023-06-08,0
+Stray Kids,JJAM,2024-07-25,0
 Stray Kids,LALALALA,2023-11-16,0
 Stray Kids,LALALALA (Rock Ver.),2023-11-16,0
 Stray Kids,Leave,2023-11-16,0
@@ -3805,12 +4142,15 @@ Stray Kids,Lonely St.,2022-03-24,0
 Stray Kids,Lose My Breath (Feat. Charlie Puth),2024-05-16,0
 Stray Kids,MANIAC,2022-03-24,0
 Stray Kids,MEGAVERSE,2023-11-16,0
+Stray Kids,MOUNTAINS,2024-07-25,0
 Stray Kids,Mixtape : Time Out,2023-06-08,0
 Stray Kids,"Muddy Water (Changbin, Hyunjin, HAN, Felix)",2022-03-24,0
+Stray Kids,Runners,2024-07-25,0
 Stray Kids,S-Class,2023-06-08,0
 Stray Kids,S-Class,2023-06-29,0
 Stray Kids,SUPER BOARD,2022-10-13,0
 Stray Kids,Social Path (Feat. LiSA) (Korean Ver.),2023-11-16,0
+Stray Kids,Stray Kids,2024-07-25,0
 Stray Kids,Super Bowl,2023-06-08,0
 Stray Kids,"TASTE (Lee Know, Hyunjin, Felix)",2022-10-13,0
 Stray Kids,THE SOUND (Korean Ver.),2023-06-08,0
@@ -3819,6 +4159,7 @@ Stray Kids,Thunderous,2021-08-26,0
 Stray Kids,VENOM,2022-03-24,0
 Stray Kids,"Waiting For Us (Bang Chan, Lee Know, Seungmin, I.N)",2022-03-24,0
 Stray Kids,Youtiful,2023-06-08,0
+Stray Kids,twilight,2024-07-25,0
 Sub Urban,INFERNO,2021-08-19,0
 Summer Walker,No Love (with SZA),2021-11-11,0
 Sung Si Kyung,Even for a moment,2023-10-26,0
@@ -3834,7 +4175,14 @@ Swedish House Mafia,Moth To A Flame (with The Weeknd),2021-10-28,0
 Swings,No One Likes Us (Prod. Nochang),2023-03-30,0
 TAEIL,Starlight,2022-03-03,0
 TAEMIN,Advice,2021-05-20,0
+TAEMIN,Crush,2024-08-22,0
+TAEMIN,Deja Vu,2024-08-22,0
+TAEMIN,G.O.A.T,2024-08-22,0
 TAEMIN,Guilty,2023-11-02,0
+TAEMIN,Horizon,2024-08-22,0
+TAEMIN,Say Less,2024-08-22,0
+TAEMIN,Sexy In The Air,2024-08-22,0
+TAEMIN,The Unknown Sea,2024-08-22,0
 TAEYANG,Seed,2023-05-04,0
 TAEYANG,Shoong! (feat. LISA of BLACKPINK),2023-04-27,0
 TAEYANG,VIBE (feat. Jimin of BTS),2023-01-19,0
@@ -3850,6 +4198,7 @@ TAEYEON,Cold As Hell,2022-02-17,0
 TAEYEON,Ending Credits,2022-02-17,0
 TAEYEON,Fine,2021-02-04,0
 TAEYEON,Heart,2022-02-17,0
+TAEYEON,Heaven,2024-07-11,0
 TAEYEON,INVU,2022-02-17,0
 TAEYEON,INVU,2022-03-03,0
 TAEYEON,INVU,2022-03-10,0
@@ -3939,6 +4288,7 @@ TWICE,Talk that Talk,2022-12-15,0
 TWICE,The Feels,2021-10-07,0
 TWICE,The Feels,2021-11-04,0
 TWS,"If Im S, Can You Be My N?",2024-06-27,0
+TWS,"If Im S, Can You Be My N?",2024-10-17,0
 TWS,hey! hey!,2024-06-13,0
 TWS,plot twist,2024-01-25,0
 TWS,plot twist,2024-03-07,0
@@ -3977,6 +4327,9 @@ Taylor Swift,But Daddy I Love Him,2024-04-25,0
 Taylor Swift,Cruel Summer,2023-06-15,0
 Taylor Swift,Cruel Summer,2023-11-23,0
 Taylor Swift,Cruel Summer,2024-03-28,0
+Taylor Swift,Cruel Summer,2024-08-01,0
+Taylor Swift,Cruel Summer,2024-08-22,0
+Taylor Swift,Cruel Summer,2024-10-03,0
 Taylor Swift,Down Bad,2024-04-25,0
 Taylor Swift,Florida!!! (feat. Florence + The Machine),2024-04-25,0
 Taylor Swift,Fortnight (feat. Post Malone),2024-04-25,0
@@ -4032,6 +4385,8 @@ The Black Skirts,Baptized In Fire,2022-09-22,0
 The Black Skirts,Cicadas,2022-09-22,0
 The Black Skirts,EVERYTHING,2022-04-28,0
 The Black Skirts,EVERYTHING,2022-09-15,0
+The Black Skirts,EVERYTHING,2024-08-08,0
+The Black Skirts,EVERYTHING,2024-10-17,0
 The Black Skirts,Flying Bobs,2022-09-22,0
 The Black Skirts,Girl Scout!,2021-05-06,0
 The Black Skirts,Heavy Rain,2021-05-06,0
@@ -4090,6 +4445,7 @@ The Volunteers,PINKTOP,2021-06-03,0
 The Volunteers,Summer,2021-06-03,0
 The Volunteers,Violet,2021-06-03,0
 The Walters,I Love You So,2021-10-28,0
+The Walters,I Love You So,2024-07-25,0
 The Weeknd,A Tale By Quincy,2022-01-13,0
 The Weeknd,Best Friends,2022-01-13,0
 The Weeknd,Blinding Lights,2021-02-04,0
@@ -4103,6 +4459,9 @@ The Weeknd,Blinding Lights,2023-02-23,0
 The Weeknd,Blinding Lights,2023-06-01,0
 The Weeknd,Blinding Lights,2024-01-04,0
 The Weeknd,Blinding Lights,2024-03-07,0
+The Weeknd,Blinding Lights,2024-08-01,0
+The Weeknd,Blinding Lights,2024-10-17,0
+The Weeknd,Dancing In The Flames,2024-09-19,0
 The Weeknd,Dawn FM,2022-01-13,0
 The Weeknd,Die For You,2022-07-07,0
 The Weeknd,Die For You,2022-12-22,0
@@ -4111,6 +4470,7 @@ The Weeknd,Die For You,2023-09-14,0
 The Weeknd,Die For You,2023-12-21,0
 The Weeknd,Die For You,2024-01-18,0
 The Weeknd,Die For You,2024-02-08,0
+The Weeknd,Die For You,2024-08-08,0
 The Weeknd,Die For You (with Ariana Grande) - Remix,2023-03-16,0
 The Weeknd,Die For You (with Ariana Grande) - Remix,2023-06-29,0
 The Weeknd,Die For You (with Ariana Grande) - Remix,2023-08-10,0
@@ -4145,6 +4505,7 @@ The Weeknd,Starry Eyes,2022-01-13,0
 The Weeknd,Take My Breath,2022-01-13,0
 The Weeknd,Take My Breath - Single Version,2021-08-12,0
 The Weeknd,The Hills,2021-02-18,0
+The Weeknd,Timeless (with Playboi Carti),2024-10-03,0
 TimeFeveR, (feat. ),2024-05-23,0
 Timothe Chalamet,"Pure Imagination (from ""Wonka"")",2024-02-15,0
 Tinashe,Nasty,2024-06-13,0
@@ -4155,6 +4516,8 @@ Tisto,The Motto,2021-11-11,0
 Tisto,The Motto,2022-03-03,0
 Tom Grennan,Little Bit of Love,2021-05-06,0
 Tommy Richman,MILLION DOLLAR BABY,2024-05-09,0
+Tommy Richman,MILLION DOLLAR BABY,2024-07-18,0
+Tommy Richman,MILLION DOLLAR BABY,2024-08-15,0
 Tones And I,Dance Monkey,2021-02-18,0
 Tophyun,Horangsuwolga,2022-01-27,0
 Tophyun,Only you,2023-06-22,0
@@ -4163,6 +4526,8 @@ Travis Scott,CIRCUS MAXIMUS (feat. The Weeknd & Swae Lee),2023-08-03,0
 Travis Scott,DELRESTO (ECHOES) (feat. Beyonc),2023-08-03,0
 Travis Scott,ESCAPE PLAN,2021-11-11,0
 Travis Scott,FE!N (feat. Playboi Carti),2023-08-03,0
+Travis Scott,FE!N (feat. Playboi Carti),2024-08-01,0
+Travis Scott,FE!N (feat. Playboi Carti),2024-09-19,0
 Travis Scott,GOD'S COUNTRY,2023-08-03,0
 Travis Scott,Goosebumps - Remix,2021-02-04,0
 Travis Scott,HYAENA,2023-08-03,0
@@ -4199,6 +4564,8 @@ Tyler,MASSA,2021-07-01,0
 Tyler,RUNITUP (feat. Teezo Touchdown),2021-07-01,0
 Tyler,SIR BAUDELAIRE (feat. DJ Drama),2021-07-01,0
 Tyler,SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues),2021-07-01,0
+Tyler,See You Again (feat. Kali Uchis),2024-08-01,0
+Tyler,See You Again (feat. Kali Uchis),2024-10-03,0
 Tyler,WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign),2021-07-01,0
 UMI,wherever u r (ft. V of BTS),2024-01-04,0
 UMI,wherever u r (ft. V of BTS),2024-02-22,0
@@ -4217,6 +4584,7 @@ V,Christmas Tree - Inst.,2021-12-30,0
 V,FRI(END)S,2024-03-21,0
 V,FRI(END)S,2024-05-09,0
 V,FRI(END)S,2024-06-06,0
+V,FRI(END)S,2024-09-26,0
 V,FRI(END)S (Instrumental),2024-03-21,0
 V,FRI(END)S (Slowed Down),2024-03-21,0
 V,FRI(END)S (Sped Up),2024-03-21,0
@@ -4233,17 +4601,23 @@ V,Love Me Again,2024-01-18,0
 V,Love Me Again,2024-02-29,0
 V,Love Me Again,2024-03-28,0
 V,Love Me Again,2024-06-13,0
+V,Love Me Again,2024-07-18,0
+V,Love Me Again,2024-09-26,0
 V,Rainy Days,2023-08-17,0
 V,Rainy Days,2023-08-24,0
 V,Rainy Days,2023-09-28,0
 V,Rainy Days,2023-10-19,0
 V,Rainy Days,2024-01-18,0
+V,Rainy Days,2024-08-01,0
 V,Scenery,2023-08-31,0
 V,Slow Dancing,2023-09-21,0
 V,Slow Dancing,2023-10-19,0
 V,Slow Dancing,2023-12-21,0
 V,Slow Dancing,2024-03-14,0
 V,Slow Dancing,2024-04-18,0
+V,Slow Dancing,2024-07-04,0
+V,Slow Dancing,2024-07-25,0
+V,Slow Dancing,2024-10-03,0
 V,Slow Dancing (Cautious Clay Remix),2023-10-26,0
 V,Slow Dancing (FRNK Remix),2023-10-26,0
 V,Slow Dancing (Piano Ver.),2023-09-14,0
@@ -4252,6 +4626,7 @@ V,Snow Flower (feat. Peakboy),2023-08-31,0
 V,Sweet Night,2021-02-04,0
 V,Sweet Night,2022-03-03,0
 V,Winter Bear,2023-08-31,0
+VALORANT,SUPERPOWER,2024-08-01,0
 VIVIZ,BOP BOP!,2022-02-17,0
 VIVIZ,BOP BOP!,2022-04-14,0
 VIVIZ,MANIAC,2023-11-23,0
@@ -4261,6 +4636,9 @@ VVON,Why (Feat. Hoody),2023-01-19,0
 Valley,Like 1999,2021-04-08,0
 Vaundy,CHAINSAW BLOOD,2022-10-20,0
 Vaundy,Vaundy_NA,2023-03-02,0
+Vaundy,Vaundy_NA,2024-08-15,0
+Vaundy,Vaundy_NA,2024-09-19,0
+Vaundy,Vaundy_NA,2024-10-10,0
 WATTS,Feels (feat. Khalid),2021-03-18,0
 WENDY,Like Water,2021-04-08,0
 WENDY,The Road,2021-04-08,0
@@ -4274,6 +4652,7 @@ WJSN,AURA,2022-06-02,0
 WJSN,As You Wish,2022-01-06,0
 WJSN,UNNATURAL,2021-04-08,0
 WONWOO,Bittersweet (feat. LeeHi),2021-06-03,0
+WOODZ,Drowning,2024-10-10,0
 WOODZ,I hate you,2022-05-12,0
 WOOZI,What kind of future,2024-02-01,0
 WSG WANNABE (OASISO),Clink Clink,2022-07-14,0
@@ -4298,8 +4677,10 @@ Woody,Flower in the Desert - Kor Version,2023-08-17,0
 Woody,Nostalgia,2023-03-16,0
 Woody,Say I Love You,2023-02-09,0
 Woody,When you alone,2024-04-18,0
+XG,IYKYK,2024-10-17,0
 XG,LEFT RIGHT,2023-03-02,0
 XG,SHOOTING STAR,2023-02-02,0
+XG,SOMETHING AIN'T RIGHT,2024-08-01,0
 XG,WOKE UP,2024-06-06,0
 Xydo,Free,2022-03-24,0
 YANG YO SEOP,"LOVE DAY (2021) (Romance 101 X Yang Yoseop, Jeong Eun Ji)",2021-03-25,0
@@ -4316,8 +4697,11 @@ YANGHONGWON,SAHARA,2024-05-30,0
 YANGHONGWON,Well?,2024-05-30,0
 YENA,Hate Rodrigo (Feat. YUQI),2023-07-06,0
 YENA,Love War (Feat. BE'O),2023-01-19,0
+YENA,NEMONEMO,2024-10-10,0
 YENA,SMARTPHONE,2022-08-11,0
 YENA,SMILEY(Feat. BIBI),2022-01-20,0
+YEONJUN,GGUM,2024-09-26,0
+YOASOBI,UNDEAD,2024-07-11,0
 YOASOBI,YOASOBI_NA,2021-02-11,0
 YOASOBI,YOASOBI_NA,2022-04-14,0
 YOON JI HWAN,a sad invitation,2024-06-27,0
@@ -4355,6 +4739,7 @@ Yerin Baek,Whenever,2021-09-16,0
 Yerin Baek,Why Me?,2021-09-16,0
 Yoon Do Hyun,I Guess I Loved You,2022-01-06,0
 Yorushika,Yorushika_NA,2022-12-22,0
+Yorushika,Yorushika_NA,2024-08-22,0
 Young Stoner Life,Ski,2021-04-22,0
 Young Stoner Life,Solid (feat. Drake),2021-04-22,0
 Young Thug,Bubbly (with Drake & Travis Scott),2021-10-21,0
@@ -4369,11 +4754,13 @@ Younha,Event Horizon,2023-01-26,0
 Younha,Event Horizon,2023-12-14,0
 Younha,Oort Cloud,2021-12-02,0
 Younha,Oort Cloud,2023-01-26,0
+Younha,Sunsh,2024-09-05,0
 Yountoven,  ,2022-04-14,0
 Yung Gravy,Betty (Get Money),2022-08-25,0
 Yuuri,Yuuri_NA,2023-02-16,0
 Yuuri,Yuuri_NA,2024-04-18,0
 Yyeon,   ,2023-09-28,0
+ZEROBASEONE,GOOD SO BAD,2024-09-05,0
 ZEROBASEONE,In Bloom,2023-07-13,0
 ZICO,Any song,2021-03-18,0
 ZICO,Freak,2022-08-04,0
@@ -4384,6 +4771,8 @@ ZICO,New thing (Prod. ZICO) (Feat. Homies),2023-02-16,0
 ZICO,SEOUL DRIFT,2022-07-21,0
 ZICO,SPOT!,2024-05-02,0
 ZICO,SPOT!,2024-05-23,0
+ZICO,SPOT!,2024-08-15,0
+ZICO,SPOT!,2024-10-03,0
 ZICO,SoulMate (feat. IU),2021-02-04,0
 ZUTOMAYO,ZUTOMAYO_NA,2022-10-27,0
 Zac Efron,Rewrite The Stars,2023-09-28,0
@@ -4402,6 +4791,8 @@ Zior Park,CHRISTIAN,2023-03-02,0
 aespa,'Til We Meet Again,2023-05-11,0
 aespa,Armageddon,2024-05-30,0
 aespa,Armageddon,2024-06-13,0
+aespa,Armageddon,2024-08-15,0
+aespa,Armageddon,2024-09-19,0
 aespa,BAHAMA,2024-05-30,0
 aespa,Better Things,2023-08-24,0
 aespa,Black Mamba,2021-02-04,0
@@ -4409,7 +4800,9 @@ aespa,Black Mamba,2021-02-11,0
 aespa,Black Mamba,2021-04-22,0
 aespa,Black Mamba,2021-04-29,0
 aespa,Black Mamba,2021-08-12,0
+aespa,Bored! - NINGNING Solo,2024-10-17,0
 aespa,Don't Blink,2023-11-16,0
+aespa,Dopamine - GISELLE Solo,2024-10-17,0
 aespa,Drama,2023-11-16,0
 aespa,Drama,2023-12-28,0
 aespa,Drama,2024-01-04,0
@@ -4423,6 +4816,7 @@ aespa,Girls,2022-07-14,0
 aespa,Girls,2022-07-28,0
 aespa,Hold On Tight,2023-04-06,0
 aespa,Hot Air Balloon,2023-11-16,0
+aespa,Hot Mess,2024-07-11,0
 aespa,I'll Make You Cry,2021-10-07,0
 aespa,I'm Unhappy,2023-05-11,0
 aespa,ICONIC,2021-10-07,0
@@ -4466,14 +4860,18 @@ aespa,Salty & Sweet,2023-05-11,0
 aespa,Savage,2021-10-07,0
 aespa,Savage,2022-04-14,0
 aespa,Set The Tone,2024-05-30,0
+aespa,Spark - WINTER Solo,2024-10-17,0
 aespa,Spicy,2023-05-11,0
 aespa,Spicy,2023-08-03,0
 aespa,Spicy,2023-08-24,0
 aespa,Supernova,2024-05-16,0
 aespa,Supernova,2024-06-06,0
+aespa,Supernova,2024-07-18,0
+aespa,Supernova,2024-08-01,0
 aespa,Thirsty,2023-05-11,0
 aespa,Thirsty,2023-10-05,0
 aespa,Trick or Trick,2023-11-16,0
+aespa,UP - KARINA Solo,2024-10-10,0
 aespa,Welcome To MY World (feat. nvis),2023-05-04,0
 aespa,YEPPI YEPPI,2021-10-07,0
 aespa,YOLO,2023-11-16,0
@@ -4490,6 +4888,7 @@ blackbear,u love u (with Tate McRae),2021-06-10,0
 d4vd,Feel It - From The Original Series Invincible,2024-04-25,0
 d4vd,Here With Me,2022-12-08,0
 d4vd,Here With Me,2023-12-21,0
+d4vd,Here With Me,2024-10-17,0
 d4vd,Romantic Homicide,2022-09-29,0
 eAeon,Don't (feat. RM),2021-05-06,0
 eaJ,Car Crash,2022-04-14,0
@@ -4499,6 +4898,11 @@ fromis_9,#menow,2023-06-15,0
 fromis_9,DM,2022-01-20,0
 fromis_9,DM,2022-05-26,0
 fromis_9,Stay This Way,2022-06-30,0
+fromis_9,Supersonic,2024-08-15,0
+fromis_9,Supersonic,2024-09-12,0
+fromis_9,Supersonic,2024-09-26,0
+fromis_9,Supersonic,2024-10-03,0
+fromis_9,Supersonic,2024-10-17,0
 fromis_9,Talk & Talk,2021-09-09,0
 fromis_9,WE GO,2021-05-27,0
 fromis_9,WE GO,2021-06-17,0
@@ -4534,6 +4938,7 @@ j-hope,on the street (with J. Cole),2023-05-04,0
 j-hope,on the street (with J. Cole),2023-07-06,0
 j-hope,what if (dance mix),2024-04-04,0
 keshi,SOMEBODY,2021-10-28,0
+keshi,Say,2024-07-18,0
 keshi,TOUCH,2022-02-10,0
 keshi,beside you,2021-04-29,0
 keshi,blue,2021-02-04,0
@@ -4570,6 +4975,8 @@ tripleS,Generation,2022-12-15,0
 tripleS,Generation,2022-12-22,0
 tripleS,Generation,2023-01-05,0
 tripleS,Girls Never Die,2024-05-16,0
+tripleS,Girls Never Die,2024-07-25,0
 tripleS,Rising,2023-02-16,0
 tuki.,tuki._NA,2024-05-09,0
 tuki.,tuki._NA,2024-06-13,0
+wave to earth,seasons,2024-07-04,0

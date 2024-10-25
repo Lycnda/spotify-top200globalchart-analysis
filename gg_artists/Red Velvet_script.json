@@ -1,0 +1,48 @@
+{
+    "Red Velvet": {
+        "num_of_streams": "9317840",
+        "min_rank": "1",
+        "max_rank": "199",
+        "min_date": "2021-02-04",
+        "max_date": "2024-09-26",
+        "num_unique_songs": "26",
+        "artistappearanceCount": "282",
+        "unique_songs": [
+            "BAMBOLEO",
+            "BYE BYE",
+            "Bad Boy",
+            "Beautiful Christmas",
+            "Beg For Me",
+            "Better Be",
+            "Birthday",
+            "Celebrate",
+            "Chill Kill",
+            "Cosmic",
+            "Feel My Rhythm",
+            "Good, Bad, Ugly",
+            "Hello, Sunset",
+            "In My Dreams",
+            "Knock Knock (Who's There?)",
+            "Knock On Wood",
+            "On A Ride",
+            "Pose",
+            "Psycho",
+            "Pushin' N Pullin'",
+            "Queendom",
+            "Rainbow Halo",
+            "Sunflower",
+            "Underwater",
+            "Will I Ever See You Again?",
+            "ZOOM"
+        ],
+        "source_end_date_latest_ls": {
+            "SM Entertainment": "2024-09-26"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-03-31": "Feel My Rhythm"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-03-17": "Psycho"
+        }
+    }
+}

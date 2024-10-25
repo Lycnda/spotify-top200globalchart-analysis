@@ -1,0 +1,53 @@
+{
+    "(G)I-DLE": {
+        "num_of_streams": "18575018",
+        "min_rank": "1",
+        "max_rank": "199",
+        "min_date": "2021-02-18",
+        "max_date": "2024-09-26",
+        "num_unique_songs": "25",
+        "artistappearanceCount": "313",
+        "unique_songs": [
+            "ALREADY",
+            "Allergy",
+            "Change",
+            "DARK (X-file)",
+            "ESCAPE",
+            "Fate",
+            "HWAA",
+            "I DO",
+            "I Want That",
+            "Klaxon",
+            "LIAR",
+            "LOVE",
+            "Last Dance (Prod. GroovyRoom)",
+            "Lucid",
+            "MY BAG",
+            "Never Stop Me",
+            "Nxde",
+            "POLAROID",
+            "Queencard",
+            "Reset",
+            "Sculpture",
+            "Super Lady",
+            "TOMBOY",
+            "VILLAIN DIES",
+            "Wife"
+        ],
+        "source_end_date_latest_ls": {
+            "CUBE ENTERTAINMENT INC./88rising Music": "2023-10-26",
+            "Cube Entertainment": "2024-09-26",
+            "Klap Entertainment": "2021-05-06",
+            "Universal Music LLC": "2021-04-01"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-10-27": "Nxde",
+            "2022-03-24": "TOMBOY"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-04-21": "Never Stop Me",
+            "2023-04-27": "TOMBOY",
+            "2023-05-04": "TOMBOY"
+        }
+    }
+}

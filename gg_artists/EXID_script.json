@@ -1,0 +1,23 @@
+{
+    "EXID": {
+        "num_of_streams": "18938",
+        "min_rank": "171",
+        "max_rank": "171",
+        "min_date": "2022-10-06",
+        "max_date": "2022-10-06",
+        "num_unique_songs": "1",
+        "artistappearanceCount": "1",
+        "unique_songs": [
+            "FIRE"
+        ],
+        "source_end_date_latest_ls": {
+            "SME Korea Inc.": "2022-10-06"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-10-06": "FIRE"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-10-06": "FIRE"
+        }
+    }
+}

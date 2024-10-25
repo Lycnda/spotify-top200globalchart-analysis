@@ -1,0 +1,29 @@
+{
+    "OH MY GIRL": {
+        "num_of_streams": "1801548",
+        "min_rank": "3",
+        "max_rank": "199",
+        "min_date": "2021-02-04",
+        "max_date": "2022-05-05",
+        "num_unique_songs": "6",
+        "artistappearanceCount": "95",
+        "unique_songs": [
+            "Dear you",
+            "Dolphin",
+            "Dun Dun Dance",
+            "My doll",
+            "Nonstop",
+            "Real Love"
+        ],
+        "source_end_date_latest_ls": {
+            "WM Entertainment": "2022-05-05"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2021-05-20": "Dun Dun Dance"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2021-02-04": "Nonstop",
+            "2021-03-04": "Nonstop"
+        }
+    }
+}

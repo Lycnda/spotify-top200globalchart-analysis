@@ -1,0 +1,23 @@
+{
+    "KATSEYE": {
+        "num_of_streams": "563699",
+        "min_rank": "17",
+        "max_rank": "113",
+        "min_date": "2024-08-15",
+        "max_date": "2024-09-26",
+        "num_unique_songs": "1",
+        "artistappearanceCount": "7",
+        "unique_songs": [
+            "Touch"
+        ],
+        "source_end_date_latest_ls": {
+            "HYBE/Geffen": "2024-09-26"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2024-09-26": "Touch"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2024-08-15": "Touch"
+        }
+    }
+}
