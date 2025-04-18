@@ -22,7 +22,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 21,spotify:track:5iwz1NiezX7WWjnCgY5TH4,"Pedro Capó, Farruko",Calma - Remix,Sony Music Latin,5,19,22,15315855,2019-04-11
 22,spotify:track:25sgk305KZfyuqVBQIahim,Ava Max,Sweet but Psycho,Atlantic Records,6,20,28,15083343,2019-04-11
 23,spotify:track:6tsOcBnaKgzK22yEiqRh8P,"Ariana Grande, Victoria Monét",MONOPOLY (with Victoria Monét),Republic Records,23,79,2,14657758,2019-04-11
-24,spotify:track:2dpaYNEQHiRxtZbfNsse99,"Marshmello, Bastille",Happier,Joytime Collective,2,22,34,14630449,2019-04-11
+24,spotify:track:2dpaYNEQHiRxtZbfNsse99,"Marshmello, Bastille",Happier,Astralwerks,2,22,34,14630449,2019-04-11
 25,spotify:track:2XKFnwB6djxrJCjR3PdeRb,Khalid,My Bad,"Right Hand Music Group, LLC/RCA Records",25,47,5,14550938,2019-04-11
 26,spotify:track:31UjYv5vLsDkzchJOtUMtW,Maluma,HP,Sony Music Latin,24,27,6,14538716,2019-04-11
 27,spotify:track:2qxmye6gAegTMjLKEBoR3d,Alec Benjamin,Let Me Down Slowly,2018,27,36,18,14487348,2019-04-11
@@ -41,15 +41,15 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 40,spotify:track:2IRZnDFmlqMuOrYOLnZZyc,"Meek Mill, Drake",Going Bad (feat. Drake),MMG/Atlantic,11,39,19,11909031,2019-04-11
 41,spotify:track:2qG5sZ7Si6sdK74qLxedYM,"ROSALÍA, J Balvin, El Guincho",Con Altura,Columbia,41,41,2,11734134,2019-04-11
 42,spotify:track:1rqqCSm0Qe4I9rUvWncaom,Panic! At The Disco,High Hopes,DCD2 / Fueled By Ramen,9,42,42,11646474,2019-04-11
-43,spotify:track:7eBqSVxrzQZtK2mmgRG6lC,YNW Melly,Murder on My Mind,P2018,19,38,8,11638449,2019-04-11
+43,spotify:track:7eBqSVxrzQZtK2mmgRG6lC,YNW Melly,Murder On My Mind,P2018,19,38,8,11638449,2019-04-11
 44,spotify:track:1NJcg626wLln4pGHpiV7mf,"Billie Eilish, Khalid",lovely (with Khalid),Darkroom,24,49,51,11328343,2019-04-11
 45,spotify:track:4lzxJ4jCuFDXXGkE1LmpKR,"DJ Luian, Mambo Kingz, Anuel AA, Nicky Jam, Darell, Brytiago",Verte Ir,Hear This Music,45,63,2,11258683,2019-04-11
 46,spotify:track:4w8niZpiMy6qz1mntFA5uM,"DJ Snake, Selena Gomez, Ozuna, Cardi B","Taki Taki (with Selena Gomez, Ozuna & Cardi B)","DJ Snake Music Productions Limited, under exclusive license to Geffen Records",1,43,28,10502188,2019-04-11
 47,spotify:track:5kfNriitmkNE8mUbZ7gbq8,Khalid,Saturday Nights,"Right Hand Music Group, LLC/RCA Records",19,85,23,10490718,2019-04-11
 48,spotify:track:5itOtNx0WxtJmi1TQ3RuRd,"Calvin Harris, Rag'n'Bone Man",Giant (with Rag'n'Bone Man),Columbia,21,40,13,10444092,2019-04-11
-49,spotify:track:4n7jnSxVLd8QioibtTDBDq,"Alan Walker, Sabrina Carpenter, Farruko",On My Way,Kreatell Music,49,54,3,10393077,2019-04-11
+49,spotify:track:4n7jnSxVLd8QioibtTDBDq,"Alan Walker, Sabrina Carpenter, Farruko",On My Way,MER Recordings,49,54,3,10393077,2019-04-11
 50,spotify:track:6v0lAdFF4haL8xjBIUjtOw,"Nicky Jam, Ozuna",Te Robaré,Sony Music Latin,50,56,3,10271758,2019-04-11
-51,spotify:track:116H0KvKr2Zl4RPuVBruDO,"Bad Bunny, Drake",MIA,Rimas Entertainment LLC,1,45,26,10073844,2019-04-11
+51,spotify:track:116H0KvKr2Zl4RPuVBruDO,"Bad Bunny, Drake",MIA (feat. Drake),OVO Sound/Warner Records,1,45,26,10073844,2019-04-11
 52,spotify:track:4u7EnebtmKWzUH433cf5Qv,Queen,Bohemian Rhapsody - Remastered 2011,EMI,11,50,32,9979997,2019-04-11
 53,spotify:track:63cd4JkwGgYJrbOizbfmsp,"Mustard, Migos",Pure Water (with Migos),10 Summers Records/Interscope Records,38,46,12,9937853,2019-04-11
 54,spotify:track:1WSGTYKLEpKfNQYYW5Oymt,"benny blanco, Selena Gomez, J Balvin, Tainy","I Can’t Get Enough (benny blanco, Selena Gomez, J Balvin, Tainy)",NEON16/Friends Keep Secrets/Interscope Records,21,44,6,9850895,2019-04-11
@@ -58,7 +58,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 57,spotify:track:2TIlqbIneP0ZY1O0EzYLlc,Lewis Capaldi,Someone You Loved,Vertigo Berlin,49,53,14,9745853,2019-04-11
 58,spotify:track:3QmolSZqjjLksTUvZJ6pPS,Jonas Brothers,Cool,Jonas Brothers Recording,58,-1,1,9597307,2019-04-11
 59,spotify:track:7dt6x5M1jzdTEt8oCbisTK,Post Malone,Better Now,Republic Records,1,60,50,9563412,2019-04-11
-60,spotify:track:1E6DEDWDKHoOW0fcFuDghV,"Khalid, SAFE",Don't Pretend,"Right Hand Music Group, LLC/RCA Records",60,-1,1,9519434,2019-04-11
+60,spotify:track:1E6DEDWDKHoOW0fcFuDghV,"Khalid, SAFE",Don't Pretend (feat. SAFE),"Right Hand Music Group, LLC/RCA Records",60,-1,1,9519434,2019-04-11
 61,spotify:track:0s5DNDV6LAKn2u2Ufa3VjQ,"Mau y Ricky, Manuel Turizo, Camilo",Desconocidos,Sony Music Latin,34,57,22,9477304,2019-04-11
 62,spotify:track:7ql71hBakyMi0Lxiq3Mugs,"The Chainsmokers, 5 Seconds of Summer",Who Do You Love,Disruptor Records/Columbia,33,58,9,9115632,2019-04-11
 63,spotify:track:6CcJMwBtXByIz4zQLzFkKc,Billie Eilish,i love you,Darkroom/Interscope Records,21,21,2,9098792,2019-04-11
@@ -66,7 +66,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 65,spotify:track:0PG9fbaaHFHfre2gUVo7AN,"Cardi B, Bruno Mars",Please Me,Atlantic/KSR,20,51,8,9056602,2019-04-11
 66,spotify:track:059bcIhyc2SBwm6sw2AZzd,"Piso 21, Micro TDH",Te Vi,WM Mexico,50,64,13,8942869,2019-04-11
 67,spotify:track:0uUNN1nSoUx1A4fkDCWDQ7,Ava Max,So Am I,Atlantic Records,67,71,5,8865347,2019-04-11
-68,spotify:track:2xLMifQCjDGFmkHkpNLD9h,Travis Scott,SICKO MODE,Cactus Jack / Epic,2,61,36,8744956,2019-04-11
+68,spotify:track:2xLMifQCjDGFmkHkpNLD9h,Travis Scott,SICKO MODE,Cactus Jack / Epic / Grand Hustle,2,61,36,8744956,2019-04-11
 69,spotify:track:2H4gf1wLxvYreMj1jcaN0k,Dean Lewis,Be Alright,Universal Music Australia Pty. Ltd.,12,62,38,8742428,2019-04-11
 70,spotify:track:6Hj9jySrnFppAI0sEMCZpJ,Juice WRLD,Robbery,Grade A Productions/Interscope Records,18,59,8,8554320,2019-04-11
 71,spotify:track:0e7ipj03S05BNilyu5bRzt,"Post Malone, 21 Savage",rockstar (feat. 21 Savage),Republic Records,1,72,82,8540428,2019-04-11
@@ -120,7 +120,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 119,spotify:track:6WkJ2OK163XXS2oARUC9JM,"Aaron Smith, Krono, Luvli",Dancin (feat. Luvli) - Krono Remix,Sony Music Entertainment,101,108,6,6208463,2019-04-11
 120,spotify:track:0tgVpDi06FyKpA1z0VMD4v,Ed Sheeran,Perfect,Atlantic Records UK,4,119,110,6177749,2019-04-11
 121,spotify:track:2kAIpGWnlFLQh48iut6Zzq,Khalid,Free Spirit,"Right Hand Music Group, LLC/RCA Records",121,-1,1,6143395,2019-04-11
-122,spotify:track:4T4CZ3Q4z3GG7lU720YYhM,"Lunay, Gaby Music, Chris Jedi",Soltera,round2media - LaFamilia,104,106,5,6133928,2019-04-11
+122,spotify:track:4T4CZ3Q4z3GG7lU720YYhM,"Lunay, Chris Jedi, Gaby Music",Soltera,La Familia,104,106,5,6133928,2019-04-11
 123,spotify:track:2P91MQbaiQOfbiz9VqhqKQ,Lauv,I Like Me Better,Lauv,29,120,97,6130190,2019-04-11
 124,spotify:track:7K7MUBCnzgBAvMVW2RTWNs,"Loud Luxury, Brando",Body,Armada Music,19,111,45,6121210,2019-04-11
 125,spotify:track:5IaHrVsrferBYDm0bDyABy,"Tyga, Offset",Taste (feat. Offset),Last Kings Music / EMPIRE,6,115,47,6093604,2019-04-11
@@ -186,7 +186,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 185,spotify:track:2aG2nLUd8NNI7vFuOLBCe0,PNL,Autre monde,QLF Records,185,-1,1,4721485,2019-04-11
 186,spotify:track:4hqOmrCCJKyiuwDexd8c2t,"NAV, The Weeknd",Price On My Head (feat. The Weeknd),"XO Records, LLC and Republic Records",93,142,3,4715115,2019-04-11
 187,spotify:track:3NuK5xMlSlB6K2Qp16zf3h,"Clean Bandit, Demi Lovato",Solo (feat. Demi Lovato),Atlantic Records UK,8,173,47,4708638,2019-04-11
-188,spotify:track:1L8LtC2s161XwY6YrtnQjw,"Shindy, Shirin David",Affalterbach,Sony Music/Friends with Money,130,130,2,4673348,2019-04-11
+188,spotify:track:1L8LtC2s161XwY6YrtnQjw,"Shindy, Shirin David",Affalterbach,Friends with Money,130,130,2,4673348,2019-04-11
 189,spotify:track:1Kjer1JoWuJGNwGV6Pbgv1,Sebastian Yatra,Cristina,UMLE - Latino,185,193,3,4658035,2019-04-11
 190,spotify:track:2xJCMIJfcNYDc5iR0sAm2O,Dua Lipa,New Rules,Warner Records,2,183,92,4657195,2019-04-11
 191,spotify:track:2x8TNY9KwNvD19gVGs4WOP,MC Kevin o Chris,Ela É do Tipo,ADpar,191,-1,1,4647110,2019-04-11

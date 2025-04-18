@@ -57,7 +57,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 56,spotify:track:6Y46tOTRhkBamosyuWa6YX,"ROSALÍA, The Weeknd",LA FAMA,Columbia,32,-1,15,8791335,2022-03-24
 57,spotify:track:58ge6dfP91o9oXMzq3XkIS,Arctic Monkeys,505,Domino Recording Co,57,61,12,8770049,2022-03-24
 58,spotify:track:0Bv7O6fmZk3GrNQFYJaXPn,"La Pantera, Quevedo, Juseph, Abhir Hathi, Bejo, Cruz Cafuné, EL IMA","Cayó La Noche (feat. Cruz Cafuné, Abhir Hathi, Bejo, EL IMA) [Remix]",La Pantera,58,58,8,8717873,2022-03-24
-59,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhayco",DÁKITI,Rimas Entertainment LLC,1,56,73,8673494,2022-03-24
+59,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhay Cortez",DÁKITI,Rimas Entertainment LLC,1,56,73,8673494,2022-03-24
 60,spotify:track:6ylDpki1VpIsc525KC1ojF,Sebastian Yatra,Tacones Rojos,UMLE - Latino,45,57,18,8525244,2022-03-24
 61,spotify:track:3uwnnTQcHM1rDqSfA4gQNz,Demi Lovato,Cool for the Summer,Hollywood Records,61,-1,1,8514867,2022-03-24
 62,spotify:track:5TMLavqGRKNxgzMBrVpC9R,"zzoilo, Aitana",Mon Amour - Remix,Universal Music Spain S.L.,34,52,29,8454971,2022-03-24
@@ -144,7 +144,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 143,spotify:track:6K5ph5mq1qprHae3TrgTj5,Jessica Darrow,"Surface Pressure - From ""Encanto""/Soundtrack Version",UME - Global Clearing House,23,103,12,6145756,2022-03-24
 144,spotify:track:7yq4Qj7cqayVTp3FF9CWbm,Vance Joy,Riptide,F-Stop Records/Atlantic,122,141,64,6124083,2022-03-24
 145,spotify:track:0W6I02J9xcqK8MtSeosEXb,Doja Cat,Get Into It (Yuh),Kemosabe Records/RCA Records,36,133,34,6121721,2022-03-24
-146,spotify:track:6f5ExP43esnvdKPddwKXJH,"NEIKED, Mae Muller, Polo G",Better Days (NEIKED x Mae Muller x Polo G),Capitol Records UK / EMI,32,136,23,6094036,2022-03-24
+146,spotify:track:6f5ExP43esnvdKPddwKXJH,"NEIKED, Mae Muller, Polo G",Better Days (NEIKED x Mae Muller x Polo G),Capitol,32,136,23,6094036,2022-03-24
 147,spotify:track:4u7EnebtmKWzUH433cf5Qv,Queen,Bohemian Rhapsody - Remastered 2011,EMI,11,134,182,6080785,2022-03-24
 148,spotify:track:48QmG1dfvMuYLxMPt7KSRA,"Sean Paul, Dua Lipa",No Lie,Universal-Island Records Ltd.,80,127,34,6079770,2022-03-24
 149,spotify:track:7gVzhRCrLRUBEGdS7zNTp0,Zé Felipe,Malvada,Som Livre,58,123,7,6062561,2022-03-24
@@ -168,7 +168,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 167,spotify:track:2N8m6CYs74qQO4mjVcXO30,Tones And I,Dance Monkey,Elektra (NEK),1,158,140,5729936,2022-03-24
 168,spotify:track:2tGvwE8GcFKwNdAXMnlbfl,Olivia Rodrigo,happier,Olivia Rodrigo PS,12,152,44,5689979,2022-03-24
 169,spotify:track:2ZRo7axmMPeSVUvDbGkJah,XXXTENTACION,Hope,"Bad Vibes Forever, LLC",42,163,35,5672519,2022-03-24
-170,spotify:track:5W1qmxHrMlQGGAiFA3ZQqP,"Dímelo Flow, Dalex, Sech, Justin Quiles, Arcángel, De La Ghetto, Lenny Tavárez",Se Le Ve,Rich Music,110,156,12,5660279,2022-03-24
+170,spotify:track:5W1qmxHrMlQGGAiFA3ZQqP,"Dímelo Flow, Dalex, Sech, Justin Quiles, Arcangel, De La Ghetto, Lenny Tavárez",Se Le Ve,Rich Music,110,156,12,5660279,2022-03-24
 171,spotify:track:07MDkzWARZaLEdKxo6yArG,"THE ANXIETY, WILLOW, Tyler Cole",Meet Me At Our Spot,"MSFTSMusic / Roc Nation Records, LLC",24,150,29,5655010,2022-03-24
 172,spotify:track:0nrRP2bk19rLc0orkWPQk2,Avicii,Wake Me Up,Universal Music AB,13,170,68,5654422,2022-03-24
 173,spotify:track:2dG9k8jtnkjzJjUToz9i9i,"Bizarrap, Residente","Residente: Bzrp Music Sessions, Vol. 49",DALE PLAY Records,18,62,3,5623782,2022-03-24

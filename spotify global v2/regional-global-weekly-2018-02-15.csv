@@ -9,7 +9,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 8,spotify:track:3Vo4wInECJQuz9BIBMOu8i,"Bruno Mars, Cardi B",Finesse - Remix; feat. Cardi B,Atlantic Records,4,5,6,18139896,2018-02-15
 9,spotify:track:5UEnHoDYpsxlfzWLZIc7LD,"Eminem, Ed Sheeran",River (feat. Ed Sheeran),Aftermath,2,7,9,17120208,2018-02-15
 10,spotify:track:2j2fIJGh4PMdXt9ULI5Tlc,Daddy Yankee,Dura,El Cartel Records (EC3),10,22,4,17021591,2018-02-15
-11,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),Bloc Nation,11,-1,1,16902176,2018-02-15
+11,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),OVO Sound/Warner Records,11,-1,1,16902176,2018-02-15
 12,spotify:track:09IStsImFySgyp0pIQdqAc,"Zedd, Maren Morris, Grey",The Middle,UMGRI Interscope,12,18,3,16235510,2018-02-15
 13,spotify:track:1zsG4eaZmkA1dvjDDsAGLK,"Luis Fonsi, Demi Lovato",Échame La Culpa,UMLE - Latino,7,8,13,15929368,2018-02-15
 14,spotify:track:4eWQlBRaTjPPUlzacqEeoQ,Camila Cabello,Never Be the Same,Syco Music/Epic,4,9,10,15830183,2018-02-15
@@ -32,13 +32,13 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 31,spotify:track:4lESS6vuruP6a79KWRaQou,"Maluma, Nego do Borel",Corazón (feat. Nego do Borel),Sony Music Latin,17,26,15,11763363,2018-02-15
 32,spotify:track:2xmrfQpmS2iJExTlklLoAL,"Clean Bandit, Julia Michaels",I Miss You (feat. Julia Michaels),Atlantic Records UK,23,32,16,11513445,2018-02-15
 33,spotify:track:630sXRhIcfwr2e4RdNtjKN,"Zac Efron, Zendaya",Rewrite The Stars,Atlantic Records,20,27,7,11402324,2018-02-15
-34,spotify:track:5hM6sP0Gh1jD57drszNueC,"Liam Payne, Rita Ora",For You (With Rita Ora),Capitol Records UK / EMI,34,65,6,11319352,2018-02-15
+34,spotify:track:5hM6sP0Gh1jD57drszNueC,"Liam Payne, Rita Ora",For You (With Rita Ora),Capitol,34,65,6,11319352,2018-02-15
 35,spotify:track:3Ga6eKrUFf12ouh9Yw3v2D,"Anitta, J Balvin",Downtown,WM Brazil,21,30,13,11187240,2018-02-15
 36,spotify:track:33bnxcjePIkcmNjEFTJX0l,"Piso 21, Manuel Turizo",Déjala Que Vuelva (feat. Manuel Turizo),WM Mexico,33,36,15,11004013,2018-02-15
 37,spotify:track:1LhMopPAallLeaeNutqbgS,"Justin Timberlake, Chris Stapleton",Say Something (feat. Chris Stapleton),RCA Records Label,25,25,3,10873822,2018-02-15
 38,spotify:track:5jyyPsIGM2yqkZN9R3TmvN,"Khalid, Swae Lee",The Ways (with Swae Lee),Black Panther (TDE/DMG) PS,38,-1,1,10728502,2018-02-15
 39,spotify:track:3hBBKuWJfxlIlnd9QFoC8k,"Maroon 5, SZA",What Lovers Do (feat. SZA),Interscope Records*,5,31,24,10708956,2018-02-15
-40,spotify:track:6Za3190Sbw39BBC77WSS1C,"NATTI NATASHA, Ozuna",Criminal,Pina Records,21,37,22,10675448,2018-02-15
+40,spotify:track:6Za3190Sbw39BBC77WSS1C,"Natti Natasha, Ozuna",Criminal,Pina Records,21,37,22,10675448,2018-02-15
 41,spotify:track:7vGuf3Y35N4wmASOKLUVVU,"Marshmello, Khalid",Silence,Joytime Collective/RCA Records,8,34,27,10439664,2018-02-15
 42,spotify:track:1mXVgsBdtIVeCLJnSnmtdV,Sam Smith,Too Good At Goodbyes,Capitol,1,33,23,10371875,2018-02-15
 43,spotify:track:2xGjteMU3E1tkEPVFBO08U,"Keala Settle, The Greatest Showman Ensemble",This Is Me,Atlantic Records,30,35,7,10320231,2018-02-15
@@ -124,7 +124,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 123,spotify:track:2x0WlnmfG39ZuDmstl9xfX,"Taylor Swift, Ed Sheeran, Future",End Game,"Big Machine Records, LLC",47,102,11,5231420,2018-02-15
 124,spotify:track:0Gl5s8IhMmQE5YQwM8Qx1J,Loren Allred,Never Enough,Atlantic Records,92,111,7,5222298,2018-02-15
 125,spotify:track:5TysCiZtv1HnSWcTcUFusI,"Joey Montana, Sebastian Yatra",Suena El Dembow,UMLE - Latino,66,116,22,5195673,2018-02-15
-126,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,9,122,39,5179919,2018-02-15
+126,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,9,122,39,5179919,2018-02-15
 127,spotify:track:0as7lPxkBPctZ7uVmchRNM,"Cashmere Cat, Major Lazer, Tory Lanez",Miss You (with Major Lazer & Tory Lanez),Benny Blanco Major,115,125,4,5178144,2018-02-15
 128,spotify:track:5Htb1uFQ1KrkFXlefS8oGj,Demi Lovato,Tell Me You Love Me,Island Records,70,99,12,5166441,2018-02-15
 129,spotify:track:4DTpngLjoHj5gFxEZFeD3J,"Kodak Black, Lil Wayne",Codeine Dreaming (feat. Lil Wayne),Atlantic Records,50,82,12,5161074,2018-02-15

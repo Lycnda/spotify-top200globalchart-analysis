@@ -4,9 +4,9 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 3,spotify:track:5OCJzvD7sykQEKHH7qAC3C,Ariana Grande,God is a woman,Republic Records,2,17,6,25887832,2018-08-23
 4,spotify:track:7fa9MBXhVfQ8P8Df9OEbD8,"Maroon 5, Cardi B",Girls Like You (feat. Cardi B) - Cardi B Version,Interscope Records*,3,4,12,24377889,2018-08-23
 5,spotify:track:5WvAo7DNuPRmk4APhdPzi8,"DJ Khaled, Justin Bieber, Quavo, Chance the Rapper",No Brainer,Epic/We The Best,2,2,4,23916118,2018-08-23
-6,spotify:track:2E124GmJRnBJuXbTb4cPUB,"6ix9ine, Nicki Minaj, Murda Beatz",FEFE (feat. Nicki Minaj & Murda Beatz),"ScumGang Records / TenThousand Projects, LLC",2,3,5,23687839,2018-08-23
+6,spotify:track:2E124GmJRnBJuXbTb4cPUB,"6ix9ine, Nicki Minaj, Murda Beatz",FEFE,"Scumgang Records/TenThousand Projects, LLC",2,3,5,23687839,2018-08-23
 7,spotify:track:0s3nnoMeVWz3989MkNQiRf,Juice WRLD,Lucid Dreams,Juice WRLD Mixtape / ISR P&D,3,6,15,22801625,2018-08-23
-8,spotify:track:2xLMifQCjDGFmkHkpNLD9h,Travis Scott,SICKO MODE,Cactus Jack / Epic,2,5,3,22533467,2018-08-23
+8,spotify:track:2xLMifQCjDGFmkHkpNLD9h,Travis Scott,SICKO MODE,Cactus Jack / Epic / Grand Hustle,2,5,3,22533467,2018-08-23
 9,spotify:track:0d2iYfpKoM0QCKvcLCkBao,"benny blanco, Halsey, Khalid",Eastside (with Halsey & Khalid),Benny Blanco Solo Album PS,7,7,6,21850086,2018-08-23
 10,spotify:track:0E9ZjEAyAwOXZ7wJC0PD33,"Dynoro, Gigi D'Agostino",In My Mind,Columbia/B1 Recordings,9,9,7,20789314,2018-08-23
 11,spotify:track:58q2HKrzhC3ozto2nDdN4z,"Cardi B, Bad Bunny, J Balvin",I Like It,Atlantic/KSR,2,8,20,20485609,2018-08-23
@@ -21,16 +21,16 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 20,spotify:track:2iUXsYOEPhVqEBwsqP70rE,5 Seconds of Summer,Youngblood,Capitol,8,19,19,16322527,2018-08-23
 21,spotify:track:7K7MUBCnzgBAvMVW2RTWNs,"Loud Luxury, Brando",Body,Armada Music,21,21,12,15498989,2018-08-23
 22,spotify:track:7ef4DlsgrMEH11cDZd32M6,"Calvin Harris, Dua Lipa",One Kiss (with Dua Lipa),Sony Music UK,2,18,20,15435109,2018-08-23
-23,spotify:track:3V8UKqhEK5zBkBb6d6ub8i,"Nio Garcia, Casper Magico, Bad Bunny, Darell, Ozuna, Nicky Jam",Te Boté - Remix,"Flow La Movie, Inc.",8,20,19,15099764,2018-08-23
-24,spotify:track:7wBJfHzpfI3032CSD7CE2m,Travis Scott,STARGAZING,Cactus Jack / Epic,3,15,3,14230243,2018-08-23
+23,spotify:track:3V8UKqhEK5zBkBb6d6ub8i,"Nio Garcia, Casper Magico, Bad Bunny, Darell, Ozuna, Nicky Jam",Te Boté - Remix,"2018 Flow La Movie, Inc.",8,20,19,15099764,2018-08-23
+24,spotify:track:7wBJfHzpfI3032CSD7CE2m,Travis Scott,STARGAZING,Cactus Jack / Epic / Grand Hustle,3,15,3,14230243,2018-08-23
 25,spotify:track:0JP9xo3adEtGSdUEISiszL,XXXTENTACION,Moonlight,"Bad Vibes Forever, LLC",2,22,23,13552871,2018-08-23
 26,spotify:track:0TlLq3lA83rQOYtrqBqSct,Drake,Nonstop,Cash Money/Drake LP6,1,23,8,13357611,2018-08-23
 27,spotify:track:1s2B5cndbqK8rPJEIcKJRQ,"Ozuna, Manuel Turizo",Vaina Loca,VP Records Corp/Dimelo Vi,25,25,8,13285679,2018-08-23
 28,spotify:track:0WdR2AyLW1Drd3OUdwezM0,Ariana Grande,everytime,Republic Records,28,-1,1,13262251,2018-08-23
 29,spotify:track:70khXICDeTTxgYtw3EysKH,Ariana Grande,sweetener,Republic Records,29,-1,1,12485242,2018-08-23
-30,spotify:track:2ijef6ni2amuunRoKTlgww,"Becky G, NATTI NATASHA",Sin Pijama,Sony Music Latin,22,24,17,12440039,2018-08-23
+30,spotify:track:2ijef6ni2amuunRoKTlgww,"Becky G, Natti Natasha",Sin Pijama,Sony Music Latin,22,24,17,12440039,2018-08-23
 31,spotify:track:6DCZcSspjsKoFjzjrWoCdn,Drake,God's Plan,Cash Money/Drake LP6,1,26,31,12341295,2018-08-23
-32,spotify:track:2dpaYNEQHiRxtZbfNsse99,"Marshmello, Bastille",Happier,Joytime Collective,32,-1,1,11967789,2018-08-23
+32,spotify:track:2dpaYNEQHiRxtZbfNsse99,"Marshmello, Bastille",Happier,Astralwerks,32,-1,1,11967789,2018-08-23
 33,spotify:track:4keoy2fqgwGnbWlm3ZVZFa,"Zedd, Elley Duhé",Happy Now,UMGRI Interscope,27,27,5,11952703,2018-08-23
 34,spotify:track:4VUwkH455At9kENOfzTqmF,"Bazzi, Camila Cabello",Beautiful (feat. Camila Cabello),iamcosmic,31,31,3,11398240,2018-08-23
 35,spotify:track:5qFeMRz4TvetPmzjre9Dq7,"J Balvin, Zion & Lennox",No Es Justo,UMLE - Latino,30,30,9,11286541,2018-08-23
@@ -52,7 +52,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 51,spotify:track:14kYOiFVPb7E7NfFbqhdln,Ariana Grande,goodnight n go,Republic Records,51,-1,1,8917678,2018-08-23
 52,spotify:track:0XOnMqLQDO89iAg7dWWwnG,Ariana Grande,pete davidson,Republic Records,52,-1,1,8723515,2018-08-23
 53,spotify:track:0v2LUO8oTHnkjQ8MmKuXyk,Ariana Grande,raindrops (an angel cried),Republic Records,53,-1,1,8517134,2018-08-23
-54,spotify:track:04ZTP5KsCypmtCmQg5tH9R,Bebe Rexha,I'm a Mess,Warner Records,52,52,9,8415994,2018-08-23
+54,spotify:track:04ZTP5KsCypmtCmQg5tH9R,Bebe Rexha,I'm a Mess,Warner Bros.,52,52,9,8415994,2018-08-23
 55,spotify:track:7qiZfU4dY1lWllzX7mPBI3,Ed Sheeran,Shape of You,Atlantic Records UK,1,49,85,8365631,2018-08-23
 56,spotify:track:6G8kHiVZ1jW7vHMPVRNZU0,"Drake, Michael Jackson",Don’t Matter To Me (with Michael Jackson),Cash Money/Drake LP6,2,44,8,8168059,2018-08-23
 57,spotify:track:1rqqCSm0Qe4I9rUvWncaom,Panic! At The Disco,High Hopes,DCD2 / Fueled By Ramen,57,59,9,8153858,2018-08-23
@@ -60,7 +60,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 59,spotify:track:55GiOwtxNajXVbpjjIzMnD,Tyga,SWISH,Last Kings Music / EMPIRE,51,51,4,7846721,2018-08-23
 60,spotify:track:5YeHLHDdQ4nKHk81XFWhCU,Ariana Grande,successful,Republic Records,60,-1,1,7806439,2018-08-23
 61,spotify:track:2lYTJK94hb0fd1LQtb6Dhk,"David Guetta, Anne-Marie",Don't Leave Me Alone (feat. Anne-Marie),Parlophone (France),54,54,4,7679914,2018-08-23
-62,spotify:track:7AQim7LbvFVZJE3O8TYgf2,"XXXTENTACION, Trippie Redd",Fuck Love,Bad Vibes Forever / EMPIRE,19,61,49,7668435,2018-08-23
+62,spotify:track:7AQim7LbvFVZJE3O8TYgf2,"XXXTENTACION, Trippie Redd",Fuck Love (feat. Trippie Redd),Bad Vibes Forever / EMPIRE,19,61,49,7668435,2018-08-23
 63,spotify:track:4zIO3ilp5HvTeK3HJHxhMP,Imagine Dragons,Natural,Kid Ina Korner / Interscope,56,66,5,7660987,2018-08-23
 64,spotify:track:6JjPBQfI2Y8nIjnm65X6Pw,"Nicky Jam, J Balvin, Maluma, Ozuna",X (feat. Maluma & Ozuna) - Remix,Sony Music Latin,37,47,8,7648654,2018-08-23
 65,spotify:track:0sdbFOyfgAhAhWq8DpzkaW,"Ariana Grande, Nicki Minaj",the light is coming (feat. Nicki Minaj),Republic Records,65,-1,2,7608335,2018-08-23
@@ -74,17 +74,17 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 73,spotify:track:08bNPGLD8AhKpnnERrAc6G,"Marshmello, Anne-Marie",FRIENDS,Atlantic Records UK,4,57,28,7316450,2018-08-23
 74,spotify:track:0u2P5u6lvoDfwTYjAADbn4,"Billie Eilish, Khalid",lovely (with Khalid),Darkroom,24,62,18,7047872,2018-08-23
 75,spotify:track:2XXMDz7SPZ4mSFN1PXfHUy,"Becky G, Paulo Londra",Cuando Te Besé,Sony Music Latin,63,63,3,7045490,2018-08-23
-76,spotify:track:1snWlbcbgQpJfknoI30DWG,"Alan Walker, Au/Ra, Tomine Harket",Darkside,Kreatell Music,70,70,4,7040496,2018-08-23
+76,spotify:track:1snWlbcbgQpJfknoI30DWG,"Alan Walker, Au/Ra, Tomine Harket",Darkside,MER Recordings,70,70,4,7040496,2018-08-23
 77,spotify:track:7u6DMPznGbpziuEgCE0JGQ,Ariana Grande,get well soon,Republic Records,77,-1,1,7012183,2018-08-23
 78,spotify:track:6rbhaJsE4uLzpPf8WYSHDK,"Brytiago, Darell",Asesina,Business Music,76,76,8,6994125,2018-08-23
 79,spotify:track:4mHgYpuGHu99Mw69E83CP2,Trippie Redd,Taking A Walk,"TenThousand Projects, LLC",42,42,2,6971976,2018-08-23
-80,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),Bloc Nation,6,68,28,6901079,2018-08-23
+80,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),OVO Sound/Warner Records,6,68,28,6901079,2018-08-23
 81,spotify:track:0pqnGHJpmpxLKifKRmU6WP,Imagine Dragons,Believer,Kid Ina Korner / Interscope,16,75,81,6897053,2018-08-23
 82,spotify:track:5a8RPWgKSmcGBGcffmIrUi,"Sia, Diplo, Labrinth, LSD","Thunderclouds (feat. Sia, Diplo, and Labrinth)",Records/Columbia,73,73,2,6889225,2018-08-23
 83,spotify:track:0VKkyBKCXyR99navhVRqcP,Zion & Lennox,La player (Bandolera),WEA Latina,56,69,23,6761889,2018-08-23
 84,spotify:track:4QtiVmuA88tPQiCOHZuQ5b,"Sofía Reyes, Jason Derulo, De La Ghetto","1, 2, 3 (feat. Jason Derulo & De La Ghetto)",WEA Latina,31,72,27,6687863,2018-08-23
 85,spotify:track:3DGar7krWlmrXRFHBcQF6z,"Kris Kross Amsterdam, The Boy Next Door, Conor Maynard",Whenever (feat. Conor Maynard),Spinnin' Records,85,96,4,6648335,2018-08-23
-86,spotify:track:00EPIEnX1JFjff8sC6bccd,"Thalia, NATTI NATASHA",No Me Acuerdo,Sony Music Latin,86,87,5,6642291,2018-08-23
+86,spotify:track:00EPIEnX1JFjff8sC6bccd,"Thalia, Natti Natasha",No Me Acuerdo,Sony Music Latin,86,87,5,6642291,2018-08-23
 87,spotify:track:0XySogm94T51XF5F2jumXm,Juice WRLD,All Girls Are The Same,Juice WRLD Mixtape / ISR P&D,48,81,15,6619196,2018-08-23
 88,spotify:track:3obgSF06ki98lYNLNq5vCB,"Juice WRLD, Lil Uzi Vert",Wasted (feat. Lil Uzi Vert),Juice WRLD Mixtape / ISR P&D,80,92,6,6601901,2018-08-23
 89,spotify:track:2ekn2ttSfGqwhhate0LSR0,Dua Lipa,New Rules,Warner Records,2,78,59,6574127,2018-08-23
@@ -93,7 +93,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 92,spotify:track:5CLGzJsGqhCEECcpnFQA8x,"Rudimental, Jess Glynne, Macklemore, Dan Caplen","These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",Atlantic Records UK,9,79,31,6379928,2018-08-23
 93,spotify:track:1zB4vmk8tFRmM9UULNzbLB,Imagine Dragons,Thunder,Kid Ina Korner / Interscope,8,82,69,6339784,2018-08-23
 94,spotify:track:0tgVpDi06FyKpA1z0VMD4v,Ed Sheeran,Perfect,Atlantic Records UK,4,83,77,6290225,2018-08-23
-95,spotify:track:7lAK3oHbfEnvUQWosrMMpR,Travis Scott,YOSEMITE,Cactus Jack / Epic,24,58,3,6171684,2018-08-23
+95,spotify:track:7lAK3oHbfEnvUQWosrMMpR,Travis Scott,YOSEMITE,Cactus Jack / Epic / Grand Hustle,24,58,3,6171684,2018-08-23
 96,spotify:track:33IOhptvC2Qoy2UhjiHXLV,"David Guetta, Sia",Flames,Parlophone (France),20,74,22,6107898,2018-08-23
 97,spotify:track:2alIsNw1mqEShbWyO1HXZZ,"Sebastian Yatra, Luis Figueroa, Lary Over",Por Perro,UMLE - Latino,84,88,16,6081307,2018-08-23
 98,spotify:track:6752EZMgXswvRBH3N2PilO,Ozuna,Unica,VP Records Corp/Dimelo Vi,63,85,13,6058577,2018-08-23
@@ -104,12 +104,12 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 103,spotify:track:45Egmo7icyopuzJN0oMEdk,"Khalid, Normani",Love Lies (with Normani),RCA Records Label,11,86,27,5948824,2018-08-23
 104,spotify:track:7glCSQqV5o6NU88Cn4zPZn,Bad Bunny,Estamos Bien,Rimas Entertainment LLC,88,93,8,5837851,2018-08-23
 105,spotify:track:6eYxmK9fdL4hwLnXG2zY3s,XXXTENTACION,Look At Me!,Bad Vibes Forever / EMPIRE,39,104,53,5741514,2018-08-23
-106,spotify:track:6U2NuJILEOEpW2tVCuqKHb,"Daddy Yankee, NATTI NATASHA, Becky G, Bad Bunny",Dura - Remix,El Cartel Records (EC3),52,95,17,5686645,2018-08-23
+106,spotify:track:6U2NuJILEOEpW2tVCuqKHb,"Daddy Yankee, Natti Natasha, Becky G, Bad Bunny",Dura - Remix,El Cartel Records (EC3),52,95,17,5686645,2018-08-23
 107,spotify:track:4ut5G4rgB1ClpMTMfjoIuy,"Martin Garrix, Bonn",High On Life (feat. Bonn),Epic Amsterdam,101,101,3,5681321,2018-08-23
 108,spotify:track:38QmUDpkoYlNbMKvpvAsrE,"KAROL G, J Balvin, Nicky Jam",Mi Cama - Remix,UMLE - Latino,76,110,4,5667330,2018-08-23
-109,spotify:track:4e4fqjx0Izh4svvTef1z7e,"Bebe Rexha, Florida Georgia Line",Meant to Be (feat. Florida Georgia Line),Warner Records,18,105,49,5663716,2018-08-23
+109,spotify:track:4e4fqjx0Izh4svvTef1z7e,"Bebe Rexha, Florida Georgia Line",Meant to Be (feat. Florida Georgia Line),Warner Bros.,18,105,49,5663716,2018-08-23
 110,spotify:track:7GX5flRQZVHRAGd6B4TmDO,Lil Uzi Vert,XO Tour Llif3,Generation Now/Atlantic,10,112,74,5609785,2018-08-23
-111,spotify:track:6xcJyGpfZbuuiequtnlKt4,Travis Scott,BUTTERFLY EFFECT,Cactus Jack / Epic,38,77,55,5603390,2018-08-23
+111,spotify:track:6xcJyGpfZbuuiequtnlKt4,Travis Scott,BUTTERFLY EFFECT,Epic/Grand Hustle/Cactus Jack,38,77,55,5603390,2018-08-23
 112,spotify:track:3L4GsGLgxpHieVQH86H8bv,"Nicki Minaj, Ariana Grande",Bed (feat. Ariana Grande),Young Money/Cash Money Records,22,56,10,5600651,2018-08-23
 113,spotify:track:0r9d60ZYPAlFHq8qnUtkXN,"Cosculluela, Bad Bunny",Madura,"Rottweilas, Inc.",70,103,19,5541124,2018-08-23
 114,spotify:track:6Poyf51k7W3NKnsGwAI90B,Nicki Minaj,Barbie Dreams,Young Money/Cash Money Records,48,48,2,5537165,2018-08-23
@@ -118,7 +118,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 117,spotify:track:5yNEdBlZMxpcVtGKz5NFk5,"The Chainsmokers, Emily Warren",Side Effects,Disruptor Records/Columbia,91,91,4,5391452,2018-08-23
 118,spotify:track:6Hgh47WXVKtXN5zGOu0hjI,"Khalid, 6LACK, Ty Dolla $ign",OTW,"Right Hand Music Group, LLC/RCA Records",24,115,18,5336035,2018-08-23
 119,spotify:track:3qN5qMTKyEEmiTZD38BNTT,Drake,I'm Upset,Cash Money/Drake LP6,7,98,13,5305706,2018-08-23
-120,spotify:track:20MuVazoNMv6xjKPnRFOxG,Travis Scott,WAKE UP,Cactus Jack / Epic,22,67,3,5276094,2018-08-23
+120,spotify:track:20MuVazoNMv6xjKPnRFOxG,Travis Scott,WAKE UP,Cactus Jack / Epic / Grand Hustle,22,67,3,5276094,2018-08-23
 121,spotify:track:19MBk3PbNFE36wqIqkMq9H,Alvaro Soler,La Cintura,Airforce1,42,97,15,5271191,2018-08-23
 122,spotify:track:2QZ7WLBE8h2y1Y5Fb8RYbH,Shawn Mendes,In My Blood,Island Records,7,117,22,5193682,2018-08-23
 123,spotify:track:6XBjCetHKdO5L9cwMDVffw,"Anuel AA, Zion",Hipócrita,"2018 Real Hasta La Muerte, Inc.",123,132,4,5147722,2018-08-23
@@ -126,7 +126,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 125,spotify:track:4178A5NkEjcsGc64jpBO6d,"Luis Fonsi, Stefflon Don",Calypso,UMLE - Latino,97,109,7,5104238,2018-08-23
 126,spotify:track:1mXVgsBdtIVeCLJnSnmtdV,Sam Smith,Too Good At Goodbyes,Capitol,1,120,50,5097502,2018-08-23
 127,spotify:track:2RttW7RAu5nOAfq6YFvApB,Ed Sheeran,Happier,Atlantic Records UK,10,118,67,5078476,2018-08-23
-128,spotify:track:7KZ5MMVgBVox9ycroB2UrI,Travis Scott,CAROUSEL,Cactus Jack / Epic,19,71,3,5054971,2018-08-23
+128,spotify:track:7KZ5MMVgBVox9ycroB2UrI,Travis Scott,CAROUSEL,Cactus Jack / Epic / Grand Hustle,19,71,3,5054971,2018-08-23
 129,spotify:track:4UKCKdYiLN6IMA5ZESUTL7,XXXTENTACION,the remedy for a broken heart (why am I so in love),"Bad Vibes Forever, LLC",27,122,15,5051290,2018-08-23
 130,spotify:track:4QVS8YCpK71R4FsxSMCjhP,"Gryffin, Elley Duhé",Tie Me Down (with Elley Duhé),Darkroom,130,161,2,4997010,2018-08-23
 131,spotify:track:3T4UodGkfZObJ43RtA5KFU,OneRepublic,Connection,Mosley / Interscope,91,121,7,4954834,2018-08-23
@@ -139,14 +139,14 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 138,spotify:track:6xTU6B6nFwKKTSZ9ySXS80,"Kygo, Miguel",Remind Me to Forget,Kygo,29,131,23,4694872,2018-08-23
 139,spotify:track:0SaYeGhSXN0dDWstyNTQ56,"Wolfine, Maluma",Bella - Remix,LOMIORECORDS,81,124,16,4670825,2018-08-23
 140,spotify:track:5uCax9HTNlzGybIStD3vDh,James Arthur,Say You Won't Let Go,Columbia,7,135,87,4659233,2018-08-23
-141,spotify:track:1xYpVRspgaLxdJLOTQkTjg,Travis Scott,STOP TRYING TO BE GOD,Cactus Jack / Epic,27,84,3,4648500,2018-08-23
+141,spotify:track:1xYpVRspgaLxdJLOTQkTjg,Travis Scott,STOP TRYING TO BE GOD,Cactus Jack / Epic / Grand Hustle,27,84,3,4648500,2018-08-23
 142,spotify:track:1gm616Plq4ScqNi7TVkZ5N,The Weeknd,Call Out My Name,Universal Republic Records,1,133,21,4639975,2018-08-23
 143,spotify:track:5d35jcJj7WjDQBOHCHPY6t,"Capital Bra, Juju",Melodien,Sony Music/BMA,71,113,3,4619726,2018-08-23
 144,spotify:track:6vsV4D8BM6PioRr1UOx0n2,Billie Eilish,you should see me in a crown,Darkroom/Interscope Records,63,99,5,4595628,2018-08-23
 145,spotify:track:7KXjTSCq5nL1LoYtL7XAwS,Kendrick Lamar,HUMBLE.,Aftermath,1,139,73,4594295,2018-08-23
 146,spotify:track:2RVrdr062uLFxXwIxwdXPH,"Piso 21, Paulo Londra",Te Amo,WM Mexico,76,134,22,4576300,2018-08-23
 147,spotify:track:2374M0fQpWi3dLnB54qaLX,TOTO,Africa,Columbia,137,137,23,4566414,2018-08-23
-148,spotify:track:27a1mYSG5tYg7dmEjWBcmL,Travis Scott,CAN'T SAY,Cactus Jack / Epic,35,90,3,4558263,2018-08-23
+148,spotify:track:27a1mYSG5tYg7dmEjWBcmL,Travis Scott,CAN'T SAY,Cactus Jack / Epic / Grand Hustle,35,90,3,4558263,2018-08-23
 149,spotify:track:5Y9fnynLlIvqtM710MHzfz,Ozuna,Síguelo Bailando,VP Records Corp/Dimelo Vi,43,136,34,4556419,2018-08-23
 150,spotify:track:1ZAyjvIk9YiD76yYy0TEG6,Rich The Kid,Plug Walk,Rich The Kid / (TDE/ISR PS),19,141,25,4514467,2018-08-23
 151,spotify:track:2ZRo7axmMPeSVUvDbGkJah,XXXTENTACION,Hope,"Bad Vibes Forever, LLC",42,159,12,4509233,2018-08-23
@@ -160,7 +160,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 159,spotify:track:3GCdLUSnKSMJhs4Tj6CV3s,"Kendrick Lamar, SZA",All The Stars (with SZA),Black Panther (TDE/DMG) PS,2,146,33,4416517,2018-08-23
 160,spotify:track:6RUKPb4LETWmmr3iAEQktW,"The Chainsmokers, Coldplay",Something Just Like This,Disruptor Records/Columbia,2,153,79,4389168,2018-08-23
 161,spotify:track:4h8VwCb1MTGoLKueQ1WgbD,Avicii,Wake Me Up,Universal Music AB,13,149,18,4388609,2018-08-23
-162,spotify:track:6gBFPUFcJLzWGx4lenP6h2,Travis Scott,goosebumps,Cactus Jack / Epic,60,148,86,4351214,2018-08-23
+162,spotify:track:6gBFPUFcJLzWGx4lenP6h2,Travis Scott,goosebumps,Epic/Grand Hustle,60,148,86,4351214,2018-08-23
 163,spotify:track:641R77CBy4bOLGRcA9sgHy,"Bonez MC, RAF Camora",500 PS,187 Strassenbande,111,144,3,4338046,2018-08-23
 164,spotify:track:1zi7xx7UVEFkmKfv06H8x0,"Drake, Wizkid, Kyla",One Dance,Cash Money Records/Young Money Ent./Universal Rec.,12,163,87,4310701,2018-08-23
 165,spotify:track:10Igtw8bSDyyFs7KIsKngZ,"Lil Dicky, Chris Brown",Freaky Friday (feat. Chris Brown),Commission/BMG,7,142,23,4287445,2018-08-23
@@ -173,12 +173,12 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 172,spotify:track:0E6PsO3ymCfUh7pJQjBgkj,The Carters,APESHIT,Parkwood Entertainment/Roc Nation,37,147,9,4180219,2018-08-23
 173,spotify:track:6KuqAtoeVzxAYOaMveLNpH,Daddy Yankee,Dura,El Cartel Records (EC3),9,158,31,4174636,2018-08-23
 174,spotify:track:0b9oOr2ZgvyQu88wzixux9,Childish Gambino,This Is America,Wolf+Rothstein/RCA Records,1,155,16,4168148,2018-08-23
-175,spotify:track:6OaVWaGfhXn70ZJfdVcabn,Travis Scott,NO BYSTANDERS,Cactus Jack / Epic,28,107,3,4152919,2018-08-23
+175,spotify:track:6OaVWaGfhXn70ZJfdVcabn,Travis Scott,NO BYSTANDERS,Cactus Jack / Epic / Grand Hustle,28,107,3,4152919,2018-08-23
 176,spotify:track:0GxQ1A5L9xnMOytbP6eKBG,"Maroon 5, SZA",What Lovers Do (feat. SZA),Interscope Records*,5,183,51,4140081,2018-08-23
 177,spotify:track:5qqabIl2vWzo9ApSC317sa,Oasis,Wonderwall - Remastered,Big Brother,152,175,45,4127650,2018-08-23
 178,spotify:track:7IBSffWIu7P2MC7kMwy2FM,"Wiz Khalifa, Swae Lee",Hopeless Romantic (feat. Swae Lee),Taylor Gang/Atlantic,87,191,6,4124494,2018-08-23
 179,spotify:track:4F1yvJfQ7gJkrcgFJQDjOr,"KYLE, Kehlani",Playinwitme (feat. Kehlani),independently popular.,28,151,20,4113125,2018-08-23
-180,spotify:track:4SZepBIPDRwPaHIjAKwRDb,Travis Scott,R.I.P. SCREW,Cactus Jack / Epic,25,106,3,4094022,2018-08-23
+180,spotify:track:4SZepBIPDRwPaHIjAKwRDb,Travis Scott,R.I.P. SCREW,Cactus Jack / Epic / Grand Hustle,25,106,3,4094022,2018-08-23
 181,spotify:track:1bhUWB0zJMIKr9yVPrkEuI,"Ed Sheeran, Beyoncé",Perfect Duet (Ed Sheeran & Beyoncé),Atlantic Records UK,3,181,38,4085187,2018-08-23
 182,spotify:track:0tp6mwUt99QnfY95T30Lqj,Armin van Buuren,Blah Blah Blah,Armada Music Albums,182,-1,1,4076518,2018-08-23
 183,spotify:track:0ibOcbkp2XG46Do8jcy0bL,"Smokepurpp, Lil Pump",Nephew (feat. Lil Pump),Alamo,183,-1,1,4062276,2018-08-23
@@ -187,8 +187,8 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 186,spotify:track:2CWnuF7ht55Ajyeg4WPvWu,BLACKPINK,DDU-DU DDU-DU,"2018 YG Entertainment, distributed through Interscope Records",47,165,10,4019311,2018-08-23
 187,spotify:track:0tBbt8CrmxbjRP0pueQkyU,"Selena Gomez, Marshmello",Wolves,Selena Gomez PS,3,187,44,4011127,2018-08-23
 188,spotify:track:7vGuf3Y35N4wmASOKLUVVU,"Marshmello, Khalid",Silence,Joytime Collective/RCA Records,8,186,54,4008044,2018-08-23
-189,spotify:track:1oc3jna2ablnfIKLYbKujl,Olly Alexander (Years & Years),If You're Over Me,Polydor Records,66,154,12,3967824,2018-08-23
-190,spotify:track:0Y4hwUppbGc8aIBmiTz30A,"Liam Payne, J Balvin",Familiar,Capitol Records UK / EMI,57,160,18,3967694,2018-08-23
+189,spotify:track:1oc3jna2ablnfIKLYbKujl,Years & Years,If You're Over Me,Polydor Records,66,154,12,3967824,2018-08-23
+190,spotify:track:0Y4hwUppbGc8aIBmiTz30A,"Liam Payne, J Balvin",Familiar,Capitol,57,160,18,3967694,2018-08-23
 191,spotify:track:2hl6q70unbviGo3g1R7uFx,"Luis Fonsi, Demi Lovato",Échame La Culpa,Echame La Culpa PS,7,178,40,3943883,2018-08-23
 192,spotify:track:2XVilv6s9GETnw9PG4T9Mz,Maluma,El Préstamo,Sony Music Latin,52,150,24,3933289,2018-08-23
 193,spotify:track:31M5m42C3EGlbydf9XB5to,"Leslie Grace, Noriel",Duro y Suave,Sony Music Latin,129,166,15,3932961,2018-08-23

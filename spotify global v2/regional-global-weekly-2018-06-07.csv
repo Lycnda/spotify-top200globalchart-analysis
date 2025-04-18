@@ -32,7 +32,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 31,spotify:track:54oMZ3blwWwuPN4wEoG5mk,Drake,I'm Upset,Cash Money/Drake LP6,31,32,2,12948208,2018-06-07
 32,spotify:track:0u2P5u6lvoDfwTYjAADbn4,"Billie Eilish, Khalid",lovely (with Khalid),Darkroom,32,34,7,12737341,2018-06-07
 33,spotify:track:76cy1WJvNGJTj78UqeA5zr,Dua Lipa,IDGAF,Warner Records,4,24,23,12543530,2018-06-07
-34,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),Bloc Nation,6,23,17,12378798,2018-06-07
+34,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),OVO Sound/Warner Records,6,23,17,12378798,2018-06-07
 35,spotify:track:6SFStUDQZNaGPKWOx9ZiJB,Anne-Marie,2002,Atlantic Records UK,35,37,7,12111825,2018-06-07
 36,spotify:track:5SwEgzUFDHwpWHKrbnP32Z,"Shawn Mendes, Khalid",Youth (feat. Khalid),Island Records,21,21,5,12068729,2018-06-07
 37,spotify:track:4F1yvJfQ7gJkrcgFJQDjOr,"KYLE, Kehlani",Playinwitme (feat. Kehlani),independently popular.,28,35,9,11602849,2018-06-07
@@ -40,7 +40,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 39,spotify:track:10Igtw8bSDyyFs7KIsKngZ,"Lil Dicky, Chris Brown",Freaky Friday (feat. Chris Brown),Commission/BMG,7,26,12,11491172,2018-06-07
 40,spotify:track:5IaHrVsrferBYDm0bDyABy,"Tyga, Offset",Taste (feat. Offset),Last Kings Music / EMPIRE,40,62,3,11343659,2018-06-07
 41,spotify:track:7ycWLEP1GsNjVvcjawXz3z,"A$AP Rocky, Skepta",Praise The Lord (Da Shine) (feat. Skepta),A$AP Worldwide/Polo Grounds Music/RCA Records,25,25,2,11206771,2018-06-07
-42,spotify:track:2ijef6ni2amuunRoKTlgww,"Becky G, NATTI NATASHA",Sin Pijama,Sony Music Latin,40,40,6,11189064,2018-06-07
+42,spotify:track:2ijef6ni2amuunRoKTlgww,"Becky G, Natti Natasha",Sin Pijama,Sony Music Latin,40,40,6,11189064,2018-06-07
 43,spotify:track:6Hgh47WXVKtXN5zGOu0hjI,"Khalid, 6LACK, Ty Dolla $ign",OTW,"Right Hand Music Group, LLC/RCA Records",24,36,7,11025169,2018-06-07
 44,spotify:track:1gm616Plq4ScqNi7TVkZ5N,The Weeknd,Call Out My Name,Universal Republic Records,1,29,10,11022220,2018-06-07
 45,spotify:track:6jA8JUuPCGYjFcgw0AoM5T,"Reik, Ozuna, Wisin",Me Niego (feat. Ozuna & Wisin),Columbia,22,33,16,10990277,2018-06-07
@@ -56,7 +56,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 55,spotify:track:3GCdLUSnKSMJhs4Tj6CV3s,"Kendrick Lamar, SZA",All The Stars (with SZA),Black Panther (TDE/DMG) PS,2,45,22,8674010,2018-06-07
 56,spotify:track:3fpVWegR6YOS1Yk5HSMYIq,Post Malone,Paranoid,Republic Records,4,41,6,8664026,2018-06-07
 57,spotify:track:7uzmGiiJyRfuViKKK3lVmR,Bazzi,Mine,iamcosmic,3,48,20,8440962,2018-06-07
-58,spotify:track:6U2NuJILEOEpW2tVCuqKHb,"Daddy Yankee, NATTI NATASHA, Becky G, Bad Bunny",Dura - Remix,El Cartel Records (EC3),52,52,6,8378855,2018-06-07
+58,spotify:track:6U2NuJILEOEpW2tVCuqKHb,"Daddy Yankee, Natti Natasha, Becky G, Bad Bunny",Dura - Remix,El Cartel Records (EC3),52,52,6,8378855,2018-06-07
 59,spotify:track:6n4U3TlzUGhdSFbUUhTvLP,"Migos, Drake",Walk It Talk It,"Quality Control Music, LLC",22,46,19,8360452,2018-06-07
 60,spotify:track:3H2JThgdBxezwj1wwafQS8,Juice WRLD,All Girls Are The Same,Juice WRLD Mixtape / ISR P&D,60,65,4,8288887,2018-06-07
 61,spotify:track:6IaieqiCVvsNvEt6Y7yOFa,"Post Malone, Nicki Minaj",Ball For Me (feat. Nicki Minaj),Republic Records,15,50,6,8242520,2018-06-07
@@ -67,7 +67,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 66,spotify:track:7sO5G9EABYOXQKNPNiE9NR,"Offset, Metro Boomin",Ric Flair Drip (with Metro Boomin),"Slaughter Gang, LLC/Epic/Quality Control Music/Motown/Capitol/Boominati Worldwide/Republic",32,54,32,7764619,2018-06-07
 67,spotify:track:5Y9fnynLlIvqtM710MHzfz,Ozuna,Síguelo Bailando,VP Records Corp/Dimelo Vi,43,56,23,7711540,2018-06-07
 68,spotify:track:3pWcj8hxj3fsb9TDAcMpEl,"The Chainsmokers, Drew Love",Somebody,Disruptor Records/Columbia,58,58,7,7491647,2018-06-07
-69,spotify:track:0Y4hwUppbGc8aIBmiTz30A,"Liam Payne, J Balvin",Familiar,Capitol Records UK / EMI,57,68,7,7402406,2018-06-07
+69,spotify:track:0Y4hwUppbGc8aIBmiTz30A,"Liam Payne, J Balvin",Familiar,Capitol,57,68,7,7402406,2018-06-07
 70,spotify:track:6RnkFd8Fqqgk1Uni8RgqCQ,"David Guetta, Martin Garrix, Brooks",Like I Do,Parlophone (France),24,53,15,7387373,2018-06-07
 71,spotify:track:2j2fIJGh4PMdXt9ULI5Tlc,Daddy Yankee,Dura,El Cartel Records (EC3),9,55,20,7349714,2018-06-07
 72,spotify:track:0tgVpDi06FyKpA1z0VMD4v,Ed Sheeran,Perfect,Atlantic Records UK,4,67,66,7308170,2018-06-07
@@ -100,7 +100,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 99,spotify:track:4eWQlBRaTjPPUlzacqEeoQ,Camila Cabello,Never Be the Same,Syco Music/Epic,4,98,26,5792456,2018-06-07
 100,spotify:track:7yotKA30dwTKNEGomV9ZsI,J. Cole,KOD,J. Cole P&D,6,85,7,5781401,2018-06-07
 101,spotify:track:7EmGUiUaOSGDnUUQUDrOXC,"Selena Gomez, Marshmello",Wolves,Selena Gomez PS,3,95,33,5751249,2018-06-07
-102,spotify:track:6Za3190Sbw39BBC77WSS1C,"NATTI NATASHA, Ozuna",Criminal,Pina Records,21,105,38,5731746,2018-06-07
+102,spotify:track:6Za3190Sbw39BBC77WSS1C,"Natti Natasha, Ozuna",Criminal,Pina Records,21,105,38,5731746,2018-06-07
 103,spotify:track:1lsBTdE6MGsKeZCD6llNu7,"Charlie Puth, Kehlani",Done for Me (feat. Kehlani),Artist Partner,75,83,8,5674710,2018-06-07
 104,spotify:track:6g1NlCpW7fgqDnWbCCDrHl,Avicii,Wake Me Up,Universal Music AB,13,99,7,5656832,2018-06-07
 105,spotify:track:1Nj2oBISdFDSF8eDuXcALz,"OneRepublic, Logic",Start Again (feat. Logic),UMGRI Interscope,105,174,3,5612208,2018-06-07

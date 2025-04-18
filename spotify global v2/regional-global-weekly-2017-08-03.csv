@@ -8,7 +8,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 7,spotify:track:3DXncPQOG4VBw3QHh3S817,"DJ Khaled, Justin Bieber, Quavo, Chance the Rapper, Lil Wayne","I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",Epic/We The Best,2,5,14,22001714,2017-08-03
 8,spotify:track:7qiZfU4dY1lWllzX7mPBI3,Ed Sheeran,Shape of You,Atlantic Records UK,1,8,30,20826514,2017-08-03
 9,spotify:track:4iLqG9SeJSnt0cSPICSjxv,Charlie Puth,Attention,Artist Partner,5,9,15,20426053,2017-08-03
-10,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,9,10,11,19183320,2017-08-03
+10,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,9,10,11,19183320,2017-08-03
 11,spotify:track:0tKcYR2II1VCQWT79i5NrW,Imagine Dragons,Thunder,Kid Ina Korner / Interscope,8,11,14,18948794,2017-08-03
 12,spotify:track:0NiXXAI876aGImAd6rTj8w,"Jonas Blue, William Singe",Mama,UMOD (Universal Music On Demand),11,12,13,18477881,2017-08-03
 13,spotify:track:79cuOz3SPQTuFrp8WgftAu,Shawn Mendes,There's Nothing Holdin' Me Back,Island Records,5,13,15,16525501,2017-08-03
@@ -42,16 +42,16 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 41,spotify:track:0KKkJNfGyhkQ5aFogxQAPU,Bruno Mars,That's What I Like,Atlantic Records,6,40,32,10374656,2017-08-03
 42,spotify:track:2cnKEkpVUSV4wnjQiTWfH6,"Wisin, Ozuna",Escápate Conmigo (feat. Ozuna),Sony Music Latin,40,45,17,10107595,2017-08-03
 43,spotify:track:0dA2Mk56wEzDgegdC6R17g,"Zedd, Alessia Cara",Stay,UMGRI Interscope,7,41,23,10101322,2017-08-03
-44,spotify:track:1yxgsra98r3qAtxqiGZPiX,Travis Scott,BUTTERFLY EFFECT,Cactus Jack / Epic,44,48,11,9932749,2017-08-03
+44,spotify:track:1yxgsra98r3qAtxqiGZPiX,Travis Scott,BUTTERFLY EFFECT,Epic/Grand Hustle/Cactus Jack,44,48,11,9932749,2017-08-03
 45,spotify:track:3kxfsdsCpFgN412fpnW85Y,Childish Gambino,Redbone,Glassnote Entertainment Group LLC,35,47,32,9772200,2017-08-03
 46,spotify:track:7MHN1aCFtLXjownGhvEQlF,Manuel Turizo,Una Lady Como Tú,Sony Music Latin/La Industria,46,51,9,9713133,2017-08-03
 47,spotify:track:1louJpMmzEicAn7lzDalPW,"Cheat Codes, Demi Lovato",No Promises (feat. Demi Lovato),Parlophone UK,24,49,18,9662346,2017-08-03
 48,spotify:track:152lZdxL1OR0ZMW6KquMif,Khalid,Location,"Right Hand Music Group, LLC/RCA Records",34,50,26,9501669,2017-08-03
-49,spotify:track:7nKBxz47S9SD79N086fuhn,"Enrique Iglesias, Descemer Bueno, Zion & Lennox",SUBEME LA RADIO,RCA Records/Sony Music International/Sony Music Latin,31,44,23,9370940,2017-08-03
+49,spotify:track:7nKBxz47S9SD79N086fuhn,"Enrique Iglesias, Descemer Bueno, Zion & Lennox",SUBEME LA RADIO (feat. Descemer Bueno & Zion & Lennox),RCA Records/Sony Music International/Sony Music Latin,31,44,23,9370940,2017-08-03
 50,spotify:track:3rOSwuTsUlJp0Pu0MkN8r8,Future,Mask Off,Epic/Freebandz/A1,5,46,24,9336182,2017-08-03
 51,spotify:track:3eR23VReFzcdmS7TYCrhCe,"Kygo, Selena Gomez",It Ain't Me (with Selena Gomez),Kygo,2,52,24,8347268,2017-08-03
 52,spotify:track:693iqPOQvhI7PobtR8CC8v,"J Balvin, Jowell & Randy",Bonita,Rimas (J Balvin - Jowell & Randy),52,56,8,8325460,2017-08-03
-53,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcángel",Ahora Dice,UMLE - Latino,46,53,17,8248405,2017-08-03
+53,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcangel",Ahora Dice,UMLE - Latino,46,53,17,8248405,2017-08-03
 54,spotify:track:0afhq8XCExXpqazXczTSve,Ed Sheeran,Galway Girl,Atlantic Records UK,2,55,22,7980191,2017-08-03
 55,spotify:track:2mfUa8bLs2s5N4VaqJZ4lZ,Hailee Steinfeld,Most Girls,Universal Records,54,61,14,7652159,2017-08-03
 56,spotify:track:209gZgcfLq2aUuu51vOWBl,"CNCO, Yandel",Hey DJ,Sony Music Latin,52,58,15,7442674,2017-08-03
@@ -64,7 +64,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 63,spotify:track:7aF09WaavZAmAWuUeYxlYD,"OneRepublic, Seeb",Rich Love (with Seeb),Mosley / Interscope,63,75,3,6886078,2017-08-03
 64,spotify:track:7mldq42yDuxiUNn08nvzHO,Sam Hunt,Body Like A Back Road,MCA Nashville,62,72,26,6759877,2017-08-03
 65,spotify:track:7hDc8b7IXETo14hHIHdnhd,Drake,Passionfruit,Cash Money Records/Young Money Ent./Universal Rec.,2,67,20,6677327,2017-08-03
-66,spotify:track:6gBFPUFcJLzWGx4lenP6h2,Travis Scott,goosebumps,Cactus Jack / Epic,60,70,31,6621762,2017-08-03
+66,spotify:track:6gBFPUFcJLzWGx4lenP6h2,Travis Scott,goosebumps,Epic/Grand Hustle,60,70,31,6621762,2017-08-03
 67,spotify:track:6QgjcU0zLnzq5OrUoSZ3OK,Portugal. The Man,Feel It Still,Atlantic Records,67,99,3,6491874,2017-08-03
 68,spotify:track:0lMbuWUpfTWhEmOKxppEau,"Calvin Harris, Future, Khalid, Funk Wav",Rollin (feat. Future & Khalid),Columbia,38,68,12,6489368,2017-08-03
 69,spotify:track:1CKd1PnqfYx0H12V9MSaIY,"Zedd, Liam Payne",Get Low (with Liam Payne),UMGRI Interscope,51,69,4,6481070,2017-08-03
@@ -118,7 +118,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 117,spotify:track:6Q2FftbUG530lCtBI74bMH,"A Boogie Wit da Hoodie, Kodak Black",Drowning (feat. Kodak Black),Highbridge The Label,90,121,16,4235400,2017-08-03
 118,spotify:track:3GPI7hYiqD6enLRobhkBm8,ItaloBrothers,Summer Air,Zoo Digital,118,124,8,4234008,2017-08-03
 119,spotify:track:3AEZUABDXNtecAOSC1qTfo,CNCO,Reggaetón Lento (Bailemos),Sony Music Latin,32,122,32,4225993,2017-08-03
-120,spotify:track:5hEM0JchdVzQ5PwvSfITeX,"Piso 21, Maluma",Me Llamas (feat. Maluma) - Remix,WM Mexico,87,128,32,4171120,2017-08-03
+120,spotify:track:5hEM0JchdVzQ5PwvSfITeX,"Piso 21, Maluma",Me llamas (feat. Maluma) - Remix,WM Mexico,87,128,32,4171120,2017-08-03
 121,spotify:track:7abpmGpF7PGep2rDU68GBR,"Burak Yeter, Danelle Sandoval",Tuesday (feat. Danelle Sandoval),SBA Production,58,118,25,4167277,2017-08-03
 122,spotify:track:68EMU2RD1ECNeOeJ5qAXCV,"Charlie Puth, Selena Gomez",We Don't Talk Anymore (feat. Selena Gomez),Artist Partner,39,129,32,4149997,2017-08-03
 123,spotify:track:4yN6xPLopmTLvc27pO9LIE,"Nicky Jam, Wisin",Si Tú La Ves (feat. Wisin),Sony Music Latin,123,151,14,4147685,2017-08-03
@@ -129,7 +129,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 128,spotify:track:4Km5HrUvYTaSUfiSGPJeQR,"Migos, Lil Uzi Vert",Bad and Boujee (feat. Lil Uzi Vert),Quality Control Music,9,132,32,4014543,2017-08-03
 129,spotify:track:00lNx0OcTJrS3MKHcB80HY,"Jax Jones, RAYE",You Don't Know Me (feat. RAYE),Polydor Records,17,126,30,3999512,2017-08-03
 130,spotify:track:1nX9KhK3Fff27SnrIor2Yb,"2 Chainz, Travis Scott",4 AM,2Chainz PS/Def Jam,83,131,9,3952311,2017-08-03
-131,spotify:track:1qOLh0tI7trd1zdDKxYZTe,"Hailee Steinfeld, Grey, Zedd",Starving,UME - Global Clearing House,20,137,32,3943697,2017-08-03
+131,spotify:track:1qOLh0tI7trd1zdDKxYZTe,"Hailee Steinfeld, Grey, Zedd",Starving,Universal Records,20,137,32,3943697,2017-08-03
 132,spotify:track:78rIJddV4X0HkNAInEcYde,"Starley, Ryan Riback",Call on Me (Ryan Riback Remix),Tinted Records,13,136,32,3941552,2017-08-03
 133,spotify:track:1Slwb6dOYkBlWal1PGtnNg,Ed Sheeran,Thinking out Loud,Atlantic Records UK,58,147,32,3933352,2017-08-03
 134,spotify:track:6JV2JOEocMgcZxYSZelKcc,Justin Timberlake,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",Villa 40/RCA Records,28,143,32,3932196,2017-08-03
@@ -143,7 +143,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 142,spotify:track:0XfOi87h82i09rQjWYG0Bm,"Jax Jones, Demi Lovato, Stefflon Don",Instruction (feat. Demi Lovato & Stefflon Don),Polydor Records,142,173,3,3652756,2017-08-03
 143,spotify:track:51PIvodunv6NmX5250zxAh,Lady Gaga,The Cure,Interscope,33,154,16,3638048,2017-08-03
 144,spotify:track:6XOYVSmNDjKUNMXooU4s4z,OneRepublic,No Vacancy,Mosley / Interscope,74,139,14,3629573,2017-08-03
-145,spotify:track:3b5Li4QKDVBx1x7fQuu54a,"Alan Walker, Gavin James",Tired,Kreatell Music,108,155,11,3603311,2017-08-03
+145,spotify:track:3b5Li4QKDVBx1x7fQuu54a,"Alan Walker, Gavin James",Tired,MER Recordings,108,155,11,3603311,2017-08-03
 146,spotify:track:343YBumqHu19cGoGARUTsd,Drake,Fake Love,Cash Money Records/Young Money Ent./Universal Rec.,7,160,32,3602195,2017-08-03
 147,spotify:track:6DNtNfH8hXkqOX1sjqmI7p,"Major Lazer, Justin Bieber, MØ",Cold Water (feat. Justin Bieber & MØ),Third Pardee Records,14,163,32,3589164,2017-08-03
 148,spotify:track:04DwTuZ2VBdJCCC5TROn7L,"Martin Garrix, Bebe Rexha",In the Name of Love,Epic Amsterdam,16,167,32,3582953,2017-08-03
@@ -168,10 +168,10 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 167,spotify:track:5NNlUMcOEOdoOIwwaWXv0k,"Maroon 5, Future",Cold (feat. Future),Interscope Records*,19,181,24,3301704,2017-08-03
 168,spotify:track:3E2Zh20GDCR9B1EYjfXWyv,AJR,Weak,Black Butter,25,182,32,3299204,2017-08-03
 169,spotify:track:27SdWb2rFzO6GWiYDBTD9j,Sia,Cheap Thrills,Monkey Puzzle Records/RCA Records,31,191,32,3281889,2017-08-03
-170,spotify:track:7gHs73wELdeycvS48JfIos,Alan Walker,Faded,Kreatell Music,64,189,32,3266230,2017-08-03
+170,spotify:track:7gHs73wELdeycvS48JfIos,Alan Walker,Faded,MER Recordings,64,189,32,3266230,2017-08-03
 171,spotify:track:7bJwvubZZaoGE1AGEfu8Fi,Ariana Grande,One Last Time,Universal Records,103,185,10,3265873,2017-08-03
 172,spotify:track:2KklXplRtxMsBYo474Es0w,Ofenbach,Be Mine,Elektra France,141,187,11,3257458,2017-08-03
-173,spotify:track:5Z01UMMf7V1o0MzF86s6WJ,Eminem,Lose Yourself,Aftermath,150,-1,20,3232673,2017-08-03
+173,spotify:track:5Z01UMMf7V1o0MzF86s6WJ,Eminem,"Lose Yourself - From ""8 Mile"" Soundtrack",Aftermath,150,-1,20,3232673,2017-08-03
 174,spotify:track:1sBhJGPUKrdRycgKxve70v,"Felix Jaehn, Hight, Alex Aiono",Hot2Touch,Virgin,129,186,9,3221847,2017-08-03
 175,spotify:track:2jYmK1cb3Uya6FFsocdpzO,Sabrina Carpenter,Why,Hollywood Records,175,-1,1,3213467,2017-08-03
 176,spotify:track:3JKhmIlixlYwFLzrkc6drb,Kesha,Learn To Let Go,Kemosabe Records/RCA Records,176,-1,1,3211380,2017-08-03

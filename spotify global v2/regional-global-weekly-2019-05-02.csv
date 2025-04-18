@@ -22,7 +22,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 21,spotify:track:3Fj47GNK2kUF0uaEDgXLaD,Billie Eilish,wish you were gay,Darkroom/Interscope Records,3,16,9,13311555,2019-05-02
 22,spotify:track:25sgk305KZfyuqVBQIahim,Ava Max,Sweet but Psycho,Atlantic Records,6,22,31,13219861,2019-05-02
 23,spotify:track:5icOoE6VgqFKohjWWNp0Ac,"Marshmello, CHVRCHES",Here With Me,Marshmello/Republic,16,18,8,12921722,2019-05-02
-24,spotify:track:2dpaYNEQHiRxtZbfNsse99,"Marshmello, Bastille",Happier,Joytime Collective,2,23,37,12636124,2019-05-02
+24,spotify:track:2dpaYNEQHiRxtZbfNsse99,"Marshmello, Bastille",Happier,Astralwerks,2,23,37,12636124,2019-05-02
 25,spotify:track:4lzxJ4jCuFDXXGkE1LmpKR,"DJ Luian, Mambo Kingz, Anuel AA, Nicky Jam, Darell, Brytiago",Verte Ir,Hear This Music,25,33,5,12408121,2019-05-02
 26,spotify:track:6Qs4SXO9dwPj5GKvVOv8Ki,"Sam Smith, Normani",Dancing With A Stranger (with Normani),Capitol,7,24,16,12254073,2019-05-02
 27,spotify:track:1wJRveJZLSb1rjhnUHQiv6,"A Boogie Wit da Hoodie, 6ix9ine",Swervin (feat. 6ix9ine),Highbridge the Label / Atlantic Records,25,25,18,12244916,2019-05-02
@@ -37,7 +37,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 36,spotify:track:1NJcg626wLln4pGHpiV7mf,"Billie Eilish, Khalid",lovely (with Khalid),Darkroom,24,37,54,11067827,2019-05-02
 37,spotify:track:5W83ErFkO3aKAIS1WMi6u0,"Anuel AA, KAROL G",Secreto,Anuel AA & Karol G - Secreto,11,36,15,11034407,2019-05-02
 38,spotify:track:4kV4N9D1iKVxx1KLvtTpjS,Ariana Grande,"break up with your girlfriend, i'm bored",Republic Records,2,30,12,11010307,2019-05-02
-39,spotify:track:4n7jnSxVLd8QioibtTDBDq,"Alan Walker, Sabrina Carpenter, Farruko",On My Way,Kreatell Music,39,41,6,10889325,2019-05-02
+39,spotify:track:4n7jnSxVLd8QioibtTDBDq,"Alan Walker, Sabrina Carpenter, Farruko",On My Way,MER Recordings,39,41,6,10889325,2019-05-02
 40,spotify:track:2qxmye6gAegTMjLKEBoR3d,Alec Benjamin,Let Me Down Slowly,2018,27,28,21,10815393,2019-05-02
 41,spotify:track:3XiNC94b4Tq1xwv70sQJGN,Lil Uzi Vert,Sanguine Paradise,Generation Now/Atlantic,38,38,3,10625080,2019-05-02
 42,spotify:track:1rqqCSm0Qe4I9rUvWncaom,Panic! At The Disco,High Hopes,DCD2 / Fueled By Ramen,9,40,45,10585854,2019-05-02
@@ -46,7 +46,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 45,spotify:track:2IRZnDFmlqMuOrYOLnZZyc,"Meek Mill, Drake",Going Bad (feat. Drake),MMG/Atlantic,11,39,22,9981529,2019-05-02
 46,spotify:track:7uH27oIt4a6cIFCA8ZPcyG,Ozuna,Baila Baila Baila,Aura Music Corp.,12,29,16,9919229,2019-05-02
 47,spotify:track:4cbdPT6uaBOgOQe3fLMofl,"SZA, The Weeknd, Travis Scott, Game of Thrones",Power is Power (feat. The Weeknd & Travis Scott),Columbia,31,31,2,9734321,2019-05-02
-48,spotify:track:7eBqSVxrzQZtK2mmgRG6lC,YNW Melly,Murder on My Mind,P2018,19,46,11,9626176,2019-05-02
+48,spotify:track:7eBqSVxrzQZtK2mmgRG6lC,YNW Melly,Murder On My Mind,P2018,19,46,11,9626176,2019-05-02
 49,spotify:track:4HFpIAtiojlAuYNmITpYGn,Lizzo,Truth Hurts,Nice Life/Atlantic,49,-1,1,9099342,2019-05-02
 50,spotify:track:3XF5xLJHOQQRbWya6hBp7d,Billie Eilish,you should see me in a crown,Darkroom/Interscope Records,15,47,14,9070614,2019-05-02
 51,spotify:track:7FGq80cy8juXBCD2nrqdWU,"benny blanco, Halsey, Khalid",Eastside (with Halsey & Khalid),Friends Keep Secrets/Interscope Records,4,54,42,8896715,2019-05-02
@@ -60,17 +60,17 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 59,spotify:track:7dt6x5M1jzdTEt8oCbisTK,Post Malone,Better Now,Republic Records,1,59,53,8491865,2019-05-02
 60,spotify:track:059bcIhyc2SBwm6sw2AZzd,"Piso 21, Micro TDH",Te Vi,WM Mexico,50,69,16,8449972,2019-05-02
 61,spotify:track:6IRdLKIyS4p7XNiP8r6rsx,Billie Eilish,all the good girls go to hell,Darkroom/Interscope Records,11,51,5,8441114,2019-05-02
-62,spotify:track:5p1ex0pXv6jSPJ6QbumQpD,"MEDUZA, Goodboys",Piece Of Your Heart,Universal-Island Records Ltd.,62,72,3,8436545,2019-05-02
+62,spotify:track:5p1ex0pXv6jSPJ6QbumQpD,"MEDUZA, Goodboys",Piece Of Your Heart,Virgin,62,72,3,8436545,2019-05-02
 63,spotify:track:7njKgVl3AnLflRad38o7AG,Bazzi,Paradise,iamcosmic,63,71,4,8412802,2019-05-02
 64,spotify:track:44ZJ4hLD5onikKsVLQaILr,Stormzy,Vossi Bop,#Merky Records,64,-1,1,8245515,2019-05-02
-65,spotify:track:116H0KvKr2Zl4RPuVBruDO,"Bad Bunny, Drake",MIA,Rimas Entertainment LLC,1,60,29,8233607,2019-05-02
+65,spotify:track:116H0KvKr2Zl4RPuVBruDO,"Bad Bunny, Drake",MIA (feat. Drake),OVO Sound/Warner Records,1,60,29,8233607,2019-05-02
 66,spotify:track:4Q8aDd3H6LF8t4eY7So9O8,"Marshmello, Tyga, Chris Brown",Light It Up (with Tyga & Chris Brown),Astralwerks,66,-1,1,8224969,2019-05-02
 67,spotify:track:5itOtNx0WxtJmi1TQ3RuRd,"Calvin Harris, Rag'n'Bone Man",Giant (with Rag'n'Bone Man),Columbia,21,48,16,8118611,2019-05-02
 68,spotify:track:0s5DNDV6LAKn2u2Ufa3VjQ,"Mau y Ricky, Manuel Turizo, Camilo",Desconocidos,Sony Music Latin,34,65,25,8112593,2019-05-02
 69,spotify:track:2H4gf1wLxvYreMj1jcaN0k,Dean Lewis,Be Alright,Universal Music Australia Pty. Ltd.,12,66,41,8070338,2019-05-02
 70,spotify:track:09oZ9eXQ2fo6YDrPzJqAoP,"Khalid, John Mayer",Outta My Head (with John Mayer),"Right Hand Music Group, LLC/RCA Records",17,58,4,8064802,2019-05-02
 71,spotify:track:3Tc57t9l2O8FwQZtQOvPXK,Billie Eilish,my strange addiction,Darkroom/Interscope Records,16,61,5,8057061,2019-05-02
-72,spotify:track:2xLMifQCjDGFmkHkpNLD9h,Travis Scott,SICKO MODE,Cactus Jack / Epic,2,63,39,7985739,2019-05-02
+72,spotify:track:2xLMifQCjDGFmkHkpNLD9h,Travis Scott,SICKO MODE,Cactus Jack / Epic / Grand Hustle,2,63,39,7985739,2019-05-02
 73,spotify:track:3JjaofJ0lCeEsFSZqppzOp,"Sean Paul, J Balvin",Contra La Pared,Universal-Island Records Ltd.,73,76,7,7885122,2019-05-02
 74,spotify:track:0e7ipj03S05BNilyu5bRzt,"Post Malone, 21 Savage",rockstar (feat. 21 Savage),Republic Records,1,70,85,7742673,2019-05-02
 75,spotify:track:1tNJrcVe6gwLEiZCtprs1u,Dominic Fike,3 Nights,Columbia,75,103,5,7708615,2019-05-02
@@ -127,7 +127,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 126,spotify:track:5N5k9nd479b1xpDZ4usjrg,"Calvin Harris, Sam Smith, Jessie Reyez",Promises (with Sam Smith),Columbia,5,117,37,5568369,2019-05-02
 127,spotify:track:3swc6WTsr7rl9DqQKQA55C,"Post Malone, Ty Dolla $ign",Psycho (feat. Ty Dolla $ign),Republic Records,2,127,62,5555089,2019-05-02
 128,spotify:track:03x2rVJRFUrvwlfxoHd9Mo,Tom Walker,Just You and I,Relentless Records,92,92,9,5542453,2019-05-02
-129,spotify:track:4T4CZ3Q4z3GG7lU720YYhM,"Lunay, Gaby Music, Chris Jedi",Soltera,round2media - LaFamilia,104,131,8,5534847,2019-05-02
+129,spotify:track:4T4CZ3Q4z3GG7lU720YYhM,"Lunay, Chris Jedi, Gaby Music",Soltera,La Familia,104,131,8,5534847,2019-05-02
 130,spotify:track:7m9OqQk4RVRkw9JJdeAw96,XXXTENTACION,Jocelyn Flores,Bad Vibes Forever / EMPIRE,7,128,88,5520997,2019-05-02
 131,spotify:track:0FZ4Dmg8jJJAPJnvBIzD9z,"Kodak Black, Offset, Travis Scott",ZEZE (feat. Travis Scott & Offset),Atlantic Records,3,121,29,5473283,2019-05-02
 132,spotify:track:2uIX8YMNjGMD7441kqyyNU,Billie Eilish,ocean eyes,Darkroom,108,134,31,5450985,2019-05-02

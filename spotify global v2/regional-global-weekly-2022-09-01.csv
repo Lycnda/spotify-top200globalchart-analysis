@@ -7,7 +7,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 6,spotify:track:5ildQOEKmJuWGl2vRkFdYc,ROSALÍA,DESPECHÁ,Columbia,5,6,5,29410181,2022-09-01
 7,spotify:track:5ww2BF9slyYgNOk37BlC4u,Manuel Turizo,La Bachata,Sony Music Latin/La Industria,7,8,9,27877507,2022-09-01
 8,spotify:track:5Eax0qFko2dh7Rl2lYs3bx,Bad Bunny,Efecto,Rimas Entertainment LLC,6,7,17,26352203,2022-09-01
-9,spotify:track:75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God),Fish People,1,9,14,22773059,2022-09-01
+9,spotify:track:75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God),Parlophone UK,1,9,14,22773059,2022-09-01
 10,spotify:track:4h9wh7iOZ0GGn8QVp4RAOB,OneRepublic,I Ain't Worried,Interscope Records,10,13,13,22333344,2022-09-01
 11,spotify:track:3k3NWokhRRkEPhCzPmV8TW,"Bad Bunny, Bomba Estéreo",Ojitos Lindos,Rimas Entertainment LLC,3,10,17,22289239,2022-09-01
 12,spotify:track:6xGruZOHLs39ZbVccQTuPZ,Joji,Glimpse of Us,88rising Music/Warner Records,1,12,12,21999447,2022-09-01
@@ -28,7 +28,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 27,spotify:track:6JIC3hbC28JZKZ8AlAqX8h,"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,EMI,4,25,55,14445455,2022-09-01
 28,spotify:track:6HMtHNpW6YPi1hrw9tgF8P,Lizzo,About Damn Time,Nice Life/Atlantic,9,26,18,14406314,2022-09-01
 29,spotify:track:31i56LZnwE6uSu3exoHjtB,Bad Bunny,Neverita,Rimas Entertainment LLC,15,48,17,14386631,2022-09-01
-30,spotify:track:41oY4WCTj5kccfesTVFnvN,"Bad Bunny, Jhayco",Tarot,Rimas Entertainment LLC,9,23,17,14287078,2022-09-01
+30,spotify:track:41oY4WCTj5kccfesTVFnvN,"Bad Bunny, Jhay Cortez",Tarot,Rimas Entertainment LLC,9,23,17,14287078,2022-09-01
 31,spotify:track:0O6u0VJ46W86TxN9wgyqDj,"Post Malone, Doja Cat",I Like You (A Happier Song) (with Doja Cat),Mercury Records/Republic Records,10,29,13,14001561,2022-09-01
 32,spotify:track:6VhuP99TE6gYNQRJIlAWFD,Stephen Sanchez,Until I Found You,Republic Records,24,24,17,13913594,2022-09-01
 33,spotify:track:4h4QlmocP3IuwYEj2j14p8,"Nicky Youre, dazy",Sunroof,Thirty Knots/Columbia,28,30,17,13820366,2022-09-01
@@ -41,7 +41,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 40,spotify:track:2QjOHCTQ1Jl3zawyYOpxh6,The Neighbourhood,Sweater Weather,Columbia,29,38,105,12678743,2022-09-01
 41,spotify:track:3F5CgOj3wFlRv51JsHbxhe,"Drake, 21 Savage",Jimmy Cooks (feat. 21 Savage),OVO,7,37,11,12533017,2022-09-01
 42,spotify:track:2DB4DdfCFMw1iaR6JaR03a,"Camila Cabello, Ed Sheeran",Bam Bam (feat. Ed Sheeran),Epic,5,33,26,12501831,2022-09-01
-43,spotify:track:3fjN3y5x4hN53rykAN2LHQ,Rels B,cómo dormiste?,DALE PLAY Records / Flakk Team,24,36,4,12483434,2022-09-01
+43,spotify:track:3fjN3y5x4hN53rykAN2LHQ,Rels B,cómo dormiste?,Flakk Team / DALE PLAY Records,24,36,4,12483434,2022-09-01
 44,spotify:track:54ipXppHLA8U4yqpOFTUhr,Imagine Dragons,Bones,Kid Ina Korner / Interscope,44,46,25,11977799,2022-09-01
 45,spotify:track:0xzI1KAr0Yd9tv8jlIk3sn,"benny blanco, BTS, Snoop Dogg",Bad Decisions (with BTS & Snoop Dogg),Friends Keep Secrets/Interscope Records,15,31,4,11933796,2022-09-01
 46,spotify:track:0VjIjW4GlUZAMYd2vXMi3b,The Weeknd,Blinding Lights,Republic Records,1,42,144,11875358,2022-09-01
@@ -101,7 +101,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 100,spotify:track:37y7iDayfwm3WXn5BiAoRk,Steve Lacy,Dark Red,Three Quarter,66,108,56,7914273,2022-09-01
 101,spotify:track:0u2P5u6lvoDfwTYjAADbn4,"Billie Eilish, Khalid",lovely (with Khalid),Darkroom,24,93,228,7912055,2022-09-01
 102,spotify:track:0fea68AdmYNygeTGI4RC18,"J Balvin, Bad Bunny",LA CANCIÓN,Universal Music Latino / Rimas,17,101,80,7911758,2022-09-01
-103,spotify:track:6wtZPYBIXUvCpXwVjMCJBf,"Polimá Westcoast, Feid, Pailita, Paloma Mami, De La Ghetto",ULTRA SOLO REMIX,Sony Music Entertainment Chile S.A,44,87,11,7890988,2022-09-01
+103,spotify:track:6wtZPYBIXUvCpXwVjMCJBf,"Polimá Westcoast, Pailita, Feid, Paloma Mami, De La Ghetto",ULTRA SOLO REMIX,Sony Music Entertainment Chile S.A,44,87,11,7890988,2022-09-01
 104,spotify:track:7fZBQnc0zXwVybgCIrQQil,"Imanbek, BYOR",Belly Dancer,Musical Freedom,77,95,14,7890507,2022-09-01
 105,spotify:track:5YbPxJwPfrj7uswNwoF1pJ,Burna Boy,Last Last,Spaceship Entertainment Ltd.,93,109,8,7872380,2022-09-01
 106,spotify:track:4hceSKjrkDTO0nMKFcb3sj,"Bizarrap, Villano Antillano","Villano Antillano: Bzrp Music Sessions, Vol. 51",DALE PLAY Records,45,82,12,7870990,2022-09-01
@@ -162,7 +162,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 161,spotify:track:4u7EnebtmKWzUH433cf5Qv,Queen,Bohemian Rhapsody - Remastered 2011,EMI,11,146,205,6428204,2022-09-01
 162,spotify:track:21jGcNKet2qwijlDFuPiPb,Post Malone,Circles,Republic Records,1,149,157,6421366,2022-09-01
 163,spotify:track:5kVZxyMY1gfdCLiChsfjn1,Bad Bunny,Yo No Soy Celoso,Rimas Entertainment LLC,11,144,17,6393839,2022-09-01
-164,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhayco",DÁKITI,Rimas Entertainment LLC,1,157,96,6365611,2022-09-01
+164,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhay Cortez",DÁKITI,Rimas Entertainment LLC,1,157,96,6365611,2022-09-01
 165,spotify:track:7o2CTH4ctstm8TNelqjb51,Guns N' Roses,Sweet Child O' Mine,Guns N Roses P&D,101,155,13,6361558,2022-09-01
 166,spotify:track:0RiRZpuVRbi7oqRdSMwhQY,"Post Malone, Swae Lee",Sunflower - Spider-Man: Into the Spider-Verse,Republic Records,1,150,202,6357930,2022-09-01
 167,spotify:track:4fouWK6XVHhzl78KzQ1UjL,GAYLE,abcdefu,Atlantic/Arthouse Records,1,153,42,6350782,2022-09-01

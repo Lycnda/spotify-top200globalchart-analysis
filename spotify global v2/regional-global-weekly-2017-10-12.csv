@@ -38,7 +38,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 37,spotify:track:5CtI0qwDJkDQGwXD1H1cLb,"Luis Fonsi, Daddy Yankee, Justin Bieber",Despacito - Remix,UMLE - Latino,1,31,26,10969164,2017-10-12
 38,spotify:track:7KXjTSCq5nL1LoYtL7XAwS,Kendrick Lamar,HUMBLE.,Aftermath,1,36,28,10839510,2017-10-12
 39,spotify:track:1wjzFQodRWrPcQ0AnYnvQ9,Lauv,I Like Me Better,Lauv,29,29,19,10602780,2017-10-12
-40,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,9,30,21,10305979,2017-10-12
+40,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,9,30,21,10305979,2017-10-12
 41,spotify:track:1OAh8uOEOvTDqkKFsKksCi,"DJ Khaled, Rihanna, Bryson Tiller",Wild Thoughts (feat. Rihanna & Bryson Tiller),Epic/We The Best,2,34,17,10154068,2017-10-12
 42,spotify:track:1m69ELEgE6k5ZWsap40ozt,Ozuna,Se Preparó,VP Records Corp/Dimelo Vi,42,50,7,10074215,2017-10-12
 43,spotify:track:0NiXXAI876aGImAd6rTj8w,"Jonas Blue, William Singe",Mama,UMOD (Universal Music On Demand),11,38,23,9900008,2017-10-12
@@ -55,7 +55,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 54,spotify:track:52okn5MNA47tk87PeZJLEL,NF,Let You Down,NF Real Music,54,-1,1,8100866,2017-10-12
 55,spotify:track:69Naniu2KjKjaQOBUagE8U,"Lorde, Khalid, Post Malone, SZA","Homemade Dynamite (Feat. Khalid, Post Malone & SZA) - REMIX",Universal Music New Zealand Limited,55,62,4,7897754,2017-10-12
 56,spotify:track:3A7qX2QjDlPnazUsRk5y0M,"David Guetta, Justin Bieber",2U (feat. Justin Bieber),Parlophone (France),3,45,18,7858613,2017-10-12
-57,spotify:track:2SmgFAhQkQCQPyBiBxR6Te,"NATTI NATASHA, Ozuna",Criminal,Pina Records,57,67,4,7801326,2017-10-12
+57,spotify:track:2SmgFAhQkQCQPyBiBxR6Te,"Natti Natasha, Ozuna",Criminal,Pina Records,57,67,4,7801326,2017-10-12
 58,spotify:track:3hRZsdTF5uyGA2uhNqEuhm,Niall Horan,Too Much To Ask,Capitol Records (US1A),40,48,4,7740369,2017-10-12
 59,spotify:track:1yxgsra98r3qAtxqiGZPiX,Travis Scott,BUTTERFLY EFFECT,Epic/Grand Hustle/Cactus Jack,40,55,21,7711606,2017-10-12
 60,spotify:track:3zoYkqS4y2BsGVShPL2nTE,"CNCO, Little Mix",Reggaetón Lento (Remix),Sony Music Latin,56,56,8,7639403,2017-10-12
@@ -83,7 +83,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 82,spotify:track:0Wv5wuenRLI3BcwgT3HPIP,"DJ Snake, Lauv",A Different Way (with Lauv),Geffen,82,91,3,6067464,2017-10-12
 83,spotify:track:6jA8HL9i4QGzsj6fjoxp8Y,"Martin Garrix, Troye Sivan",There for You,Epic Amsterdam,18,75,20,6056872,2017-10-12
 84,spotify:track:40oKW22ZNNkEdZLJTScaQI,"Kodak Black, XXXTENTACION",Roll in Peace (feat. XXXTENTACION),Atlantic Records,79,79,8,5893847,2017-10-12
-85,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcángel",Ahora Dice,UMLE - Latino,46,84,27,5880334,2017-10-12
+85,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcangel",Ahora Dice,UMLE - Latino,46,84,27,5880334,2017-10-12
 86,spotify:track:1x5sYLZiu9r5E43kMlt9f8,"Clean Bandit, Zara Larsson",Symphony (feat. Zara Larsson),Atlantic Records UK,11,80,30,5783829,2017-10-12
 87,spotify:track:5SE57ljOIUJ1ybL9U6CuBH,BTS,DNA,BIGHIT MUSIC,52,71,4,5729133,2017-10-12
 88,spotify:track:2uSLx5uwRIhiA3sJJraNqX,"Maroon 5, Julia Michaels",Help Me Out (with Julia Michaels),Interscope Records*,88,-1,1,5727868,2017-10-12

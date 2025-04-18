@@ -19,7 +19,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 18,spotify:track:7qiZfU4dY1lWllzX7mPBI3,Ed Sheeran,Shape of You,Atlantic Records UK,1,17,47,13485537,2017-11-30
 19,spotify:track:0Zbbxnx4SGGHoIow4PpISP,"Kygo, Justin Jesso",Stargazing,Kygo,15,18,10,12851089,2017-11-30
 20,spotify:track:42CeaId2XNlxugDvyqHfDf,Post Malone,Candy Paint,Republic Records,20,31,11,12270959,2017-11-30
-21,spotify:track:6Za3190Sbw39BBC77WSS1C,"NATTI NATASHA, Ozuna",Criminal,Pina Records,21,21,11,12122973,2017-11-30
+21,spotify:track:6Za3190Sbw39BBC77WSS1C,"Natti Natasha, Ozuna",Criminal,Pina Records,21,21,11,12122973,2017-11-30
 22,spotify:track:0tKcYR2II1VCQWT79i5NrW,Imagine Dragons,Thunder,Kid Ina Korner / Interscope,8,23,31,12034384,2017-11-30
 23,spotify:track:5hcisvFMidkMJlElTO9Qmw,"Bad Bunny, Prince Royce, J Balvin, Mambo Kingz, DJ Luian",Sensualidad,Hear This Music,23,33,4,11938387,2017-11-30
 24,spotify:track:7GX5flRQZVHRAGd6B4TmDO,Lil Uzi Vert,XO Tour Llif3,Generation Now/Atlantic,10,24,36,11670805,2017-11-30
@@ -90,7 +90,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 89,spotify:track:7krbSH3rd8lhIZvuzTV3Bl,James Arthur,Naked,Columbia Local,89,-1,1,5758771,2017-11-30
 90,spotify:track:2Za1AlJNvksouPPWbXpR2X,"Macklemore, Kesha",Good Old Days (feat. Kesha),Bendo LLC,56,81,10,5754200,2017-11-30
 91,spotify:track:3ncgNpxLoBQ65ABk4djDyd,"Famous Dex, A$AP Rocky",PICK IT UP (feat. A$AP Rocky),300 Entertainment,91,119,3,5693182,2017-11-30
-92,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,9,88,28,5605331,2017-11-30
+92,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,9,88,28,5605331,2017-11-30
 93,spotify:track:5yuShbu70mtHXY0yLzCQLQ,Post Malone,Go Flex,Universal Records,52,93,21,5593722,2017-11-30
 94,spotify:track:1OAh8uOEOvTDqkKFsKksCi,"DJ Khaled, Rihanna, Bryson Tiller",Wild Thoughts (feat. Rihanna & Bryson Tiller),Epic/We The Best,2,85,24,5517665,2017-11-30
 95,spotify:track:6uFsE1JgZ20EXyU0JQZbUR,Taylor Swift,Look What You Made Me Do,"Big Machine Records, LLC",1,75,14,5490127,2017-11-30
@@ -100,7 +100,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 99,spotify:track:790MhTXPFrYkrqCKvpg4t1,"NAV, Lil Uzi Vert",Wanted You (feat. Lil Uzi Vert),XO Records,99,103,3,5335778,2017-11-30
 100,spotify:track:3DXncPQOG4VBw3QHh3S817,"DJ Khaled, Justin Bieber, Quavo, Chance the Rapper, Lil Wayne","I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",Epic/We The Best,2,95,31,5264364,2017-11-30
 101,spotify:track:7DsX5K72fewVGb47qj7Tbg,Sam Smith,Pray,Capitol,28,77,8,5185692,2017-11-30
-102,spotify:track:0tPQPaOKM32WgMSbPCYyRH,"David Guetta, AFROJACK, Charli XCX, French Montana",Dirty Sexy Money (feat. Charli XCX & French Montana),Parlophone (France),100,100,4,5098782,2017-11-30
+102,spotify:track:0tPQPaOKM32WgMSbPCYyRH,"David Guetta, Afrojack, Charli XCX, French Montana",Dirty Sexy Money (feat. Charli XCX & French Montana),Parlophone (France),100,100,4,5098782,2017-11-30
 103,spotify:track:1x5sYLZiu9r5E43kMlt9f8,"Clean Bandit, Zara Larsson",Symphony (feat. Zara Larsson),Atlantic Records UK,11,105,37,5078807,2017-11-30
 104,spotify:track:7MHN1aCFtLXjownGhvEQlF,Manuel Turizo,Una Lady Como Tú,Sony Music Latin/La Industria,38,96,26,5036081,2017-11-30
 105,spotify:track:5TmZYdHW6HJ9gt7Aokuql5,"Sebastian Yatra, Dalmata",SUTRA,UMLE - Latino,105,118,5,5033182,2017-11-30
@@ -112,13 +112,13 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 111,spotify:track:0KKkJNfGyhkQ5aFogxQAPU,Bruno Mars,That's What I Like,Atlantic Records,6,113,49,4954008,2017-11-30
 112,spotify:track:4aWmUDTfIPGksMNLV2rQP2,"Luis Fonsi, Daddy Yankee",Despacito,UMLE - Latino,4,87,46,4943689,2017-11-30
 113,spotify:track:0OI7AFifLSoGzpb8bdBLLV,"Machine Gun Kelly, X Ambassadors, Bebe Rexha","Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha)",Atlantic Records,113,-1,1,4883705,2017-11-30
-114,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcángel",Ahora Dice,UMLE - Latino,46,106,34,4875163,2017-11-30
+114,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcangel",Ahora Dice,UMLE - Latino,46,106,34,4875163,2017-11-30
 115,spotify:track:38yBBH2jacvDxrznF7h08J,Niall Horan,Slow Hands,Capitol Records (US1A),29,102,30,4842200,2017-11-30
 116,spotify:track:6p8NuHm8uCGnn2Dtbtf7zE,"Migos, Gucci Mane",Slippery (feat. Gucci Mane),Quality Control Music,71,107,35,4835543,2017-11-30
 117,spotify:track:0yyZN5ASdrYu0XYWFzfxUu,"Jesse & Joy, Gente De Zona",3 A.M.,WM Mexico,112,117,11,4818051,2017-11-30
 118,spotify:track:6PGoSes0D9eUDeeAafB2As,"Kendrick Lamar, Zacari",LOVE. FEAT. ZACARI.,Aftermath,14,121,33,4791135,2017-11-30
 119,spotify:track:6fxVffaTuwjgEk5h9QyRjy,Ed Sheeran,Photograph,Atlantic Records UK,41,127,49,4748743,2017-11-30
-120,spotify:track:1pZdegOXTZ2ftINo3oUuRZ,Liam Payne,Bedroom Floor,Capitol Records UK / EMI,71,112,6,4725094,2017-11-30
+120,spotify:track:1pZdegOXTZ2ftINo3oUuRZ,Liam Payne,Bedroom Floor,Capitol,71,112,6,4725094,2017-11-30
 121,spotify:track:6kex4EBAj0WHXDKZMEJaaF,"Jason Derulo, Nicki Minaj, Ty Dolla $ign",Swalla (feat. Nicki Minaj & Ty Dolla $ign),Beluga Heights/Warner Records,6,109,40,4702406,2017-11-30
 122,spotify:track:0VgkVdmE4gld66l8iyGjgx,Future,Mask Off,Epic/Freebandz/A1,5,116,41,4700418,2017-11-30
 123,spotify:track:6eT7xZZlB2mwyzJ2sUKG6w,Post Malone,White Iverson,Universal Records,100,123,41,4681897,2017-11-30

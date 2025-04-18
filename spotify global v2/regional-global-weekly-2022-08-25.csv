@@ -7,7 +7,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 6,spotify:track:5ildQOEKmJuWGl2vRkFdYc,ROSALÍA,DESPECHÁ,Columbia,5,5,4,29290854,2022-08-25
 7,spotify:track:5Eax0qFko2dh7Rl2lYs3bx,Bad Bunny,Efecto,Rimas Entertainment LLC,6,6,16,26598956,2022-08-25
 8,spotify:track:5ww2BF9slyYgNOk37BlC4u,Manuel Turizo,La Bachata,Sony Music Latin/La Industria,8,10,8,25807446,2022-08-25
-9,spotify:track:75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God),Fish People,1,7,13,24193450,2022-08-25
+9,spotify:track:75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God),Parlophone UK,1,7,13,24193450,2022-08-25
 10,spotify:track:3k3NWokhRRkEPhCzPmV8TW,"Bad Bunny, Bomba Estéreo",Ojitos Lindos,Rimas Entertainment LLC,3,9,16,22624825,2022-08-25
 11,spotify:track:4k6Uh1HXdhtusDW5y8Gbvy,Steve Lacy,Bad Habit,L-M Records/RCA Records,10,11,7,22388075,2022-08-25
 12,spotify:track:6xGruZOHLs39ZbVccQTuPZ,Joji,Glimpse of Us,88rising Music/Warner Records,1,8,11,22288127,2022-08-25
@@ -21,7 +21,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 20,spotify:track:76OGwb5RA9h4FxQPT33ekc,Rosa Linn,SNAP,Columbia,19,19,7,17320914,2022-08-25
 21,spotify:track:3LtpKP5abr2qqjunvjlX5i,Central Cee,Doja,Central Cee,15,17,5,16491291,2022-08-25
 22,spotify:track:5PjdY0CKGZdEuoNab3yDmX,"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),Columbia,1,20,59,15508562,2022-08-25
-23,spotify:track:41oY4WCTj5kccfesTVFnvN,"Bad Bunny, Jhayco",Tarot,Rimas Entertainment LLC,9,21,16,14720671,2022-08-25
+23,spotify:track:41oY4WCTj5kccfesTVFnvN,"Bad Bunny, Jhay Cortez",Tarot,Rimas Entertainment LLC,9,21,16,14720671,2022-08-25
 24,spotify:track:6VhuP99TE6gYNQRJIlAWFD,Stephen Sanchez,Until I Found You,Republic Records,24,43,16,14638412,2022-08-25
 25,spotify:track:6JIC3hbC28JZKZ8AlAqX8h,"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,EMI,4,23,54,14572755,2022-08-25
 26,spotify:track:6HMtHNpW6YPi1hrw9tgF8P,Lizzo,About Damn Time,Nice Life/Atlantic,9,22,17,14547067,2022-08-25
@@ -34,7 +34,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 33,spotify:track:2DB4DdfCFMw1iaR6JaR03a,"Camila Cabello, Ed Sheeran",Bam Bam (feat. Ed Sheeran),Epic,5,32,25,13073461,2022-08-25
 34,spotify:track:4zN21mbAuaD0WqtmaTZZeP,"James Hype, Miggy Dela Rosa",Ferrari,Universal-Island Records Ltd.,34,34,12,13009726,2022-08-25
 35,spotify:track:4tYFy8ALRjIZvnvSLw5lxN,"Bad Bunny, Rauw Alejandro",Party,Rimas Entertainment LLC,6,30,16,13003952,2022-08-25
-36,spotify:track:3fjN3y5x4hN53rykAN2LHQ,Rels B,cómo dormiste?,DALE PLAY Records / Flakk Team,24,24,3,12958256,2022-08-25
+36,spotify:track:3fjN3y5x4hN53rykAN2LHQ,Rels B,cómo dormiste?,Flakk Team / DALE PLAY Records,24,24,3,12958256,2022-08-25
 37,spotify:track:3F5CgOj3wFlRv51JsHbxhe,"Drake, 21 Savage",Jimmy Cooks (feat. 21 Savage),OVO,7,35,10,12874066,2022-08-25
 38,spotify:track:2QjOHCTQ1Jl3zawyYOpxh6,The Neighbourhood,Sweater Weather,Columbia,29,36,104,12655306,2022-08-25
 39,spotify:track:2LBqCSwhJGcFQeTHMVGwy3,The Weeknd,Die For You,Universal Republic Records,37,37,28,12571933,2022-08-25
@@ -85,7 +85,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 84,spotify:track:6VrQTLzzuyGIYjUDe4kAZk,Bad Bunny,Un Coco,Rimas Entertainment LLC,25,78,16,8520225,2022-08-25
 85,spotify:track:2z9YkcLojiOE7Eu2p9lPZR,Feid,Normal,UMLE - Latino,57,90,7,8322920,2022-08-25
 86,spotify:track:5jt25aFjW2kNoBqaEVaz5W,"Mora, Feid",LA INOCENTE,Rimas Entertainment LLC,86,111,8,8246082,2022-08-25
-87,spotify:track:6wtZPYBIXUvCpXwVjMCJBf,"Polimá Westcoast, Feid, Pailita, Paloma Mami, De La Ghetto",ULTRA SOLO REMIX,Sony Music Entertainment Chile S.A,44,82,10,8193674,2022-08-25
+87,spotify:track:6wtZPYBIXUvCpXwVjMCJBf,"Polimá Westcoast, Pailita, Feid, Paloma Mami, De La Ghetto",ULTRA SOLO REMIX,Sony Music Entertainment Chile S.A,44,82,10,8193674,2022-08-25
 88,spotify:track:02jLfqc9gMo8PkHEGHY3OT,Feid,Si Te La Encuentras Por Ahí,UMLE - Latino,86,86,3,8159492,2022-08-25
 89,spotify:track:4ZtFanR9U6ndgddUvNcjcG,Olivia Rodrigo,good 4 u,Olivia Rodrigo PS,1,80,67,8140008,2022-08-25
 90,spotify:track:4gzsuuZypVbxs0Af1LSZyB,"Tainy, Bad Bunny, Julieta Venegas",Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),Neon16,12,79,47,8102691,2022-08-25
@@ -155,7 +155,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 154,spotify:track:5gDWsRxpJ2lZAffh5p7K0w,"The Weeknd, Lana Del Rey",Stargirl Interlude,Universal Republic Records,154,159,6,6406628,2022-08-25
 155,spotify:track:7o2CTH4ctstm8TNelqjb51,Guns N' Roses,Sweet Child O' Mine,Guns N Roses P&D,101,146,12,6376821,2022-08-25
 156,spotify:track:003vvx7Niy0yvhvHt4a68B,The Killers,Mr. Brightside,Island Records,98,142,109,6368731,2022-08-25
-157,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhayco",DÁKITI,Rimas Entertainment LLC,1,158,95,6363290,2022-08-25
+157,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhay Cortez",DÁKITI,Rimas Entertainment LLC,1,158,95,6363290,2022-08-25
 158,spotify:track:48q0vSHcJdhK3IiXH8C5WJ,Arctic Monkeys,Why'd You Only Call Me When You're High?,Domino Recording Co,104,165,42,6349950,2022-08-25
 159,spotify:track:71wFwRo8xGc4lrcyKwsvba,"Bad Bunny, Tainy",Callaita,Rimas Entertainment LLC,7,150,69,6337029,2022-08-25
 160,spotify:track:0y60itmpH0aPKsFiGxmtnh,WILLOW,Wait a Minute!,Roc Nation W Smith P&D,28,154,23,6323959,2022-08-25

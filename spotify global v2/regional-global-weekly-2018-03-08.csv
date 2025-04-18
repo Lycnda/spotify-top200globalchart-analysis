@@ -5,7 +5,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 4,spotify:track:08bNPGLD8AhKpnnERrAc6G,"Marshmello, Anne-Marie",FRIENDS,Atlantic Records UK,4,7,4,23594039,2018-03-08
 5,spotify:track:76cy1WJvNGJTj78UqeA5zr,Dua Lipa,IDGAF,Warner Records,4,4,10,23506139,2018-03-08
 6,spotify:track:6tHWl8ows5JOZq9Yfaqn3M,Bazzi,Mine,iamcosmic,3,5,7,22677869,2018-03-08
-7,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),Bloc Nation,7,8,4,21104248,2018-03-08
+7,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),OVO Sound/Warner Records,7,8,4,21104248,2018-03-08
 8,spotify:track:2ARqIya5NAuvFVHSN3bL0m,"Zedd, Maren Morris, Grey",The Middle,UMGRI Interscope,8,11,6,20963966,2018-03-08
 9,spotify:track:4ofvoCdXq99vpMZO4Cfp8x,"The Weeknd, Kendrick Lamar",Pray For Me,Universal Republic Records,3,6,5,20201000,2018-03-08
 10,spotify:track:2U7Hu2RaNQNRi7izoJyZaX,"Post Malone, 21 Savage",rockstar (feat. 21 Savage),Republic Records,1,9,25,19708050,2018-03-08
@@ -26,7 +26,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 25,spotify:track:2IKZkwHI5zsZf70STuhvOX,The Chainsmokers,Sick Boy,Disruptor Records/Columbia,14,23,7,12657580,2018-03-08
 26,spotify:track:7EmGUiUaOSGDnUUQUDrOXC,"Selena Gomez, Marshmello",Wolves,Selena Gomez PS,3,25,20,12650514,2018-03-08
 27,spotify:track:0tgVpDi06FyKpA1z0VMD4v,Ed Sheeran,Perfect,Atlantic Records UK,4,26,53,12581210,2018-03-08
-28,spotify:track:5hM6sP0Gh1jD57drszNueC,"Liam Payne, Rita Ora",For You (With Rita Ora),Capitol Records UK / EMI,27,27,9,12503997,2018-03-08
+28,spotify:track:5hM6sP0Gh1jD57drszNueC,"Liam Payne, Rita Ora",For You (With Rita Ora),Capitol,27,27,9,12503997,2018-03-08
 29,spotify:track:51rXHuKN8Loc4sUlKPODgH,"Jay Rock, Kendrick Lamar, Future, James Blake","King's Dead (with Kendrick Lamar, Future & James Blake)",Black Panther (TDE/DMG) PS,29,29,8,12264866,2018-03-08
 30,spotify:track:5k38wzpLb15YgncyWdTZE4,"G-Eazy, Halsey",Him & I (with Halsey),BPG/RVG/RCA Records,7,28,14,12124294,2018-03-08
 31,spotify:track:39N9RPD9MRb5WmoLzNzPeA,"Nicky Jam, J Balvin",X,Sony Music Latin,31,-1,1,12073809,2018-03-08
@@ -42,7 +42,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 41,spotify:track:1LhMopPAallLeaeNutqbgS,"Justin Timberlake, Chris Stapleton",Say Something (feat. Chris Stapleton),RCA Records Label,25,35,6,10754295,2018-03-08
 42,spotify:track:4lESS6vuruP6a79KWRaQou,"Maluma, Nego do Borel",Corazón (feat. Nego do Borel),Sony Music Latin,17,39,18,10557798,2018-03-08
 43,spotify:track:3Ga6eKrUFf12ouh9Yw3v2D,"Anitta, J Balvin",Downtown,WM Brazil,21,38,16,10193821,2018-03-08
-44,spotify:track:6Za3190Sbw39BBC77WSS1C,"NATTI NATASHA, Ozuna",Criminal,Pina Records,21,41,25,9732621,2018-03-08
+44,spotify:track:6Za3190Sbw39BBC77WSS1C,"Natti Natasha, Ozuna",Criminal,Pina Records,21,41,25,9732621,2018-03-08
 45,spotify:track:6jA8JUuPCGYjFcgw0AoM5T,"Reik, Ozuna, Wisin",Me Niego (feat. Ozuna & Wisin),Columbia,45,64,3,9653391,2018-03-08
 46,spotify:track:6QgjcU0zLnzq5OrUoSZ3OK,Portugal. The Man,Feel It Still,Atlantic Records,18,43,34,9592903,2018-03-08
 47,spotify:track:2xmrfQpmS2iJExTlklLoAL,"Clean Bandit, Julia Michaels",I Miss You (feat. Julia Michaels),Atlantic Records UK,23,37,19,9485102,2018-03-08
@@ -146,7 +146,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 145,spotify:track:0gD6lWJhbXHWNVwQziSVvl,Rich The Kid,Plug Walk,Rich The Kid / (TDE/ISR PS),145,-1,1,4586692,2018-03-08
 146,spotify:track:7krbSH3rd8lhIZvuzTV3Bl,James Arthur,Naked,Columbia Local,86,110,15,4583418,2018-03-08
 147,spotify:track:0KKkJNfGyhkQ5aFogxQAPU,Bruno Mars,That's What I Like,Atlantic Records,6,142,63,4582722,2018-03-08
-148,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,9,141,42,4581018,2018-03-08
+148,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,9,141,42,4581018,2018-03-08
 149,spotify:track:43ay9lQZ5rfNcOOHhRF2cM,"Hugh Jackman, Keala Settle, Zac Efron, Zendaya, The Greatest Showman Ensemble",The Greatest Show,Atlantic Records,73,145,10,4538715,2018-03-08
 150,spotify:track:0JcNysfWVWaMS7R6vzGB2k,"Carlos Vives, Sebastian Yatra",Robarte un Beso,Sony Music Latin,61,133,31,4519651,2018-03-08
 151,spotify:track:5cXg9IQS34FzLVdHhp7hu7,"Kendrick Lamar, Travis Scott",Big Shot (with Travis Scott),Black Panther (TDE/DMG) PS,51,105,4,4519425,2018-03-08

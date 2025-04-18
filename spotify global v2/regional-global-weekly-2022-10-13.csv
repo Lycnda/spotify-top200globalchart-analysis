@@ -1,5 +1,5 @@
 rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,streams,End Date
-1,spotify:track:3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),Capitol Records UK / EMI,1,1,3,50678989,2022-10-13
+1,spotify:track:3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),EMI,1,1,3,50678989,2022-10-13
 2,spotify:track:4uUG5RXrOk84mYEfFvj3cK,"David Guetta, Bebe Rexha",I'm Good (Blue),Parlophone UK,2,2,7,33390068,2022-10-13
 3,spotify:track:4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,Columbia,1,3,28,31732480,2022-10-13
 4,spotify:track:2tTmW7RDtMQtBk7m2rYeSw,"Bizarrap, Quevedo","Quevedo: Bzrp Music Sessions, Vol. 52",DALE PLAY Records,1,4,14,30122972,2022-10-13
@@ -35,7 +35,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 34,spotify:track:7dSZ6zGTQx66c2GF91xCrb,KAROL G,PROVENZA,UMLE - Latino,6,30,25,13688554,2022-10-13
 35,spotify:track:1qEmFfgcLObUfQm0j1W2CK,Harry Styles,Late Night Talking,Columbia,2,37,21,12944126,2022-10-13
 36,spotify:track:3LtpKP5abr2qqjunvjlX5i,Central Cee,Doja,Central Cee,15,33,12,12923318,2022-10-13
-37,spotify:track:75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God),Fish People,1,34,20,12337148,2022-10-13
+37,spotify:track:75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God),Parlophone UK,1,34,20,12337148,2022-10-13
 38,spotify:track:79HZAZNnOE97rb2hnI0XQr,"Rauw Alejandro, Lyanno, Brray",LOKERA,Sony Music Latin/Duars Entertainment,38,41,9,12178039,2022-10-13
 39,spotify:track:2CeKVsFFXG4QzA415QygGb,Feid,Feliz Cumpleaños Ferxxo,UMLE - Latino,39,43,8,12103268,2022-10-13
 40,spotify:track:4h4QlmocP3IuwYEj2j14p8,"Nicky Youre, dazy",Sunroof,Thirty Knots/Columbia,28,38,23,12058068,2022-10-13
@@ -43,7 +43,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 42,spotify:track:6JIC3hbC28JZKZ8AlAqX8h,"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,EMI,4,42,61,11573760,2022-10-13
 43,spotify:track:58ge6dfP91o9oXMzq3XkIS,Arctic Monkeys,505,Domino Recording Co,43,44,41,11355668,2022-10-13
 44,spotify:track:0VjIjW4GlUZAMYd2vXMi3b,The Weeknd,Blinding Lights,Republic Records,1,48,150,11343127,2022-10-13
-45,spotify:track:7iwJOi3hlMqZt6pj1sQOBj,Quevedo,VISTA AL MAR,Quevedo,45,46,5,11280517,2022-10-13
+45,spotify:track:7iwJOi3hlMqZt6pj1sQOBj,Quevedo,Vista Al Mar,Quevedo,45,46,5,11280517,2022-10-13
 46,spotify:track:6HMtHNpW6YPi1hrw9tgF8P,Lizzo,About Damn Time,Nice Life/Atlantic,9,45,24,11041913,2022-10-13
 47,spotify:track:0kTMK4gNFfLXaTb62w1UaJ,"Pablito Pesadilla, Polimá Westcoast, Nickoog Clk, Fran C",BABY OTAKU,BZR Music,47,52,3,11010255,2022-10-13
 48,spotify:track:5JhUm1v5AbI5Yu6jLKCPRO,Grupo Frontera,No Se Va - En Vivo,Grupo Frontera,48,54,3,10549475,2022-10-13
@@ -89,7 +89,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 88,spotify:track:6UelLqGlWMcVH1E5c4H7lY,Harry Styles,Watermelon Sugar,Columbia,4,90,152,8603894,2022-10-13
 89,spotify:track:3AVrVz5rK8Hrqo9YGiVGN5,Cigarettes After Sex,Apocalypse,PTKF,89,91,14,8462922,2022-10-13
 90,spotify:track:3xWGA8pa0IKFI7IMPri4P0,Ed Sheeran,Shivers,Atlantic Records UK,4,88,57,8439151,2022-10-13
-91,spotify:track:3fjN3y5x4hN53rykAN2LHQ,Rels B,cómo dormiste?,DALE PLAY Records / Flakk Team,24,85,10,8426072,2022-10-13
+91,spotify:track:3fjN3y5x4hN53rykAN2LHQ,Rels B,cómo dormiste?,Flakk Team / DALE PLAY Records,24,85,10,8426072,2022-10-13
 92,spotify:track:5Z9KJZvQzH6PFmb8SNkxuk,"Lil Nas X, Jack Harlow",INDUSTRY BABY (feat. Jack Harlow),Columbia,2,87,64,8425877,2022-10-13
 93,spotify:track:5jt25aFjW2kNoBqaEVaz5W,"Mora, Feid",LA INOCENTE,Rimas Entertainment LLC,74,92,15,8405688,2022-10-13
 94,spotify:track:4UMIv5jd9gK98a39BQRD9X,"Pritam, Arijit Singh, Amitabh Bhattacharya",Kesariya,Sony Music Entertainment India Pvt. Ltd.,33,71,13,8260048,2022-10-13
@@ -188,7 +188,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 187,spotify:track:3hRV0jL3vUpRrcy398teAU,Lord Huron,The Night We Met,Play It Again Sam,55,185,33,6122530,2022-10-13
 188,spotify:track:4w273WCBXwM4P3jTX5HkB2,"Grupo Marca Registrada, Junior H",El Rescate,RB Music,129,171,12,6096505,2022-10-13
 189,spotify:track:6RUKPb4LETWmmr3iAEQktW,"The Chainsmokers, Coldplay",Something Just Like This,Disruptor Records/Columbia,2,177,186,6081492,2022-10-13
-190,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhayco",DÁKITI,Rimas Entertainment LLC,1,193,102,6060587,2022-10-13
+190,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhay Cortez",DÁKITI,Rimas Entertainment LLC,1,193,102,6060587,2022-10-13
 191,spotify:track:7qiZfU4dY1lWllzX7mPBI3,Ed Sheeran,Shape of You,Atlantic Records UK,1,189,296,6030752,2022-10-13
 192,spotify:track:5CzixCxDkRXX9mScCmah8O,Bad Bunny,Un Ratito,Rimas Entertainment LLC,10,155,23,6025099,2022-10-13
 193,spotify:track:4cacyP5c3PMlfnyjpg13xW,Yung Gravy,Betty (Get Money),Republic Records,73,164,14,6008951,2022-10-13

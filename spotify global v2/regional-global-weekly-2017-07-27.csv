@@ -8,7 +8,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 7,spotify:track:3A7qX2QjDlPnazUsRk5y0M,"David Guetta, Justin Bieber",2U (feat. Justin Bieber),Parlophone (France),3,4,7,22246704,2017-07-27
 8,spotify:track:7qiZfU4dY1lWllzX7mPBI3,Ed Sheeran,Shape of You,Atlantic Records UK,1,8,29,21588279,2017-07-27
 9,spotify:track:4iLqG9SeJSnt0cSPICSjxv,Charlie Puth,Attention,Artist Partner,5,9,14,20799406,2017-07-27
-10,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,9,11,10,19926360,2017-07-27
+10,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,9,11,10,19926360,2017-07-27
 11,spotify:track:0tKcYR2II1VCQWT79i5NrW,Imagine Dragons,Thunder,Kid Ina Korner / Interscope,8,12,13,18946641,2017-07-27
 12,spotify:track:0NiXXAI876aGImAd6rTj8w,"Jonas Blue, William Singe",Mama,UMOD (Universal Music On Demand),11,13,12,18542809,2017-07-27
 13,spotify:track:79cuOz3SPQTuFrp8WgftAu,Shawn Mendes,There's Nothing Holdin' Me Back,Island Records,5,14,14,16881450,2017-07-27
@@ -51,7 +51,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 50,spotify:track:152lZdxL1OR0ZMW6KquMif,Khalid,Location,"Right Hand Music Group, LLC/RCA Records",34,45,25,9247517,2017-07-27
 51,spotify:track:7MHN1aCFtLXjownGhvEQlF,Manuel Turizo,Una Lady Como Tú,Sony Music Latin/La Industria,51,51,8,9106247,2017-07-27
 52,spotify:track:3eR23VReFzcdmS7TYCrhCe,"Kygo, Selena Gomez",It Ain't Me (with Selena Gomez),Kygo,2,40,23,9085769,2017-07-27
-53,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcángel",Ahora Dice,UMLE - Latino,46,47,16,8882668,2017-07-27
+53,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcangel",Ahora Dice,UMLE - Latino,46,47,16,8882668,2017-07-27
 54,spotify:track:5eqK0tbzUPo2SoeZsov04s,21 Savage,Bank Account,"Slaughter Gang, LLC/Epic Records",54,68,3,8832647,2017-07-27
 55,spotify:track:0afhq8XCExXpqazXczTSve,Ed Sheeran,Galway Girl,Atlantic Records UK,2,46,21,8601107,2017-07-27
 56,spotify:track:693iqPOQvhI7PobtR8CC8v,"J Balvin, Jowell & Randy",Bonita,Rimas (J Balvin - Jowell & Randy),54,54,7,8066047,2017-07-27

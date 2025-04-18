@@ -73,7 +73,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 72,spotify:track:7sMBvZCSUl99bJLXZaLa0b,"Bruno Mars, Anderson .Paak, Silk Sonic",Smokin Out The Window,Aftermath Entertainment/Atlantic,8,44,10,8801685,2022-01-13
 73,spotify:track:5QO79kh1waicV47BqGRL3g,The Weeknd,Save Your Tears,Republic Records,2,71,58,8735830,2022-01-13
 74,spotify:track:0Be7sopyKMv8Y8npsUkax2,Sebastian Yatra,Tacones Rojos,UMLE - Latino,58,58,8,8727303,2022-01-13
-75,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhayco",DÁKITI,Rimas Entertainment LLC,1,50,63,8594022,2022-01-13
+75,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhay Cortez",DÁKITI,Rimas Entertainment LLC,1,50,63,8594022,2022-01-13
 76,spotify:track:07MDkzWARZaLEdKxo6yArG,"THE ANXIETY, WILLOW, Tyler Cole",Meet Me At Our Spot,"MSFTSMusic / Roc Nation Records, LLC",24,55,19,8586908,2022-01-13
 77,spotify:track:4iJyoBOLtHqaGxP12qzhQI,"Justin Bieber, Daniel Caesar, Giveon",Peaches (feat. Daniel Caesar & Giveon),RBMG/Def Jam,1,52,43,8484750,2022-01-13
 78,spotify:track:2K7xn816oNHJZ0aVqdQsha,The Neighbourhood,Softcore,Columbia,78,-1,1,8457969,2022-01-13
@@ -84,7 +84,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 83,spotify:track:2BEcap3xJtmiPaHKyfQi4e,"Rvssian, Rauw Alejandro, Chris Brown",Nostálgico,Sony Music Latin,40,61,18,8226210,2022-01-13
 84,spotify:track:37y7iDayfwm3WXn5BiAoRk,Steve Lacy,Dark Red,Three Quarter,66,73,23,8112858,2022-01-13
 85,spotify:track:0eu4C55hL6x29mmeAjytzC,Oliver Tree,Life Goes On,Atlantic Records,15,62,19,7996431,2022-01-13
-86,spotify:track:6f5ExP43esnvdKPddwKXJH,"NEIKED, Mae Muller, Polo G",Better Days (NEIKED x Mae Muller x Polo G),Capitol Records UK / EMI,32,63,13,7933920,2022-01-13
+86,spotify:track:6f5ExP43esnvdKPddwKXJH,"NEIKED, Mae Muller, Polo G",Better Days (NEIKED x Mae Muller x Polo G),Capitol,32,63,13,7933920,2022-01-13
 87,spotify:track:0k4d5YPDr1r7FX77VdqWez,"Doja Cat, The Weeknd",You Right,Kemosabe Records/RCA Records,15,77,29,7790200,2022-01-13
 88,spotify:track:1mWdTewIgB3gtBM3TOSFhB,BTS,Butter,BIGHIT MUSIC,2,65,34,7755465,2022-01-13
 89,spotify:track:09gysnJpfQ3ublBmJDfcEC,"Amaarae, Kali Uchis, Moliy",SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),0207 Def Jam,23,72,11,7747830,2022-01-13
@@ -186,7 +186,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 185,spotify:track:18vXApRmJSgQ6wG2ll9AOg,Polo G,RAPSTAR,Columbia,3,140,39,5466233,2022-01-13
 186,spotify:track:1u8c2t2Cy7UBoG4ArRcF5g,Taylor Swift,Blank Space,"Big Machine Records, LLC",140,174,10,5438050,2022-01-13
 187,spotify:track:60ynsPSSKe6O3sfwRnIBRf,Doja Cat,Streets,Kemosabe Records/RCA Records,9,163,37,5431665,2022-01-13
-188,spotify:track:5W1qmxHrMlQGGAiFA3ZQqP,"Dímelo Flow, Dalex, Sech, Justin Quiles, Arcángel, De La Ghetto, Lenny Tavárez",Se Le Ve,Rich Music,188,195,2,5429947,2022-01-13
+188,spotify:track:5W1qmxHrMlQGGAiFA3ZQqP,"Dímelo Flow, Dalex, Sech, Justin Quiles, Arcangel, De La Ghetto, Lenny Tavárez",Se Le Ve,Rich Music,188,195,2,5429947,2022-01-13
 189,spotify:track:3QFInJAm9eyaho5vBzxInN,"Baby Keem, Kendrick Lamar",family ties (with Kendrick Lamar),Columbia,30,157,19,5426660,2022-01-13
 190,spotify:track:5902W4uHWzhtOff1UK7the,"Alesso, Katy Perry",When I’m Gone (with Katy Perry),10:22PM/Astralwerks,135,135,2,5415421,2022-01-13
 191,spotify:track:4u7EnebtmKWzUH433cf5Qv,Queen,Bohemian Rhapsody - Remastered 2011,EMI,11,132,173,5414622,2022-01-13

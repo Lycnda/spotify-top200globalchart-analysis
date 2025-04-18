@@ -3,7 +3,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 2,spotify:track:2FRnf9qhLbvw8fu4IBXx78,Wham!,Last Christmas,Epic,2,4,40,36598697,2022-12-15
 3,spotify:track:1Qrg8KqiBpW07V7PNxwwwL,SZA,Kill Bill,Top Dawg Entertainment/RCA Records,3,-1,1,35511837,2022-12-15
 4,spotify:track:2EjXfH91m7f8HiJN1yQg97,Brenda Lee,Rockin' Around The Christmas Tree,MCA Nashville,4,7,35,34725307,2022-12-15
-5,spotify:track:3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),Capitol Records UK / EMI,1,2,12,34294170,2022-12-15
+5,spotify:track:3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),EMI,1,2,12,34294170,2022-12-15
 6,spotify:track:2dHHgzDwk4BJdRwy9uXhTO,"Metro Boomin, The Weeknd, 21 Savage",Creepin' (with The Weeknd & 21 Savage),Republic Records,3,3,2,32050031,2022-12-15
 7,spotify:track:7vQbuQcyTflfCIOu3Uzzya,Bobby Helms,Jingle Bell Rock,Geffen,6,12,34,29842872,2022-12-15
 8,spotify:track:4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,Columbia,1,5,37,28470436,2022-12-15
@@ -95,7 +95,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 94,spotify:track:2Hh3ETdQKrmSI3QS0hme7g,"Metro Boomin, Future, Don Toliver",Too Many Nights (feat. Don Toliver & with Future),Republic Records,33,33,2,10961645,2022-12-15
 95,spotify:track:25Jf61edvM78rQHYaWRiIL,Bellakath,Gatita,La Mafia del Perreo,95,138,3,10957090,2022-12-15
 96,spotify:track:4jTs7ny5eSRnKTzxdrFv5I,SZA,Smoking on my Ex Pack,Top Dawg Entertainment/RCA Records,96,-1,1,10834231,2022-12-15
-97,spotify:track:0oBtwScT4B4BR5kZitNWd5,Quevedo,PUNTO G,Quevedo,84,89,6,10773883,2022-12-15
+97,spotify:track:0oBtwScT4B4BR5kZitNWd5,Quevedo,Punto G,Quevedo,84,89,6,10773883,2022-12-15
 98,spotify:track:5jQI2r1RdgtuT8S3iG8zFC,Taylor Swift,Lavender Haze,Taylor Swift,2,69,8,10552239,2022-12-15
 99,spotify:track:6JIC3hbC28JZKZ8AlAqX8h,"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,EMI,4,80,70,10528068,2022-12-15
 100,spotify:track:1cKHdTo9u0ZymJdPGSh6nq,"The Weeknd, Gesaffelstein",I Was Never There,Universal Republic Records,17,84,28,10516556,2022-12-15
@@ -121,7 +121,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 120,spotify:track:7gRFDGEzF9UkBV233yv2dc,BLACKPINK,Shut Down,YG Entertainment/Interscope Records,1,103,13,9389578,2022-12-15
 121,spotify:track:09mEdoA6zrmBPgTEN5qXmN,The Weeknd,Call Out My Name,Universal Republic Records,1,106,60,9377997,2022-12-15
 122,spotify:track:4fsQ0K37TOXa3hEQfjEic1,LE SSERAFIM,ANTIFRAGILE,SOURCE MUSIC,80,112,8,9361975,2022-12-15
-123,spotify:track:7iwJOi3hlMqZt6pj1sQOBj,Quevedo,VISTA AL MAR,Quevedo,45,109,14,9321985,2022-12-15
+123,spotify:track:7iwJOi3hlMqZt6pj1sQOBj,Quevedo,Vista Al Mar,Quevedo,45,109,14,9321985,2022-12-15
 124,spotify:track:4xqrdfXkTW4T0RauPLv3WA,Conan Gray,Heather,Republic Records,12,63,125,9321360,2022-12-15
 125,spotify:track:6WbAhuwE6fCOriBu5786X1,"KAROL G, Ovy On The Drums",CAIRO,UMLE - Latino,75,102,4,9290109,2022-12-15
 126,spotify:track:74NI58MQexwZjNu1Gu6GjT,SZA,Far,Top Dawg Entertainment/RCA Records,126,-1,1,9261055,2022-12-15
@@ -149,7 +149,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 148,spotify:track:68Dni7IE4VyPkTOH9mRWHr,J. Cole,No Role Modelz,Roc Nation Records LLC,76,128,73,8315476,2022-12-15
 149,spotify:track:2J2Z1SkXYghSajLibnQHOa,Sia,Unstoppable,Monkey Puzzle Records/RCA Records,107,158,44,8263644,2022-12-15
 150,spotify:track:4UldILPVpnZO69ffK4B9aA,"Dj LK da Escócia, Tchakabum, MC Ryan SP, mc jhenny, Mc RF",Tubarão Te Amo,Nas Nuvens Catalog,150,195,2,8262496,2022-12-15
-151,spotify:track:7yBEKiv1LmO7GM4rOejhcW,ThxSoMch,SPIT IN MY FACE!,Elektra (NEK),110,140,5,8175359,2022-12-15
+151,spotify:track:7yBEKiv1LmO7GM4rOejhcW,ThxSoMch,SPIT IN MY FACE!,ThxSoMch,110,140,5,8175359,2022-12-15
 152,spotify:track:7H0ya83CMmgFcOhw0UB6ow,Beach House,Space Song,Apple Orchard Music,152,160,12,8160020,2022-12-15
 153,spotify:track:1wtOxkiel43cVs0Yux5Q4h,"Taylor Swift, Lana Del Rey",Snow On The Beach (feat. Lana Del Rey),Taylor Swift,3,113,8,8136026,2022-12-15
 154,spotify:track:2pnPe4pJtq7689i5ydzvJJ,Chuck Berry,Run Rudolph Run,Geffen*,65,-1,15,8134878,2022-12-15
@@ -168,7 +168,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 167,spotify:track:4ASA1PZyWGbuc4d9N8OAcF,"Gustavo Mioto, Mari Fernandez",Eu Gosto Assim - Ao Vivo,Universal Music Ltda.,109,191,10,7905361,2022-12-15
 168,spotify:track:3eX0NZfLtGzoLUxPNvRfqm,Taylor Swift,Maroon,Taylor Swift,5,114,8,7897764,2022-12-15
 169,spotify:track:2OQ6a4CfUeYskpTTgyawyJ,"Gwen Stefani, Blake Shelton",You Make It Feel Like Christmas (feat. Blake Shelton),UMGRI Interscope,88,-1,6,7891579,2022-12-15
-170,spotify:track:75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God),Fish People,1,127,29,7878284,2022-12-15
+170,spotify:track:75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God),Parlophone UK,1,127,29,7878284,2022-12-15
 171,spotify:track:4h4QlmocP3IuwYEj2j14p8,"Nicky Youre, dazy",Sunroof,Thirty Knots/Columbia,28,149,32,7872208,2022-12-15
 172,spotify:track:5TXDeTFVRVY7Cvt0Dw4vWW,XXXTENTACION,Revenge,Bad Vibes Forever / EMPIRE,63,176,42,7865158,2022-12-15
 173,spotify:track:3qoftcUZaUOncvIYjFSPdE,Taylor Swift,Bejeweled,Taylor Swift,11,124,8,7861971,2022-12-15
@@ -180,7 +180,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 179,spotify:track:46IZ0fSY2mpAiktS3KOqds,Adele,Easy On Me,Columbia,1,150,61,7827620,2022-12-15
 180,spotify:track:0pqnGHJpmpxLKifKRmU6WP,Imagine Dragons,Believer,Kid Ina Korner / Interscope,16,166,306,7796912,2022-12-15
 181,spotify:track:2yjlYDiNiQkdxVqTlaSrlX,Nicki Minaj,Super Freaky Girl,Republic Records,14,141,18,7727383,2022-12-15
-182,spotify:track:3tAQNhm1o0kzldsI5QkrB1,Aerosmith,Dream On,Aerosmith P&D - Sony,104,168,6,7721358,2022-12-15
+182,spotify:track:3tAQNhm1o0kzldsI5QkrB1,Aerosmith,Dream On,Columbia,104,168,6,7721358,2022-12-15
 183,spotify:track:4tYFy8ALRjIZvnvSLw5lxN,"Bad Bunny, Rauw Alejandro",Party,Rimas Entertainment LLC,6,159,32,7707922,2022-12-15
 184,spotify:track:59nOXPmaKlBfGMDeOVGrIK,"Future, Drake, Tems",WAIT FOR U (feat. Drake & Tems),Epic/Freebandz,10,157,33,7674824,2022-12-15
 185,spotify:track:7qEHsqek33rTcFNT9PFqLf,Lewis Capaldi,Someone You Loved,Vertigo Berlin,4,177,206,7655509,2022-12-15

@@ -23,7 +23,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 22,spotify:track:1ZEm9cJC05rawV2tptNfTS,"Nicki Minaj, Ariana Grande",Bed (feat. Ariana Grande),Young Money/Cash Money Records,22,29,2,14917808,2018-06-28
 23,spotify:track:3swc6WTsr7rl9DqQKQA55C,"Post Malone, Ty Dolla $ign",Psycho (feat. Ty Dolla $ign),Republic Records,2,21,18,14580636,2018-06-28
 24,spotify:track:3GVkPk8mqxz0itaAriG1L7,XXXTENTACION,Everybody Dies In Their Nightmares,Bad Vibes Forever / EMPIRE,24,25,28,14237794,2018-06-28
-25,spotify:track:2ijef6ni2amuunRoKTlgww,"Becky G, NATTI NATASHA",Sin Pijama,Sony Music Latin,25,36,9,13861687,2018-06-28
+25,spotify:track:2ijef6ni2amuunRoKTlgww,"Becky G, Natti Natasha",Sin Pijama,Sony Music Latin,25,36,9,13861687,2018-06-28
 26,spotify:track:0kHyKhJMukHEPfeh8s7rdM,"Kygo, Imagine Dragons",Born To Be Yours,Kygo,26,38,2,13643404,2018-06-28
 27,spotify:track:4UKCKdYiLN6IMA5ZESUTL7,XXXTENTACION,the remedy for a broken heart (why am I so in love),"Bad Vibes Forever, LLC",27,32,7,13521112,2018-06-28
 28,spotify:track:33IOhptvC2Qoy2UhjiHXLV,"David Guetta, Sia",Flames,Parlophone (France),20,28,14,13460477,2018-06-28
@@ -39,7 +39,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 38,spotify:track:7ycWLEP1GsNjVvcjawXz3z,"A$AP Rocky, Skepta",Praise The Lord (Da Shine) (feat. Skepta),A$AP Worldwide/Polo Grounds Music/RCA Records,25,35,5,11187748,2018-06-28
 39,spotify:track:6eYxmK9fdL4hwLnXG2zY3s,XXXTENTACION,Look At Me!,Bad Vibes Forever / EMPIRE,39,60,45,11076255,2018-06-28
 40,spotify:track:2ARqIya5NAuvFVHSN3bL0m,"Zedd, Maren Morris, Grey",The Middle,UMGRI Interscope,6,37,22,10984795,2018-06-28
-41,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),Bloc Nation,6,39,20,10964691,2018-06-28
+41,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),OVO Sound/Warner Records,6,39,20,10964691,2018-06-28
 42,spotify:track:2ZRo7axmMPeSVUvDbGkJah,XXXTENTACION,Hope,"Bad Vibes Forever, LLC",42,51,4,10147938,2018-06-28
 43,spotify:track:6jA8JUuPCGYjFcgw0AoM5T,"Reik, Ozuna, Wisin",Me Niego (feat. Ozuna & Wisin),Columbia,22,42,19,10106561,2018-06-28
 44,spotify:track:76cy1WJvNGJTj78UqeA5zr,Dua Lipa,IDGAF,Warner Records,4,43,26,9937829,2018-06-28
@@ -53,7 +53,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 52,spotify:track:45Egmo7icyopuzJN0oMEdk,"Khalid, Normani",Love Lies (with Normani),RCA Records Label,11,41,19,8671351,2018-06-28
 53,spotify:track:19MBk3PbNFE36wqIqkMq9H,Alvaro Soler,La Cintura,Airforce1,53,63,7,8654596,2018-06-28
 54,spotify:track:4QtiVmuA88tPQiCOHZuQ5b,"Sofía Reyes, Jason Derulo, De La Ghetto","1, 2, 3 (feat. Jason Derulo & De La Ghetto)",WEA Latina,31,53,19,8603892,2018-06-28
-55,spotify:track:6U2NuJILEOEpW2tVCuqKHb,"Daddy Yankee, NATTI NATASHA, Becky G, Bad Bunny",Dura - Remix,El Cartel Records (EC3),52,56,9,8416746,2018-06-28
+55,spotify:track:6U2NuJILEOEpW2tVCuqKHb,"Daddy Yankee, Natti Natasha, Becky G, Bad Bunny",Dura - Remix,El Cartel Records (EC3),52,56,9,8416746,2018-06-28
 56,spotify:track:7qiZfU4dY1lWllzX7mPBI3,Ed Sheeran,Shape of You,Atlantic Records UK,1,58,77,8399286,2018-06-28
 57,spotify:track:21YnmkSDhUkmkkni22Svc4,Shawn Mendes,In My Blood,Island Records,7,45,14,8221110,2018-06-28
 58,spotify:track:0VKkyBKCXyR99navhVRqcP,Zion & Lennox,La player (Bandolera),WEA Latina,58,61,15,8172778,2018-06-28
@@ -89,7 +89,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 88,spotify:track:6752EZMgXswvRBH3N2PilO,Ozuna,Unica,VP Records Corp/Dimelo Vi,88,101,5,6297021,2018-06-28
 89,spotify:track:26gceVsA1ybT8qsX3aYLEn,Imagine Dragons,Thunder,Kid Ina Korner / Interscope,8,96,61,6277573,2018-06-28
 90,spotify:track:6xTU6B6nFwKKTSZ9ySXS80,"Kygo, Miguel",Remind Me to Forget,Kygo,29,66,15,6253879,2018-06-28
-91,spotify:track:0Y4hwUppbGc8aIBmiTz30A,"Liam Payne, J Balvin",Familiar,Capitol Records UK / EMI,57,92,10,6234530,2018-06-28
+91,spotify:track:0Y4hwUppbGc8aIBmiTz30A,"Liam Payne, J Balvin",Familiar,Capitol,57,92,10,6234530,2018-06-28
 92,spotify:track:5TXDeTFVRVY7Cvt0Dw4vWW,XXXTENTACION,Revenge,Bad Vibes Forever / EMPIRE,63,84,8,6233934,2018-06-28
 93,spotify:track:2XVilv6s9GETnw9PG4T9Mz,Maluma,El Préstamo,Sony Music Latin,52,91,16,6232325,2018-06-28
 94,spotify:track:7GX5flRQZVHRAGd6B4TmDO,Lil Uzi Vert,XO Tour Llif3,Generation Now/Atlantic,10,97,66,6187197,2018-06-28
@@ -149,7 +149,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 148,spotify:track:4H7WNRErSbONkM06blBoGc,Post Malone,Stay,Republic Records,11,127,9,4477837,2018-06-28
 149,spotify:track:3S0OXQeoh0w6AY8WQVckRW,Jason Mraz,I'm Yours,Atlantic Records/ATG,149,159,13,4465250,2018-06-28
 150,spotify:track:5Z3GHaZ6ec9bsiI5BenrbY,Khalid,Young Dumb & Broke,"Right Hand Music Group, LLC/RCA Records",12,152,53,4417482,2018-06-28
-151,spotify:track:6Za3190Sbw39BBC77WSS1C,"NATTI NATASHA, Ozuna",Criminal,Pina Records,21,143,41,4414073,2018-06-28
+151,spotify:track:6Za3190Sbw39BBC77WSS1C,"Natti Natasha, Ozuna",Criminal,Pina Records,21,143,41,4414073,2018-06-28
 152,spotify:track:31M5m42C3EGlbydf9XB5to,"Leslie Grace, Noriel",Duro y Suave,Sony Music Latin,152,163,7,4406233,2018-06-28
 153,spotify:track:6RUKPb4LETWmmr3iAEQktW,"The Chainsmokers, Coldplay",Something Just Like This,Disruptor Records/Columbia,2,155,71,4378850,2018-06-28
 154,spotify:track:6WbADFqMvR8N5u0BvtsWQE,"Avicii, Sandro Cavazza",Without You (feat. Sandro Cavazza),Universal Music AB,20,134,38,4368631,2018-06-28

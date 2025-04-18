@@ -1,7 +1,7 @@
 rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,streams,End Date
 1,spotify:track:2tTmW7RDtMQtBk7m2rYeSw,"Bizarrap, Quevedo","Quevedo: Bzrp Music Sessions, Vol. 52",DALE PLAY Records,1,3,2,53308659,2022-07-21
 2,spotify:track:4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,Columbia,1,2,16,43261006,2022-07-21
-3,spotify:track:75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God),Fish People,1,1,8,42351944,2022-07-21
+3,spotify:track:75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God),Parlophone UK,1,1,8,42351944,2022-07-21
 4,spotify:track:6Sq7ltF9Qa7SNFBsV5Cogx,"Bad Bunny, Chencho Corleone",Me Porto Bonito,Rimas Entertainment LLC,2,4,11,38373892,2022-07-21
 5,spotify:track:1IHWl5LamUGEuP4ozKQSXZ,Bad Bunny,Tití Me Preguntó,Rimas Entertainment LLC,5,6,11,33228334,2022-07-21
 6,spotify:track:6xGruZOHLs39ZbVccQTuPZ,Joji,Glimpse of Us,88rising Music/Warner Records,1,5,6,32189016,2022-07-21
@@ -15,7 +15,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 14,spotify:track:4h9wh7iOZ0GGn8QVp4RAOB,OneRepublic,I Ain't Worried,Interscope Records,14,15,7,18161168,2022-07-21
 15,spotify:track:4k6Uh1HXdhtusDW5y8Gbvy,Steve Lacy,Bad Habit,L-M Records/RCA Records,15,58,2,17492113,2022-07-21
 16,spotify:track:2rurDawMfoKP4uHyb2kJBt,"Shakira, Rauw Alejandro",Te Felicito,Sony Music Latin,13,14,13,17440021,2022-07-21
-17,spotify:track:41oY4WCTj5kccfesTVFnvN,"Bad Bunny, Jhayco",Tarot,Rimas Entertainment LLC,9,17,11,16955194,2022-07-21
+17,spotify:track:41oY4WCTj5kccfesTVFnvN,"Bad Bunny, Jhay Cortez",Tarot,Rimas Entertainment LLC,9,17,11,16955194,2022-07-21
 18,spotify:track:5PjdY0CKGZdEuoNab3yDmX,"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),Columbia,1,19,54,16545110,2022-07-21
 19,spotify:track:3F5CgOj3wFlRv51JsHbxhe,"Drake, 21 Savage",Jimmy Cooks (feat. 21 Savage),OVO,7,16,5,16226143,2022-07-21
 20,spotify:track:1qEmFfgcLObUfQm0j1W2CK,Harry Styles,Late Night Talking,Columbia,2,23,9,16012526,2022-07-21
@@ -56,7 +56,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 55,spotify:track:6UelLqGlWMcVH1E5c4H7lY,Harry Styles,Watermelon Sugar,Columbia,4,48,140,10280865,2022-07-21
 56,spotify:track:2LBqCSwhJGcFQeTHMVGwy3,The Weeknd,Die For You,Universal Republic Records,56,60,23,10040342,2022-07-21
 57,spotify:track:59nOXPmaKlBfGMDeOVGrIK,"Future, Drake, Tems",WAIT FOR U (feat. Drake & Tems),Epic/Freebandz,10,45,12,10001626,2022-07-21
-58,spotify:track:6wtZPYBIXUvCpXwVjMCJBf,"Polimá Westcoast, Feid, Pailita, Paloma Mami, De La Ghetto",ULTRA SOLO REMIX,Sony Music Entertainment Chile S.A,44,51,5,9912255,2022-07-21
+58,spotify:track:6wtZPYBIXUvCpXwVjMCJBf,"Polimá Westcoast, Pailita, Feid, Paloma Mami, De La Ghetto",ULTRA SOLO REMIX,Sony Music Entertainment Chile S.A,44,51,5,9912255,2022-07-21
 59,spotify:track:2B4GHvToeLTOBB4QLzW3Ni,Farruko,Pepas,Sony Music Latin,4,53,54,9801193,2022-07-21
 60,spotify:track:31i56LZnwE6uSu3exoHjtB,Bad Bunny,Neverita,Rimas Entertainment LLC,15,52,11,9570795,2022-07-21
 61,spotify:track:3ujiq7yK4Uan5z4876fHLK,"DJ Robin, Schürze",Layla,Polydor x Island Records & Kontor New Media & Summerfield Records,61,120,3,9509054,2022-07-21
@@ -161,7 +161,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 160,spotify:track:5gflgO9EPbIBf16n5TKnQS,Zion & Lennox,Yo Voy (feat. Daddy Yankee),Baby Records Inc,59,136,22,6299867,2022-07-21
 161,spotify:track:1c2hJSwcCfoPEw1su83Sw0,Lady Gaga,Hold My Hand,Interscope Records,110,135,8,6291225,2022-07-21
 162,spotify:track:1SC5rEoYDGUK4NfG82494W,Lil Nas X,MONTERO (Call Me By Your Name),Columbia,1,148,69,6270970,2022-07-21
-163,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhayco",DÁKITI,Rimas Entertainment LLC,1,164,90,6257033,2022-07-21
+163,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhay Cortez",DÁKITI,Rimas Entertainment LLC,1,164,90,6257033,2022-07-21
 164,spotify:track:6y8z28epOv5FlaxDv1Lo5B,Ryan Castro,Jordan,King Records,33,147,21,6242334,2022-07-21
 165,spotify:track:21jGcNKet2qwijlDFuPiPb,Post Malone,Circles,Republic Records,1,160,151,6200381,2022-07-21
 166,spotify:track:4rmVZajAF7PkrCagGPHbqa,Drake,Sticky,OVO,17,127,5,6178363,2022-07-21
@@ -183,7 +183,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 182,spotify:track:51Zw1cKDgkad0CXv23HCMU,Harry Styles,Daylight,Columbia,10,156,9,5861498,2022-07-21
 183,spotify:track:7a8GawTVgHZvBLQOh46he7,Arctic Monkeys,I Wanna Be Yours,Domino Recording Co,183,189,2,5831486,2022-07-21
 184,spotify:track:737gzPI5VAmgUGWiJ9yXuu,"Sofía Reyes, Jason Derulo, De La Ghetto","1, 2, 3 (feat. Jason Derulo & De La Ghetto)",WEA Latina,31,-1,36,5824222,2022-07-21
-185,spotify:track:3gUzi41YOt3VExeyHSLsMj,"thasup, Lazza, Sfera Ebbasta",s!r! (feat. Lazza & Sfera Ebbasta),Thasup s.r.l.,185,-1,1,5819231,2022-07-21
+185,spotify:track:3gUzi41YOt3VExeyHSLsMj,"thasup, Lazza, Sfera Ebbasta",s!r! (feat. Lazza & Sfera Ebbasta),Columbia,185,-1,1,5819231,2022-07-21
 186,spotify:track:0tgVpDi06FyKpA1z0VMD4v,Ed Sheeran,Perfect,Atlantic Records UK,4,180,279,5805811,2022-07-21
 187,spotify:track:1v7L65Lzy0j0vdpRjJewt1,Eminem,"Lose Yourself - From ""8 Mile"" Soundtrack",Aftermath,44,177,83,5798645,2022-07-21
 188,spotify:track:2tGvwE8GcFKwNdAXMnlbfl,Olivia Rodrigo,happier,Olivia Rodrigo PS,12,181,61,5796902,2022-07-21

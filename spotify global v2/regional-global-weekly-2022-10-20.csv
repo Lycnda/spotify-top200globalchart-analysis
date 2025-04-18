@@ -1,5 +1,5 @@
 rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,streams,End Date
-1,spotify:track:3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),Capitol Records UK / EMI,1,1,4,52014632,2022-10-20
+1,spotify:track:3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),EMI,1,1,4,52014632,2022-10-20
 2,spotify:track:4uUG5RXrOk84mYEfFvj3cK,"David Guetta, Bebe Rexha",I'm Good (Blue),Parlophone UK,2,2,8,33220086,2022-10-20
 3,spotify:track:4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,Columbia,1,3,29,30991046,2022-10-20
 4,spotify:track:5ww2BF9slyYgNOk37BlC4u,Manuel Turizo,La Bachata,Sony Music Latin/La Industria,4,5,16,29913686,2022-10-20
@@ -43,13 +43,13 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 42,spotify:track:3LtpKP5abr2qqjunvjlX5i,Central Cee,Doja,Central Cee,15,36,13,12315643,2022-10-20
 43,spotify:track:0O6u0VJ46W86TxN9wgyqDj,"Post Malone, Doja Cat",I Like You (A Happier Song) (with Doja Cat),Mercury Records/Republic Records,10,41,20,11713172,2022-10-20
 44,spotify:track:4h4QlmocP3IuwYEj2j14p8,"Nicky Youre, dazy",Sunroof,Thirty Knots/Columbia,28,40,24,11595330,2022-10-20
-45,spotify:track:75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God),Fish People,1,37,21,11563930,2022-10-20
+45,spotify:track:75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God),Parlophone UK,1,37,21,11563930,2022-10-20
 46,spotify:track:0VjIjW4GlUZAMYd2vXMi3b,The Weeknd,Blinding Lights,Republic Records,1,44,151,11513442,2022-10-20
 47,spotify:track:6JIC3hbC28JZKZ8AlAqX8h,"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,EMI,4,42,62,11394698,2022-10-20
 48,spotify:track:2TDyyEBasw10wu5Uh94bR1,"Rauw Alejandro, Baby Rasta",PUNTO 40,Sony Music Latin/Duars Entertainment,48,109,2,11277821,2022-10-20
 49,spotify:track:58ge6dfP91o9oXMzq3XkIS,Arctic Monkeys,505,Domino Recording Co,43,43,42,11153784,2022-10-20
 50,spotify:track:1Ame8XTX6QHY0l0ahqUhgv,Måneskin,THE LONELIEST,Epic,50,71,2,11136718,2022-10-20
-51,spotify:track:7iwJOi3hlMqZt6pj1sQOBj,Quevedo,VISTA AL MAR,Quevedo,45,45,6,10941991,2022-10-20
+51,spotify:track:7iwJOi3hlMqZt6pj1sQOBj,Quevedo,Vista Al Mar,Quevedo,45,45,6,10941991,2022-10-20
 52,spotify:track:5odlY52u43F5BjByhxg7wg,JVKE,golden hour,JVKE,51,60,8,10864010,2022-10-20
 53,spotify:track:6HMtHNpW6YPi1hrw9tgF8P,Lizzo,About Damn Time,Nice Life/Atlantic,9,46,25,10762221,2022-10-20
 54,spotify:track:2TktkzfozZifbQhXjT6I33,Omar Apollo,Evergreen (You Didn’t Deserve Me At All),Warner Records,54,54,5,10702261,2022-10-20
@@ -95,7 +95,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 94,spotify:track:6UelLqGlWMcVH1E5c4H7lY,Harry Styles,Watermelon Sugar,Columbia,4,88,153,8486522,2022-10-20
 95,spotify:track:5jt25aFjW2kNoBqaEVaz5W,"Mora, Feid",LA INOCENTE,Rimas Entertainment LLC,74,93,16,8483390,2022-10-20
 96,spotify:track:5Z9KJZvQzH6PFmb8SNkxuk,"Lil Nas X, Jack Harlow",INDUSTRY BABY (feat. Jack Harlow),Columbia,2,92,65,8405998,2022-10-20
-97,spotify:track:3fjN3y5x4hN53rykAN2LHQ,Rels B,cómo dormiste?,DALE PLAY Records / Flakk Team,24,91,11,8394965,2022-10-20
+97,spotify:track:3fjN3y5x4hN53rykAN2LHQ,Rels B,cómo dormiste?,Flakk Team / DALE PLAY Records,24,91,11,8394965,2022-10-20
 98,spotify:track:4SqWKzw0CbA05TGszDgMlc,The Walters,I Love You So,Warner Records,21,103,54,8382328,2022-10-20
 99,spotify:track:7ef4DlsgrMEH11cDZd32M6,"Calvin Harris, Dua Lipa",One Kiss (with Dua Lipa),Sony Music UK,2,84,93,8323460,2022-10-20
 100,spotify:track:3AVrVz5rK8Hrqo9YGiVGN5,Cigarettes After Sex,Apocalypse,PTKF,89,89,15,8296009,2022-10-20
@@ -180,7 +180,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 179,spotify:track:1dm6z1fWB0cErMszU25dy2,Bad Bunny,Después de la Playa,Rimas Entertainment LLC,7,148,24,6333172,2022-10-20
 180,spotify:track:0wHFktze2PHC5jDt3B17DC,Jack Harlow,First Class,Generation Now/Atlantic,2,128,28,6322006,2022-10-20
 181,spotify:track:7fZBQnc0zXwVybgCIrQQil,"Imanbek, BYOR",Belly Dancer,Musical Freedom,77,174,21,6297268,2022-10-20
-182,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhayco",DÁKITI,Rimas Entertainment LLC,1,190,103,6277866,2022-10-20
+182,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhay Cortez",DÁKITI,Rimas Entertainment LLC,1,190,103,6277866,2022-10-20
 183,spotify:track:6VrQTLzzuyGIYjUDe4kAZk,Bad Bunny,Un Coco,Rimas Entertainment LLC,25,170,24,6277795,2022-10-20
 184,spotify:track:3PfIrDoz19wz7qK7tYeu62,Dua Lipa,Don't Start Now,Warner Records,2,180,155,6273086,2022-10-20
 185,spotify:track:2A0G0bPmlkUXUbvWqrAXzg,Lil Baby,Not Finished,Quality Control Music/Motown Records,185,-1,1,6244720,2022-10-20

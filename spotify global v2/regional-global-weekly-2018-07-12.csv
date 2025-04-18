@@ -23,7 +23,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 22,spotify:track:7AFASza1mXqntmGtbxXprO,XXXTENTACION,changes,"Bad Vibes Forever, LLC",9,26,19,15306186,2018-07-12
 23,spotify:track:3u1S1OmAUhx5DRlLrXqyp3,"Jonas Blue, Jack & Jack",Rise,Positiva,23,45,6,14989180,2018-07-12
 24,spotify:track:7m9OqQk4RVRkw9JJdeAw96,XXXTENTACION,Jocelyn Flores,Bad Vibes Forever / EMPIRE,7,30,46,14520973,2018-07-12
-25,spotify:track:2ijef6ni2amuunRoKTlgww,"Becky G, NATTI NATASHA",Sin Pijama,Sony Music Latin,25,41,11,14420227,2018-07-12
+25,spotify:track:2ijef6ni2amuunRoKTlgww,"Becky G, Natti Natasha",Sin Pijama,Sony Music Latin,25,41,11,14420227,2018-07-12
 26,spotify:track:7txPE73wHbuXYkM1h8zNrG,Drake,Mob Ties,Cash Money/Drake LP6,11,11,2,13446472,2018-07-12
 27,spotify:track:39N9RPD9MRb5WmoLzNzPeA,"Nicky Jam, J Balvin",X,Sony Music Latin,4,32,19,13406098,2018-07-12
 28,spotify:track:1v1IXPXl73Z7zy6f5tUa9n,Drake,Emotionless,Cash Money/Drake LP6,6,6,2,12964113,2018-07-12
@@ -48,7 +48,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 47,spotify:track:7cfvP13Bqb1EyCZQiYsLum,Drake,Can’t Take A Joke,Cash Money/Drake LP6,19,19,2,9526118,2018-07-12
 48,spotify:track:76cy1WJvNGJTj78UqeA5zr,Dua Lipa,IDGAF,Warner Records,4,60,28,9474052,2018-07-12
 49,spotify:track:43V1z6QToNNWNldV4FEG6r,"Loud Luxury, Brando",Body,Armada Music,49,76,6,9342948,2018-07-12
-50,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),Bloc Nation,6,62,22,9185999,2018-07-12
+50,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),OVO Sound/Warner Records,6,62,22,9185999,2018-07-12
 51,spotify:track:4QtiVmuA88tPQiCOHZuQ5b,"Sofía Reyes, Jason Derulo, De La Ghetto","1, 2, 3 (feat. Jason Derulo & De La Ghetto)",WEA Latina,31,68,21,8864866,2018-07-12
 52,spotify:track:7sFYVcKSb24qg0dAkqLEFj,KAROL G,Mi Cama,UMLE - Latino,52,73,6,8845390,2018-07-12
 53,spotify:track:5CLGzJsGqhCEECcpnFQA8x,"Rudimental, Jess Glynne, Macklemore, Dan Caplen","These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",Atlantic Records UK,9,66,25,8729037,2018-07-12
@@ -60,7 +60,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 59,spotify:track:3qnoOm4fwZPBS116f5hpgF,Kanye West,All Mine,"Getting Out Our Dreams, Inc./Def Jam Recordings",3,65,6,8173566,2018-07-12
 60,spotify:track:3GVkPk8mqxz0itaAriG1L7,XXXTENTACION,Everybody Dies In Their Nightmares,Bad Vibes Forever / EMPIRE,24,63,30,7903265,2018-07-12
 61,spotify:track:71SEHJPt1iDwGkBhUOAXDP,Drake,Survival,Cash Money/Drake LP6,8,8,2,7885171,2018-07-12
-62,spotify:track:6U2NuJILEOEpW2tVCuqKHb,"Daddy Yankee, NATTI NATASHA, Becky G, Bad Bunny",Dura - Remix,El Cartel Records (EC3),52,74,11,7875161,2018-07-12
+62,spotify:track:6U2NuJILEOEpW2tVCuqKHb,"Daddy Yankee, Natti Natasha, Becky G, Bad Bunny",Dura - Remix,El Cartel Records (EC3),52,74,11,7875161,2018-07-12
 63,spotify:track:1s2B5cndbqK8rPJEIcKJRQ,"Ozuna, Manuel Turizo",Vaina Loca,VP Records Corp/Dimelo Vi,63,116,2,7742064,2018-07-12
 64,spotify:track:0At2qAoaVjIwWNAqrscXli,Ella Mai,Boo'd Up,10 Summers / Interscope PS,64,108,4,7703726,2018-07-12
 65,spotify:track:3H2JThgdBxezwj1wwafQS8,Juice WRLD,All Girls Are The Same,Juice WRLD Mixtape / ISR P&D,48,78,9,7684564,2018-07-12
@@ -116,7 +116,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 115,spotify:track:1mXVgsBdtIVeCLJnSnmtdV,Sam Smith,Too Good At Goodbyes,Capitol,1,124,44,5643282,2018-07-12
 116,spotify:track:6xTU6B6nFwKKTSZ9ySXS80,"Kygo, Miguel",Remind Me to Forget,Kygo,29,111,17,5612721,2018-07-12
 117,spotify:track:6KuqAtoeVzxAYOaMveLNpH,Daddy Yankee,Dura,El Cartel Records (EC3),9,121,25,5609893,2018-07-12
-118,spotify:track:0Y4hwUppbGc8aIBmiTz30A,"Liam Payne, J Balvin",Familiar,Capitol Records UK / EMI,57,110,12,5607182,2018-07-12
+118,spotify:track:0Y4hwUppbGc8aIBmiTz30A,"Liam Payne, J Balvin",Familiar,Capitol,57,110,12,5607182,2018-07-12
 119,spotify:track:4ofwffwvvnbSkrMSCKQDaC,George Ezra,Shotgun,Columbia,119,137,3,5600729,2018-07-12
 120,spotify:track:2RttW7RAu5nOAfq6YFvApB,Ed Sheeran,Happier,Atlantic Records UK,10,123,61,5588809,2018-07-12
 121,spotify:track:0E9ZjEAyAwOXZ7wJC0PD33,"Dynoro, Gigi D'Agostino",In My Mind,Columbia/B1 Recordings,121,-1,1,5574816,2018-07-12
@@ -176,7 +176,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 175,spotify:track:40IiSjljbAhrSbdJ3HxSfH,Drake,March 14,Cash Money/Drake LP6,54,54,2,4216959,2018-07-12
 176,spotify:track:18W92Zm1KjLCbUIszOhpkD,"NOTD, Bea Miller",I Wanna Know (feat. Bea Miller),Universal Music AB,74,189,14,4210487,2018-07-12
 177,spotify:track:2Ab1wPTEqulaCGoBak1gUo,"Matheus & Kauan, Anitta",Ao Vivo E A Cores,Universal Music Ltda.,160,179,6,4205826,2018-07-12
-178,spotify:track:6Za3190Sbw39BBC77WSS1C,"NATTI NATASHA, Ozuna",Criminal,Pina Records,21,172,43,4187994,2018-07-12
+178,spotify:track:6Za3190Sbw39BBC77WSS1C,"Natti Natasha, Ozuna",Criminal,Pina Records,21,172,43,4187994,2018-07-12
 179,spotify:track:5S1IUPueD0xE0vj4zU3nSf,"2 Chainz, Drake, Quavo",Bigger Than You (feat. Drake & Quavo),Def Jam Recordings,71,169,4,4187432,2018-07-12
 180,spotify:track:0GxQ1A5L9xnMOytbP6eKBG,"Maroon 5, SZA",What Lovers Do (feat. SZA),Interscope Records*,5,180,45,4152752,2018-07-12
 181,spotify:track:6gBFPUFcJLzWGx4lenP6h2,Travis Scott,goosebumps,Epic/Grand Hustle,60,175,80,4142938,2018-07-12

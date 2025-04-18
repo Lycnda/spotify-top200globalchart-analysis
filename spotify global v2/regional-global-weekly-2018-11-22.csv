@@ -1,11 +1,11 @@
 rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,streams,End Date
 1,spotify:track:2rPE9A1vEgShuZxxzR2tZH,Ariana Grande,"thank u, next",Republic Records,1,1,3,45530537,2018-11-22
 2,spotify:track:4w8niZpiMy6qz1mntFA5uM,"DJ Snake, Selena Gomez, Ozuna, Cardi B","Taki Taki (with Selena Gomez, Ozuna & Cardi B)","DJ Snake Music Productions Limited, under exclusive license to Geffen Records",1,2,8,32878967,2018-11-22
-3,spotify:track:116H0KvKr2Zl4RPuVBruDO,"Bad Bunny, Drake",MIA,Rimas Entertainment LLC,1,3,6,25090234,2018-11-22
+3,spotify:track:116H0KvKr2Zl4RPuVBruDO,"Bad Bunny, Drake",MIA (feat. Drake),OVO Sound/Warner Records,1,3,6,25090234,2018-11-22
 4,spotify:track:5p7ujcrUXASCNwRaWNHR1C,Halsey,Without Me,Capitol Records,4,5,7,22423828,2018-11-22
-5,spotify:track:2dpaYNEQHiRxtZbfNsse99,"Marshmello, Bastille",Happier,Joytime Collective,2,4,14,21987458,2018-11-22
+5,spotify:track:2dpaYNEQHiRxtZbfNsse99,"Marshmello, Bastille",Happier,Astralwerks,2,4,14,21987458,2018-11-22
 6,spotify:track:1A6OTy97kk0mMdm78rHsm8,"Post Malone, Swae Lee",Sunflower - Spider-Man: Into the Spider-Verse,Republic Records,5,7,5,21162234,2018-11-22
-7,spotify:track:2xLMifQCjDGFmkHkpNLD9h,Travis Scott,SICKO MODE,Cactus Jack / Epic,2,10,16,20997068,2018-11-22
+7,spotify:track:2xLMifQCjDGFmkHkpNLD9h,Travis Scott,SICKO MODE,Cactus Jack / Epic / Grand Hustle,2,10,16,20997068,2018-11-22
 8,spotify:track:2LskIZrCeLxRvCiGP8gxlh,"XXXTENTACION, Lil Pump, Swae Lee, Maluma",Arms Around You (feat. Maluma & Swae Lee),Warner Records,3,9,4,20003115,2018-11-22
 9,spotify:track:7l3E7lcozEodtVsSTCkcaA,"Kodak Black, Offset, Travis Scott",ZEZE (feat. Travis Scott & Offset),Atlantic Records,3,11,6,19714033,2018-11-22
 10,spotify:track:2VxeLyX666F8uXCJ0dZF8B,"Lady Gaga, Bradley Cooper",Shallow,A Star is Born OST,5,8,8,19700989,2018-11-22
@@ -39,7 +39,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 38,spotify:track:0QIjsbm2fh1cJ45XO9eGqq,"Gucci Mane, Bruno Mars, Kodak Black",Wake Up in the Sky,Guwop Enterprises/Atlantic,26,42,10,10864153,2018-11-22
 39,spotify:track:0u2P5u6lvoDfwTYjAADbn4,"Billie Eilish, Khalid",lovely (with Khalid),Darkroom,24,57,31,10358433,2018-11-22
 40,spotify:track:4S8d14HvHb70ImctNgVzQQ,"Kanye West, Lil Pump",I Love It (& Lil Pump),"Getting Out Our Dreams, Inc./Def Jam Recordings",1,35,11,10255687,2018-11-22
-41,spotify:track:7ATATJztoWLcqDAcVVof0C,"6ix9ine, Anuel AA",BEBE (feat. Anuel AA),"ScumGang Records / TenThousand Projects, LLC",17,39,12,10209685,2018-11-22
+41,spotify:track:7ATATJztoWLcqDAcVVof0C,"6ix9ine, Anuel AA",BEBE,"Scumgang Records/TenThousand Projects, LLC",17,39,12,10209685,2018-11-22
 42,spotify:track:2G7V7zsVDxg1yRsu7Ew9RJ,Drake,In My Feelings,Cash Money/Drake LP6,1,40,21,10104185,2018-11-22
 43,spotify:track:2iUXsYOEPhVqEBwsqP70rE,5 Seconds of Summer,Youngblood,Capitol,8,43,32,10090811,2018-11-22
 44,spotify:track:1rqqCSm0Qe4I9rUvWncaom,Panic! At The Disco,High Hopes,DCD2 / Fueled By Ramen,41,44,22,10058674,2018-11-22
@@ -59,9 +59,9 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 58,spotify:track:3id2EVGKc3eFAMn9nFnB0r,Lukas Graham,Love Someone,Warner Records,53,58,11,8464813,2018-11-22
 59,spotify:track:2fuCquhmrzHpu5xcA1ci9x,"Queen, David Bowie",Under Pressure - Remastered 2011,EMI,55,55,3,8348862,2018-11-22
 60,spotify:track:0TlLq3lA83rQOYtrqBqSct,Drake,Nonstop,Cash Money/Drake LP6,1,64,21,8291501,2018-11-22
-61,spotify:track:2E124GmJRnBJuXbTb4cPUB,"6ix9ine, Nicki Minaj, Murda Beatz",FEFE (feat. Nicki Minaj & Murda Beatz),"ScumGang Records / TenThousand Projects, LLC",2,62,18,8258538,2018-11-22
+61,spotify:track:2E124GmJRnBJuXbTb4cPUB,"6ix9ine, Nicki Minaj, Murda Beatz",FEFE,"Scumgang Records/TenThousand Projects, LLC",2,62,18,8258538,2018-11-22
 62,spotify:track:5aXgz1oKK8Q9z9xvTmSnrO,Trippie Redd,Topanga,"TenThousand Projects, LLC",47,47,4,8230959,2018-11-22
-63,spotify:track:3V8UKqhEK5zBkBb6d6ub8i,"Nio Garcia, Casper Magico, Bad Bunny, Darell, Ozuna, Nicky Jam",Te Boté - Remix,"Flow La Movie, Inc.",8,60,32,8139867,2018-11-22
+63,spotify:track:3V8UKqhEK5zBkBb6d6ub8i,"Nio Garcia, Casper Magico, Bad Bunny, Darell, Ozuna, Nicky Jam",Te Boté - Remix,"2018 Flow La Movie, Inc.",8,60,32,8139867,2018-11-22
 64,spotify:track:3ao3OVxHlb3C08vAaApUlm,"Luis Fonsi, Ozuna",Imposible,UMLE - Latino,64,75,5,8059063,2018-11-22
 65,spotify:track:04MLEeAMuV9IlHEsD8vF6A,"French Montana, Drake",No Stylist (feat. Drake),Epic,27,63,9,7865024,2018-11-22
 66,spotify:track:2qT1uLXPVPzGgFOx4jtEuo,Ariana Grande,no tears left to cry,Republic Records,2,56,31,7793235,2018-11-22
@@ -94,12 +94,12 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 93,spotify:track:62o8KoI44JfN7aYxgTnPvh,Maluma,Mala Mía,Sony Music Latin,56,93,15,6808800,2018-11-22
 94,spotify:track:7uQmJ1jgNzBpATSoWKSPFu,"Sebastian Yatra, Mau y Ricky",Ya No Tiene Novio,UMLE - Latino,68,90,12,6790379,2018-11-22
 95,spotify:track:5274I4mUMnYczyeXkGDWZN,"Future, Juice WRLD",Fine China,Epic/Freebandz/Grade A/Interscope,21,92,5,6752500,2018-11-22
-96,spotify:track:7AQim7LbvFVZJE3O8TYgf2,"XXXTENTACION, Trippie Redd",Fuck Love,Bad Vibes Forever / EMPIRE,19,94,62,6661056,2018-11-22
+96,spotify:track:7AQim7LbvFVZJE3O8TYgf2,"XXXTENTACION, Trippie Redd",Fuck Love (feat. Trippie Redd),Bad Vibes Forever / EMPIRE,19,94,62,6661056,2018-11-22
 97,spotify:track:5iwz1NiezX7WWjnCgY5TH4,"Pedro Capó, Farruko",Calma - Remix,Sony Music Latin,97,168,2,6657050,2018-11-22
 98,spotify:track:5qFeMRz4TvetPmzjre9Dq7,"J Balvin, Zion & Lennox",No Es Justo,UMLE - Latino,30,88,22,6654882,2018-11-22
 99,spotify:track:41zXlQxzTi6cGAjpOXyLYH,Billie Eilish,idontwannabeyouanymore,Darkroom,99,129,5,6651832,2018-11-22
 100,spotify:track:3swc6WTsr7rl9DqQKQA55C,"Post Malone, Ty Dolla $ign",Psycho (feat. Ty Dolla $ign),Republic Records,2,101,39,6590849,2018-11-22
-101,spotify:track:2J0X46UkpfLlWbuCXFgDLr,"Steve Aoki, BTS",Waste It On Me (feat. BTS),"Ultra Records, LLC",52,83,4,6517200,2018-11-22
+101,spotify:track:2J0X46UkpfLlWbuCXFgDLr,"Steve Aoki, BTS",Waste It On Me,Ultra Records,52,83,4,6517200,2018-11-22
 102,spotify:track:76cy1WJvNGJTj78UqeA5zr,Dua Lipa,IDGAF,Warner Records,4,99,47,6496034,2018-11-22
 103,spotify:track:0tgVpDi06FyKpA1z0VMD4v,Ed Sheeran,Perfect,Atlantic Records UK,4,106,90,6388735,2018-11-22
 104,spotify:track:60SdxE8apGAxMiRrpbmLY0,"Eminem, Joyner Lucas",Lucky You (feat. Joyner Lucas),Aftermath,1,95,12,6339812,2018-11-22
@@ -112,7 +112,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 111,spotify:track:2xJCMIJfcNYDc5iR0sAm2O,Dua Lipa,New Rules,Warner Records,2,113,72,5942481,2018-11-22
 112,spotify:track:1zB4vmk8tFRmM9UULNzbLB,Imagine Dragons,Thunder,Kid Ina Korner / Interscope,8,109,82,5917206,2018-11-22
 113,spotify:track:6MJUCumnQsQEKbCy28tbCP,"Daddy Yankee, Anuel AA",Adictiva,El Cartel Records (EC3),113,175,2,5848010,2018-11-22
-114,spotify:track:2ijef6ni2amuunRoKTlgww,"Becky G, NATTI NATASHA",Sin Pijama,Sony Music Latin,22,105,30,5829907,2018-11-22
+114,spotify:track:2ijef6ni2amuunRoKTlgww,"Becky G, Natti Natasha",Sin Pijama,Sony Music Latin,22,105,30,5829907,2018-11-22
 115,spotify:track:5qHirGR7M9tdm6C17DlzSY,Aminé,REEL IT IN,Republic Records,115,123,10,5813039,2018-11-22
 116,spotify:track:09IStsImFySgyp0pIQdqAc,"Zedd, Maren Morris, Grey",The Middle,UMGRI Interscope,6,111,43,5794664,2018-11-22
 117,spotify:track:2uIX8YMNjGMD7441kqyyNU,Billie Eilish,ocean eyes,Darkroom,108,158,9,5791026,2018-11-22
@@ -133,7 +133,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 132,spotify:track:6vN77lE9LK6HP2DewaN6HZ,"Lil Baby, Drake",Yes Indeed,"Quality Control Music, LLC",12,139,28,5399348,2018-11-22
 133,spotify:track:6fI3tBVND8zUXZi9rr2Yps,Kodak Black,Take One,Atlantic Records,133,-1,1,5380311,2018-11-22
 134,spotify:track:3GVkPk8mqxz0itaAriG1L7,XXXTENTACION,Everybody Dies In Their Nightmares,Bad Vibes Forever / EMPIRE,24,133,49,5354620,2018-11-22
-135,spotify:track:75lcPkAkUsKWHGBlGM476R,"Trippie Redd, Juice WRLD",1400 / 999 Freestyle (feat. Juice WRLD),"TenThousand Projects, LLC",79,79,2,5326559,2018-11-22
+135,spotify:track:75lcPkAkUsKWHGBlGM476R,"Trippie Redd, Juice WRLD",1400 / 999 Freestyle,"TenThousand Projects, LLC",79,79,2,5326559,2018-11-22
 136,spotify:track:1mXVgsBdtIVeCLJnSnmtdV,Sam Smith,Too Good At Goodbyes,Capitol,1,136,63,5324955,2018-11-22
 137,spotify:track:2hnxrRNzF74mdDzpQZQukQ,"Lauv, Julia Michaels",There's No Way (feat. Julia Michaels),Lauv,78,115,8,5302290,2018-11-22
 138,spotify:track:7nD2JPaxIKUdxd2UWgnaGL,"Alex Rose, Rauw Alejandro, Lenny Tavárez, Cazzu, Lyanno",Toda - Remix,WK Records LLC,103,137,18,5240477,2018-11-22
@@ -144,30 +144,30 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 143,spotify:track:4keoy2fqgwGnbWlm3ZVZFa,"Zedd, Elley Duhé",Happy Now,UMGRI Interscope,27,135,18,5129466,2018-11-22
 144,spotify:track:1uru26I2JKd2mQZt0MDCUe,James Arthur,Empty Space,Columbia Local,144,161,2,5072633,2018-11-22
 145,spotify:track:51NFxnQvaosfDDutk0tams,Billie Eilish,bellyache,Darkroom,145,-1,1,5031601,2018-11-22
-146,spotify:track:1DcxnVNFAyVl2sDQ646pXS,KEVIN ROLDAN,PPP,UMLE - Latino,121,156,6,5015168,2018-11-22
+146,spotify:track:1DcxnVNFAyVl2sDQ646pXS,Kevin Roldan,PPP,UMLE - Latino,121,156,6,5015168,2018-11-22
 147,spotify:track:33zcmmElV1YbRZe57biUjg,Lele Pons,Celoso,10:22 PM / UMLE,108,146,14,5006748,2018-11-22
 148,spotify:track:5Xn4IyTtW6FUGIUyWjbUHG,"Jason Derulo, David Guetta, Nicki Minaj, Willy William",Goodbye (feat. Nicki Minaj & Willy William),Beluga Heights/Warner Records,45,121,13,4981665,2018-11-22
 149,spotify:track:2SL6oP2YAEQbqsrkOzRGO4,Eminem,Venom - Music From The Motion Picture,Aftermath,34,131,12,4976267,2018-11-22
-150,spotify:track:04ZTP5KsCypmtCmQg5tH9R,Bebe Rexha,I'm a Mess,Warner Records,52,141,22,4960946,2018-11-22
+150,spotify:track:04ZTP5KsCypmtCmQg5tH9R,Bebe Rexha,I'm a Mess,Warner Bros.,52,141,22,4960946,2018-11-22
 151,spotify:track:0lizgQ7Qw35od7CYaoMBZb,Ariana Grande,Santa Tell Me,Universal Records,24,-1,7,4938848,2018-11-22
 152,spotify:track:3a1lNhkSLSkpJE4MSHpDu9,"Post Malone, Quavo",Congratulations,Universal Records,20,163,96,4898113,2018-11-22
-153,spotify:track:4e4fqjx0Izh4svvTef1z7e,"Bebe Rexha, Florida Georgia Line",Meant to Be (feat. Florida Georgia Line),Warner Records,18,152,62,4895075,2018-11-22
+153,spotify:track:4e4fqjx0Izh4svvTef1z7e,"Bebe Rexha, Florida Georgia Line",Meant to Be (feat. Florida Georgia Line),Warner Bros.,18,152,62,4895075,2018-11-22
 154,spotify:track:45Egmo7icyopuzJN0oMEdk,"Khalid, Normani",Love Lies (with Normani),RCA Records Label,11,148,40,4862187,2018-11-22
 155,spotify:track:1mT47pKLXUwPYGwB91GcNz,"KAROL G, Maluma",Créeme,UMLE - Latino,155,174,3,4849329,2018-11-22
 156,spotify:track:29tc0GbW0pTSBZSCZF3NWk,Juice WRLD,Lean Wit Me,Juice WRLD Mixtape / ISR P&D,84,157,16,4816906,2018-11-22
 157,spotify:track:6eYxmK9fdL4hwLnXG2zY3s,XXXTENTACION,Look At Me!,Bad Vibes Forever / EMPIRE,39,160,66,4806750,2018-11-22
-158,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),Bloc Nation,6,155,41,4801611,2018-11-22
+158,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),OVO Sound/Warner Records,6,155,41,4801611,2018-11-22
 159,spotify:track:3CA9pLiwRIGtUBiMjbZmRw,Drake,Nice For What,Cash Money/Drake LP6,1,164,33,4751280,2018-11-22
-160,spotify:track:7wBJfHzpfI3032CSD7CE2m,Travis Scott,STARGAZING,Cactus Jack / Epic,3,166,16,4744044,2018-11-22
+160,spotify:track:7wBJfHzpfI3032CSD7CE2m,Travis Scott,STARGAZING,Cactus Jack / Epic / Grand Hustle,3,166,16,4744044,2018-11-22
 161,spotify:track:5WvAo7DNuPRmk4APhdPzi8,"DJ Khaled, Justin Bieber, Quavo, Chance the Rapper",No Brainer,Epic/We The Best,2,159,17,4652567,2018-11-22
 162,spotify:track:6fxVffaTuwjgEk5h9QyRjy,Ed Sheeran,Photograph,Atlantic Records UK,41,178,93,4647678,2018-11-22
 163,spotify:track:1Slwb6dOYkBlWal1PGtnNg,Ed Sheeran,Thinking out Loud,Atlantic Records UK,58,170,100,4628194,2018-11-22
 164,spotify:track:4M3FO0ji6Lc8vwD1sgf1nc,"Kygo, Imagine Dragons",Born To Be Yours,Kygo,25,153,23,4615006,2018-11-22
-165,spotify:track:4J4zx8xGJpuGndrVc06KaT,"Alan Walker, Sophia Somajo",Diamond Heart,Kreatell Music,124,154,8,4608623,2018-11-22
+165,spotify:track:4J4zx8xGJpuGndrVc06KaT,"Alan Walker, Sophia Somajo",Diamond Heart,MER Recordings,124,154,8,4608623,2018-11-22
 166,spotify:track:2wRkBumdItthjYP9XknImg,"Marc Anthony, Will Smith, Bad Bunny",Está Rico,Sony Music Latin,150,183,6,4576221,2018-11-22
 167,spotify:track:6vsV4D8BM6PioRr1UOx0n2,Billie Eilish,you should see me in a crown,Darkroom/Interscope Records,63,-1,8,4555269,2018-11-22
 168,spotify:track:1lCRw5FEZ1gPDNPzy1K4zW,Queen,We Are The Champions - Remastered 2011,EMI,168,173,2,4535541,2018-11-22
-169,spotify:track:6gBFPUFcJLzWGx4lenP6h2,Travis Scott,goosebumps,Cactus Jack / Epic,60,197,97,4533657,2018-11-22
+169,spotify:track:6gBFPUFcJLzWGx4lenP6h2,Travis Scott,goosebumps,Epic/Grand Hustle,60,197,97,4533657,2018-11-22
 170,spotify:track:3WefHNGtjexZvi66ZEx9u4,"Madison Beer, Offset",Hurts Like Hell (feat. Offset),Access Records,170,-1,1,4519238,2018-11-22
 171,spotify:track:6XBjCetHKdO5L9cwMDVffw,"Anuel AA, Zion",Hipócrita,"2018 Real Hasta La Muerte, Inc.",112,187,17,4514812,2018-11-22
 172,spotify:track:7DrluKkTviBwCc8AV3VGmf,"Shakira, Maluma",Clandestino,Sony Music Latin,39,172,24,4510592,2018-11-22
@@ -176,7 +176,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 175,spotify:track:5qqabIl2vWzo9ApSC317sa,Oasis,Wonderwall - Remastered,Big Brother,152,190,58,4370709,2018-11-22
 176,spotify:track:7KXjTSCq5nL1LoYtL7XAwS,Kendrick Lamar,HUMBLE.,Aftermath,1,-1,85,4368239,2018-11-22
 177,spotify:track:2QZ7WLBE8h2y1Y5Fb8RYbH,Shawn Mendes,In My Blood,Island Records,7,176,35,4359206,2018-11-22
-178,spotify:track:1G586ld1gbaECg4Bc6w40O,"Thalia, NATTI NATASHA",No Me Acuerdo,Sony Music Latin,66,179,18,4344253,2018-11-22
+178,spotify:track:1G586ld1gbaECg4Bc6w40O,"Thalia, Natti Natasha",No Me Acuerdo,Sony Music Latin,66,179,18,4344253,2018-11-22
 179,spotify:track:6CTWathupIiDs7U4InHnDA,Ella Mai,Trip,10 Summers / Interscope PS,84,167,11,4340258,2018-11-22
 180,spotify:track:0WdGQhoAP2LBsqr5Jhit2g,"Maroon 5, SZA",What Lovers Do (feat. SZA),Interscope Records*,5,-1,63,4327173,2018-11-22
 181,spotify:track:7wC5eZcFS1Q1BsQ35DU6H4,Billie Eilish,come out and play,Darkroom,181,-1,1,4308375,2018-11-22
@@ -196,6 +196,6 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 195,spotify:track:5EKHbW7mXcAR4hCyS3YXjb,"Felipe Araújo, Ferrugem",Atrasadinha - Live,Universal Music Ltda.,169,171,4,4157396,2018-11-22
 196,spotify:track:0ZNrc4kNeQYD9koZ3KvCsy,"YG, 2 Chainz, Big Sean, Nicki Minaj","BIG BANK (feat. 2 Chainz, Big Sean, Nicki Minaj)",Def Jam Recordings,81,-1,20,4153739,2018-11-22
 197,spotify:track:0lLdorYw7lVrJydTINhWdI,Michael Bublé,It's Beginning to Look a Lot like Christmas,143/Reprise,19,-1,7,4139746,2018-11-22
-198,spotify:track:7lAK3oHbfEnvUQWosrMMpR,Travis Scott,YOSEMITE,Cactus Jack / Epic,24,-1,14,4132380,2018-11-22
+198,spotify:track:7lAK3oHbfEnvUQWosrMMpR,Travis Scott,YOSEMITE,Cactus Jack / Epic / Grand Hustle,24,-1,14,4132380,2018-11-22
 199,spotify:track:1KFN3kB4hc6r7ILpifFsqf,Anitta,Veneno,WM Brazil,134,134,2,4128423,2018-11-22
 200,spotify:track:7vGuf3Y35N4wmASOKLUVVU,"Marshmello, Khalid",Silence,Joytime Collective/RCA Records,8,-1,66,4110457,2018-11-22

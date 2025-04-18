@@ -7,7 +7,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 7,spotify:track:5bcTCxgc7xVfSaMV3RuVke,"Calvin Harris, Pharrell Williams, Katy Perry, Big Sean, Funk Wav","Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",Columbia,7,7,5,22786240,2017-07-20
 8,spotify:track:7qiZfU4dY1lWllzX7mPBI3,Ed Sheeran,Shape of You,Atlantic Records UK,1,6,28,22479630,2017-07-20
 9,spotify:track:4iLqG9SeJSnt0cSPICSjxv,Charlie Puth,Attention,Artist Partner,5,8,13,21850493,2017-07-20
-11,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,9,11,9,19967811,2017-07-20
+11,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,9,11,9,19967811,2017-07-20
 12,spotify:track:0tKcYR2II1VCQWT79i5NrW,Imagine Dragons,Thunder,Kid Ina Korner / Interscope,8,10,12,19517546,2017-07-20
 13,spotify:track:0NiXXAI876aGImAd6rTj8w,"Jonas Blue, William Singe",Mama,UMOD (Universal Music On Demand),11,12,11,18939901,2017-07-20
 14,spotify:track:79cuOz3SPQTuFrp8WgftAu,Shawn Mendes,There's Nothing Holdin' Me Back,Island Records,5,13,13,17625164,2017-07-20
@@ -41,7 +41,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 44,spotify:track:1louJpMmzEicAn7lzDalPW,"Cheat Codes, Demi Lovato",No Promises (feat. Demi Lovato),Parlophone UK,24,41,16,10322060,2017-07-20
 45,spotify:track:152lZdxL1OR0ZMW6KquMif,Khalid,Location,"Right Hand Music Group, LLC/RCA Records",34,43,24,9917884,2017-07-20
 46,spotify:track:0afhq8XCExXpqazXczTSve,Ed Sheeran,Galway Girl,Atlantic Records UK,2,42,20,9757434,2017-07-20
-47,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcángel",Ahora Dice,UMLE - Latino,46,46,15,9571759,2017-07-20
+47,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcangel",Ahora Dice,UMLE - Latino,46,46,15,9571759,2017-07-20
 48,spotify:track:2habSXqcJGExM6JJyskY7O,Miley Cyrus,Malibu,RCA Records Label,7,45,10,9175828,2017-07-20
 49,spotify:track:1yxgsra98r3qAtxqiGZPiX,Travis Scott,BUTTERFLY EFFECT,Epic/Grand Hustle/Cactus Jack,49,57,9,9001610,2017-07-20
 50,spotify:track:0lMbuWUpfTWhEmOKxppEau,"Calvin Harris, Future, Khalid, Funk Wav",Rollin (feat. Future & Khalid),Columbia,38,44,10,8880669,2017-07-20

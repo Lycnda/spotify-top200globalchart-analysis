@@ -1,6 +1,6 @@
 rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,streams,End Date
 1,spotify:track:0bYg9bo50gSsH3LtXe2SQn,Mariah Carey,All I Want for Christmas Is You,Columbia,1,5,46,37016166,2022-12-08
-2,spotify:track:3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),Capitol Records UK / EMI,1,1,11,35213129,2022-12-08
+2,spotify:track:3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),EMI,1,1,11,35213129,2022-12-08
 3,spotify:track:2dHHgzDwk4BJdRwy9uXhTO,"Metro Boomin, The Weeknd, 21 Savage",Creepin' (with The Weeknd & 21 Savage),Republic Records,3,-1,1,35126419,2022-12-08
 4,spotify:track:2FRnf9qhLbvw8fu4IBXx78,Wham!,Last Christmas,Epic,2,9,39,31520346,2022-12-08
 5,spotify:track:4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,Columbia,1,3,36,31136391,2022-12-08
@@ -87,7 +87,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 86,spotify:track:1Y3LN4zO1Edc2EluIoSPJN,"Stephen Sanchez, Em Beihold",Until I Found You (with Em Beihold) - Em Beihold Version,Republic Records,86,-1,1,11072549,2022-12-08
 87,spotify:track:58cEG7FsVoipRiRKUMgOjo,"Rauw Alejandro, Baby Rasta",PUNTO 40,Sony Music Latin/Duars Entertainment,48,66,9,11030703,2022-12-08
 88,spotify:track:7dSZ6zGTQx66c2GF91xCrb,KAROL G,PROVENZA,UMLE - Latino,6,79,33,11003935,2022-12-08
-89,spotify:track:0oBtwScT4B4BR5kZitNWd5,Quevedo,PUNTO G,Quevedo,84,84,5,10898953,2022-12-08
+89,spotify:track:0oBtwScT4B4BR5kZitNWd5,Quevedo,Punto G,Quevedo,84,84,5,10898953,2022-12-08
 90,spotify:track:5Odq8ohlgIbQKMZivbWkEo,"Charlie Puth, Jung Kook, BTS",Left and Right (Feat. Jung Kook of BTS),Atlantic Records,7,54,24,10880259,2022-12-08
 91,spotify:track:6sCvvleqKbeyOkQDieBYgp,Rihanna,Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By,Roc Nation/Def Jam/Hollywood,11,47,6,10804088,2022-12-08
 92,spotify:track:2N9LEu6Pf8nDcp3GjWJT1Z,"Metro Boomin, Future, Don Toliver",I Can't Save You (Interlude) [with Future & feat. Don Toliver],Republic Records,92,-1,1,10649362,2022-12-08
@@ -107,7 +107,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 106,spotify:track:09mEdoA6zrmBPgTEN5qXmN,The Weeknd,Call Out My Name,Universal Republic Records,1,95,59,9971366,2022-12-08
 107,spotify:track:3SsJ17EnPIu1B4GZshqjIS,"Metro Boomin, A$AP Rocky, Takeoff",Feel The Fiyaaaah (with A$AP Rocky & feat. Takeoff),Republic Records,107,-1,1,9912090,2022-12-08
 108,spotify:track:1597vvneWf0zoQrg2D8yH6,"MC MENOR HR, MC MENOR SG, DJ ESCOBAR",Evoque Prata,GUETTO RECORDS,69,81,4,9741120,2022-12-08
-109,spotify:track:7iwJOi3hlMqZt6pj1sQOBj,Quevedo,VISTA AL MAR,Quevedo,45,83,13,9740313,2022-12-08
+109,spotify:track:7iwJOi3hlMqZt6pj1sQOBj,Quevedo,Vista Al Mar,Quevedo,45,83,13,9740313,2022-12-08
 110,spotify:track:34ZAzO78a5DAVNrYIGWcPm,SZA,Shirt,Top Dawg Entertainment/RCA Records,25,90,6,9545696,2022-12-08
 111,spotify:track:3CIyK1V4JEJkg02E4EJnDl,"Imagine Dragons, JID, Arcane, League of Legends",Enemy (with JID) - from the series Arcane League of Legends,Kid Ina Korner / Interscope,3,99,58,9522204,2022-12-08
 112,spotify:track:4fsQ0K37TOXa3hEQfjEic1,LE SSERAFIM,ANTIFRAGILE,SOURCE MUSIC,80,86,7,9482161,2022-12-08
@@ -125,7 +125,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 124,spotify:track:3qoftcUZaUOncvIYjFSPdE,Taylor Swift,Bejeweled,Taylor Swift,11,68,7,9050019,2022-12-08
 125,spotify:track:38T0tPVZHcPZyhtOcCP7pF,Lil Nas X,STAR WALKIN' (League of Legends Worlds Anthem),Columbia,22,85,11,9035330,2022-12-08
 126,spotify:track:3AJwUDP919kvQ9QcozQPxg,Coldplay,Yellow,Parlophone UK,56,94,103,9023313,2022-12-08
-127,spotify:track:75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God),Fish People,1,106,28,9010598,2022-12-08
+127,spotify:track:75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God),Parlophone UK,1,106,28,9010598,2022-12-08
 128,spotify:track:68Dni7IE4VyPkTOH9mRWHr,J. Cole,No Role Modelz,Roc Nation Records LLC,76,115,72,9002627,2022-12-08
 129,spotify:track:6I3mqTwhRpn34SLVafSH7G,Justin Bieber,Ghost,RBMG/Def Jam,11,112,64,8996364,2022-12-08
 130,spotify:track:0fea68AdmYNygeTGI4RC18,"J Balvin, Bad Bunny",LA CANCIÓN,Universal Music Latino / Rimas,17,104,94,8953603,2022-12-08
@@ -138,7 +138,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 137,spotify:track:0aoUM0zcu0kCX7Cv7O939I,"Ed Sheeran, Elton John",Merry Christmas,Atlantic Records UK,23,-1,5,8771871,2022-12-08
 138,spotify:track:25Jf61edvM78rQHYaWRiIL,Bellakath,Gatita,La Mafia del Perreo,138,145,2,8760445,2022-12-08
 139,spotify:track:4OH5Cd8ZOI1eSgJSC9PYmU,"Mert Demir, Mabel Matiz",Antidepresan,Pale Records,139,-1,1,8672212,2022-12-08
-140,spotify:track:7yBEKiv1LmO7GM4rOejhcW,ThxSoMch,SPIT IN MY FACE!,Elektra (NEK),110,110,4,8663074,2022-12-08
+140,spotify:track:7yBEKiv1LmO7GM4rOejhcW,ThxSoMch,SPIT IN MY FACE!,ThxSoMch,110,110,4,8663074,2022-12-08
 141,spotify:track:2yjlYDiNiQkdxVqTlaSrlX,Nicki Minaj,Super Freaky Girl,Republic Records,14,97,17,8633779,2022-12-08
 142,spotify:track:4a1fh9vJMMoRjNrBmEWoM0,"Metro Boomin, Gunna",All The Money (with Gunna) [Bonus],Republic Records,142,-1,1,8588935,2022-12-08
 143,spotify:track:4woTEX1wYOTGDqNXuavlRC,"Eminem, Dina Rae",Superman,Aftermath,116,116,10,8508937,2022-12-08
@@ -166,7 +166,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 165,spotify:track:5jt25aFjW2kNoBqaEVaz5W,"Mora, Feid",LA INOCENTE,Rimas Entertainment LLC,74,141,23,7903123,2022-12-08
 166,spotify:track:0pqnGHJpmpxLKifKRmU6WP,Imagine Dragons,Believer,Kid Ina Korner / Interscope,16,130,305,7881204,2022-12-08
 167,spotify:track:1Fid2jjqsHViMX6xNH70hE,Seafret,Atlantis,Sweet Jane Recordings,63,139,20,7880936,2022-12-08
-168,spotify:track:3tAQNhm1o0kzldsI5QkrB1,Aerosmith,Dream On,Aerosmith P&D - Sony,104,113,5,7875315,2022-12-08
+168,spotify:track:3tAQNhm1o0kzldsI5QkrB1,Aerosmith,Dream On,Columbia,104,113,5,7875315,2022-12-08
 169,spotify:track:1ga4PztXOIw1yBbdUt2X8v,"KAROL G, Maldy",GATÚBELA,UMLE - Latino,33,131,15,7850201,2022-12-08
 170,spotify:track:3BnDvpeuGOj21Ir2aVEtQo,Rema,Calm Down,Mavin Records/Jonzing World,119,162,22,7847107,2022-12-08
 171,spotify:track:1797zYiX4cKosMH836X9Gt,"Bad Bunny, Tony Dize",La Corriente,Rimas Entertainment LLC,17,156,31,7846018,2022-12-08

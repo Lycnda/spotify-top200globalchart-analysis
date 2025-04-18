@@ -24,7 +24,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 23,spotify:track:3HVr6jTVwBHBa2flM0eURR,"Macklemore, Skylar Grey",Glorious (feat. Skylar Grey),Bendo LLC,19,26,11,14496085,2017-09-21
 24,spotify:track:1OAh8uOEOvTDqkKFsKksCi,"DJ Khaled, Rihanna, Bryson Tiller",Wild Thoughts (feat. Rihanna & Bryson Tiller),Epic/We The Best,2,16,14,14186448,2017-09-21
 25,spotify:track:5CtI0qwDJkDQGwXD1H1cLb,"Luis Fonsi, Daddy Yankee, Justin Bieber",Despacito - Remix,UMLE - Latino,1,21,23,14139463,2017-09-21
-26,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,9,24,18,14047383,2017-09-21
+26,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,9,24,18,14047383,2017-09-21
 27,spotify:track:6WbADFqMvR8N5u0BvtsWQE,"Avicii, Sandro Cavazza",Without You (feat. Sandro Cavazza),Universal Music AB,21,29,6,13975307,2017-09-21
 28,spotify:track:2771LMNxwf62FTAdpJMQfM,Cardi B,Bodak Yellow,KSR/Atlantic,28,33,8,13783354,2017-09-21
 29,spotify:track:5eqK0tbzUPo2SoeZsov04s,21 Savage,Bank Account,"Slaughter Gang, LLC/Epic Records",22,30,11,13633826,2017-09-21
@@ -71,7 +71,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 70,spotify:track:5SE57ljOIUJ1ybL9U6CuBH,BTS,DNA,BIGHIT MUSIC,70,-1,1,6688783,2017-09-21
 71,spotify:track:1x5sYLZiu9r5E43kMlt9f8,"Clean Bandit, Zara Larsson",Symphony (feat. Zara Larsson),Atlantic Records UK,11,59,27,6632681,2017-09-21
 72,spotify:track:1NDxZ7cFAo481dtYWdrUnR,"Maggie Lindemann, Cheat Codes, CADE",Pretty Girl - Cheat Codes X CADE Remix,300 Entertainment,23,60,25,6620712,2017-09-21
-73,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcángel",Ahora Dice,UMLE - Latino,46,65,24,6427073,2017-09-21
+73,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcangel",Ahora Dice,UMLE - Latino,46,65,24,6427073,2017-09-21
 74,spotify:track:0KKkJNfGyhkQ5aFogxQAPU,Bruno Mars,That's What I Like,Atlantic Records,6,70,39,6276917,2017-09-21
 75,spotify:track:3rOSwuTsUlJp0Pu0MkN8r8,Future,Mask Off,Epic/Freebandz/A1,5,77,31,6212035,2017-09-21
 76,spotify:track:0q75NwOoFiARAVp4EXU4Bs,"SZA, Travis Scott",Love Galore (feat. Travis Scott),Top Dawg Entertainment/RCA Records,73,76,15,6202893,2017-09-21
@@ -132,7 +132,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 131,spotify:track:3ebXMykcMXOcLeJ9xZ17XH,"Martin Garrix, Dua Lipa",Scared to Be Lonely,Epic Amsterdam,5,120,34,4311576,2017-09-21
 132,spotify:track:1sCxVKWImDZSZKvG0U9B23,Selena Gomez,Bad Liar,Selena Gomez PS,6,115,19,4292071,2017-09-21
 133,spotify:track:5yuShbu70mtHXY0yLzCQLQ,Post Malone,Go Flex,Universal Records,133,165,11,4291713,2017-09-21
-134,spotify:track:2SmgFAhQkQCQPyBiBxR6Te,"NATTI NATASHA, Ozuna",Criminal,Pina Records,134,-1,1,4277352,2017-09-21
+134,spotify:track:2SmgFAhQkQCQPyBiBxR6Te,"Natti Natasha, Ozuna",Criminal,Pina Records,134,-1,1,4277352,2017-09-21
 135,spotify:track:5Ohxk2dO5COHF1krpoPigN,Harry Styles,Sign of the Times,Columbia,14,128,24,4247980,2017-09-21
 136,spotify:track:3QwBODjSEzelZyVjxPOHdq,"Zion & Lennox, J Balvin",Otra vez (feat. J Balvin),WEA Latina,50,130,39,4221929,2017-09-21
 137,spotify:track:4okba5wu9mMLXx79DXLKi3,"Daddy Yankee, Ozuna",La Rompe Corazones,El Cartel Records (EC3),73,112,33,4186664,2017-09-21

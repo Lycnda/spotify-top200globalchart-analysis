@@ -12,7 +12,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 11,spotify:track:5IgjP7X4th6nMNDh4akUHb,Chris Brown,Under The Influence,Chris Brown Entertainment/RCA Records,11,14,7,22546902,2022-09-08
 12,spotify:track:4k6Uh1HXdhtusDW5y8Gbvy,Steve Lacy,Bad Habit,L-M Records/RCA Records,10,13,9,21467198,2022-09-08
 13,spotify:track:3k3NWokhRRkEPhCzPmV8TW,"Bad Bunny, Bomba Estéreo",Ojitos Lindos,Rimas Entertainment LLC,3,11,18,21389378,2022-09-08
-14,spotify:track:75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God),Fish People,1,9,15,21379690,2022-09-08
+14,spotify:track:75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God),Parlophone UK,1,9,15,21379690,2022-09-08
 15,spotify:track:6xGruZOHLs39ZbVccQTuPZ,Joji,Glimpse of Us,88rising Music/Warner Records,1,12,13,21272307,2022-09-08
 16,spotify:track:2yjlYDiNiQkdxVqTlaSrlX,Nicki Minaj,Super Freaky Girl,Republic Records,16,18,4,20530725,2022-09-08
 17,spotify:track:6Xom58OOXk2SoU711L2IXO,Bad Bunny,Moscow Mule,Rimas Entertainment LLC,2,15,18,19320812,2022-09-08
@@ -33,7 +33,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 32,spotify:track:6i1g5ZRmJZAkDwBaUZ3f2i,Luar La L,Caile,La Mafia Urbana Corp.,32,37,4,13956616,2022-09-08
 33,spotify:track:1ga4PztXOIw1yBbdUt2X8v,"KAROL G, Maldy",GATÚBELA,UMLE - Latino,33,34,2,13596050,2022-09-08
 34,spotify:track:2LBqCSwhJGcFQeTHMVGwy3,The Weeknd,Die For You,Universal Republic Records,34,38,30,13497395,2022-09-08
-35,spotify:track:41oY4WCTj5kccfesTVFnvN,"Bad Bunny, Jhayco",Tarot,Rimas Entertainment LLC,9,30,18,13484716,2022-09-08
+35,spotify:track:41oY4WCTj5kccfesTVFnvN,"Bad Bunny, Jhay Cortez",Tarot,Rimas Entertainment LLC,9,30,18,13484716,2022-09-08
 36,spotify:track:4zN21mbAuaD0WqtmaTZZeP,"James Hype, Miggy Dela Rosa",Ferrari,Universal-Island Records Ltd.,34,35,14,13310629,2022-09-08
 37,spotify:track:54ipXppHLA8U4yqpOFTUhr,Imagine Dragons,Bones,Kid Ina Korner / Interscope,37,44,26,13160525,2022-09-08
 38,spotify:track:6JIC3hbC28JZKZ8AlAqX8h,"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,EMI,4,27,56,13155224,2022-09-08
@@ -46,7 +46,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 45,spotify:track:0hquQWY3xvYqN4qtiquniF,Doja Cat,Vegas (From the Original Motion Picture Soundtrack ELVIS),Kemosabe Records/RCA Records,26,52,14,12051069,2022-09-08
 46,spotify:track:2DB4DdfCFMw1iaR6JaR03a,"Camila Cabello, Ed Sheeran",Bam Bam (feat. Ed Sheeran),Epic,5,42,27,11898936,2022-09-08
 47,spotify:track:79HZAZNnOE97rb2hnI0XQr,"Rauw Alejandro, Lyanno, Brray",LOKERA,Sony Music Latin/Duars Entertainment,47,56,4,11791485,2022-09-08
-48,spotify:track:3fjN3y5x4hN53rykAN2LHQ,Rels B,cómo dormiste?,DALE PLAY Records / Flakk Team,24,43,5,11672431,2022-09-08
+48,spotify:track:3fjN3y5x4hN53rykAN2LHQ,Rels B,cómo dormiste?,Flakk Team / DALE PLAY Records,24,43,5,11672431,2022-09-08
 49,spotify:track:0VjIjW4GlUZAMYd2vXMi3b,The Weeknd,Blinding Lights,Republic Records,1,46,145,11426572,2022-09-08
 50,spotify:track:58ge6dfP91o9oXMzq3XkIS,Arctic Monkeys,505,Domino Recording Co,50,53,36,11141705,2022-09-08
 51,spotify:track:1797zYiX4cKosMH836X9Gt,"Bad Bunny, Tony Dize",La Corriente,Rimas Entertainment LLC,17,50,18,11071293,2022-09-08
@@ -123,7 +123,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 122,spotify:track:7Ddk8FhoYKdsVoX9AOCPMm,"DJ Khaled, Drake, Lil Baby",STAYING ALIVE (feat. Drake & Lil Baby),Epic/We The Best,21,59,5,7462028,2022-09-08
 123,spotify:track:46HNZY1i7O6jwTA7Slo2PI,"Coldplay, BTS",My Universe,Parlophone UK,3,95,50,7458618,2022-09-08
 124,spotify:track:1xK59OXxi2TAAAbmZK0kBL,d4vd,Romantic Homicide,Darkroom/Interscope Records,124,-1,1,7426909,2022-09-08
-125,spotify:track:6wtZPYBIXUvCpXwVjMCJBf,"Polimá Westcoast, Feid, Pailita, Paloma Mami, De La Ghetto",ULTRA SOLO REMIX,Sony Music Entertainment Chile S.A,44,103,12,7409268,2022-09-08
+125,spotify:track:6wtZPYBIXUvCpXwVjMCJBf,"Polimá Westcoast, Pailita, Feid, Paloma Mami, De La Ghetto",ULTRA SOLO REMIX,Sony Music Entertainment Chile S.A,44,103,12,7409268,2022-09-08
 126,spotify:track:4RvWPyQ5RL0ao9LPZeSouE,Tears For Fears,Everybody Wants To Rule The World,UMC (Universal Music Catalogue),105,133,14,7390257,2022-09-08
 127,spotify:track:3AVrVz5rK8Hrqo9YGiVGN5,Cigarettes After Sex,Apocalypse,PTKF,120,135,9,7387299,2022-09-08
 128,spotify:track:1R0a2iXumgCiFb7HEZ7gUE,Taylor Swift,Don’t Blame Me,"Big Machine Records, LLC",72,128,17,7383957,2022-09-08
@@ -171,7 +171,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 170,spotify:track:4w273WCBXwM4P3jTX5HkB2,"Grupo Marca Registrada, Junior H",El Rescate,RB Music,129,154,7,6264330,2022-09-08
 171,spotify:track:6clzeGvi1CFioMOolbAOlX,"Calvin Harris, Justin Timberlake, Halsey, Pharrell Williams","Stay With Me (with Justin Timberlake, Halsey & Pharrell)",Columbia,86,179,7,6252400,2022-09-08
 172,spotify:track:5QDLhrAOJJdNAmCTJ8xMyW,BTS,Dynamite,BIGHIT MUSIC,2,138,107,6227162,2022-09-08
-173,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhayco",DÁKITI,Rimas Entertainment LLC,1,164,97,6220057,2022-09-08
+173,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhay Cortez",DÁKITI,Rimas Entertainment LLC,1,164,97,6220057,2022-09-08
 174,spotify:track:2BJWxD8xKrDv8vneTvTIm9,Lil Tjay,Beat the Odds,Columbia,97,97,2,6204942,2022-09-08
 175,spotify:track:4xqrdfXkTW4T0RauPLv3WA,Conan Gray,Heather,Republic Records,12,184,111,6184373,2022-09-08
 176,spotify:track:0HYAsQwJIO6FLqpyTeD3l6,Fujii Kaze,Shinunoga E-Wa,Universal Music LLC,176,-1,1,6166191,2022-09-08
@@ -188,7 +188,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 187,spotify:track:0tgVpDi06FyKpA1z0VMD4v,Ed Sheeran,Perfect,Atlantic Records UK,4,191,286,6042829,2022-09-08
 188,spotify:track:5E30LdtzQTGqRvNd7l6kG5,The Neighbourhood,Daddy Issues,Columbia,99,-1,93,6041549,2022-09-08
 189,spotify:track:1DIXPcTDzTj8ZMHt3PDt8p,"Coolio, L.V.",Gangsta's Paradise,"Tommy Boy Music, LLC",116,186,46,6023226,2022-09-08
-190,spotify:track:1Y62KpDaP5MEL43ZcI6IaG,"Quevedo, Ovy On The Drums",SIN SEÑAL,Quevedo,190,-1,1,6012019,2022-09-08
+190,spotify:track:1Y62KpDaP5MEL43ZcI6IaG,"Quevedo, Ovy On The Drums",Sin Señal,Quevedo,190,-1,1,6012019,2022-09-08
 191,spotify:track:1v7L65Lzy0j0vdpRjJewt1,Eminem,"Lose Yourself - From ""8 Mile"" Soundtrack",Aftermath,44,188,90,6011144,2022-09-08
 192,spotify:track:7AwVSKaQxpidrtYBerkHKk,"Ana Castela, Melody, Dj Chris No Beat",Pipoco,Ana Castela,100,178,8,6010140,2022-09-08
 193,spotify:track:2bbwjxA68m9PHZFWgF1fze,Duki,GIVENCHY,DALE PLAY Records / SSJ Records,25,153,7,5971631,2022-09-08

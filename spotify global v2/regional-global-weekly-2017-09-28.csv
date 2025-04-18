@@ -24,7 +24,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 23,spotify:track:2fQrGHiQOvpL9UgPvtYy6G,21 Savage,Bank Account,"Slaughter Gang, LLC/Epic Records",22,29,12,14030108,2017-09-28
 24,spotify:track:7F9vK8hNFMml4GtHsaXui6,"Louis Tomlinson, Bebe Rexha, Digital Farm Animals",Back to You (feat. Bebe Rexha & Digital Farm Animals),Syco Music,15,21,10,13864099,2017-09-28
 25,spotify:track:6WbADFqMvR8N5u0BvtsWQE,"Avicii, Sandro Cavazza",Without You (feat. Sandro Cavazza),Universal Music AB,21,27,7,13601257,2017-09-28
-26,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,9,26,19,13057993,2017-09-28
+26,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,9,26,19,13057993,2017-09-28
 27,spotify:track:5CtI0qwDJkDQGwXD1H1cLb,"Luis Fonsi, Daddy Yankee, Justin Bieber",Despacito - Remix,UMLE - Latino,1,25,24,12975046,2017-09-28
 28,spotify:track:1OAh8uOEOvTDqkKFsKksCi,"DJ Khaled, Rihanna, Bryson Tiller",Wild Thoughts (feat. Rihanna & Bryson Tiller),Epic/We The Best,2,24,15,12846843,2017-09-28
 29,spotify:track:3PEgB3fkiojxms35ntsTgs,Axwell /\ Ingrosso,More Than You Know,EMI,15,22,18,12633014,2017-09-28
@@ -74,7 +74,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 73,spotify:track:1NDxZ7cFAo481dtYWdrUnR,"Maggie Lindemann, Cheat Codes, CADE",Pretty Girl - Cheat Codes X CADE Remix,300 Entertainment,23,72,26,6369836,2017-09-28
 74,spotify:track:57p8CBvPOxrvyCbn6ttl5r,"Skrillex, Poo Bear",Would You Ever,OWSLA/Atlantic,57,67,9,6366038,2017-09-28
 75,spotify:track:5uCax9HTNlzGybIStD3vDh,James Arthur,Say You Won't Let Go,Columbia,7,79,40,6341123,2017-09-28
-76,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcángel",Ahora Dice,UMLE - Latino,46,73,25,6309059,2017-09-28
+76,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcangel",Ahora Dice,UMLE - Latino,46,73,25,6309059,2017-09-28
 77,spotify:track:3eR23VReFzcdmS7TYCrhCe,"Kygo, Selena Gomez",It Ain't Me (with Selena Gomez),Kygo,2,84,32,6232253,2017-09-28
 78,spotify:track:6c7D34787LOtPm8tzhsLgH,"Yo Gotti, Nicki Minaj",Rake It Up (feat. Nicki Minaj),Epic/CMG,78,78,9,6142985,2017-09-28
 79,spotify:track:3rOSwuTsUlJp0Pu0MkN8r8,Future,Mask Off,Epic/Freebandz/A1,5,75,32,6079183,2017-09-28
@@ -85,7 +85,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 84,spotify:track:40oKW22ZNNkEdZLJTScaQI,"Kodak Black, XXXTENTACION",Roll in Peace (feat. XXXTENTACION),Atlantic Records,84,94,6,5920957,2017-09-28
 85,spotify:track:5zSOVwaY3sVjnmLhuEfsuf,Ozuna,Tú Foto,VP Records Corp/Dimelo Vi,72,82,22,5871675,2017-09-28
 86,spotify:track:3kxfsdsCpFgN412fpnW85Y,Childish Gambino,Redbone,Glassnote Entertainment Group LLC,35,80,40,5812485,2017-09-28
-87,spotify:track:2SmgFAhQkQCQPyBiBxR6Te,"NATTI NATASHA, Ozuna",Criminal,Pina Records,87,134,2,5810063,2017-09-28
+87,spotify:track:2SmgFAhQkQCQPyBiBxR6Te,"Natti Natasha, Ozuna",Criminal,Pina Records,87,134,2,5810063,2017-09-28
 88,spotify:track:0q75NwOoFiARAVp4EXU4Bs,"SZA, Travis Scott",Love Galore (feat. Travis Scott),Top Dawg Entertainment/RCA Records,73,76,16,5738596,2017-09-28
 89,spotify:track:7iDa6hUg2VgEL1o1HjmfBn,"Bebe Rexha, Florida Georgia Line",Meant to Be (feat. Florida Georgia Line),Warner Records,89,130,2,5698765,2017-09-28
 90,spotify:track:0Wv5wuenRLI3BcwgT3HPIP,"DJ Snake, Lauv",A Different Way (with Lauv),Geffen,90,-1,1,5659117,2017-09-28

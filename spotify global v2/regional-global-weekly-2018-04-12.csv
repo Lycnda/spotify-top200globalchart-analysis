@@ -9,7 +9,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 8,spotify:track:3ee8Jmje8o58CHK66QrVC2,XXXTENTACION,SAD!,"Bad Vibes Forever, LLC",3,7,6,21309688,2018-04-12
 9,spotify:track:76cy1WJvNGJTj78UqeA5zr,Dua Lipa,IDGAF,Warner Records,4,9,15,20529481,2018-04-12
 10,spotify:track:2ARqIya5NAuvFVHSN3bL0m,"Zedd, Maren Morris, Grey",The Middle,UMGRI Interscope,6,10,11,20218662,2018-04-12
-11,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),Bloc Nation,6,13,9,19745203,2018-04-12
+11,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),OVO Sound/Warner Records,6,13,9,19745203,2018-04-12
 12,spotify:track:45Egmo7icyopuzJN0oMEdk,"Khalid, Normani",Love Lies (with Normani),RCA Records Label,11,12,8,19351196,2018-04-12
 13,spotify:track:7ef4DlsgrMEH11cDZd32M6,"Calvin Harris, Dua Lipa",One Kiss (with Dua Lipa),Sony Music UK,13,-1,1,19302911,2018-04-12
 14,spotify:track:5CLGzJsGqhCEECcpnFQA8x,"Rudimental, Jess Glynne, Macklemore, Dan Caplen","These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",Atlantic Records UK,9,18,12,17806295,2018-04-12
@@ -65,7 +65,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 64,spotify:track:7wvYmO5QscgIDDT0eNwbYX,Shawn Mendes,Lost In Japan,Island Records,23,46,3,7557247,2018-04-12
 65,spotify:track:26gceVsA1ybT8qsX3aYLEn,Imagine Dragons,Thunder,Kid Ina Korner / Interscope,8,63,50,7550118,2018-04-12
 66,spotify:track:7p2ewixAShLpjDZrnzZK7c,Cardi B,Get Up 10,Atlantic/KSR,66,-1,1,7531048,2018-04-12
-67,spotify:track:6Za3190Sbw39BBC77WSS1C,"NATTI NATASHA, Ozuna",Criminal,Pina Records,21,64,30,7504051,2018-04-12
+67,spotify:track:6Za3190Sbw39BBC77WSS1C,"Natti Natasha, Ozuna",Criminal,Pina Records,21,64,30,7504051,2018-04-12
 68,spotify:track:739vCwA3EpBSkk3uDsI2wB,"N.E.R.D, Rihanna, Drake",Lemon (feat. Drake) - Drake Remix,i am OTHER/Columbia,60,60,3,7470283,2018-04-12
 69,spotify:track:3Ga6eKrUFf12ouh9Yw3v2D,"Anitta, J Balvin",Downtown,WM Brazil,21,61,21,7385939,2018-04-12
 70,spotify:track:1YmF9PvLhIISIANoMLIYGq,"A$AP Rocky, Moby",A$AP Forever (feat. Moby),A$AP Worldwide/Polo Grounds Music/RCA Records,70,-1,1,7384296,2018-04-12
@@ -94,7 +94,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 93,spotify:track:2xmrfQpmS2iJExTlklLoAL,"Clean Bandit, Julia Michaels",I Miss You (feat. Julia Michaels),Atlantic Records UK,23,84,24,6245833,2018-04-12
 94,spotify:track:3towKHKVOXCCcL1fHv6xFO,"Hailee Steinfeld, BloodPop®",Capital Letters,Republic/Universal/FSF,34,68,12,6170591,2018-04-12
 95,spotify:track:5k38wzpLb15YgncyWdTZE4,"G-Eazy, Halsey",Him & I (with Halsey),BPG/RVG/RCA Records,7,80,19,6141465,2018-04-12
-96,spotify:track:5hM6sP0Gh1jD57drszNueC,"Liam Payne, Rita Ora",For You (With Rita Ora),Capitol Records UK / EMI,27,81,14,6137235,2018-04-12
+96,spotify:track:5hM6sP0Gh1jD57drszNueC,"Liam Payne, Rita Ora",For You (With Rita Ora),Capitol,27,81,14,6137235,2018-04-12
 97,spotify:track:0dSIrRkA4PadGll16TgbnV,"Famous Dex, A$AP Rocky",PICK IT UP (feat. A$AP Rocky),300 Entertainment,60,95,22,6128362,2018-04-12
 98,spotify:track:4zWO4gvuFtw6EJZC5FFGlr,"MC Fioti, Future, J Balvin, Stefflon Don, Juan Magán",Bum Bum Tam Tam,Universal-Island Records Ltd.,66,86,17,6055853,2018-04-12
 99,spotify:track:2xGjteMU3E1tkEPVFBO08U,"Keala Settle, The Greatest Showman Ensemble",This Is Me,Atlantic Records,30,88,15,6051836,2018-04-12
@@ -189,7 +189,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 188,spotify:track:2CRbiMK0W14l71SpDKqKZM,"KHEA, Bad Bunny, Duki, Cazzu",Loca - Remix,Rimas Entertainment LLC,146,171,4,3905861,2018-04-12
 189,spotify:track:7vu0JkJh0ldukEYbTVcqd0,Julia Michaels,Issues,J/Republic,9,180,65,3865366,2018-04-12
 190,spotify:track:5WoaF1B5XIEnWfmb5NZikf,"Miguel, Travis Scott",Sky Walker (feat. Travis Scott),ByStorm Entertainment/RCA Records,69,167,21,3848541,2018-04-12
-191,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,9,178,47,3833386,2018-04-12
+191,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,9,178,47,3833386,2018-04-12
 192,spotify:track:0afhq8XCExXpqazXczTSve,Ed Sheeran,Galway Girl,Atlantic Records UK,2,174,58,3815962,2018-04-12
 193,spotify:track:43ay9lQZ5rfNcOOHhRF2cM,"Hugh Jackman, Keala Settle, Zac Efron, Zendaya, The Greatest Showman Ensemble",The Greatest Show,Atlantic Records,73,177,15,3782069,2018-04-12
 194,spotify:track:5TysCiZtv1HnSWcTcUFusI,"Joey Montana, Sebastian Yatra",Suena El Dembow,UMLE - Latino,66,182,30,3771520,2018-04-12

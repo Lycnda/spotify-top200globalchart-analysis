@@ -11,7 +11,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 10,spotify:track:2eMwDehkIC1j68U6FA3Eiq,Lil Uzi Vert,XO Tour Llif3,Generation Now/Atlantic,10,17,11,18799461,2017-06-08
 11,spotify:track:6RUKPb4LETWmmr3iAEQktW,"The Chainsmokers, Coldplay",Something Just Like This,Disruptor Records/Columbia,2,12,16,18685655,2017-06-08
 12,spotify:track:0dA2Mk56wEzDgegdC6R17g,"Zedd, Alessia Cara",Stay,UMGRI Interscope,7,9,15,18404499,2017-06-08
-13,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,13,20,3,18026441,2017-06-08
+13,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,13,20,3,18026441,2017-06-08
 14,spotify:track:1x5sYLZiu9r5E43kMlt9f8,"Clean Bandit, Zara Larsson",Symphony (feat. Zara Larsson),Atlantic Records UK,11,16,12,17506415,2017-06-08
 15,spotify:track:2habSXqcJGExM6JJyskY7O,Miley Cyrus,Malibu,RCA Records Label,7,11,4,17437823,2017-06-08
 16,spotify:track:3rOSwuTsUlJp0Pu0MkN8r8,Future,Mask Off,Epic/Freebandz/A1,5,15,16,17284700,2017-06-08
@@ -48,7 +48,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 47,spotify:track:2cnKEkpVUSV4wnjQiTWfH6,"Wisin, Ozuna",Escápate Conmigo (feat. Ozuna),Sony Music Latin,47,48,9,9655360,2017-06-08
 48,spotify:track:5knuzwU65gJK7IF5yJsuaW,"Clean Bandit, Sean Paul, Anne-Marie",Rockabye (feat. Sean Paul & Anne-Marie),Atlantic Records UK,3,47,24,9128420,2017-06-08
 49,spotify:track:1Eck97uRMlprKOOJN9oO1E,"G-Eazy, Kehlani",Good Life (with G-Eazy & Kehlani),Artist Partner,25,45,11,9105923,2017-06-08
-50,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcángel",Ahora Dice,UMLE - Latino,50,50,9,8982314,2017-06-08
+50,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcangel",Ahora Dice,UMLE - Latino,50,50,9,8982314,2017-06-08
 51,spotify:track:0lMbuWUpfTWhEmOKxppEau,"Calvin Harris, Future, Khalid, Funk Wav",Rollin (feat. Future & Khalid),Columbia,43,46,4,8658730,2017-06-08
 52,spotify:track:7LEydI5NfjY6mZfKwYIptZ,"Fifth Harmony, Gucci Mane",Down (feat. Gucci Mane),Syco Music/Epic,52,-1,1,8555975,2017-06-08
 53,spotify:track:4c2W3VKsOFoIg2SFaO6DY5,Rita Ora,Your Song,Atlantic Records UK,53,74,2,8501919,2017-06-08

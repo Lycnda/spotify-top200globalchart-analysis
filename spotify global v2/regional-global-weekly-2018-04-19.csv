@@ -12,7 +12,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 11,spotify:track:45Egmo7icyopuzJN0oMEdk,"Khalid, Normani",Love Lies (with Normani),RCA Records Label,11,12,9,20042219,2018-04-19
 12,spotify:track:76cy1WJvNGJTj78UqeA5zr,Dua Lipa,IDGAF,Warner Records,4,9,16,20008796,2018-04-19
 13,spotify:track:3ee8Jmje8o58CHK66QrVC2,XXXTENTACION,SAD!,"Bad Vibes Forever, LLC",3,8,7,19597992,2018-04-19
-14,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),Bloc Nation,6,11,10,19425524,2018-04-19
+14,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),OVO Sound/Warner Records,6,11,10,19425524,2018-04-19
 15,spotify:track:5CLGzJsGqhCEECcpnFQA8x,"Rudimental, Jess Glynne, Macklemore, Dan Caplen","These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",Atlantic Records UK,9,14,13,17769573,2018-04-19
 16,spotify:track:7uzmGiiJyRfuViKKK3lVmR,Bazzi,Mine,iamcosmic,3,15,13,17184516,2018-04-19
 17,spotify:track:3GCdLUSnKSMJhs4Tj6CV3s,"Kendrick Lamar, SZA",All The Stars (with SZA),Black Panther (TDE/DMG) PS,2,16,15,16256472,2018-04-19
@@ -61,7 +61,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 60,spotify:track:6QgjcU0zLnzq5OrUoSZ3OK,Portugal. The Man,Feel It Still,Atlantic Records,18,59,40,7955698,2018-04-19
 61,spotify:track:0CZ8lquoTX2Dkg7Ak2inwA,King Princess,1950,"Zelig Records, LLC./Columbia Records",61,72,5,7831034,2018-04-19
 62,spotify:track:3ITvHA9zhZZdBJsOsAUegF,Bad Bunny,Amorfoda,Rimas Entertainment LLC,10,49,9,7774151,2018-04-19
-63,spotify:track:6Za3190Sbw39BBC77WSS1C,"NATTI NATASHA, Ozuna",Criminal,Pina Records,21,67,31,7718746,2018-04-19
+63,spotify:track:6Za3190Sbw39BBC77WSS1C,"Natti Natasha, Ozuna",Criminal,Pina Records,21,67,31,7718746,2018-04-19
 64,spotify:track:2UVbBKQOdFAekPTRsnkzcf,Migos,Stir Fry,"Quality Control Music, LLC",16,56,16,7688984,2018-04-19
 65,spotify:track:3Vo4wInECJQuz9BIBMOu8i,"Bruno Mars, Cardi B",Finesse - Remix; feat. Cardi B,Atlantic Records,4,58,15,7524369,2018-04-19
 66,spotify:track:739vCwA3EpBSkk3uDsI2wB,"N.E.R.D, Rihanna, Drake",Lemon (feat. Drake) - Drake Remix,i am OTHER/Columbia,60,68,4,7487054,2018-04-19
@@ -97,7 +97,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 96,spotify:track:2xmrfQpmS2iJExTlklLoAL,"Clean Bandit, Julia Michaels",I Miss You (feat. Julia Michaels),Atlantic Records UK,23,93,25,6019120,2018-04-19
 97,spotify:track:630sXRhIcfwr2e4RdNtjKN,"Zac Efron, Zendaya",Rewrite The Stars,Atlantic Records,20,102,16,5894013,2018-04-19
 98,spotify:track:0dSIrRkA4PadGll16TgbnV,"Famous Dex, A$AP Rocky",PICK IT UP (feat. A$AP Rocky),300 Entertainment,60,97,23,5854356,2018-04-19
-99,spotify:track:5hM6sP0Gh1jD57drszNueC,"Liam Payne, Rita Ora",For You (With Rita Ora),Capitol Records UK / EMI,27,96,15,5830583,2018-04-19
+99,spotify:track:5hM6sP0Gh1jD57drszNueC,"Liam Payne, Rita Ora",For You (With Rita Ora),Capitol,27,96,15,5830583,2018-04-19
 100,spotify:track:5k38wzpLb15YgncyWdTZE4,"G-Eazy, Halsey",Him & I (with Halsey),BPG/RVG/RCA Records,7,95,20,5829131,2018-04-19
 101,spotify:track:5Z3GHaZ6ec9bsiI5BenrbY,Khalid,Young Dumb & Broke,"Right Hand Music Group, LLC/RCA Records",12,101,43,5810708,2018-04-19
 102,spotify:track:1YmF9PvLhIISIANoMLIYGq,"A$AP Rocky, Moby",A$AP Forever (feat. Moby),A$AP Worldwide/Polo Grounds Music/RCA Records,70,70,2,5762650,2018-04-19

@@ -25,7 +25,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 24,spotify:track:5tz69p7tJuGPeMGwNTxYuV,"Logic, Alessia Cara, Khalid",1-800-273-8255,Def Jam Recordings,5,17,32,12569056,2017-12-07
 25,spotify:track:5hcisvFMidkMJlElTO9Qmw,"Bad Bunny, Prince Royce, J Balvin, Mambo Kingz, DJ Luian",Sensualidad,Hear This Music,23,23,5,12338839,2017-12-07
 26,spotify:track:0Zbbxnx4SGGHoIow4PpISP,"Kygo, Justin Jesso",Stargazing,Kygo,15,19,11,11909654,2017-12-07
-27,spotify:track:6Za3190Sbw39BBC77WSS1C,"NATTI NATASHA, Ozuna",Criminal,Pina Records,21,21,12,11858083,2017-12-07
+27,spotify:track:6Za3190Sbw39BBC77WSS1C,"Natti Natasha, Ozuna",Criminal,Pina Records,21,21,12,11858083,2017-12-07
 28,spotify:track:7iDa6hUg2VgEL1o1HjmfBn,"Bebe Rexha, Florida Georgia Line",Meant to Be (feat. Florida Georgia Line),Warner Records,28,32,12,11824609,2017-12-07
 29,spotify:track:0tKcYR2II1VCQWT79i5NrW,Imagine Dragons,Thunder,Kid Ina Korner / Interscope,8,22,32,11791181,2017-12-07
 30,spotify:track:7GX5flRQZVHRAGd6B4TmDO,Lil Uzi Vert,XO Tour Llif3,Generation Now/Atlantic,10,24,37,11668581,2017-12-07
@@ -98,7 +98,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 97,spotify:track:2yLa0QULdQr0qAIvVwN6B5,Taylor Swift,...Ready For It?,"Big Machine Records, LLC",13,154,14,5948940,2017-12-07
 98,spotify:track:0Wv5wuenRLI3BcwgT3HPIP,"DJ Snake, Lauv",A Different Way (with Lauv),Geffen,66,88,11,5897377,2017-12-07
 99,spotify:track:5bcTCxgc7xVfSaMV3RuVke,"Calvin Harris, Pharrell Williams, Katy Perry, Big Sean, Funk Wav","Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",Columbia,5,82,25,5831657,2017-12-07
-100,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,9,92,29,5759281,2017-12-07
+100,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,9,92,29,5759281,2017-12-07
 101,spotify:track:3zJw3rugfpVrmBeDDnUYzy,"John Lennon, Yoko Ono",Happy Xmas (War Is Over) - Remastered 2010,EMI Catalogue,87,-1,2,5692159,2017-12-07
 102,spotify:track:7krbSH3rd8lhIZvuzTV3Bl,James Arthur,Naked,Columbia Local,89,89,2,5650491,2017-12-07
 103,spotify:track:3DXncPQOG4VBw3QHh3S817,"DJ Khaled, Justin Bieber, Quavo, Chance the Rapper, Lil Wayne","I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",Epic/We The Best,2,100,32,5643038,2017-12-07
@@ -129,7 +129,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 128,spotify:track:5WoaF1B5XIEnWfmb5NZikf,"Miguel, Travis Scott",Sky Walker (feat. Travis Scott),ByStorm Entertainment/RCA Records,128,174,3,5006863,2017-12-07
 129,spotify:track:2x0WlnmfG39ZuDmstl9xfX,"Taylor Swift, Ed Sheeran, Future",End Game,"Big Machine Records, LLC",129,-1,1,4974045,2017-12-07
 130,spotify:track:2rE9TX3VQ0WNt7kziFhKep,"Lorde, Khalid, Post Malone, SZA","Homemade Dynamite (Feat. Khalid, Post Malone & SZA) - REMIX",Universal Music New Zealand Limited,54,106,12,4939876,2017-12-07
-131,spotify:track:0tPQPaOKM32WgMSbPCYyRH,"David Guetta, AFROJACK, Charli XCX, French Montana",Dirty Sexy Money (feat. Charli XCX & French Montana),Parlophone (France),100,102,5,4932241,2017-12-07
+131,spotify:track:0tPQPaOKM32WgMSbPCYyRH,"David Guetta, Afrojack, Charli XCX, French Montana",Dirty Sexy Money (feat. Charli XCX & French Montana),Parlophone (France),100,102,5,4932241,2017-12-07
 132,spotify:track:6p8NuHm8uCGnn2Dtbtf7zE,"Migos, Gucci Mane",Slippery (feat. Gucci Mane),Quality Control Music,71,116,36,4871437,2017-12-07
 133,spotify:track:38yBBH2jacvDxrznF7h08J,Niall Horan,Slow Hands,Capitol Records (US1A),29,115,31,4859071,2017-12-07
 134,spotify:track:3eR23VReFzcdmS7TYCrhCe,"Kygo, Selena Gomez",It Ain't Me (with Selena Gomez),Kygo,2,133,42,4848920,2017-12-07
@@ -137,7 +137,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 136,spotify:track:7BKLCZ1jbUBVqRi2FVlTVw,"The Chainsmokers, Halsey",Closer,Disruptor Records/Columbia,2,125,50,4806596,2017-12-07
 137,spotify:track:3VTNVsTTu05dmTsVFrmGpK,"The Pogues, Kirsty MacColl",Fairytale of New York (feat. Kirsty MacColl),WM UK,110,-1,2,4802761,2017-12-07
 138,spotify:track:6kex4EBAj0WHXDKZMEJaaF,"Jason Derulo, Nicki Minaj, Ty Dolla $ign",Swalla (feat. Nicki Minaj & Ty Dolla $ign),Beluga Heights/Warner Records,6,121,41,4796704,2017-12-07
-139,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcángel",Ahora Dice,UMLE - Latino,46,114,35,4792800,2017-12-07
+139,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcangel",Ahora Dice,UMLE - Latino,46,114,35,4792800,2017-12-07
 140,spotify:track:7taXf5odg9xCAZERYfyOkS,José Feliciano,Feliz Navidad,RCA Records Label,68,-1,2,4780300,2017-12-07
 141,spotify:track:0ZoHHROTzwIYeNAHRPedTY,Chris Rea,Driving Home for Christmas,Rhino,141,-1,1,4750671,2017-12-07
 142,spotify:track:3kxfsdsCpFgN412fpnW85Y,Childish Gambino,Redbone,Glassnote Entertainment Group LLC,35,140,50,4709198,2017-12-07
@@ -151,7 +151,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 150,spotify:track:0dA2Mk56wEzDgegdC6R17g,"Zedd, Alessia Cara",Stay,UMGRI Interscope,7,149,41,4481874,2017-12-07
 151,spotify:track:5PB8zB1MOZASboLquvinMF,"CNCO, Little Mix",Reggaetón Lento (Remix),Sony Music Latin,56,109,16,4477925,2017-12-07
 152,spotify:track:5zSOVwaY3sVjnmLhuEfsuf,Ozuna,Tú Foto,VP Records Corp/Dimelo Vi,72,131,32,4424553,2017-12-07
-153,spotify:track:1pZdegOXTZ2ftINo3oUuRZ,Liam Payne,Bedroom Floor,Capitol Records UK / EMI,71,120,7,4415713,2017-12-07
+153,spotify:track:1pZdegOXTZ2ftINo3oUuRZ,Liam Payne,Bedroom Floor,Capitol,71,120,7,4415713,2017-12-07
 154,spotify:track:4gavOCQdZ2g86gkvi17FM7,Paul McCartney,Wonderful Christmastime - Edited Version / Remastered 2011,Paul McCartney Catalog,136,-1,2,4402758,2017-12-07
 155,spotify:track:3A7qX2QjDlPnazUsRk5y0M,"David Guetta, Justin Bieber",2U (feat. Justin Bieber),Parlophone (France),3,137,26,4378366,2017-12-07
 156,spotify:track:5uu28fUesZMl89lf9CLrgN,"Cheat Codes, Fetty Wap, CVBZ",Feels Great (feat. Fetty Wap & CVBZ),Parlophone UK,110,139,8,4355396,2017-12-07

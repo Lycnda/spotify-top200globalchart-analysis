@@ -51,7 +51,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 50,spotify:track:7jtQIBanIiJOMS6RyCx6jZ,Tom Odell,Another Love,ITNO/Columbia,50,71,48,9401569,2022-03-10
 51,spotify:track:2WL6GQzPuK9Nrpy9XwNEbz,Nirvana,Something In The Way,Geffen,51,-1,1,9359284,2022-03-10
 52,spotify:track:6ylDpki1VpIsc525KC1ojF,Sebastian Yatra,Tacones Rojos,UMLE - Latino,45,45,16,9310589,2022-03-10
-53,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhayco",DÁKITI,Rimas Entertainment LLC,1,49,71,9239733,2022-03-10
+53,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhay Cortez",DÁKITI,Rimas Entertainment LLC,1,49,71,9239733,2022-03-10
 54,spotify:track:6lX6l7OuA3qrnIRfdsr0dw,"Blessd, Justin Quiles, Lenny Tavárez",Medallo,WEA Latina,48,48,16,9156267,2022-03-10
 55,spotify:track:5wANPM4fQCJwkGd4rN57mH,Olivia Rodrigo,drivers license,Olivia Rodrigo PS,1,54,61,8935455,2022-03-10
 56,spotify:track:3GZD6HmiNUhxXYf8Gch723,Frank Ocean,Lost,Red Zone Entertainment / IDJ,50,50,8,8884677,2022-03-10
@@ -119,7 +119,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 118,spotify:track:3AJwUDP919kvQ9QcozQPxg,Coldplay,Yellow,Parlophone UK,101,117,64,6389033,2022-03-10
 119,spotify:track:29m79w9xPMH4YCD6r8JSmV,"AP Dhillon, Gurinder Gill, Intense",Excuses,RUN-UP RECORDS,56,106,8,6376571,2022-03-10
 120,spotify:track:5E30LdtzQTGqRvNd7l6kG5,The Neighbourhood,Daddy Issues,Columbia,99,114,74,6373532,2022-03-10
-121,spotify:track:6f5ExP43esnvdKPddwKXJH,"NEIKED, Mae Muller, Polo G",Better Days (NEIKED x Mae Muller x Polo G),Capitol Records UK / EMI,32,121,21,6367576,2022-03-10
+121,spotify:track:6f5ExP43esnvdKPddwKXJH,"NEIKED, Mae Muller, Polo G",Better Days (NEIKED x Mae Muller x Polo G),Capitol,32,121,21,6367576,2022-03-10
 122,spotify:track:5kqNIqFjijuzvVLhuY9B8j,Bad Bunny,La Zona,Rimas Entertainment LLC,60,122,5,6338790,2022-03-10
 123,spotify:track:2tpWsVSb9UEmDRxAl1zhX1,OneRepublic,Counting Stars,Mosley / Interscope,118,118,52,6324245,2022-03-10
 124,spotify:track:0bI7K9Becu2dtXK1Q3cZNB,"Tiësto, KAROL G",Don't Be Shy,Atlantic Records,38,124,30,6304479,2022-03-10
@@ -138,7 +138,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 137,spotify:track:74WROFXsox6wkeUrEK2DS6,Eden Muñoz,Chale,Lizos Music,137,-1,1,6047653,2022-03-10
 138,spotify:track:0tgVpDi06FyKpA1z0VMD4v,Ed Sheeran,Perfect,Atlantic Records UK,4,138,260,6047072,2022-03-10
 139,spotify:track:1u8c2t2Cy7UBoG4ArRcF5g,Taylor Swift,Blank Space,"Big Machine Records, LLC",135,139,18,6045698,2022-03-10
-140,spotify:track:5W1qmxHrMlQGGAiFA3ZQqP,"Dímelo Flow, Dalex, Sech, Justin Quiles, Arcángel, De La Ghetto, Lenny Tavárez",Se Le Ve,Rich Music,110,123,10,6025018,2022-03-10
+140,spotify:track:5W1qmxHrMlQGGAiFA3ZQqP,"Dímelo Flow, Dalex, Sech, Justin Quiles, Arcangel, De La Ghetto, Lenny Tavárez",Se Le Ve,Rich Music,110,123,10,6025018,2022-03-10
 141,spotify:track:4xqrdfXkTW4T0RauPLv3WA,Conan Gray,Heather,Republic Records,12,136,85,6017897,2022-03-10
 142,spotify:track:7yq4Qj7cqayVTp3FF9CWbm,Vance Joy,Riptide,F-Stop Records/Atlantic,122,142,62,5928225,2022-03-10
 143,spotify:track:48QmG1dfvMuYLxMPt7KSRA,"Sean Paul, Dua Lipa",No Lie,Universal-Island Records Ltd.,80,141,32,5924431,2022-03-10
@@ -198,4 +198,4 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 197,spotify:track:4HzqWEdAbzcVFDv0pvxV4w,Maluma,Sobrio,Sony Music Latin,41,169,35,5278210,2022-03-10
 198,spotify:track:7BbaIYAdi3pg4MGl6PHwPv,Yeat,Monëy so big,TwizzyRich,198,-1,1,5255568,2022-03-10
 199,spotify:track:6nkoWsFZeFt5dUdNmlIceh,Gusttavo Lima,Bloqueado - Ao Vivo,Sony Music Entertainment,106,110,11,5252300,2022-03-10
-200,spotify:track:1W1N3usYjgI3XGQA0iX9Vq,"Miksu / Macloud, t-low",Sehnsucht,Futura,200,-1,1,5246533,2022-03-10
+200,spotify:track:1W1N3usYjgI3XGQA0iX9Vq,"Miksu / Macloud, t-low",Sehnsucht,FUTURA,200,-1,1,5246533,2022-03-10

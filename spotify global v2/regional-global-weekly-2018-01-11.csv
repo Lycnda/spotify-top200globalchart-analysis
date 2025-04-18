@@ -27,7 +27,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 26,spotify:track:3Ga6eKrUFf12ouh9Yw3v2D,"Anitta, J Balvin",Downtown,WM Brazil,21,21,8,12408536,2018-01-11
 27,spotify:track:7iDa6hUg2VgEL1o1HjmfBn,"Bebe Rexha, Florida Georgia Line",Meant to Be (feat. Florida Georgia Line),Warner Records,27,27,17,12362698,2018-01-11
 28,spotify:track:5hcisvFMidkMJlElTO9Qmw,"Bad Bunny, Prince Royce, J Balvin, Mambo Kingz, DJ Luian",Sensualidad,Hear This Music,21,25,10,12037684,2018-01-11
-29,spotify:track:6Za3190Sbw39BBC77WSS1C,"NATTI NATASHA, Ozuna",Criminal,Pina Records,21,22,17,11479256,2018-01-11
+29,spotify:track:6Za3190Sbw39BBC77WSS1C,"Natti Natasha, Ozuna",Criminal,Pina Records,21,22,17,11479256,2018-01-11
 30,spotify:track:0tKcYR2II1VCQWT79i5NrW,Imagine Dragons,Thunder,Kid Ina Korner / Interscope,8,24,37,11413447,2018-01-11
 31,spotify:track:32DGGj6KlNuBr6WaqRxpxi,Charlie Puth,How Long,Artist Partner,15,31,14,11092875,2018-01-11
 32,spotify:track:7GX5flRQZVHRAGd6B4TmDO,Lil Uzi Vert,XO Tour Llif3,Generation Now/Atlantic,10,30,42,10824651,2018-01-11
@@ -56,7 +56,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 55,spotify:track:5yFSF6qQA1rcLsQRnBsZgb,"Alan Walker, Noah Cyrus, Digital Farm Animals, Juliander",All Falls Down (feat. Juliander),MER Recordings,52,58,11,8009107,2018-01-11
 56,spotify:track:4iLqG9SeJSnt0cSPICSjxv,Charlie Puth,Attention,Artist Partner,5,51,38,7986241,2018-01-11
 57,spotify:track:630sXRhIcfwr2e4RdNtjKN,"Zac Efron, Zendaya",Rewrite The Stars,Atlantic Records,57,126,2,7796082,2018-01-11
-58,spotify:track:5hM6sP0Gh1jD57drszNueC,"Liam Payne, Rita Ora",For You (With Rita Ora),Capitol Records UK / EMI,58,-1,1,7716698,2018-01-11
+58,spotify:track:5hM6sP0Gh1jD57drszNueC,"Liam Payne, Rita Ora",For You (With Rita Ora),Capitol,58,-1,1,7716698,2018-01-11
 59,spotify:track:3m660poUr1chesgkkjQM7P,Demi Lovato,Sorry Not Sorry,Island Records,7,55,27,7634818,2018-01-11
 60,spotify:track:2OALaHcDdKkjYEpAr0Qzab,"Avicii, Rita Ora",Lonely Together (feat. Rita Ora),Universal Music AB,19,56,22,7594984,2018-01-11
 61,spotify:track:6RUKPb4LETWmmr3iAEQktW,"The Chainsmokers, Coldplay",Something Just Like This,Disruptor Records/Columbia,2,47,47,7560288,2018-01-11
@@ -100,7 +100,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 99,spotify:track:0RoA7ObU6phWpqhlC9zH4Z,"Ziv Zaifman, Hugh Jackman, Michelle Williams",A Million Dreams,Atlantic Records,99,192,2,5712851,2018-01-11
 100,spotify:track:5TmZYdHW6HJ9gt7Aokuql5,"Sebastian Yatra, Dalmata",SUTRA,UMLE - Latino,100,106,11,5658774,2018-01-11
 101,spotify:track:1x5sYLZiu9r5E43kMlt9f8,"Clean Bandit, Zara Larsson",Symphony (feat. Zara Larsson),Atlantic Records UK,11,70,43,5634043,2018-01-11
-102,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,9,83,34,5615821,2018-01-11
+102,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,9,83,34,5615821,2018-01-11
 103,spotify:track:0KKkJNfGyhkQ5aFogxQAPU,Bruno Mars,That's What I Like,Atlantic Records,6,97,55,5614991,2018-01-11
 104,spotify:track:0afhq8XCExXpqazXczTSve,Ed Sheeran,Galway Girl,Atlantic Records UK,2,88,45,5533691,2018-01-11
 105,spotify:track:4fndbjoz1qJyK6JcLdKfzm,Migos,Stir Fry,"Quality Control Music, LLC",105,150,2,5465715,2018-01-11
@@ -137,11 +137,11 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 136,spotify:track:7F9vK8hNFMml4GtHsaXui6,"Louis Tomlinson, Bebe Rexha, Digital Farm Animals",Back to You (feat. Bebe Rexha & Digital Farm Animals),Syco Music,15,149,25,4589476,2018-01-11
 137,spotify:track:40oKW22ZNNkEdZLJTScaQI,"Kodak Black, XXXTENTACION",Roll in Peace (feat. XXXTENTACION),Atlantic Records,79,141,21,4541892,2018-01-11
 138,spotify:track:7vu0JkJh0ldukEYbTVcqd0,Julia Michaels,Issues,J/Republic,9,137,52,4497635,2018-01-11
-139,spotify:track:0tPQPaOKM32WgMSbPCYyRH,"David Guetta, AFROJACK, Charli XCX, French Montana",Dirty Sexy Money (feat. Charli XCX & French Montana),Parlophone (France),100,111,10,4458215,2018-01-11
+139,spotify:track:0tPQPaOKM32WgMSbPCYyRH,"David Guetta, Afrojack, Charli XCX, French Montana",Dirty Sexy Money (feat. Charli XCX & French Montana),Parlophone (France),100,111,10,4458215,2018-01-11
 140,spotify:track:0I20rLT2MJDhcF96AjbNYo,"Zedd, Alessia Cara",Stay,UMGRI Interscope,7,114,46,4453407,2018-01-11
 141,spotify:track:6eT7xZZlB2mwyzJ2sUKG6w,Post Malone,White Iverson,Universal Records,100,145,47,4445317,2018-01-11
 142,spotify:track:1xznGGDReH1oQq0xzbwXa3,"Drake, Wizkid, Kyla",One Dance,Cash Money Records/Young Money Ent./Universal Rec.,12,84,55,4416341,2018-01-11
-143,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcángel",Ahora Dice,UMLE - Latino,46,131,40,4414661,2018-01-11
+143,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcangel",Ahora Dice,UMLE - Latino,46,131,40,4414661,2018-01-11
 144,spotify:track:0RTzJVkunbGwuRjXDFHnjf,Axwell /\ Ingrosso,Dreamer,EMI,144,171,3,4393209,2018-01-11
 145,spotify:track:790MhTXPFrYkrqCKvpg4t1,"NAV, Lil Uzi Vert",Wanted You (feat. Lil Uzi Vert),XO Records,99,134,9,4363795,2018-01-11
 146,spotify:track:5aAx2yezTd8zXrkmtKl66Z,"The Weeknd, Daft Punk",Starboy,Universal Republic Records,1,125,55,4350619,2018-01-11

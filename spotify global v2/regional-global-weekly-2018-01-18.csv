@@ -30,7 +30,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 29,spotify:track:630sXRhIcfwr2e4RdNtjKN,"Zac Efron, Zendaya",Rewrite The Stars,Atlantic Records,29,57,3,12070167,2018-01-18
 30,spotify:track:5hcisvFMidkMJlElTO9Qmw,"Bad Bunny, Prince Royce, J Balvin, Mambo Kingz, DJ Luian",Sensualidad,Hear This Music,21,28,11,12017547,2018-01-18
 31,spotify:track:2Tq2R8sRftNEqdgJK5HadO,Troye Sivan,My My My!,EMI Recorded Music Australia Pty Ltd,31,-1,1,11670886,2018-01-18
-32,spotify:track:6Za3190Sbw39BBC77WSS1C,"NATTI NATASHA, Ozuna",Criminal,Pina Records,21,29,18,11418342,2018-01-18
+32,spotify:track:6Za3190Sbw39BBC77WSS1C,"Natti Natasha, Ozuna",Criminal,Pina Records,21,29,18,11418342,2018-01-18
 33,spotify:track:33bnxcjePIkcmNjEFTJX0l,"Piso 21, Manuel Turizo",Déjala Que Vuelva (feat. Manuel Turizo),WM Mexico,33,35,11,11275743,2018-01-18
 34,spotify:track:0tKcYR2II1VCQWT79i5NrW,Imagine Dragons,Thunder,Kid Ina Korner / Interscope,8,30,38,11188503,2018-01-18
 35,spotify:track:2xGjteMU3E1tkEPVFBO08U,"Keala Settle, The Greatest Showman Ensemble",This Is Me,Atlantic Records,35,52,3,11134991,2018-01-18
@@ -67,7 +67,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 66,spotify:track:2OALaHcDdKkjYEpAr0Qzab,"Avicii, Rita Ora",Lonely Together (feat. Rita Ora),Universal Music AB,19,60,23,7521595,2018-01-18
 67,spotify:track:1wjzFQodRWrPcQ0AnYnvQ9,Lauv,I Like Me Better,Lauv,29,64,33,7354703,2018-01-18
 68,spotify:track:3m660poUr1chesgkkjQM7P,Demi Lovato,Sorry Not Sorry,Island Records,7,59,28,7299907,2018-01-18
-69,spotify:track:5hM6sP0Gh1jD57drszNueC,"Liam Payne, Rita Ora",For You (With Rita Ora),Capitol Records UK / EMI,58,58,2,7264288,2018-01-18
+69,spotify:track:5hM6sP0Gh1jD57drszNueC,"Liam Payne, Rita Ora",For You (With Rita Ora),Capitol,58,58,2,7264288,2018-01-18
 70,spotify:track:3ncgNpxLoBQ65ABk4djDyd,"Famous Dex, A$AP Rocky",PICK IT UP (feat. A$AP Rocky),300 Entertainment,61,75,10,7221877,2018-01-18
 71,spotify:track:0CcQNd8CINkwQfe1RDtGV6,Imagine Dragons,Believer,Kid Ina Korner / Interscope,16,69,50,7197913,2018-01-18
 72,spotify:track:6RUKPb4LETWmmr3iAEQktW,"The Chainsmokers, Coldplay",Something Just Like This,Disruptor Records/Columbia,2,61,48,7046175,2018-01-18
@@ -104,7 +104,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 103,spotify:track:4XLu3tTSZiPFVC9mmuR6Zp,Camila Cabello,All These Years,Syco Music/Epic,103,-1,1,5700595,2018-01-18
 104,spotify:track:0qYTZCo5Bwh1nsUFGZP3zn,Maluma,Felices los 4,Sony Music Latin,17,90,39,5681215,2018-01-18
 105,spotify:track:5TmZYdHW6HJ9gt7Aokuql5,"Sebastian Yatra, Dalmata",SUTRA,UMLE - Latino,100,100,12,5631728,2018-01-18
-106,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,9,102,35,5509967,2018-01-18
+106,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,9,102,35,5509967,2018-01-18
 107,spotify:track:1yxgsra98r3qAtxqiGZPiX,Travis Scott,BUTTERFLY EFFECT,Epic/Grand Hustle/Cactus Jack,40,95,35,5502221,2018-01-18
 108,spotify:track:1XRgIKC5TPwo7nWGyKqgG0,"Gucci Mane, Migos",I Get the Bag (feat. Migos),Guwop Enterprises/Atlantic,45,109,22,5500651,2018-01-18
 109,spotify:track:7sTtHHrD0zDpmzQzH3zegz,Camila Cabello,Consequences,Syco Music/Epic,109,-1,1,5470405,2018-01-18
@@ -162,10 +162,10 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 161,spotify:track:5aAx2yezTd8zXrkmtKl66Z,"The Weeknd, Daft Punk",Starboy,Universal Republic Records,1,146,56,4302372,2018-01-18
 162,spotify:track:2RttW7RAu5nOAfq6YFvApB,Ed Sheeran,Happier,Atlantic Records UK,10,156,46,4283521,2018-01-18
 163,spotify:track:0I20rLT2MJDhcF96AjbNYo,"Zedd, Alessia Cara",Stay,UMGRI Interscope,7,140,47,4275036,2018-01-18
-164,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcángel",Ahora Dice,UMLE - Latino,46,143,41,4221563,2018-01-18
+164,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcangel",Ahora Dice,UMLE - Latino,46,143,41,4221563,2018-01-18
 165,spotify:track:6HZILIRieu8S0iqY8kIKhj,Kendrick Lamar,DNA.,Aftermath,3,153,39,4202705,2018-01-18
 166,spotify:track:76DNqvSyzL9VCkhlnByqLf,"Ozuna, Cardi B",La Modelo,VP Records Corp/Dimelo Vi,159,159,3,4193036,2018-01-18
-167,spotify:track:0tPQPaOKM32WgMSbPCYyRH,"David Guetta, AFROJACK, Charli XCX, French Montana",Dirty Sexy Money (feat. Charli XCX & French Montana),Parlophone (France),100,139,11,4186165,2018-01-18
+167,spotify:track:0tPQPaOKM32WgMSbPCYyRH,"David Guetta, Afrojack, Charli XCX, French Montana",Dirty Sexy Money (feat. Charli XCX & French Montana),Parlophone (France),100,139,11,4186165,2018-01-18
 168,spotify:track:1NDxZ7cFAo481dtYWdrUnR,"Maggie Lindemann, Cheat Codes, CADE",Pretty Girl - Cheat Codes X CADE Remix,300 Entertainment,23,149,40,4175659,2018-01-18
 169,spotify:track:3kxfsdsCpFgN412fpnW85Y,Childish Gambino,Redbone,Glassnote Entertainment Group LLC,35,158,56,4174522,2018-01-18
 170,spotify:track:5Y9fnynLlIvqtM710MHzfz,Ozuna,Síguelo Bailando,VP Records Corp/Dimelo Vi,170,179,3,4152293,2018-01-18

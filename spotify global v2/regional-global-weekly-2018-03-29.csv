@@ -8,7 +8,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 7,spotify:track:79jX8RM5CgPqDKdGEKNW9K,Shawn Mendes,In My Blood,Island Records,7,-1,1,21904395,2018-03-29
 8,spotify:track:2ARqIya5NAuvFVHSN3bL0m,"Zedd, Maren Morris, Grey",The Middle,UMGRI Interscope,6,8,9,21629499,2018-03-29
 9,spotify:track:3GCdLUSnKSMJhs4Tj6CV3s,"Kendrick Lamar, SZA",All The Stars (with SZA),Black Panther (TDE/DMG) PS,2,5,12,21429599,2018-03-29
-10,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),Bloc Nation,6,6,7,20937956,2018-03-29
+10,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),OVO Sound/Warner Records,6,6,7,20937956,2018-03-29
 11,spotify:track:6tHWl8ows5JOZq9Yfaqn3M,Bazzi,Mine,iamcosmic,3,10,10,19932813,2018-03-29
 12,spotify:track:45Egmo7icyopuzJN0oMEdk,"Khalid, Normani",Love Lies (with Normani),RCA Records Label,11,12,6,19875102,2018-03-29
 13,spotify:track:10Igtw8bSDyyFs7KIsKngZ,"Lil Dicky, Chris Brown",Freaky Friday (feat. Chris Brown),Commission/BMG,13,26,2,19141920,2018-03-29
@@ -53,9 +53,9 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 52,spotify:track:6QgjcU0zLnzq5OrUoSZ3OK,Portugal. The Man,Feel It Still,Atlantic Records,18,51,37,8672146,2018-03-29
 53,spotify:track:2yUbCEiaolfSMluDo9RMmG,"Rae Sremmurd, Swae Lee, Slim Jxmmi, Juicy J",Powerglide (feat. Juicy J) - From SR3MM,Mike WiLL Made-It,53,69,4,8667428,2018-03-29
 54,spotify:track:4QfNOZN7vrQCQKK1ZJ3XPb,Julia Michaels,Heaven,UME - Global Clearing House,34,44,7,8645743,2018-03-29
-55,spotify:track:5hM6sP0Gh1jD57drszNueC,"Liam Payne, Rita Ora",For You (With Rita Ora),Capitol Records UK / EMI,27,43,12,8488441,2018-03-29
+55,spotify:track:5hM6sP0Gh1jD57drszNueC,"Liam Payne, Rita Ora",For You (With Rita Ora),Capitol,27,43,12,8488441,2018-03-29
 56,spotify:track:5AEtlRudpgdT5FtNiuly6Y,"Hailee Steinfeld, Alesso, Florida Georgia Line, WATT","Let Me Go (with Alesso, Florida Georgia Line & watt)",Universal Records,16,49,29,8379262,2018-03-29
-57,spotify:track:6Za3190Sbw39BBC77WSS1C,"NATTI NATASHA, Ozuna",Criminal,Pina Records,21,58,28,8354635,2018-03-29
+57,spotify:track:6Za3190Sbw39BBC77WSS1C,"Natti Natasha, Ozuna",Criminal,Pina Records,21,58,28,8354635,2018-03-29
 58,spotify:track:4QtiVmuA88tPQiCOHZuQ5b,"Sofía Reyes, Jason Derulo, De La Ghetto","1, 2, 3 (feat. Jason Derulo & De La Ghetto)",WEA Latina,58,65,6,8302549,2018-03-29
 59,spotify:track:6NFyWDv5CjfwuzoCkw47Xf,Taylor Swift,Delicate,"Big Machine Records, LLC",59,78,5,8274902,2018-03-29
 60,spotify:track:3towKHKVOXCCcL1fHv6xFO,"Hailee Steinfeld, BloodPop®",Capital Letters,Republic/Universal/FSF,34,46,10,8210709,2018-03-29
@@ -161,7 +161,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 160,spotify:track:4pYZLpX23Vx8rwDpJCpPTA,"Rich The Kid, Kendrick Lamar",New Freezer (feat. Kendrick Lamar),Rich The Kid / (TDE/ISR PS),93,139,14,4269001,2018-03-29
 161,spotify:track:5TysCiZtv1HnSWcTcUFusI,"Joey Montana, Sebastian Yatra",Suena El Dembow,UMLE - Latino,66,149,28,4264561,2018-03-29
 162,spotify:track:38zwkK6TtTjIW9tpYBfZ3D,George Ezra,Paradise,Columbia,162,-1,1,4244694,2018-03-29
-163,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,9,165,45,4231411,2018-03-29
+163,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,9,165,45,4231411,2018-03-29
 164,spotify:track:5qqabIl2vWzo9ApSC317sa,Oasis,Wonderwall - Remastered,Big Brother,152,182,27,4210451,2018-03-29
 165,spotify:track:2771LMNxwf62FTAdpJMQfM,Cardi B,Bodak Yellow,KSR/Atlantic,21,159,35,4203906,2018-03-29
 166,spotify:track:7amMgNDcObIDkIXv4xcvc2,Ramz,Barking,Polydor Records,166,181,10,4177642,2018-03-29

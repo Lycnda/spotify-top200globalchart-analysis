@@ -19,7 +19,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 18,spotify:track:0bhnUFDQFCEHCBlsQfHnj5,J. Cole,Photograph,J. Cole P&D,18,-1,1,17839200,2018-04-26
 19,spotify:track:3ee8Jmje8o58CHK66QrVC2,XXXTENTACION,SAD!,"Bad Vibes Forever, LLC",3,13,8,17581098,2018-04-26
 20,spotify:track:6WbADFqMvR8N5u0BvtsWQE,"Avicii, Sandro Cavazza",Without You (feat. Sandro Cavazza),Universal Music AB,20,-1,29,17362815,2018-04-26
-21,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),Bloc Nation,6,14,11,17040869,2018-04-26
+21,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),OVO Sound/Warner Records,6,14,11,17040869,2018-04-26
 22,spotify:track:76cy1WJvNGJTj78UqeA5zr,Dua Lipa,IDGAF,Warner Records,4,12,17,16947889,2018-04-26
 23,spotify:track:7EulRO07ZgchxqKUHb8Pvc,J. Cole,1985 - Intro to “The Fall Off”,J. Cole P&D,23,-1,1,16759063,2018-04-26
 24,spotify:track:5CLGzJsGqhCEECcpnFQA8x,"Rudimental, Jess Glynne, Macklemore, Dan Caplen","These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",Atlantic Records UK,9,15,14,16590567,2018-04-26
@@ -55,7 +55,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 54,spotify:track:33IOhptvC2Qoy2UhjiHXLV,"David Guetta, Sia",Flames,Parlophone (France),43,43,5,10611198,2018-04-26
 55,spotify:track:43cFjTTCD9Cni4aSL0sORz,"KYLE, Kehlani",Playinwitme (feat. Kehlani),independently popular.,54,54,3,10477988,2018-04-26
 56,spotify:track:1LhMopPAallLeaeNutqbgS,"Justin Timberlake, Chris Stapleton",Say Something (feat. Chris Stapleton),RCA Records Label,25,33,13,10380645,2018-04-26
-57,spotify:track:0Y4hwUppbGc8aIBmiTz30A,"Liam Payne, J Balvin",Familiar,Capitol Records UK / EMI,57,-1,1,10135185,2018-04-26
+57,spotify:track:0Y4hwUppbGc8aIBmiTz30A,"Liam Payne, J Balvin",Familiar,Capitol,57,-1,1,10135185,2018-04-26
 58,spotify:track:44KKhCyI0BGS6LvVyDqJtH,Lil Pump,Esskeetit,Warner Records,51,51,2,9987084,2018-04-26
 59,spotify:track:6NFyWDv5CjfwuzoCkw47Xf,Taylor Swift,Delicate,"Big Machine Records, LLC",26,32,9,9965031,2018-04-26
 60,spotify:track:3V8UKqhEK5zBkBb6d6ub8i,"Nio Garcia, Casper Magico, Bad Bunny, Darell, Ozuna, Nicky Jam",Te Boté - Remix,"2018 Flow La Movie, Inc.",60,76,2,9932905,2018-04-26
@@ -83,7 +83,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 82,spotify:track:7EmGUiUaOSGDnUUQUDrOXC,"Selena Gomez, Marshmello",Wolves,Selena Gomez PS,3,53,27,7696533,2018-04-26
 83,spotify:track:08hm0V6cTsWDX62hW42sEv,The Chainsmokers,Sick Boy,Disruptor Records/Columbia,14,82,14,7456807,2018-04-26
 84,spotify:track:55S2PQgSMYAhgoTCcGCDfw,5 Seconds of Summer,Youngblood,Capitol,84,117,2,7409615,2018-04-26
-85,spotify:track:6Za3190Sbw39BBC77WSS1C,"NATTI NATASHA, Ozuna",Criminal,Pina Records,21,63,32,7400050,2018-04-26
+85,spotify:track:6Za3190Sbw39BBC77WSS1C,"Natti Natasha, Ozuna",Criminal,Pina Records,21,63,32,7400050,2018-04-26
 86,spotify:track:26gceVsA1ybT8qsX3aYLEn,Imagine Dragons,Thunder,Kid Ina Korner / Interscope,8,67,52,7241185,2018-04-26
 87,spotify:track:6QgjcU0zLnzq5OrUoSZ3OK,Portugal. The Man,Feel It Still,Atlantic Records,18,60,41,7232246,2018-04-26
 88,spotify:track:51rXHuKN8Loc4sUlKPODgH,"Jay Rock, Kendrick Lamar, Future, James Blake","King's Dead (with Kendrick Lamar, Future & James Blake)",Black Panther (TDE/DMG) PS,29,69,15,7189258,2018-04-26
@@ -128,7 +128,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 127,spotify:track:42CeaId2XNlxugDvyqHfDf,Post Malone,Candy Paint,Republic Records,17,115,32,5420402,2018-04-26
 128,spotify:track:54OB85nuxYGfl7qRQXuz7c,J Balvin,Ahora,UMLE - Latino,109,109,7,5368822,2018-04-26
 129,spotify:track:630sXRhIcfwr2e4RdNtjKN,"Zac Efron, Zendaya",Rewrite The Stars,Atlantic Records,20,97,17,5356167,2018-04-26
-130,spotify:track:5hM6sP0Gh1jD57drszNueC,"Liam Payne, Rita Ora",For You (With Rita Ora),Capitol Records UK / EMI,27,99,16,5327427,2018-04-26
+130,spotify:track:5hM6sP0Gh1jD57drszNueC,"Liam Payne, Rita Ora",For You (With Rita Ora),Capitol,27,99,16,5327427,2018-04-26
 131,spotify:track:1bhUWB0zJMIKr9yVPrkEuI,"Ed Sheeran, Beyoncé",Perfect Duet (Ed Sheeran & Beyoncé),Atlantic Records UK,3,112,21,5273273,2018-04-26
 132,spotify:track:2xGjteMU3E1tkEPVFBO08U,"Keala Settle, The Greatest Showman Ensemble",This Is Me,Atlantic Records,30,104,17,5270208,2018-04-26
 133,spotify:track:7uYgVgRSgqluZclLS7wpp4,"Ozuna, Romeo Santos",El Farsante - Remix,VP Records Corp/Dimelo Vi,102,105,12,5256042,2018-04-26

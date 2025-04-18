@@ -20,7 +20,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 19,spotify:track:5AEtlRudpgdT5FtNiuly6Y,"Hailee Steinfeld, Alesso, Florida Georgia Line, WATT","Let Me Go (with Alesso, Florida Georgia Line & watt)",Universal Records,16,31,17,12977633,2018-01-04
 20,spotify:track:2DQ1ITjI0YoLFzuADN1ZBW,"G-Eazy, A$AP Rocky, Cardi B",No Limit,BPG/RVG/RCA Records,20,39,14,12557918,2018-01-04
 21,spotify:track:3Ga6eKrUFf12ouh9Yw3v2D,"Anitta, J Balvin",Downtown,WM Brazil,21,22,7,12243044,2018-01-04
-22,spotify:track:6Za3190Sbw39BBC77WSS1C,"NATTI NATASHA, Ozuna",Criminal,Pina Records,21,27,16,12012034,2018-01-04
+22,spotify:track:6Za3190Sbw39BBC77WSS1C,"Natti Natasha, Ozuna",Criminal,Pina Records,21,27,16,12012034,2018-01-04
 23,spotify:track:5Z3GHaZ6ec9bsiI5BenrbY,Khalid,Young Dumb & Broke,"Right Hand Music Group, LLC/RCA Records",12,35,28,11926151,2018-01-04
 24,spotify:track:0tKcYR2II1VCQWT79i5NrW,Imagine Dragons,Thunder,Kid Ina Korner / Interscope,8,34,36,11665009,2018-01-04
 25,spotify:track:5hcisvFMidkMJlElTO9Qmw,"Bad Bunny, Prince Royce, J Balvin, Mambo Kingz, DJ Luian",Sensualidad,Hear This Music,21,26,9,11626025,2018-01-04
@@ -81,7 +81,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 80,spotify:track:4aWmUDTfIPGksMNLV2rQP2,"Luis Fonsi, Daddy Yankee",Despacito,UMLE - Latino,4,115,51,6230684,2018-01-04
 81,spotify:track:5bcTCxgc7xVfSaMV3RuVke,"Calvin Harris, Pharrell Williams, Katy Perry, Big Sean, Funk Wav","Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",Columbia,5,138,29,6205486,2018-01-04
 82,spotify:track:6PGoSes0D9eUDeeAafB2As,"Kendrick Lamar, Zacari",LOVE. FEAT. ZACARI.,Aftermath,14,112,38,6190848,2018-01-04
-83,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,9,135,33,6174585,2018-01-04
+83,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,9,135,33,6174585,2018-01-04
 84,spotify:track:1xznGGDReH1oQq0xzbwXa3,"Drake, Wizkid, Kyla",One Dance,Cash Money Records/Young Money Ent./Universal Rec.,12,192,54,6137340,2018-01-04
 85,spotify:track:7m9OqQk4RVRkw9JJdeAw96,XXXTENTACION,Jocelyn Flores,Bad Vibes Forever / EMPIRE,15,91,19,6137178,2018-01-04
 86,spotify:track:0JcNysfWVWaMS7R6vzGB2k,"Carlos Vives, Sebastian Yatra",Robarte un Beso,Sony Music Latin,61,102,22,6052497,2018-01-04
@@ -109,7 +109,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 108,spotify:track:5troof8mcGO3AafoDbk1gc,Taylor Swift,Look What You Made Me Do,"Big Machine Records, LLC",1,132,19,5360192,2018-01-04
 109,spotify:track:0ERbK7qVqveCaBWIiYCrl3,"Romeo Santos, Daddy Yankee, Nicky Jam",Bella y Sensual,Sony Music Latin,106,133,23,5337616,2018-01-04
 110,spotify:track:1XRgIKC5TPwo7nWGyKqgG0,"Gucci Mane, Migos",I Get the Bag (feat. Migos),Guwop Enterprises/Atlantic,45,140,20,5237620,2018-01-04
-111,spotify:track:0tPQPaOKM32WgMSbPCYyRH,"David Guetta, AFROJACK, Charli XCX, French Montana",Dirty Sexy Money (feat. Charli XCX & French Montana),Parlophone (France),100,164,9,5155306,2018-01-04
+111,spotify:track:0tPQPaOKM32WgMSbPCYyRH,"David Guetta, Afrojack, Charli XCX, French Montana",Dirty Sexy Money (feat. Charli XCX & French Montana),Parlophone (France),100,164,9,5155306,2018-01-04
 112,spotify:track:0VgkVdmE4gld66l8iyGjgx,Future,Mask Off,Epic/Freebandz/A1,5,151,46,5133585,2018-01-04
 113,spotify:track:4R55IUi2x7S5ek2SpebOiE,Wolfine,Bella,LOMIORECORDS,113,174,2,5130171,2018-01-04
 114,spotify:track:0I20rLT2MJDhcF96AjbNYo,"Zedd, Alessia Cara",Stay,UMGRI Interscope,7,182,45,5107347,2018-01-04
@@ -129,7 +129,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 128,spotify:track:0yyZN5ASdrYu0XYWFzfxUu,"Jesse & Joy, Gente De Zona",3 A.M.,WM Mexico,112,165,16,4634747,2018-01-04
 129,spotify:track:1Qg9jWGDkKAGZXj5v2OG59,Maroon 5,Wait,Interscope Records*,74,172,9,4628567,2018-01-04
 130,spotify:track:2xGjteMU3E1tkEPVFBO08U,"Keala Settle, The Greatest Showman Ensemble",This Is Me,Atlantic Records,130,-1,1,4598787,2018-01-04
-131,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcángel",Ahora Dice,UMLE - Latino,46,168,39,4580081,2018-01-04
+131,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcangel",Ahora Dice,UMLE - Latino,46,168,39,4580081,2018-01-04
 132,spotify:track:1Slwb6dOYkBlWal1PGtnNg,Ed Sheeran,Thinking out Loud,Atlantic Records UK,58,175,54,4551127,2018-01-04
 133,spotify:track:5knuzwU65gJK7IF5yJsuaW,"Clean Bandit, Sean Paul, Anne-Marie",Rockabye (feat. Sean Paul & Anne-Marie),Atlantic Records UK,3,-1,52,4532232,2018-01-04
 134,spotify:track:790MhTXPFrYkrqCKvpg4t1,"NAV, Lil Uzi Vert",Wanted You (feat. Lil Uzi Vert),XO Records,99,146,8,4515164,2018-01-04

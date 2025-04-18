@@ -22,7 +22,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 21,spotify:track:3nc420PXjTdBV5TN0gCFkS,"Martin Garrix, Khalid",Ocean (feat. Khalid),Epic Amsterdam,15,15,6,15506395,2018-07-26
 22,spotify:track:3CA9pLiwRIGtUBiMjbZmRw,Drake,Nice For What,Cash Money/Drake LP6,1,19,16,15397619,2018-07-26
 23,spotify:track:4hQ6UGyWQIGJmHSo0J88JW,Selena Gomez,Back To You - From 13 Reasons Why – Season 2 Soundtrack,UMGRI Interscope,4,21,11,14908267,2018-07-26
-24,spotify:track:2ijef6ni2amuunRoKTlgww,"Becky G, NATTI NATASHA",Sin Pijama,Sony Music Latin,24,24,13,14701169,2018-07-26
+24,spotify:track:2ijef6ni2amuunRoKTlgww,"Becky G, Natti Natasha",Sin Pijama,Sony Music Latin,24,24,13,14701169,2018-07-26
 25,spotify:track:43V1z6QToNNWNldV4FEG6r,"Loud Luxury, Brando",Body,Armada Music,25,32,8,14338200,2018-07-26
 26,spotify:track:5SxkdsY1ufZzoq9iXceLw9,Ariana Grande,no tears left to cry,Republic Records,2,23,14,13938351,2018-07-26
 27,spotify:track:6SFStUDQZNaGPKWOx9ZiJB,Anne-Marie,2002,Atlantic Records UK,27,30,14,13698716,2018-07-26
@@ -51,7 +51,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 50,spotify:track:7qiZfU4dY1lWllzX7mPBI3,Ed Sheeran,Shape of You,Atlantic Records UK,1,51,81,9116950,2018-07-26
 51,spotify:track:7DrluKkTviBwCc8AV3VGmf,"Shakira, Maluma",Clandestino,Sony Music Latin,51,62,7,8967057,2018-07-26
 52,spotify:track:0E6PsO3ymCfUh7pJQjBgkj,The Carters,APESHIT,Parkwood Entertainment/Roc Nation,37,37,5,8927478,2018-07-26
-53,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),Bloc Nation,6,50,24,8491785,2018-07-26
+53,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),OVO Sound/Warner Records,6,50,24,8491785,2018-07-26
 54,spotify:track:7AQim7LbvFVZJE3O8TYgf2,"XXXTENTACION, Trippie Redd",Fuck Love (feat. Trippie Redd),Bad Vibes Forever / EMPIRE,19,54,45,8453694,2018-07-26
 55,spotify:track:4QtiVmuA88tPQiCOHZuQ5b,"Sofía Reyes, Jason Derulo, De La Ghetto","1, 2, 3 (feat. Jason Derulo & De La Ghetto)",WEA Latina,31,55,23,8395145,2018-07-26
 56,spotify:track:4zIO3ilp5HvTeK3HJHxhMP,Imagine Dragons,Natural,Kid Ina Korner / Interscope,56,-1,1,8361108,2018-07-26
@@ -66,7 +66,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 65,spotify:track:5CLGzJsGqhCEECcpnFQA8x,"Rudimental, Jess Glynne, Macklemore, Dan Caplen","These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",Atlantic Records UK,9,68,27,7265839,2018-07-26
 66,spotify:track:2ekn2ttSfGqwhhate0LSR0,Dua Lipa,New Rules,Warner Records,2,65,55,7201310,2018-07-26
 67,spotify:track:45Egmo7icyopuzJN0oMEdk,"Khalid, Normani",Love Lies (with Normani),RCA Records Label,11,71,23,7166405,2018-07-26
-68,spotify:track:6U2NuJILEOEpW2tVCuqKHb,"Daddy Yankee, NATTI NATASHA, Becky G, Bad Bunny",Dura - Remix,El Cartel Records (EC3),52,64,13,7095153,2018-07-26
+68,spotify:track:6U2NuJILEOEpW2tVCuqKHb,"Daddy Yankee, Natti Natasha, Becky G, Bad Bunny",Dura - Remix,El Cartel Records (EC3),52,64,13,7095153,2018-07-26
 69,spotify:track:6752EZMgXswvRBH3N2PilO,Ozuna,Unica,VP Records Corp/Dimelo Vi,63,63,9,7037795,2018-07-26
 70,spotify:track:3GVkPk8mqxz0itaAriG1L7,XXXTENTACION,Everybody Dies In Their Nightmares,Bad Vibes Forever / EMPIRE,24,74,32,7005640,2018-07-26
 71,spotify:track:0pqnGHJpmpxLKifKRmU6WP,Imagine Dragons,Believer,Kid Ina Korner / Interscope,16,77,77,6991212,2018-07-26
@@ -103,7 +103,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 102,spotify:track:10Igtw8bSDyyFs7KIsKngZ,"Lil Dicky, Chris Brown",Freaky Friday (feat. Chris Brown),Commission/BMG,7,100,19,5630540,2018-07-26
 103,spotify:track:0SaYeGhSXN0dDWstyNTQ56,"Wolfine, Maluma",Bella - Remix,LOMIORECORDS,81,102,12,5609963,2018-07-26
 104,spotify:track:7boPPE857KEqCIHNwFkDop,"Sia, Diplo, Labrinth, LSD","Audio (feat. Sia, Diplo, and Labrinth)",Records/Columbia,76,99,11,5605452,2018-07-26
-105,spotify:track:0Y4hwUppbGc8aIBmiTz30A,"Liam Payne, J Balvin",Familiar,Capitol Records UK / EMI,57,118,14,5555807,2018-07-26
+105,spotify:track:0Y4hwUppbGc8aIBmiTz30A,"Liam Payne, J Balvin",Familiar,Capitol,57,118,14,5555807,2018-07-26
 106,spotify:track:3GCdLUSnKSMJhs4Tj6CV3s,"Kendrick Lamar, SZA",All The Stars (with SZA),Black Panther (TDE/DMG) PS,2,109,29,5524859,2018-07-26
 107,spotify:track:1gm616Plq4ScqNi7TVkZ5N,The Weeknd,Call Out My Name,Universal Republic Records,1,106,17,5494419,2018-07-26
 108,spotify:track:2RttW7RAu5nOAfq6YFvApB,Ed Sheeran,Happier,Atlantic Records UK,10,113,63,5403796,2018-07-26
@@ -136,7 +136,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 135,spotify:track:4DnHUy01jEA4b5ydC3HgsT,"Nicky Jam, Will Smith, Era Istrefi",Live It Up - Official Song 2018 FIFA World Cup Russia,Sony Music Latin,79,103,8,4773237,2018-07-26
 136,spotify:track:3EPXxR3ImUwfayaurPi3cm,Dean Lewis,Be Alright,Universal Music Australia Pty. Ltd.,136,-1,1,4764492,2018-07-26
 137,spotify:track:4dSoDnmR9opAQ8KxUc9SbC,"Sean Paul, David Guetta, Becky G",Mad Love,Universal-Island Records Ltd.,38,141,21,4747032,2018-07-26
-138,spotify:track:00EPIEnX1JFjff8sC6bccd,"Thalia, NATTI NATASHA",No Me Acuerdo,Sony Music Latin,138,-1,1,4720155,2018-07-26
+138,spotify:track:00EPIEnX1JFjff8sC6bccd,"Thalia, Natti Natasha",No Me Acuerdo,Sony Music Latin,138,-1,1,4720155,2018-07-26
 139,spotify:track:1RagpNpkD3KcjXMLGMe99V,"Wiz Khalifa, Lil Skies",Fr Fr (feat. Lil Skies),Taylor Gang/Atlantic,130,130,2,4704476,2018-07-26
 140,spotify:track:2374M0fQpWi3dLnB54qaLX,TOTO,Africa,Columbia,140,157,19,4656492,2018-07-26
 141,spotify:track:5uCax9HTNlzGybIStD3vDh,James Arthur,Say You Won't Let Go,Columbia,7,150,83,4626561,2018-07-26
@@ -180,7 +180,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 179,spotify:track:4gB61mP4tNChn4LgfquMhi,LANY,Thru These Tears,Polydor Records,179,-1,1,3997439,2018-07-26
 180,spotify:track:2CvOqDpQIMw69cCzWqr5yr,Beyoncé,Halo,Music World Music/Columbia,149,167,11,3984465,2018-07-26
 181,spotify:track:447yWcDPg1ddgcHBLGpJC0,"Louis The Child, Wafia",Better Not (with Wafia),Louis The Child / Interscope,119,139,7,3984114,2018-07-26
-182,spotify:track:6Za3190Sbw39BBC77WSS1C,"NATTI NATASHA, Ozuna",Criminal,Pina Records,21,183,45,3983811,2018-07-26
+182,spotify:track:6Za3190Sbw39BBC77WSS1C,"Natti Natasha, Ozuna",Criminal,Pina Records,21,183,45,3983811,2018-07-26
 183,spotify:track:3Du2K5dLzmduCNp6uwuaL0,Demi Lovato,Sorry Not Sorry,Island Records,7,185,54,3981935,2018-07-26
 184,spotify:track:6ZIuit0z4eQg77F1RGkp0L,Twenty One Pilots,Nico and the Niners,Fueled By Ramen,79,79,2,3947264,2018-07-26
 185,spotify:track:52okn5MNA47tk87PeZJLEL,NF,Let You Down,NF Real Music,9,190,42,3944083,2018-07-26
@@ -188,7 +188,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 187,spotify:track:6lOWoTqVnAWXchddtTH31W,Tom Walker,Leave a Light On,Relentless Records,169,199,14,3927031,2018-07-26
 188,spotify:track:44KKhCyI0BGS6LvVyDqJtH,Lil Pump,Esskeetit,Warner Records,51,175,15,3923534,2018-07-26
 189,spotify:track:3uhBIQ7tv8j1FME8cFGEfG,John Legend,All of Me,G.O.O.D. Music/Columbia,147,174,13,3922668,2018-07-26
-190,spotify:track:7nD2JPaxIKUdxd2UWgnaGL,"Alex Rose, Cazzu, Rauw Alejandro, Lenny Tavárez",Toda - Remix,"2018 Oidos Fresh, distributed by GLAD Empire",190,-1,1,3920103,2018-07-26
+190,spotify:track:7nD2JPaxIKUdxd2UWgnaGL,"Alex Rose, Rauw Alejandro, Lenny Tavárez, Cazzu, Lyanno",Toda - Remix,WK Records LLC,190,-1,1,3920103,2018-07-26
 191,spotify:track:2xGjteMU3E1tkEPVFBO08U,"Keala Settle, The Greatest Showman Ensemble",This Is Me,Atlantic Records,30,-1,28,3905812,2018-07-26
 192,spotify:track:7COfe3P7KgfwDwIRB8LIDw,"J Balvin, Willy William",Mi Gente,UMLE - Latino,1,187,56,3899005,2018-07-26
 193,spotify:track:3fpVWegR6YOS1Yk5HSMYIq,Post Malone,Paranoid,Republic Records,4,181,13,3869515,2018-07-26

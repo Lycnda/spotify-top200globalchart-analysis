@@ -34,10 +34,10 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 33,spotify:track:0e7ipj03S05BNilyu5bRzt,"Post Malone, 21 Savage",rockstar (feat. 21 Savage),Republic Records,1,22,40,12895167,2018-06-21
 34,spotify:track:6SFStUDQZNaGPKWOx9ZiJB,Anne-Marie,2002,Atlantic Records UK,27,27,9,12044001,2018-06-21
 35,spotify:track:7ycWLEP1GsNjVvcjawXz3z,"A$AP Rocky, Skepta",Praise The Lord (Da Shine) (feat. Skepta),A$AP Worldwide/Polo Grounds Music/RCA Records,25,25,4,12035436,2018-06-21
-36,spotify:track:2ijef6ni2amuunRoKTlgww,"Becky G, NATTI NATASHA",Sin Pijama,Sony Music Latin,34,34,8,11993306,2018-06-21
+36,spotify:track:2ijef6ni2amuunRoKTlgww,"Becky G, Natti Natasha",Sin Pijama,Sony Music Latin,34,34,8,11993306,2018-06-21
 37,spotify:track:2ARqIya5NAuvFVHSN3bL0m,"Zedd, Maren Morris, Grey",The Middle,UMGRI Interscope,6,29,21,11360627,2018-06-21
 38,spotify:track:0kHyKhJMukHEPfeh8s7rdM,"Kygo, Imagine Dragons",Born To Be Yours,Kygo,38,-1,1,11331670,2018-06-21
-39,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),Bloc Nation,6,33,19,11312804,2018-06-21
+39,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),OVO Sound/Warner Records,6,33,19,11312804,2018-06-21
 40,spotify:track:0b9oOr2ZgvyQu88wzixux9,Childish Gambino,This Is America,Wolf+Rothstein/RCA Records,1,17,7,11279954,2018-06-21
 41,spotify:track:45Egmo7icyopuzJN0oMEdk,"Khalid, Normani",Love Lies (with Normani),RCA Records Label,11,26,18,10878922,2018-06-21
 42,spotify:track:6jA8JUuPCGYjFcgw0AoM5T,"Reik, Ozuna, Wisin",Me Niego (feat. Ozuna & Wisin),Columbia,22,41,18,10362401,2018-06-21
@@ -54,7 +54,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 53,spotify:track:4QtiVmuA88tPQiCOHZuQ5b,"Sofía Reyes, Jason Derulo, De La Ghetto","1, 2, 3 (feat. Jason Derulo & De La Ghetto)",WEA Latina,31,49,18,8772366,2018-06-21
 54,spotify:track:7iDa6hUg2VgEL1o1HjmfBn,"Bebe Rexha, Florida Georgia Line",Meant to Be (feat. Florida Georgia Line),Warner Records,18,48,40,8602299,2018-06-21
 55,spotify:track:10Igtw8bSDyyFs7KIsKngZ,"Lil Dicky, Chris Brown",Freaky Friday (feat. Chris Brown),Commission/BMG,7,45,14,8593378,2018-06-21
-56,spotify:track:6U2NuJILEOEpW2tVCuqKHb,"Daddy Yankee, NATTI NATASHA, Becky G, Bad Bunny",Dura - Remix,El Cartel Records (EC3),52,54,8,8568825,2018-06-21
+56,spotify:track:6U2NuJILEOEpW2tVCuqKHb,"Daddy Yankee, Natti Natasha, Becky G, Bad Bunny",Dura - Remix,El Cartel Records (EC3),52,54,8,8568825,2018-06-21
 57,spotify:track:3H2JThgdBxezwj1wwafQS8,Juice WRLD,All Girls Are The Same,Juice WRLD Mixtape / ISR P&D,53,53,6,8438826,2018-06-21
 58,spotify:track:7qiZfU4dY1lWllzX7mPBI3,Ed Sheeran,Shape of You,Atlantic Records UK,1,56,76,8418622,2018-06-21
 59,spotify:track:1gm616Plq4ScqNi7TVkZ5N,The Weeknd,Call Out My Name,Universal Republic Records,1,44,12,8381607,2018-06-21
@@ -90,7 +90,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 89,spotify:track:4DnHUy01jEA4b5ydC3HgsT,"Nicky Jam, Will Smith, Era Istrefi",Live It Up - Official Song 2018 FIFA World Cup Russia,Sony Music Latin,89,132,3,6491597,2018-06-21
 90,spotify:track:7boPPE857KEqCIHNwFkDop,"Sia, Diplo, Labrinth, LSD","Audio (feat. Sia, Diplo, and Labrinth)",Records/Columbia,76,76,6,6460419,2018-06-21
 91,spotify:track:2XVilv6s9GETnw9PG4T9Mz,Maluma,El Préstamo,Sony Music Latin,52,80,15,6370679,2018-06-21
-92,spotify:track:0Y4hwUppbGc8aIBmiTz30A,"Liam Payne, J Balvin",Familiar,Capitol Records UK / EMI,57,68,9,6337993,2018-06-21
+92,spotify:track:0Y4hwUppbGc8aIBmiTz30A,"Liam Payne, J Balvin",Familiar,Capitol,57,68,9,6337993,2018-06-21
 93,spotify:track:2alIsNw1mqEShbWyO1HXZZ,"Sebastian Yatra, Luis Figueroa, Lary Over",Por Perro,UMLE - Latino,86,90,7,6272508,2018-06-21
 94,spotify:track:0Dq49j3dELbttQVUJbtn0c,Shawn Mendes,Nervous,Island Records,30,82,4,6259820,2018-06-21
 95,spotify:track:6RnkFd8Fqqgk1Uni8RgqCQ,"David Guetta, Martin Garrix, Brooks",Like I Do,Parlophone (France),24,78,17,6258235,2018-06-21
@@ -141,7 +141,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 140,spotify:track:6kp0inxIexxSiDJfWqq0ZL,"6ix9ine, DJ SpinKing",TATI,"Scumgang Records/TenThousand Projects, LLC",82,114,4,4544496,2018-06-21
 141,spotify:track:1bhUWB0zJMIKr9yVPrkEuI,"Ed Sheeran, Beyoncé",Perfect Duet (Ed Sheeran & Beyoncé),Atlantic Records UK,3,164,29,4537251,2018-06-21
 142,spotify:track:4P92FrvmYQSAfOpp4cpFEi,Florida Georgia Line,Simple,BMLG Records,142,-1,1,4536140,2018-06-21
-143,spotify:track:6Za3190Sbw39BBC77WSS1C,"NATTI NATASHA, Ozuna",Criminal,Pina Records,21,124,40,4528325,2018-06-21
+143,spotify:track:6Za3190Sbw39BBC77WSS1C,"Natti Natasha, Ozuna",Criminal,Pina Records,21,124,40,4528325,2018-06-21
 144,spotify:track:447yWcDPg1ddgcHBLGpJC0,"Louis The Child, Wafia",Better Not (with Wafia),Louis The Child / Interscope,144,195,2,4526928,2018-06-21
 145,spotify:track:0GxQ1A5L9xnMOytbP6eKBG,"Maroon 5, SZA",What Lovers Do (feat. SZA),Interscope Records*,5,139,42,4490788,2018-06-21
 146,spotify:track:2OvV4NjEBRE9v8Oo7QeUCq,"Julia Michaels, Trippie Redd",Jump (with Trippie Redd),J/Republic,146,197,2,4485586,2018-06-21

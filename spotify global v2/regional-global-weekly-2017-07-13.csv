@@ -9,7 +9,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 8,spotify:track:4iLqG9SeJSnt0cSPICSjxv,Charlie Puth,Attention,Artist Partner,5,7,12,21734553,2017-07-13
 9,spotify:track:2rb5MvYT7ZIxbKW5hfcHx8,"J Balvin, Willy William",Mi Gente,UMLE - Latino,9,32,2,20428482,2017-07-13
 10,spotify:track:0tKcYR2II1VCQWT79i5NrW,Imagine Dragons,Thunder,Kid Ina Korner / Interscope,8,9,11,19889917,2017-07-13
-11,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,9,10,8,19844421,2017-07-13
+11,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,9,10,8,19844421,2017-07-13
 12,spotify:track:0NiXXAI876aGImAd6rTj8w,"Jonas Blue, William Singe",Mama,UMOD (Universal Music On Demand),11,11,10,18850888,2017-07-13
 13,spotify:track:79cuOz3SPQTuFrp8WgftAu,Shawn Mendes,There's Nothing Holdin' Me Back,Island Records,5,12,12,18307721,2017-07-13
 14,spotify:track:2eMwDehkIC1j68U6FA3Eiq,Lil Uzi Vert,XO Tour Llif3,Generation Now/Atlantic,10,13,16,17811632,2017-07-13
@@ -44,7 +44,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 43,spotify:track:152lZdxL1OR0ZMW6KquMif,Khalid,Location,"Right Hand Music Group, LLC/RCA Records",34,45,23,10311676,2017-07-13
 44,spotify:track:0lMbuWUpfTWhEmOKxppEau,"Calvin Harris, Future, Khalid, Funk Wav",Rollin (feat. Future & Khalid),Columbia,38,38,9,10221341,2017-07-13
 45,spotify:track:2habSXqcJGExM6JJyskY7O,Miley Cyrus,Malibu,RCA Records Label,7,41,9,9731155,2017-07-13
-46,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcángel",Ahora Dice,UMLE - Latino,46,52,14,9476847,2017-07-13
+46,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcangel",Ahora Dice,UMLE - Latino,46,52,14,9476847,2017-07-13
 47,spotify:track:6HZILIRieu8S0iqY8kIKhj,Kendrick Lamar,DNA.,Aftermath,3,49,13,9063795,2017-07-13
 48,spotify:track:2Gl0FzuLxflY6nPifJp5Dr,"Kygo, Ellie Goulding",First Time,Kygo,19,43,11,9024687,2017-07-13
 49,spotify:track:79NlESqzFSW0hdBWgls4FX,Kesha,Praying,Kemosabe Records/RCA Records,49,-1,1,8961260,2017-07-13

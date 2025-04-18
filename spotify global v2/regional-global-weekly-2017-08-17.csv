@@ -9,7 +9,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 8,spotify:track:7qiZfU4dY1lWllzX7mPBI3,Ed Sheeran,Shape of You,Atlantic Records UK,1,9,32,19118483,2017-08-17
 9,spotify:track:3DXncPQOG4VBw3QHh3S817,"DJ Khaled, Justin Bieber, Quavo, Chance the Rapper, Lil Wayne","I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",Epic/We The Best,2,7,16,19036609,2017-08-17
 10,spotify:track:2ekn2ttSfGqwhhate0LSR0,Dua Lipa,New Rules,Warner Records,10,14,6,18571663,2017-08-17
-11,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,9,10,13,18237062,2017-08-17
+11,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,9,10,13,18237062,2017-08-17
 12,spotify:track:0tKcYR2II1VCQWT79i5NrW,Imagine Dragons,Thunder,Kid Ina Korner / Interscope,8,11,16,17532061,2017-08-17
 13,spotify:track:0NiXXAI876aGImAd6rTj8w,"Jonas Blue, William Singe",Mama,UMOD (Universal Music On Demand),11,12,15,16972992,2017-08-17
 14,spotify:track:25C5CowdsfXld2jJanbiex,Demi Lovato,Sorry Not Sorry,Island Records,13,13,6,16757887,2017-08-17
@@ -55,7 +55,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 54,spotify:track:1sCxVKWImDZSZKvG0U9B23,Selena Gomez,Bad Liar,Selena Gomez PS,6,41,14,7964423,2017-08-17
 55,spotify:track:7aF09WaavZAmAWuUeYxlYD,"OneRepublic, Seeb",Rich Love (with Seeb),Mosley / Interscope,54,54,5,7946663,2017-08-17
 56,spotify:track:5EnYT6F7wEcdege6mDHEfO,Drake,Signs,Cash Money Records/Young Money Ent./Universal Rec.,19,48,8,7816487,2017-08-17
-57,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcángel",Ahora Dice,UMLE - Latino,46,52,19,7723099,2017-08-17
+57,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcangel",Ahora Dice,UMLE - Latino,46,52,19,7723099,2017-08-17
 58,spotify:track:3rOSwuTsUlJp0Pu0MkN8r8,Future,Mask Off,Epic/Freebandz/A1,5,51,26,7577530,2017-08-17
 59,spotify:track:7nKBxz47S9SD79N086fuhn,"Enrique Iglesias, Descemer Bueno, Zion & Lennox",SUBEME LA RADIO (feat. Descemer Bueno & Zion & Lennox),RCA Records/Sony Music International/Sony Music Latin,31,50,25,7525711,2017-08-17
 60,spotify:track:3eR23VReFzcdmS7TYCrhCe,"Kygo, Selena Gomez",It Ain't Me (with Selena Gomez),Kygo,2,53,26,7352062,2017-08-17

@@ -7,7 +7,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 6,spotify:track:1F2HXIJrE2Xn81OzT2zZvW,"French Montana, Swae Lee",Unforgettable,Bad Boy Entertainment/Epic Records,6,6,12,23000310,2017-06-29
 7,spotify:track:4iLqG9SeJSnt0cSPICSjxv,Charlie Puth,Attention,Artist Partner,5,7,10,21328515,2017-06-29
 8,spotify:track:0tKcYR2II1VCQWT79i5NrW,Imagine Dragons,Thunder,Kid Ina Korner / Interscope,8,16,9,21104495,2017-06-29
-9,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,9,9,6,19868893,2017-06-29
+9,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,9,9,6,19868893,2017-06-29
 10,spotify:track:79cuOz3SPQTuFrp8WgftAu,Shawn Mendes,There's Nothing Holdin' Me Back,Island Records,5,11,10,18975962,2017-06-29
 11,spotify:track:7KXjTSCq5nL1LoYtL7XAwS,Kendrick Lamar,HUMBLE.,Aftermath,1,8,13,18597785,2017-06-29
 12,spotify:track:4aWmUDTfIPGksMNLV2rQP2,"Luis Fonsi, Daddy Yankee",Despacito,UMLE - Latino,4,12,24,18258492,2017-06-29
@@ -51,7 +51,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 50,spotify:track:2kVHAQKVtczchKctctzbtK,"Katy Perry, Nicki Minaj",Swish Swish,Capitol Records (CAP),41,46,6,9089524,2017-06-29
 51,spotify:track:4IWAyPf1KMq7JCyGeCjTeH,Imagine Dragons,Whatever It Takes,Kid Ina Korner / Interscope,51,120,7,8676008,2017-06-29
 52,spotify:track:1sXUWdKx03aP9Gmzft58rt,Julia Michaels,Issues,J/Republic,9,48,24,8494302,2017-06-29
-53,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcángel",Ahora Dice,UMLE - Latino,48,51,12,8030140,2017-06-29
+53,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcangel",Ahora Dice,UMLE - Latino,48,51,12,8030140,2017-06-29
 54,spotify:track:209gZgcfLq2aUuu51vOWBl,"CNCO, Yandel",Hey DJ,Sony Music Latin,54,58,10,7636385,2017-06-29
 55,spotify:track:3bWAqKDWg6u1davspr5IkS,"Robin Schulz, James Blunt",OK,WM Germany,55,56,6,7483976,2017-06-29
 56,spotify:track:2mfUa8bLs2s5N4VaqJZ4lZ,Hailee Steinfeld,Most Girls,Universal Records,54,54,9,7447165,2017-06-29

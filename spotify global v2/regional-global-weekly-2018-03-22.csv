@@ -4,7 +4,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 3,spotify:track:3ee8Jmje8o58CHK66QrVC2,XXXTENTACION,SAD!,"Bad Vibes Forever, LLC",3,10,3,30504985,2018-03-22
 4,spotify:track:08bNPGLD8AhKpnnERrAc6G,"Marshmello, Anne-Marie",FRIENDS,Atlantic Records UK,4,4,6,25163028,2018-03-22
 5,spotify:track:3GCdLUSnKSMJhs4Tj6CV3s,"Kendrick Lamar, SZA",All The Stars (with SZA),Black Panther (TDE/DMG) PS,2,3,11,23084758,2018-03-22
-6,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),Bloc Nation,6,7,6,22486856,2018-03-22
+6,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),OVO Sound/Warner Records,6,7,6,22486856,2018-03-22
 7,spotify:track:76cy1WJvNGJTj78UqeA5zr,Dua Lipa,IDGAF,Warner Records,4,5,12,22298666,2018-03-22
 8,spotify:track:2ARqIya5NAuvFVHSN3bL0m,"Zedd, Maren Morris, Grey",The Middle,UMGRI Interscope,6,6,8,21344284,2018-03-22
 9,spotify:track:39N9RPD9MRb5WmoLzNzPeA,"Nicky Jam, J Balvin",X,Sony Music Latin,9,17,3,21338460,2018-03-22
@@ -41,7 +41,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 40,spotify:track:7qiZfU4dY1lWllzX7mPBI3,Ed Sheeran,Shape of You,Atlantic Records UK,1,33,63,10612132,2018-03-22
 41,spotify:track:4UKCKdYiLN6IMA5ZESUTL7,XXXTENTACION,the remedy for a broken heart (why am I so in love),"Bad Vibes Forever, LLC",41,-1,1,10570630,2018-03-22
 42,spotify:track:33bnxcjePIkcmNjEFTJX0l,"Piso 21, Manuel Turizo",Déjala Que Vuelva (feat. Manuel Turizo),WM Mexico,33,41,20,10232300,2018-03-22
-43,spotify:track:5hM6sP0Gh1jD57drszNueC,"Liam Payne, Rita Ora",For You (With Rita Ora),Capitol Records UK / EMI,27,31,11,10207950,2018-03-22
+43,spotify:track:5hM6sP0Gh1jD57drszNueC,"Liam Payne, Rita Ora",For You (With Rita Ora),Capitol,27,31,11,10207950,2018-03-22
 44,spotify:track:4QfNOZN7vrQCQKK1ZJ3XPb,Julia Michaels,Heaven,UME - Global Clearing House,34,34,6,9722958,2018-03-22
 45,spotify:track:6mrKP2jyIQmM0rw6fQryjr,NF,Let You Down,NF Real Music,9,38,24,9628758,2018-03-22
 46,spotify:track:3towKHKVOXCCcL1fHv6xFO,"Hailee Steinfeld, BloodPop®",Capital Letters,Republic/Universal/FSF,34,39,9,9311570,2018-03-22
@@ -56,7 +56,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 55,spotify:track:7CkbRn6S0itJqcqn88AtSV,XXXTENTACION,going down!,"Bad Vibes Forever, LLC",55,-1,1,8440971,2018-03-22
 56,spotify:track:3pIigjAWkzwAonXpJ1fmSF,The Chainsmokers,Everybody Hates Me,Disruptor Records/Columbia,56,-1,1,8406890,2018-03-22
 57,spotify:track:6xTU6B6nFwKKTSZ9ySXS80,"Kygo, Miguel",Remind Me to Forget,Kygo,57,-1,1,8367090,2018-03-22
-58,spotify:track:6Za3190Sbw39BBC77WSS1C,"NATTI NATASHA, Ozuna",Criminal,Pina Records,21,48,27,8338341,2018-03-22
+58,spotify:track:6Za3190Sbw39BBC77WSS1C,"Natti Natasha, Ozuna",Criminal,Pina Records,21,48,27,8338341,2018-03-22
 59,spotify:track:5k38wzpLb15YgncyWdTZE4,"G-Eazy, Halsey",Him & I (with Halsey),BPG/RVG/RCA Records,7,42,16,8264890,2018-03-22
 60,spotify:track:26gceVsA1ybT8qsX3aYLEn,Imagine Dragons,Thunder,Kid Ina Korner / Interscope,8,53,47,8041425,2018-03-22
 61,spotify:track:7J2gyNghNTzl4EsLhXp01Q,"XXXTENTACION, Joey Bada$$",infinity (888) - feat. Joey Bada$$,"Bad Vibes Forever, LLC",61,-1,1,8039353,2018-03-22
@@ -163,7 +163,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 162,spotify:track:0KKkJNfGyhkQ5aFogxQAPU,Bruno Mars,That's What I Like,Atlantic Records,6,153,65,4375534,2018-03-22
 163,spotify:track:5TmZYdHW6HJ9gt7Aokuql5,"Sebastian Yatra, Dalmata",SUTRA,UMLE - Latino,96,141,21,4365911,2018-03-22
 164,spotify:track:0as7lPxkBPctZ7uVmchRNM,"Cashmere Cat, Major Lazer, Tory Lanez",Miss You (with Major Lazer & Tory Lanez),Benny Blanco Major,113,125,9,4344464,2018-03-22
-165,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,9,158,44,4330375,2018-03-22
+165,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,9,158,44,4330375,2018-03-22
 166,spotify:track:7ofxPmTNMj2GP07g1VZa0O,"Alex Sensation, Ozuna",Que Va,JP Entertainment (Jorge Pino),54,149,30,4324950,2018-03-22
 167,spotify:track:7vu0JkJh0ldukEYbTVcqd0,Julia Michaels,Issues,J/Republic,9,166,62,4304945,2018-03-22
 168,spotify:track:1Znlc3UZAbSodFaMBjdpsX,XXXTENTACION,love yourself (interlude),"Bad Vibes Forever, LLC",168,-1,1,4292822,2018-03-22

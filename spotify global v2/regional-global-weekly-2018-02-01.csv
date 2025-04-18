@@ -36,7 +36,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 35,spotify:track:4R55IUi2x7S5ek2SpebOiE,Wolfine,Bella,LOMIORECORDS,35,47,6,10972830,2018-02-01
 36,spotify:track:4wFjTWCunQFKtukqrNijEt,"Migos, Nicki Minaj, Cardi B",MotorSport,"Quality Control Music, LLC",34,69,14,10910672,2018-02-01
 37,spotify:track:33bnxcjePIkcmNjEFTJX0l,"Piso 21, Manuel Turizo",Déjala Que Vuelva (feat. Manuel Turizo),WM Mexico,33,33,13,10851195,2018-02-01
-38,spotify:track:6Za3190Sbw39BBC77WSS1C,"NATTI NATASHA, Ozuna",Criminal,Pina Records,21,34,20,10615720,2018-02-01
+38,spotify:track:6Za3190Sbw39BBC77WSS1C,"Natti Natasha, Ozuna",Criminal,Pina Records,21,34,20,10615720,2018-02-01
 39,spotify:track:0tKcYR2II1VCQWT79i5NrW,Imagine Dragons,Thunder,Kid Ina Korner / Interscope,8,35,40,10531035,2018-02-01
 40,spotify:track:1j4kHkkpqZRBwE0A4CN4Yv,"ZAYN, Sia",Dusk Till Dawn (feat. Sia) - Radio Edit,RCA Records Label,4,32,21,10508138,2018-02-01
 41,spotify:track:7EI6Iki24tBHAMxtb4xQN2,Rita Ora,Anywhere,Atlantic Records UK,39,39,15,10477243,2018-02-01
@@ -72,7 +72,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 71,spotify:track:6De0lHrwBfPfrhorm9q1Xl,Danny Ocean,Me Rehúso,Atlantic Records,20,62,50,7294950,2018-02-01
 72,spotify:track:2fQrGHiQOvpL9UgPvtYy6G,21 Savage,Bank Account,"Slaughter Gang, LLC/Epic Records",22,59,30,7229404,2018-02-01
 73,spotify:track:4iLqG9SeJSnt0cSPICSjxv,Charlie Puth,Attention,Artist Partner,5,65,41,7168018,2018-02-01
-74,spotify:track:5hM6sP0Gh1jD57drszNueC,"Liam Payne, Rita Ora",For You (With Rita Ora),Capitol Records UK / EMI,58,72,4,7157101,2018-02-01
+74,spotify:track:5hM6sP0Gh1jD57drszNueC,"Liam Payne, Rita Ora",For You (With Rita Ora),Capitol,58,72,4,7157101,2018-02-01
 75,spotify:track:7JNh1cfm0eXjqFVOzKLyau,"Becky G, Bad Bunny",Mayores,Kemosabe Records/RCA Records/Sony Music Latin,33,64,27,7126381,2018-02-01
 76,spotify:track:0CcQNd8CINkwQfe1RDtGV6,Imagine Dragons,Believer,Kid Ina Korner / Interscope,16,73,52,7097834,2018-02-01
 77,spotify:track:0Zbbxnx4SGGHoIow4PpISP,"Kygo, Justin Jesso",Stargazing,Kygo,15,61,19,7052981,2018-02-01
@@ -117,7 +117,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 116,spotify:track:79cuOz3SPQTuFrp8WgftAu,Shawn Mendes,There's Nothing Holdin' Me Back,Island Records,5,105,41,5508608,2018-02-01
 117,spotify:track:3whrwq4DtvucphBPUogRuJ,"Camila Cabello, Daddy Yankee",Havana - Remix,Syco Music/Epic,50,106,11,5491078,2018-02-01
 118,spotify:track:7rwX0O3RlxqqIjQM8evm5E,"Ozuna, Mambo Kingz, DJ Luian, Bad Bunny, Wisin, Almighty",Solita,Hear This Music,118,-1,1,5476103,2018-02-01
-119,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,9,113,37,5432811,2018-02-01
+119,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,9,113,37,5432811,2018-02-01
 120,spotify:track:0JcNysfWVWaMS7R6vzGB2k,"Carlos Vives, Sebastian Yatra",Robarte un Beso,Sony Music Latin,61,108,26,5412278,2018-02-01
 121,spotify:track:7nZmah2llfvLDiUjm0kiyz,"Justin Bieber, BloodPop®",Friends (with BloodPop®),BloodPop/DJ/RMBG/Republic,2,103,24,5385889,2018-02-01
 122,spotify:track:0G9rmRmQDFk9O2tzZLyRkc,Migos,Emoji A Chain,"Quality Control Music, LLC",122,-1,1,5354839,2018-02-01
@@ -195,7 +195,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 194,spotify:track:3ebXMykcMXOcLeJ9xZ17XH,"Martin Garrix, Dua Lipa",Scared to Be Lonely,Epic Amsterdam,5,182,51,3962702,2018-02-01
 195,spotify:track:2eAZfqOm4EnOF9VvN50Tyc,"Lil Uzi Vert, Oh Wonder",The Way Life Goes (feat. Oh Wonder),Generation Now/Atlantic,44,184,22,3888993,2018-02-01
 196,spotify:track:6PCUP3dWmTjcTtXY02oFdT,Ed Sheeran,Castle on the Hill,Atlantic Records UK,2,181,56,3883863,2018-02-01
-197,spotify:track:0tPQPaOKM32WgMSbPCYyRH,"David Guetta, AFROJACK, Charli XCX, French Montana",Dirty Sexy Money (feat. Charli XCX & French Montana),Parlophone (France),100,180,13,3860221,2018-02-01
+197,spotify:track:0tPQPaOKM32WgMSbPCYyRH,"David Guetta, Afrojack, Charli XCX, French Montana",Dirty Sexy Money (feat. Charli XCX & French Montana),Parlophone (France),100,180,13,3860221,2018-02-01
 198,spotify:track:1LszjjoVwDDZcWUQbzeDLG,"Yandel, Bad Bunny",Explícale (feat. Bad Bunny),Sony Music Latin,101,176,22,3851225,2018-02-01
 199,spotify:track:7w9bgPAmPTtrkt2v16QWvQ,Eminem,"Lose Yourself - From ""8 Mile"" Soundtrack",Aftermath,143,198,45,3844823,2018-02-01
 200,spotify:track:2m2ZGfJcs3lHWNPzhWH3XH,"Ozuna, Cardi B",La Modelo,VP Records Corp/Dimelo Vi,159,183,5,3821060,2018-02-01

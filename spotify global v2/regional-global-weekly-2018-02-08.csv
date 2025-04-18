@@ -35,7 +35,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 34,spotify:track:7vGuf3Y35N4wmASOKLUVVU,"Marshmello, Khalid",Silence,Joytime Collective/RCA Records,8,26,26,11454195,2018-02-08
 35,spotify:track:2xGjteMU3E1tkEPVFBO08U,"Keala Settle, The Greatest Showman Ensemble",This Is Me,Atlantic Records,30,31,6,11245598,2018-02-08
 36,spotify:track:33bnxcjePIkcmNjEFTJX0l,"Piso 21, Manuel Turizo",Déjala Que Vuelva (feat. Manuel Turizo),WM Mexico,33,37,14,11240266,2018-02-08
-37,spotify:track:6Za3190Sbw39BBC77WSS1C,"NATTI NATASHA, Ozuna",Criminal,Pina Records,21,38,21,10999680,2018-02-08
+37,spotify:track:6Za3190Sbw39BBC77WSS1C,"Natti Natasha, Ozuna",Criminal,Pina Records,21,38,21,10999680,2018-02-08
 38,spotify:track:0wbnC9AUenxp613TYaJsGK,Migos,Narcos,"Quality Control Music, LLC",24,24,2,10638907,2018-02-08
 39,spotify:track:75FDPwaULRdYDn4StFN2rT,"Cardi B, 21 Savage",Bartier Cardi (feat. 21 Savage),KSR/Atlantic,22,42,7,10235139,2018-02-08
 40,spotify:track:1bhUWB0zJMIKr9yVPrkEuI,"Ed Sheeran, Beyoncé",Perfect Duet (Ed Sheeran & Beyoncé),Atlantic Records UK,3,32,10,10115578,2018-02-08
@@ -63,7 +63,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 62,spotify:track:6NWl2m8asvH83xjuXVNsuG,Lil Xan,Betrayed,Columbia,55,70,14,7628342,2018-02-08
 63,spotify:track:6MNGxu8MprKGkchUchkJsy,"J Balvin, Jeon, Anitta",Machika,UMLE - Latino,63,64,3,7628230,2018-02-08
 64,spotify:track:3ncgNpxLoBQ65ABk4djDyd,"Famous Dex, A$AP Rocky",PICK IT UP (feat. A$AP Rocky),300 Entertainment,60,67,13,7591658,2018-02-08
-65,spotify:track:5hM6sP0Gh1jD57drszNueC,"Liam Payne, Rita Ora",For You (With Rita Ora),Capitol Records UK / EMI,58,74,5,7576756,2018-02-08
+65,spotify:track:5hM6sP0Gh1jD57drszNueC,"Liam Payne, Rita Ora",For You (With Rita Ora),Capitol,58,74,5,7576756,2018-02-08
 66,spotify:track:4zWO4gvuFtw6EJZC5FFGlr,"MC Fioti, Future, J Balvin, Stefflon Don, Juan Magán",Bum Bum Tam Tam,Universal-Island Records Ltd.,66,68,8,7485422,2018-02-08
 67,spotify:track:3B54sVLJ402zGa6Xm4YGNe,"French Montana, Swae Lee",Unforgettable,Bad Boy Entertainment/Epic Records,3,66,44,7203327,2018-02-08
 68,spotify:track:5tz69p7tJuGPeMGwNTxYuV,"Logic, Alessia Cara, Khalid",1-800-273-8255,Def Jam Recordings,5,65,41,7180291,2018-02-08
@@ -120,7 +120,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 119,spotify:track:5CtI0qwDJkDQGwXD1H1cLb,"Luis Fonsi, Daddy Yankee, Justin Bieber",Despacito - Remix,UMLE - Latino,1,108,43,5305376,2018-02-08
 120,spotify:track:1yxgsra98r3qAtxqiGZPiX,Travis Scott,BUTTERFLY EFFECT,Epic/Grand Hustle/Cactus Jack,40,136,38,5279442,2018-02-08
 121,spotify:track:6u0EAxf1OJTLS7CvInuNd7,"Anitta, ZAAC, Maejor, Tropkillaz, DJ Yuri Martins",Vai malandra (feat. Tropkillaz & DJ Yuri Martins),WM Brazil,30,106,8,5274842,2018-02-08
-122,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,9,119,38,5248602,2018-02-08
+122,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,9,119,38,5248602,2018-02-08
 123,spotify:track:0JcNysfWVWaMS7R6vzGB2k,"Carlos Vives, Sebastian Yatra",Robarte un Beso,Sony Music Latin,61,120,27,5246184,2018-02-08
 124,spotify:track:79cuOz3SPQTuFrp8WgftAu,Shawn Mendes,There's Nothing Holdin' Me Back,Island Records,5,116,42,5213326,2018-02-08
 125,spotify:track:0as7lPxkBPctZ7uVmchRNM,"Cashmere Cat, Major Lazer, Tory Lanez",Miss You (with Major Lazer & Tory Lanez),Benny Blanco Major,115,115,3,5143759,2018-02-08
@@ -196,6 +196,6 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 195,spotify:track:1Qg9jWGDkKAGZXj5v2OG59,Maroon 5,Wait,Interscope Records*,74,110,14,3738779,2018-02-08
 196,spotify:track:2eAZfqOm4EnOF9VvN50Tyc,"Lil Uzi Vert, Oh Wonder",The Way Life Goes (feat. Oh Wonder),Generation Now/Atlantic,44,195,23,3687869,2018-02-08
 197,spotify:track:3GVkPk8mqxz0itaAriG1L7,XXXTENTACION,Everybody Dies In Their Nightmares,Bad Vibes Forever / EMPIRE,52,-1,19,3681461,2018-02-08
-198,spotify:track:0tPQPaOKM32WgMSbPCYyRH,"David Guetta, AFROJACK, Charli XCX, French Montana",Dirty Sexy Money (feat. Charli XCX & French Montana),Parlophone (France),100,197,14,3669042,2018-02-08
+198,spotify:track:0tPQPaOKM32WgMSbPCYyRH,"David Guetta, Afrojack, Charli XCX, French Montana",Dirty Sexy Money (feat. Charli XCX & French Montana),Parlophone (France),100,197,14,3669042,2018-02-08
 199,spotify:track:5GXAXm5YOmYT0kL5jHvYBt,"The Weeknd, Daft Punk",I Feel It Coming,Universal Republic Records,9,-1,56,3634305,2018-02-08
 200,spotify:track:5knuzwU65gJK7IF5yJsuaW,"Clean Bandit, Sean Paul, Anne-Marie",Rockabye (feat. Sean Paul & Anne-Marie),Atlantic Records UK,3,-1,56,3626001,2018-02-08

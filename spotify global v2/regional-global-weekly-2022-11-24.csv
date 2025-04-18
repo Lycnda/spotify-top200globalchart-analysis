@@ -1,5 +1,5 @@
 rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,streams,End Date
-1,spotify:track:3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),Capitol Records UK / EMI,1,1,9,41043843,2022-11-24
+1,spotify:track:3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),EMI,1,1,9,41043843,2022-11-24
 2,spotify:track:0V3wPSX9ygBnCm8psDIegu,Taylor Swift,Anti-Hero,Taylor Swift,1,2,5,37394162,2022-11-24
 3,spotify:track:1bDbXMyjaUIooNwFE9wn0N,"Drake, 21 Savage",Rich Flex,OVO / Republic Records,2,3,3,30709125,2022-11-24
 4,spotify:track:5ww2BF9slyYgNOk37BlC4u,Manuel Turizo,La Bachata,Sony Music Latin/La Industria,4,4,21,28388964,2022-11-24
@@ -74,7 +74,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 73,spotify:track:0lizgQ7Qw35od7CYaoMBZb,Ariana Grande,Santa Tell Me,Universal Records,3,-1,32,10280626,2022-11-24
 74,spotify:track:7dSZ6zGTQx66c2GF91xCrb,KAROL G,PROVENZA,UMLE - Latino,6,60,31,10253976,2022-11-24
 75,spotify:track:34ZAzO78a5DAVNrYIGWcPm,SZA,Shirt,Top Dawg Entertainment/RCA Records,25,56,4,10251453,2022-11-24
-76,spotify:track:7iwJOi3hlMqZt6pj1sQOBj,Quevedo,VISTA AL MAR,Quevedo,45,69,11,10178312,2022-11-24
+76,spotify:track:7iwJOi3hlMqZt6pj1sQOBj,Quevedo,Vista Al Mar,Quevedo,45,69,11,10178312,2022-11-24
 77,spotify:track:0heeNYlwOGuUSe7TgUD27B,Taylor Swift,Question...?,Taylor Swift,10,50,5,10148891,2022-11-24
 78,spotify:track:2eAvDnpXP5W0cVtiI0PUxV,Ruth B.,Dandelions,Columbia,34,75,67,10123825,2022-11-24
 79,spotify:track:6WbAhuwE6fCOriBu5786X1,"KAROL G, Ovy On The Drums",CAIRO,UMLE - Latino,79,-1,1,10077323,2022-11-24
@@ -92,7 +92,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 91,spotify:track:1aOl53hkZGHkl2Snhr7opL,Dean Lewis,How Do I Say Goodbye,Universal Music Australia Pty. Ltd.,86,94,8,9032951,2022-11-24
 92,spotify:track:7lQ8MOhq6IN2w8EYcFNSUk,Eminem,Without Me,Aftermath,31,97,61,9007899,2022-11-24
 93,spotify:track:6qyS9qBy0mEk3qYaH8mPss,Kordhell,Murder In My Mind,Kordhell,85,96,15,8984987,2022-11-24
-94,spotify:track:0oBtwScT4B4BR5kZitNWd5,Quevedo,PUNTO G,Quevedo,94,118,3,8843587,2022-11-24
+94,spotify:track:0oBtwScT4B4BR5kZitNWd5,Quevedo,Punto G,Quevedo,94,118,3,8843587,2022-11-24
 95,spotify:track:3WMj8moIAXJhHsyLaqIIHI,Zach Bryan,Something in the Orange,Warner Records,57,87,11,8815158,2022-11-24
 96,spotify:track:0h7QMc9ZRzA9QJrbEHytn2,JIN,The Astronaut,BIGHIT MUSIC,32,108,4,8792976,2022-11-24
 97,spotify:track:1418IuVKQPTYqt7QNJ9RXN,King,Maan Meri Jaan,Warner Music India,97,-1,1,8726663,2022-11-24
@@ -102,7 +102,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 101,spotify:track:0fea68AdmYNygeTGI4RC18,"J Balvin, Bad Bunny",LA CANCIÓN,Universal Music Latino / Rimas,17,92,92,8584081,2022-11-24
 102,spotify:track:7GeTsDIc5ykNB6lORO6Cee,"Drake, 21 Savage",Circo Loco,OVO / Republic Records,11,55,3,8583205,2022-11-24
 103,spotify:track:5QO79kh1waicV47BqGRL3g,The Weeknd,Save Your Tears,Republic Records,2,98,103,8542513,2022-11-24
-104,spotify:track:3tAQNhm1o0kzldsI5QkrB1,Aerosmith,Dream On,Aerosmith P&D - Sony,104,135,3,8540566,2022-11-24
+104,spotify:track:3tAQNhm1o0kzldsI5QkrB1,Aerosmith,Dream On,Columbia,104,135,3,8540566,2022-11-24
 105,spotify:track:3LtpKP5abr2qqjunvjlX5i,Central Cee,Doja,Central Cee,15,89,18,8485196,2022-11-24
 106,spotify:track:3CIyK1V4JEJkg02E4EJnDl,"Imagine Dragons, JID, Arcane, League of Legends",Enemy (with JID) - from the series Arcane League of Legends,Kid Ina Korner / Interscope,3,103,56,8479657,2022-11-24
 107,spotify:track:0A1JLUlkZkp2EFrosoNQi0,Taylor Swift,Labyrinth,Taylor Swift,12,70,5,8423140,2022-11-24
@@ -117,7 +117,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 116,spotify:track:68Dni7IE4VyPkTOH9mRWHr,J. Cole,No Role Modelz,Roc Nation Records LLC,76,124,70,8115769,2022-11-24
 117,spotify:track:6I3mqTwhRpn34SLVafSH7G,Justin Bieber,Ghost,RBMG/Def Jam,11,116,62,8083200,2022-11-24
 118,spotify:track:1IcR6RlgvDczfvoWJSSY2A,Andy Williams,It's the Most Wonderful Time of the Year,Columbia/Legacy,8,-1,30,8059985,2022-11-24
-119,spotify:track:75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God),Fish People,1,102,26,8055496,2022-11-24
+119,spotify:track:75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God),Parlophone UK,1,102,26,8055496,2022-11-24
 120,spotify:track:7qEHsqek33rTcFNT9PFqLf,Lewis Capaldi,Someone You Loved,Vertigo Berlin,4,111,203,8007157,2022-11-24
 121,spotify:track:3yfqSUWxFvZELEM4PmlwIR,Eminem,The Real Slim Shady,Interscope,51,123,77,7988051,2022-11-24
 122,spotify:track:1mea3bSkSGXuIRvnydlB5b,Coldplay,Viva La Vida,Parlophone UK,122,132,13,7984517,2022-11-24
@@ -136,7 +136,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 135,spotify:track:4woTEX1wYOTGDqNXuavlRC,"Eminem, Dina Rae",Superman,Aftermath,135,137,8,7714586,2022-11-24
 136,spotify:track:59nOXPmaKlBfGMDeOVGrIK,"Future, Drake, Tems",WAIT FOR U (feat. Drake & Tems),Epic/Freebandz,10,110,30,7712890,2022-11-24
 137,spotify:track:2J2Z1SkXYghSajLibnQHOa,Sia,Unstoppable,Monkey Puzzle Records/RCA Records,107,136,41,7687894,2022-11-24
-138,spotify:track:2LSsSV7V33wM9EKQA2xjGS,"Foudeqush, Ludwig Göransson",Con La Brisa,Roc Nation/Def Jam/Hollywood,138,-1,1,7661391,2022-11-24
+138,spotify:track:2LSsSV7V33wM9EKQA2xjGS,"Foudeqush, Ludwig Goransson",Con La Brisa,Roc Nation/Def Jam/Hollywood,138,-1,1,7661391,2022-11-24
 139,spotify:track:3pUa0ZxdSeaJXm0EIydD3F,Taylor Swift,"Would've, Could've, Should've",Taylor Swift,25,91,5,7611597,2022-11-24
 140,spotify:track:1797zYiX4cKosMH836X9Gt,"Bad Bunny, Tony Dize",La Corriente,Rimas Entertainment LLC,17,130,29,7602975,2022-11-24
 141,spotify:track:1Fid2jjqsHViMX6xNH70hE,Seafret,Atlantis,Sweet Jane Recordings,63,117,18,7585320,2022-11-24
@@ -192,8 +192,8 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 191,spotify:track:7yq4Qj7cqayVTp3FF9CWbm,Vance Joy,Riptide,F-Stop Records/Atlantic,122,-1,97,6716231,2022-11-24
 192,spotify:track:2DB4DdfCFMw1iaR6JaR03a,"Camila Cabello, Ed Sheeran",Bam Bam (feat. Ed Sheeran),Epic,5,160,38,6699342,2022-11-24
 193,spotify:track:39JofJHEtg8I4fSyo7Imft,"Eliza Rose, Interplanetary Criminal",B.O.T.A. (Baddest Of Them All) - Edit,Warner Records,52,168,12,6631099,2022-11-24
-194,spotify:track:2jkyPVk1nbpsZD0KAS98Zw,ThxSoMch,SPIT IN MY FACE!,Elektra (NEK),174,174,2,6614173,2022-11-24
-195,spotify:track:5Zlb01Jcn0Ld49zazzZJSB,"TWISTED, Oliver Tree",WORTH NOTHING - Fast & Furious: Drift Tape/Phonk Vol 1,APG Inc – FF10,188,200,3,6607319,2022-11-24
+194,spotify:track:2jkyPVk1nbpsZD0KAS98Zw,ThxSoMch,SPIT IN MY FACE!,ThxSoMch,174,174,2,6614173,2022-11-24
+195,spotify:track:5Zlb01Jcn0Ld49zazzZJSB,"TWISTED, Oliver Tree",WORTH NOTHING - Fast & Furious: Drift Tape/Phonk Vol 1,Artist Partner Group – FF10,188,200,3,6607319,2022-11-24
 196,spotify:track:7wdwIaXUuzlu1grzWMFRJm,Ghost,Mary On A Cross,UME - Global Clearing House,36,167,15,6593596,2022-11-24
 197,spotify:track:4H6o1bxKRGzmsE0vzo968m,"Yuridia, Ángela Aguilar",Qué Agonía,Sony Music México,197,-1,1,6570162,2022-11-24
 198,spotify:track:4RVwu0g32PAqgUiJoXsdF8,Billie Eilish,Happier Than Ever,Darkroom/Interscope Records,6,183,69,6512066,2022-11-24

@@ -23,7 +23,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 22,spotify:track:6qj02zSeEJGWZ4c0dn5QzJ,Harry Styles,Boyfriends,Columbia,22,-1,1,22703807,2022-05-26
 23,spotify:track:5PjdY0CKGZdEuoNab3yDmX,"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),Columbia,1,18,46,19918731,2022-05-26
 24,spotify:track:2FeBslNBMdR9V58uv6hd2t,Kendrick Lamar,N95,pgLang/Top Dawg Entertainment/Aftermath/Interscope Records,3,3,2,19537353,2022-05-26
-25,spotify:track:41oY4WCTj5kccfesTVFnvN,"Bad Bunny, Jhayco",Tarot,Rimas Entertainment LLC,9,16,3,19349683,2022-05-26
+25,spotify:track:41oY4WCTj5kccfesTVFnvN,"Bad Bunny, Jhay Cortez",Tarot,Rimas Entertainment LLC,9,16,3,19349683,2022-05-26
 26,spotify:track:1dm6z1fWB0cErMszU25dy2,Bad Bunny,Después de la Playa,Rimas Entertainment LLC,7,15,3,19254454,2022-05-26
 27,spotify:track:2DB4DdfCFMw1iaR6JaR03a,"Camila Cabello, Ed Sheeran",Bam Bam (feat. Ed Sheeran),Epic,5,19,12,18964429,2022-05-26
 28,spotify:track:5Eax0qFko2dh7Rl2lYs3bx,Bad Bunny,Efecto,Rimas Entertainment LLC,18,32,3,17718186,2022-05-26
@@ -134,7 +134,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 133,spotify:track:1XGmzt0PVuFgQYYnV2It7A,"Maroon 5, Wiz Khalifa",Payphone,Interscope Records*,70,134,23,6892190,2022-05-26
 134,spotify:track:7pj6P5WnxkZsw3XRc8eMe1,Kendrick Lamar,Count Me Out,pgLang/Top Dawg Entertainment/Aftermath/Interscope Records,24,24,2,6885995,2022-05-26
 135,spotify:track:2uky0VCI2EZni0nArOPznM,"Bizarrap, Paulo Londra","Paulo Londra: Bzrp Music Sessions, Vol. 23",DALE PLAY Records,14,107,5,6883255,2022-05-26
-136,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhayco",DÁKITI,Rimas Entertainment LLC,1,137,82,6816152,2022-05-26
+136,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhay Cortez",DÁKITI,Rimas Entertainment LLC,1,137,82,6816152,2022-05-26
 137,spotify:track:30W8VKHrAZmHzObnwAoc1u,"Mora, Sech",TUS LÁGRIMAS,Rimas Entertainment LLC,93,129,5,6809476,2022-05-26
 138,spotify:track:2tpWsVSb9UEmDRxAl1zhX1,OneRepublic,Counting Stars,Mosley / Interscope,101,143,63,6767614,2022-05-26
 139,spotify:track:7qEHsqek33rTcFNT9PFqLf,Lewis Capaldi,Someone You Loved,Vertigo Berlin,4,145,177,6748657,2022-05-26
@@ -175,7 +175,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 174,spotify:track:2qmG7dokbGpDGD0T5wORWt,"Matheus Fernandes, Xand Avião",Balanço da Rede,Som Livre,174,-1,1,6027682,2022-05-26
 175,spotify:track:0YeUVm23SAkUruwEx9LWnt,"Kendrick Lamar, Baby Keem, Sam Dew",Savior,pgLang/Top Dawg Entertainment/Aftermath/Interscope Records,29,29,2,6010573,2022-05-26
 176,spotify:track:5E30LdtzQTGqRvNd7l6kG5,The Neighbourhood,Daddy Issues,Columbia,99,181,85,6004662,2022-05-26
-177,spotify:track:5uU1uuyaUIBOiiUSQG7Wl3,Morgan Wallen,You Proof,Big Loud / Mercury Records / Republic Records,91,91,2,5991530,2022-05-26
+177,spotify:track:5uU1uuyaUIBOiiUSQG7Wl3,Morgan Wallen,You Proof,Mercury Records / Republic Records,91,91,2,5991530,2022-05-26
 178,spotify:track:0tgVpDi06FyKpA1z0VMD4v,Ed Sheeran,Perfect,Atlantic Records UK,4,182,271,5985929,2022-05-26
 179,spotify:track:2tGvwE8GcFKwNdAXMnlbfl,Olivia Rodrigo,happier,Olivia Rodrigo PS,12,185,53,5975693,2022-05-26
 180,spotify:track:003vvx7Niy0yvhvHt4a68B,The Killers,Mr. Brightside,Island Records,98,178,96,5973738,2022-05-26

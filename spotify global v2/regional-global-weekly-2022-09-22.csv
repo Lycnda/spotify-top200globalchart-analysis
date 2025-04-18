@@ -18,7 +18,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 17,spotify:track:6xGruZOHLs39ZbVccQTuPZ,Joji,Glimpse of Us,88rising Music/Warner Records,1,15,15,19010356,2022-09-22
 18,spotify:track:76OGwb5RA9h4FxQPT33ekc,Rosa Linn,SNAP,Columbia,18,18,11,18203459,2022-09-22
 19,spotify:track:02MWAaffLxlfxAUY7c5dvx,Glass Animals,Heat Waves,Polydor Records,1,19,91,17640354,2022-09-22
-20,spotify:track:75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God),Fish People,1,16,17,17282232,2022-09-22
+20,spotify:track:75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God),Parlophone UK,1,16,17,17282232,2022-09-22
 21,spotify:track:7jtQIBanIiJOMS6RyCx6jZ,Tom Odell,Another Love,ITNO/Columbia,21,22,76,17202212,2022-09-22
 22,spotify:track:6Xom58OOXk2SoU711L2IXO,Bad Bunny,Moscow Mule,Rimas Entertainment LLC,2,17,20,17095220,2022-09-22
 23,spotify:track:31i56LZnwE6uSu3exoHjtB,Bad Bunny,Neverita,Rimas Entertainment LLC,15,20,20,16496332,2022-09-22
@@ -42,7 +42,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 41,spotify:track:6i1g5ZRmJZAkDwBaUZ3f2i,Luar La L,Caile,La Mafia Urbana Corp.,32,32,6,12247551,2022-09-22
 42,spotify:track:6HMtHNpW6YPi1hrw9tgF8P,Lizzo,About Damn Time,Nice Life/Atlantic,9,34,21,12245509,2022-09-22
 43,spotify:track:7wdwIaXUuzlu1grzWMFRJm,Ghost,Mary On A Cross,UME - Global Clearing House,36,36,6,12102012,2022-09-22
-44,spotify:track:41oY4WCTj5kccfesTVFnvN,"Bad Bunny, Jhayco",Tarot,Rimas Entertainment LLC,9,39,20,11938217,2022-09-22
+44,spotify:track:41oY4WCTj5kccfesTVFnvN,"Bad Bunny, Jhay Cortez",Tarot,Rimas Entertainment LLC,9,39,20,11938217,2022-09-22
 45,spotify:track:1Wwh6gmMeolwzbRzfZMY5b,BLACKPINK,Ready For Love,YG Entertainment/Interscope Records,45,-1,1,11917660,2022-09-22
 46,spotify:track:1ga4PztXOIw1yBbdUt2X8v,"KAROL G, Maldy",GATÚBELA,UMLE - Latino,33,33,4,11829461,2022-09-22
 47,spotify:track:79HZAZNnOE97rb2hnI0XQr,"Rauw Alejandro, Lyanno, Brray",LOKERA,Sony Music Latin/Duars Entertainment,41,41,6,11746381,2022-09-22
@@ -66,7 +66,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 65,spotify:track:5uSFGgIfHMT3osrAd9n9ym,Lewis Capaldi,Forget Me,Vertigo Berlin,57,57,2,10224238,2022-09-22
 66,spotify:track:2rurDawMfoKP4uHyb2kJBt,"Shakira, Rauw Alejandro",Te Felicito,Sony Music Latin,13,45,22,10217638,2022-09-22
 67,spotify:track:7MXVkk9YMctZqd1Srtv4MB,"The Weeknd, Daft Punk",Starboy,Universal Republic Records,1,60,103,10167926,2022-09-22
-68,spotify:track:7iwJOi3hlMqZt6pj1sQOBj,Quevedo,VISTA AL MAR,Quevedo,68,110,2,10113704,2022-09-22
+68,spotify:track:7iwJOi3hlMqZt6pj1sQOBj,Quevedo,Vista Al Mar,Quevedo,68,110,2,10113704,2022-09-22
 69,spotify:track:1797zYiX4cKosMH836X9Gt,"Bad Bunny, Tony Dize",La Corriente,Rimas Entertainment LLC,17,53,20,9955046,2022-09-22
 70,spotify:track:1Fid2jjqsHViMX6xNH70hE,Seafret,Atlantis,Sweet Jane Recordings,66,66,9,9828307,2022-09-22
 71,spotify:track:27ZZdyTSQWI7Cug2d2PkqV,Armani White,BILLIE EILISH.,"Legendbound, LLC / Def Jam Recordings",71,101,4,9804554,2022-09-22
@@ -79,7 +79,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 78,spotify:track:7DbdUf8aHSYoliSjO6LZv6,Beach Weather,"Sex, Drugs, Etc.",8123 / Arista Records,73,73,6,9308457,2022-09-22
 79,spotify:track:0HYAsQwJIO6FLqpyTeD3l6,Fujii Kaze,Shinunoga E-Wa,Universal Music LLC,79,117,3,9306326,2022-09-22
 80,spotify:track:6VBhH7CyP56BXjp8VsDFPZ,"Pritam, Arijit Singh, Amitabh Bhattacharya","Kesariya (From ""Brahmastra"")",Sony Music Entertainment India Pvt. Ltd.,33,67,10,9149256,2022-09-22
-81,spotify:track:3fjN3y5x4hN53rykAN2LHQ,Rels B,cómo dormiste?,DALE PLAY Records / Flakk Team,24,54,7,9123182,2022-09-22
+81,spotify:track:3fjN3y5x4hN53rykAN2LHQ,Rels B,cómo dormiste?,Flakk Team / DALE PLAY Records,24,54,7,9123182,2022-09-22
 82,spotify:track:2gYj9lubBorOPIVWsTXugG,IVE,After LIKE,Starship Entertainment,48,65,5,9041326,2022-09-22
 83,spotify:track:37y7iDayfwm3WXn5BiAoRk,Steve Lacy,Dark Red,Three Quarter,66,84,59,8975817,2022-09-22
 84,spotify:track:5QO79kh1waicV47BqGRL3g,The Weeknd,Save Your Tears,Republic Records,2,75,94,8957425,2022-09-22
@@ -158,7 +158,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 157,spotify:track:48q0vSHcJdhK3IiXH8C5WJ,Arctic Monkeys,Why'd You Only Call Me When You're High?,Domino Recording Co,104,154,46,6733537,2022-09-22
 158,spotify:track:21jGcNKet2qwijlDFuPiPb,Post Malone,Circles,Republic Records,1,155,160,6716191,2022-09-22
 159,spotify:track:0e8nrvls4Qqv5Rfa2UhqmO,Lil Nas X,THATS WHAT I WANT,Columbia,3,147,53,6714915,2022-09-22
-160,spotify:track:6wtZPYBIXUvCpXwVjMCJBf,"Polimá Westcoast, Feid, Pailita, Paloma Mami, De La Ghetto",ULTRA SOLO REMIX,Sony Music Entertainment Chile S.A,44,141,14,6660042,2022-09-22
+160,spotify:track:6wtZPYBIXUvCpXwVjMCJBf,"Polimá Westcoast, Pailita, Feid, Paloma Mami, De La Ghetto",ULTRA SOLO REMIX,Sony Music Entertainment Chile S.A,44,141,14,6660042,2022-09-22
 161,spotify:track:4d4ZXH4dr5bYfgErHiZCX2,Bad Bunny,Dos Mil 16,Rimas Entertainment LLC,19,140,20,6656502,2022-09-22
 162,spotify:track:7o2CTH4ctstm8TNelqjb51,Guns N' Roses,Sweet Child O' Mine,Guns N Roses P&D,101,150,16,6650897,2022-09-22
 163,spotify:track:3hUxzQpSfdDqwM3ZTFQY0K,Taylor Swift,august,Taylor Swift,11,146,13,6647016,2022-09-22
@@ -197,5 +197,5 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 196,spotify:track:44XjoNvtwevktFKjvVe1vH,"Bad Bunny, Buscabulla",Andrea,Rimas Entertainment LLC,21,157,20,6089658,2022-09-22
 197,spotify:track:4UyVCLbNG8yhrqbzeSmdho,"Black Eyed Peas, Shakira, David Guetta",DON'T YOU WORRY,Epic,161,173,6,6083940,2022-09-22
 198,spotify:track:3DarAbFujv6eYNliUTyqtz,"Doja Cat, SZA",Kiss Me More (feat. SZA),Kemosabe Records/RCA Records,3,174,76,6057162,2022-09-22
-199,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhayco",DÁKITI,Rimas Entertainment LLC,1,177,99,6053873,2022-09-22
+199,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhay Cortez",DÁKITI,Rimas Entertainment LLC,1,177,99,6053873,2022-09-22
 200,spotify:track:5g7sDjBhZ4I3gcFIpkrLuI,Bruno Mars,Locked out of Heaven,Atlantic Records,106,191,38,6046457,2022-09-22

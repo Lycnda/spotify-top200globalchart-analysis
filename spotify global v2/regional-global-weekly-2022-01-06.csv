@@ -48,7 +48,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 47,spotify:track:4gvrJnKCKIPiacNsWVQwEU,"CKay, Dj Yo!, AX'EL",love nwantiti (feat. Dj Yo! & AX'EL) - Remix,WM South Africa,14,66,16,9539475,2022-01-06
 48,spotify:track:3Kkjo3cT83cw09VJyrLNwX,Adele,Oh My God,Columbia,3,77,7,9508205,2022-01-06
 49,spotify:track:2vmfvSoZBFAt9hhRoEByLi,"Aventura, Bad Bunny",Volví,Rimas Entertainment LLC,10,73,23,9370093,2022-01-06
-50,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhayco",DÁKITI,Rimas Entertainment LLC,1,79,62,9352178,2022-01-06
+50,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhay Cortez",DÁKITI,Rimas Entertainment LLC,1,79,62,9352178,2022-01-06
 51,spotify:track:3nOz1U41SZZ0N3fuUWr9nb,Emmy Meli,I AM WOMAN,Disruptor Records/Arista Records,51,86,6,9123510,2022-01-06
 52,spotify:track:4iJyoBOLtHqaGxP12qzhQI,"Justin Bieber, Daniel Caesar, Giveon",Peaches (feat. Daniel Caesar & Giveon),RBMG/Def Jam,1,80,42,8899368,2022-01-06
 53,spotify:track:6lX6l7OuA3qrnIRfdsr0dw,"Blessd, Justin Quiles, Lenny Tavárez",Medallo,WEA Latina,53,83,7,8857312,2022-01-06
@@ -61,7 +61,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 60,spotify:track:6mmPpaltUZK7xjNlBPQQ0p,"Rauw Alejandro, Chencho Corleone",Desesperados,Sony Music Latin/Duars Entertainment,60,103,4,8352181,2022-01-06
 61,spotify:track:2BEcap3xJtmiPaHKyfQi4e,"Rvssian, Rauw Alejandro, Chris Brown",Nostálgico,Sony Music Latin,40,85,17,8341116,2022-01-06
 62,spotify:track:0eu4C55hL6x29mmeAjytzC,Oliver Tree,Life Goes On,Atlantic Records,15,94,18,8229538,2022-01-06
-63,spotify:track:6f5ExP43esnvdKPddwKXJH,"NEIKED, Mae Muller, Polo G",Better Days (NEIKED x Mae Muller x Polo G),Capitol Records UK / EMI,32,131,12,8217608,2022-01-06
+63,spotify:track:6f5ExP43esnvdKPddwKXJH,"NEIKED, Mae Muller, Polo G",Better Days (NEIKED x Mae Muller x Polo G),Capitol,32,131,12,8217608,2022-01-06
 64,spotify:track:3PfIrDoz19wz7qK7tYeu62,Dua Lipa,Don't Start Now,Warner Records,2,123,114,8206048,2022-01-06
 65,spotify:track:1mWdTewIgB3gtBM3TOSFhB,BTS,Butter,BIGHIT MUSIC,2,158,33,8139492,2022-01-06
 66,spotify:track:1c4htMHiolERc0YJvZNdlc,"George Henrique & Rodrigo, Marília Mendonça",Vai Lá Em Casa Hoje,Worldshow Promoções e Eventos,66,81,7,8080011,2022-01-06
@@ -182,7 +182,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 181,spotify:track:0ofHAoxe9vBkTCp2UQIavz,Fleetwood Mac,Dreams - 2004 Remaster,Rhino/Warner Records,20,-1,57,5210907,2022-01-06
 182,spotify:track:4OwhwvKESFtuu06dTgct7i,"Marc Seguí, Rauw Alejandro, Pol Granch",Tiroteo - Remix,WEA Latina,48,-1,24,5204485,2022-01-06
 183,spotify:track:4qu63nuBpdn0qHUHuObEj1,"Marshmello, Jonas Brothers",Leave Before You Love Me (with Jonas Brothers),Republic Records,52,-1,28,5194839,2022-01-06
-184,spotify:track:6OufwUcCqo81guU2jAlDVP,Shouse,Love Tonight (Edit),Hell Beach Catalog,39,-1,20,5187905,2022-01-06
+184,spotify:track:6OufwUcCqo81guU2jAlDVP,Shouse,Love Tonight - Edit,Hell Beach,39,-1,20,5187905,2022-01-06
 185,spotify:track:0zLCBJZSiELJf02ucPP9wb,"SAINt JHN, Imanbek",Roses - Imanbek Remix,Columbia/B1 Recordings,3,-1,97,5181147,2022-01-06
 186,spotify:track:3XYRV7ZSHqIRDG87DKTtry,BTS,Permission to Dance,BIGHIT MUSIC,5,-1,24,5165242,2022-01-06
 187,spotify:track:3DZ8dbKg4OTSSqGARvecYd,"Lil Durk, Morgan Wallen",Broadway Girls (feat. Morgan Wallen),Alamo,94,172,3,5164798,2022-01-06
@@ -193,7 +193,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 192,spotify:track:5uCax9HTNlzGybIStD3vDh,James Arthur,Say You Won't Let Go,Columbia,7,-1,257,5111488,2022-01-06
 193,spotify:track:7yq4Qj7cqayVTp3FF9CWbm,Vance Joy,Riptide,F-Stop Records/Atlantic,122,-1,53,5105908,2022-01-06
 194,spotify:track:4btFHqumCO31GksfuBLLv3,Ed Sheeran,Overpass Graffiti,Atlantic Records UK,14,-1,8,5102499,2022-01-06
-195,spotify:track:5W1qmxHrMlQGGAiFA3ZQqP,"Dímelo Flow, Dalex, Sech, Justin Quiles, Arcángel, De La Ghetto, Lenny Tavárez",Se Le Ve,Rich Music,195,-1,1,5083053,2022-01-06
+195,spotify:track:5W1qmxHrMlQGGAiFA3ZQqP,"Dímelo Flow, Dalex, Sech, Justin Quiles, Arcangel, De La Ghetto, Lenny Tavárez",Se Le Ve,Rich Music,195,-1,1,5083053,2022-01-06
 196,spotify:track:5rW7qTn83sCKtqBoneJs63,"bbno$, Rich Brian",edamame (feat. Rich Brian),bbno$,76,-1,17,5081125,2022-01-06
 197,spotify:track:6w8yBI2vthyN9UnwO4UBWb,"Tiago PZK, LIT killah",Entre Nosotros,WM Chile,34,-1,19,5072061,2022-01-06
 198,spotify:track:3ITkrUvAA6gzxer2UIom3P,Jorge & Mateus,Molhando o Volante,Som Livre,198,-1,1,5069282,2022-01-06

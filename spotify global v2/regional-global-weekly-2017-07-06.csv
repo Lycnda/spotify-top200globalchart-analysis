@@ -8,7 +8,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 7,spotify:track:4iLqG9SeJSnt0cSPICSjxv,Charlie Puth,Attention,Artist Partner,5,7,11,21275037,2017-07-06
 8,spotify:track:5bcTCxgc7xVfSaMV3RuVke,"Calvin Harris, Pharrell Williams, Katy Perry, Big Sean, Funk Wav","Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",Columbia,8,21,3,20953829,2017-07-06
 9,spotify:track:0tKcYR2II1VCQWT79i5NrW,Imagine Dragons,Thunder,Kid Ina Korner / Interscope,8,8,10,20499097,2017-07-06
-10,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,9,9,7,19527026,2017-07-06
+10,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,9,9,7,19527026,2017-07-06
 11,spotify:track:4xlrALxuaCf9yZBHJeTSG6,"Jonas Blue, William Singe",Mama,Positiva,11,13,9,18851848,2017-07-06
 12,spotify:track:79cuOz3SPQTuFrp8WgftAu,Shawn Mendes,There's Nothing Holdin' Me Back,Island Records,5,10,11,18552275,2017-07-06
 13,spotify:track:2eMwDehkIC1j68U6FA3Eiq,Lil Uzi Vert,XO Tour Llif3,Generation Now/Atlantic,10,14,15,17759337,2017-07-06
@@ -50,7 +50,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 49,spotify:track:6HZILIRieu8S0iqY8kIKhj,Kendrick Lamar,DNA.,Aftermath,3,48,12,9203753,2017-07-06
 50,spotify:track:5tz69p7tJuGPeMGwNTxYuV,"Logic, Alessia Cara, Khalid",1-800-273-8255,Def Jam Recordings,27,46,10,9178533,2017-07-06
 51,spotify:track:2kVHAQKVtczchKctctzbtK,"Katy Perry, Nicki Minaj",Swish Swish,Capitol Records (CAP),41,50,7,8324872,2017-07-06
-52,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcángel",Ahora Dice,UMLE - Latino,48,53,13,8128807,2017-07-06
+52,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcangel",Ahora Dice,UMLE - Latino,48,53,13,8128807,2017-07-06
 53,spotify:track:209gZgcfLq2aUuu51vOWBl,"CNCO, Yandel",Hey DJ,Sony Music Latin,53,54,11,7819623,2017-07-06
 54,spotify:track:5Ohxk2dO5COHF1krpoPigN,Harry Styles,Sign of the Times,Columbia,14,49,13,7706078,2017-07-06
 55,spotify:track:1sXUWdKx03aP9Gmzft58rt,Julia Michaels,Issues,J/Republic,9,52,25,7499588,2017-07-06

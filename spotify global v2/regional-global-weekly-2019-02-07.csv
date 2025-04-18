@@ -5,7 +5,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 4,spotify:track:3KkXRkHbMCARz0aVfEt68P,"Post Malone, Swae Lee",Sunflower - Spider-Man: Into the Spider-Verse,Universal Records,1,3,16,29346467,2019-02-07
 5,spotify:track:2JvzF1RMd7lE3KmFlsyZD8,J. Cole,MIDDLE CHILD,"Dreamville, Inc., Under exclusive license to Roc Nation Records",2,2,3,25206797,2019-02-07
 6,spotify:track:5p7ujcrUXASCNwRaWNHR1C,Halsey,Without Me,Capitol Records,4,5,18,24642412,2019-02-07
-7,spotify:track:2dpaYNEQHiRxtZbfNsse99,"Marshmello, Bastille",Happier,Joytime Collective,2,16,25,23919064,2019-02-07
+7,spotify:track:2dpaYNEQHiRxtZbfNsse99,"Marshmello, Bastille",Happier,Astralwerks,2,16,25,23919064,2019-02-07
 8,spotify:track:5iwz1NiezX7WWjnCgY5TH4,"Pedro Capó, Farruko",Calma - Remix,Sony Music Latin,5,8,13,22316182,2019-02-07
 9,spotify:track:6Qs4SXO9dwPj5GKvVOv8Ki,"Sam Smith, Normani",Dancing With A Stranger (with Normani),Capitol,7,7,4,22282324,2019-02-07
 10,spotify:track:2rPE9A1vEgShuZxxzR2tZH,Ariana Grande,"thank u, next",Republic Records,1,6,14,22235996,2019-02-07
@@ -13,8 +13,8 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 12,spotify:track:2VxeLyX666F8uXCJ0dZF8B,"Lady Gaga, Bradley Cooper",Shallow,A Star is Born OST,5,12,19,18931640,2019-02-07
 13,spotify:track:5W83ErFkO3aKAIS1WMi6u0,"Anuel AA, KAROL G",Secreto,Anuel AA & Karol G - Secreto,13,17,3,18598221,2019-02-07
 14,spotify:track:4w8niZpiMy6qz1mntFA5uM,"DJ Snake, Selena Gomez, Ozuna, Cardi B","Taki Taki (with Selena Gomez, Ozuna & Cardi B)","DJ Snake Music Productions Limited, under exclusive license to Geffen Records",1,10,19,18456704,2019-02-07
-15,spotify:track:116H0KvKr2Zl4RPuVBruDO,"Bad Bunny, Drake",MIA,Rimas Entertainment LLC,1,11,17,18421882,2019-02-07
-16,spotify:track:2xLMifQCjDGFmkHkpNLD9h,Travis Scott,SICKO MODE,Cactus Jack / Epic,2,18,27,16969293,2019-02-07
+15,spotify:track:116H0KvKr2Zl4RPuVBruDO,"Bad Bunny, Drake",MIA (feat. Drake),OVO Sound/Warner Records,1,11,17,18421882,2019-02-07
+16,spotify:track:2xLMifQCjDGFmkHkpNLD9h,Travis Scott,SICKO MODE,Cactus Jack / Epic / Grand Hustle,2,18,27,16969293,2019-02-07
 17,spotify:track:6FyRXC8tJUh863JCkyWqtk,Paulo Londra,Adan y Eva,WEA Latina,11,15,13,16920393,2019-02-07
 18,spotify:track:1rqqCSm0Qe4I9rUvWncaom,Panic! At The Disco,High Hopes,DCD2 / Fueled By Ramen,9,13,33,16790474,2019-02-07
 19,spotify:track:2IRZnDFmlqMuOrYOLnZZyc,"Meek Mill, Drake",Going Bad (feat. Drake),MMG/Atlantic,11,14,10,15940642,2019-02-07
@@ -110,14 +110,14 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 109,spotify:track:48zFZh27QU5qsrBjn4C2FA,"Ozuna, Manuel Turizo",Vaina Loca,VP Records Corp/Dimelo Vi,18,71,32,6377526,2019-02-07
 110,spotify:track:04MLEeAMuV9IlHEsD8vF6A,"French Montana, Drake",No Stylist (feat. Drake),Epic,27,106,20,6326342,2019-02-07
 111,spotify:track:0TlLq3lA83rQOYtrqBqSct,Drake,Nonstop,Cash Money/Drake LP6,1,103,32,6279026,2019-02-07
-112,spotify:track:6Gy7rXB6Ku5vIWC7WGWsl3,"6ix9ine, Tory Lanez",KIKA (feat. Tory Lanez),"ScumGang Records / TenThousand Projects, LLC",12,108,11,6264212,2019-02-07
-113,spotify:track:0LQ1J0BCzA2qnAgp9MkkNE,"6ix9ine, Anuel AA",MALA (feat. Anuel AA),"ScumGang Records / TenThousand Projects, LLC",71,102,10,6223162,2019-02-07
+112,spotify:track:6Gy7rXB6Ku5vIWC7WGWsl3,"6ix9ine, Tory Lanez",KIKA,"Scumgang Records/TenThousand Projects, LLC",12,108,11,6264212,2019-02-07
+113,spotify:track:0LQ1J0BCzA2qnAgp9MkkNE,"6ix9ine, Anuel AA",MALA,"Scumgang Records/TenThousand Projects, LLC",71,102,10,6223162,2019-02-07
 114,spotify:track:1mT47pKLXUwPYGwB91GcNz,"KAROL G, Maluma",Créeme,UMLE - Latino,114,116,9,6192902,2019-02-07
 115,spotify:track:12mGwph2YzDIlChtq3EdXP,Marshmello,Alone,Monstercat,115,-1,1,6169746,2019-02-07
 116,spotify:track:2rbDhOo9Fh61Bbu23T2qCk,Lady Gaga,Always Remember Us This Way,A Star is Born OST,35,126,16,6118416,2019-02-07
 117,spotify:track:1mXVgsBdtIVeCLJnSnmtdV,Sam Smith,Too Good At Goodbyes,Capitol,1,124,73,6108550,2019-02-07
 118,spotify:track:4NBTZtAt1F13VvlSKe6KTl,"The Chainsmokers, Kelsea Ballerini",This Feeling,Disruptor Records/Columbia,23,127,20,6102609,2019-02-07
-119,spotify:track:4KkUjFkcQvGvWekl8RATDn,"6ix9ine, Anuel AA",BEBE (feat. Anuel AA),"ScumGang Records / TenThousand Projects, LLC",17,114,23,6044552,2019-02-07
+119,spotify:track:4KkUjFkcQvGvWekl8RATDn,"6ix9ine, Anuel AA",BEBE,"Scumgang Records/TenThousand Projects, LLC",17,114,23,6044552,2019-02-07
 120,spotify:track:76cy1WJvNGJTj78UqeA5zr,Dua Lipa,IDGAF,Warner Records,4,115,58,6035746,2019-02-07
 121,spotify:track:4OBZT9EnhYIV17t4pGw7ig,"Daniel Caesar, H.E.R.",Best Part (feat. H.E.R.),MBK Entertainment/RCA Records,120,125,6,5989586,2019-02-07
 122,spotify:track:5rFj8OzffT0iggSjcBaeND,Sam Smith,"Fire On Fire - From ""Watership Down""",Capitol,74,109,6,5986658,2019-02-07
@@ -146,15 +146,15 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 145,spotify:track:7vGuf3Y35N4wmASOKLUVVU,"Marshmello, Khalid",Silence,Joytime Collective/RCA Records,8,-1,68,5558320,2019-02-07
 146,spotify:track:5OCJzvD7sykQEKHH7qAC3C,Ariana Grande,God is a woman,Republic Records,2,128,30,5507324,2019-02-07
 147,spotify:track:2xJCMIJfcNYDc5iR0sAm2O,Dua Lipa,New Rules,Warner Records,2,142,83,5472677,2019-02-07
-148,spotify:track:3V8UKqhEK5zBkBb6d6ub8i,"Nio Garcia, Casper Magico, Bad Bunny, Darell, Ozuna, Nicky Jam",Te Boté - Remix,"Flow La Movie, Inc.",8,135,43,5471774,2019-02-07
+148,spotify:track:3V8UKqhEK5zBkBb6d6ub8i,"Nio Garcia, Casper Magico, Bad Bunny, Darell, Ozuna, Nicky Jam",Te Boté - Remix,"2018 Flow La Movie, Inc.",8,135,43,5471774,2019-02-07
 149,spotify:track:4EAV2cKiqKP5UPZmY6dejk,"Logic, Marshmello",Everyday,Def Jam Recordings,16,-1,17,5455818,2019-02-07
-150,spotify:track:4QIyEq7TcTdAcxjI2AFlAK,"6ix9ine, Nicki Minaj, Murda Beatz",FEFE (feat. Nicki Minaj & Murda Beatz),"ScumGang Records / TenThousand Projects, LLC",2,139,29,5448558,2019-02-07
+150,spotify:track:4QIyEq7TcTdAcxjI2AFlAK,"6ix9ine, Nicki Minaj, Murda Beatz",FEFE,"Scumgang Records/TenThousand Projects, LLC",2,139,29,5448558,2019-02-07
 151,spotify:track:5N4erncE7kuUccm7zEmwzk,"Silk City, Dua Lipa, Diplo, Mark Ronson",Electricity (with Dua Lipa),Columbia,14,145,22,5379830,2019-02-07
 152,spotify:track:6JQvHMSaR8flFsN53ypOfP,Lil Mosey,Noticed,Mogul Vision/Interscope Records,41,146,22,5369731,2019-02-07
 153,spotify:track:4ofwffwvvnbSkrMSCKQDaC,George Ezra,Shotgun,Columbia,35,137,33,5363871,2019-02-07
 154,spotify:track:7wcyO1rrH3Ru4t659IjG41,Future,Crushed Up,Epic/Freebandz,57,111,5,5327082,2019-02-07
-155,spotify:track:7AQim7LbvFVZJE3O8TYgf2,"XXXTENTACION, Trippie Redd",Fuck Love,Bad Vibes Forever / EMPIRE,19,140,73,5315867,2019-02-07
-156,spotify:track:7lAK3oHbfEnvUQWosrMMpR,Travis Scott,YOSEMITE,Cactus Jack / Epic,24,112,23,5299657,2019-02-07
+155,spotify:track:7AQim7LbvFVZJE3O8TYgf2,"XXXTENTACION, Trippie Redd",Fuck Love (feat. Trippie Redd),Bad Vibes Forever / EMPIRE,19,140,73,5315867,2019-02-07
+156,spotify:track:7lAK3oHbfEnvUQWosrMMpR,Travis Scott,YOSEMITE,Cactus Jack / Epic / Grand Hustle,24,112,23,5299657,2019-02-07
 157,spotify:track:3KLygy1YWhmrQx0GRs7IOx,"Jonas Blue, Jack & Jack",Rise,Positiva,12,143,36,5292251,2019-02-07
 158,spotify:track:59PYgzOiOjGDzjDT5N5oOX,"Brytiago, Daddy Yankee, Ozuna, Darell, Anuel AA",Asesina - Remix,Business Music/Duars Music,124,154,13,5269033,2019-02-07
 159,spotify:track:2XXMDz7SPZ4mSFN1PXfHUy,"Becky G, Paulo Londra",Cuando Te Besé,Sony Music Latin,45,113,27,5259658,2019-02-07
@@ -165,16 +165,16 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 164,spotify:track:2BkyYZmU4JuWW2sYi9EzpC,Dean Lewis,7 Minutes,Universal Music Australia Pty. Ltd.,164,191,2,5133614,2019-02-07
 165,spotify:track:3a1lNhkSLSkpJE4MSHpDu9,"Post Malone, Quavo",Congratulations,Universal Records,20,161,106,5127342,2019-02-07
 166,spotify:track:4rDbp1vnvEhieiccprPMdI,Queen,Somebody To Love - Remastered 2011,EMI,50,160,14,5045537,2019-02-07
-167,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),Bloc Nation,6,158,52,5040825,2019-02-07
+167,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),OVO Sound/Warner Records,6,158,52,5040825,2019-02-07
 168,spotify:track:0tBbt8CrmxbjRP0pueQkyU,"Selena Gomez, Marshmello",Wolves,Selena Gomez PS,3,-1,56,5030520,2019-02-07
 169,spotify:track:22An65gG31JLf9n18qjdhZ,XXXTENTACION,BAD!,Bad Vibes Forever / EMPIRE,6,144,13,4979813,2019-02-07
 170,spotify:track:4hQ6UGyWQIGJmHSo0J88JW,Selena Gomez,Back To You - From 13 Reasons Why – Season 2 Soundtrack,UMGRI Interscope,4,151,39,4923893,2019-02-07
 171,spotify:track:7GX5flRQZVHRAGd6B4TmDO,Lil Uzi Vert,XO Tour Llif3,Generation Now/Atlantic,10,167,98,4915917,2019-02-07
 172,spotify:track:1tNJrcVe6gwLEiZCtprs1u,Dominic Fike,3 Nights,Columbia,172,197,2,4909732,2019-02-07
-173,spotify:track:04ZTP5KsCypmtCmQg5tH9R,Bebe Rexha,I'm a Mess,Warner Records,52,159,33,4901495,2019-02-07
-174,spotify:track:4e4fqjx0Izh4svvTef1z7e,"Bebe Rexha, Florida Georgia Line",Meant to Be (feat. Florida Georgia Line),Warner Records,18,166,72,4836167,2019-02-07
+173,spotify:track:04ZTP5KsCypmtCmQg5tH9R,Bebe Rexha,I'm a Mess,Warner Bros.,52,159,33,4901495,2019-02-07
+174,spotify:track:4e4fqjx0Izh4svvTef1z7e,"Bebe Rexha, Florida Georgia Line",Meant to Be (feat. Florida Georgia Line),Warner Bros.,18,166,72,4836167,2019-02-07
 175,spotify:track:3jq1RpStaB1YGyN3rRZGca,XXXTENTACION,Sauce!,Members Only / EMPIRE,81,81,2,4828490,2019-02-07
-176,spotify:track:6gBFPUFcJLzWGx4lenP6h2,Travis Scott,goosebumps,Cactus Jack / Epic,60,189,104,4826049,2019-02-07
+176,spotify:track:6gBFPUFcJLzWGx4lenP6h2,Travis Scott,goosebumps,Epic/Grand Hustle,60,189,104,4826049,2019-02-07
 177,spotify:track:7BKLCZ1jbUBVqRi2FVlTVw,"The Chainsmokers, Halsey",Closer,Disruptor Records/Columbia,2,176,110,4808968,2019-02-07
 178,spotify:track:2QZ7WLBE8h2y1Y5Fb8RYbH,Shawn Mendes,In My Blood,Island Records,7,169,43,4807581,2019-02-07
 179,spotify:track:2FUNBaa5DwItJtYEBgAblU,21 Savage,monster,"Slaughter Gang, LLC/Epic Records",47,150,7,4801171,2019-02-07

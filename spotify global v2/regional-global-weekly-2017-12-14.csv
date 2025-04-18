@@ -25,7 +25,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 24,spotify:track:0tKcYR2II1VCQWT79i5NrW,Imagine Dragons,Thunder,Kid Ina Korner / Interscope,8,29,33,11653879,2017-12-14
 25,spotify:track:5tz69p7tJuGPeMGwNTxYuV,"Logic, Alessia Cara, Khalid",1-800-273-8255,Def Jam Recordings,5,24,33,11568114,2017-12-14
 26,spotify:track:32DGGj6KlNuBr6WaqRxpxi,Charlie Puth,How Long,Artist Partner,15,21,10,11492017,2017-12-14
-27,spotify:track:6Za3190Sbw39BBC77WSS1C,"NATTI NATASHA, Ozuna",Criminal,Pina Records,21,27,13,11241879,2017-12-14
+27,spotify:track:6Za3190Sbw39BBC77WSS1C,"Natti Natasha, Ozuna",Criminal,Pina Records,21,27,13,11241879,2017-12-14
 28,spotify:track:2xmrfQpmS2iJExTlklLoAL,"Clean Bandit, Julia Michaels",I Miss You (feat. Julia Michaels),Atlantic Records UK,23,23,7,11084704,2017-12-14
 29,spotify:track:7iDa6hUg2VgEL1o1HjmfBn,"Bebe Rexha, Florida Georgia Line",Meant to Be (feat. Florida Georgia Line),Warner Records,28,28,13,11004287,2017-12-14
 30,spotify:track:3a1lNhkSLSkpJE4MSHpDu9,"Post Malone, Quavo",Congratulations,Universal Records,20,33,47,10883007,2017-12-14
@@ -97,7 +97,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 96,spotify:track:1XRgIKC5TPwo7nWGyKqgG0,"Gucci Mane, Migos",I Get the Bag (feat. Migos),Guwop Enterprises/Atlantic,45,71,17,5920365,2017-12-14
 97,spotify:track:5bcTCxgc7xVfSaMV3RuVke,"Calvin Harris, Pharrell Williams, Katy Perry, Big Sean, Funk Wav","Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",Columbia,5,99,26,5845047,2017-12-14
 98,spotify:track:0JcNysfWVWaMS7R6vzGB2k,"Carlos Vives, Sebastian Yatra",Robarte un Beso,Sony Music Latin,61,93,19,5836056,2017-12-14
-99,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,9,100,30,5780543,2017-12-14
+99,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,9,100,30,5780543,2017-12-14
 100,spotify:track:5u6vkDnOyaf8LsteDAj2ub,"21 Savage, Offset, Metro Boomin, Travis Scott",Ghostface Killers (feat. Travis Scott),"Slaughter Gang, LLC/Epic/Quality Control Music/Motown/Capitol/Boominati Worldwide/Republic",36,90,7,5763705,2017-12-14
 101,spotify:track:5WoaF1B5XIEnWfmb5NZikf,"Miguel, Travis Scott",Sky Walker (feat. Travis Scott),ByStorm Entertainment/RCA Records,101,128,4,5753689,2017-12-14
 102,spotify:track:7Ed6BkggCS2KaKY5YlINaF,"BTS, Desiigner, Steve Aoki",MIC Drop (feat. Desiigner) [Steve Aoki Remix],BIGHIT MUSIC,71,85,3,5679840,2017-12-14
@@ -139,9 +139,9 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 138,spotify:track:3kxfsdsCpFgN412fpnW85Y,Childish Gambino,Redbone,Glassnote Entertainment Group LLC,35,142,51,4825997,2017-12-14
 139,spotify:track:38yBBH2jacvDxrznF7h08J,Niall Horan,Slow Hands,Capitol Records (US1A),29,133,32,4771127,2017-12-14
 140,spotify:track:4v094LQ9eF10k2O2Te2ngK,Niall Horan,Too Much To Ask,Capitol Records (US1A),37,117,13,4735252,2017-12-14
-141,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcángel",Ahora Dice,UMLE - Latino,46,139,36,4718931,2017-12-14
+141,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcangel",Ahora Dice,UMLE - Latino,46,139,36,4718931,2017-12-14
 142,spotify:track:6ElmxV9B2mSNscEjP27M7i,Bad Bunny,Chambea,Rimas Entertainment LLC,142,160,2,4696483,2017-12-14
-143,spotify:track:0tPQPaOKM32WgMSbPCYyRH,"David Guetta, AFROJACK, Charli XCX, French Montana",Dirty Sexy Money (feat. Charli XCX & French Montana),Parlophone (France),100,131,6,4689408,2017-12-14
+143,spotify:track:0tPQPaOKM32WgMSbPCYyRH,"David Guetta, Afrojack, Charli XCX, French Montana",Dirty Sexy Money (feat. Charli XCX & French Montana),Parlophone (France),100,131,6,4689408,2017-12-14
 144,spotify:track:2Za1AlJNvksouPPWbXpR2X,"Macklemore, Kesha",Good Old Days (feat. Kesha),Bendo LLC,56,104,12,4662904,2017-12-14
 145,spotify:track:5humEOJehpAwMJEJmb0JJ2,Nat King Cole,The Christmas Song (Merry Christmas To You),Capitol Records,99,184,3,4655146,2017-12-14
 146,spotify:track:6p8NuHm8uCGnn2Dtbtf7zE,"Migos, Gucci Mane",Slippery (feat. Gucci Mane),Quality Control Music,71,132,37,4626404,2017-12-14

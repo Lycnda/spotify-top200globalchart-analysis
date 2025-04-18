@@ -14,7 +14,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 13,spotify:track:3k3NWokhRRkEPhCzPmV8TW,"Bad Bunny, Bomba Estéreo",Ojitos Lindos,Rimas Entertainment LLC,3,13,19,20700476,2022-09-15
 14,spotify:track:2yjlYDiNiQkdxVqTlaSrlX,Nicki Minaj,Super Freaky Girl,Republic Records,14,16,5,20643984,2022-09-15
 15,spotify:track:6xGruZOHLs39ZbVccQTuPZ,Joji,Glimpse of Us,88rising Music/Warner Records,1,15,14,20375950,2022-09-15
-16,spotify:track:75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God),Fish People,1,14,16,19275044,2022-09-15
+16,spotify:track:75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God),Parlophone UK,1,14,16,19275044,2022-09-15
 17,spotify:track:6Xom58OOXk2SoU711L2IXO,Bad Bunny,Moscow Mule,Rimas Entertainment LLC,2,17,19,18506308,2022-09-15
 18,spotify:track:76OGwb5RA9h4FxQPT33ekc,Rosa Linn,SNAP,Columbia,18,18,10,18497712,2022-09-15
 19,spotify:track:02MWAaffLxlfxAUY7c5dvx,Glass Animals,Heat Waves,Polydor Records,1,19,90,18023649,2022-09-15
@@ -37,7 +37,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 36,spotify:track:7wdwIaXUuzlu1grzWMFRJm,Ghost,Mary On A Cross,UME - Global Clearing House,36,40,5,13143117,2022-09-15
 37,spotify:track:54ipXppHLA8U4yqpOFTUhr,Imagine Dragons,Bones,Kid Ina Korner / Interscope,37,37,27,13089654,2022-09-15
 38,spotify:track:4zN21mbAuaD0WqtmaTZZeP,"James Hype, Miggy Dela Rosa",Ferrari,Universal-Island Records Ltd.,34,36,15,12980003,2022-09-15
-39,spotify:track:41oY4WCTj5kccfesTVFnvN,"Bad Bunny, Jhayco",Tarot,Rimas Entertainment LLC,9,35,19,12773363,2022-09-15
+39,spotify:track:41oY4WCTj5kccfesTVFnvN,"Bad Bunny, Jhay Cortez",Tarot,Rimas Entertainment LLC,9,35,19,12773363,2022-09-15
 40,spotify:track:5TJEBoTCDbJXiKMdCN9pd3,"Elton John, Britney Spears",Hold Me Closer,EMI,25,31,3,12465935,2022-09-15
 41,spotify:track:79HZAZNnOE97rb2hnI0XQr,"Rauw Alejandro, Lyanno, Brray",LOKERA,Sony Music Latin/Duars Entertainment,41,47,5,12349818,2022-09-15
 42,spotify:track:6I3mqTwhRpn34SLVafSH7G,Justin Bieber,Ghost,RBMG/Def Jam,11,42,52,11942745,2022-09-15
@@ -52,7 +52,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 51,spotify:track:2DB4DdfCFMw1iaR6JaR03a,"Camila Cabello, Ed Sheeran",Bam Bam (feat. Ed Sheeran),Epic,5,46,28,11166498,2022-09-15
 52,spotify:track:2eAvDnpXP5W0cVtiI0PUxV,Ruth B.,Dandelions,Columbia,34,57,57,10754408,2022-09-15
 53,spotify:track:1797zYiX4cKosMH836X9Gt,"Bad Bunny, Tony Dize",La Corriente,Rimas Entertainment LLC,17,51,19,10532521,2022-09-15
-54,spotify:track:3fjN3y5x4hN53rykAN2LHQ,Rels B,cómo dormiste?,DALE PLAY Records / Flakk Team,24,48,6,10488336,2022-09-15
+54,spotify:track:3fjN3y5x4hN53rykAN2LHQ,Rels B,cómo dormiste?,Flakk Team / DALE PLAY Records,24,48,6,10488336,2022-09-15
 55,spotify:track:1cKHdTo9u0ZymJdPGSh6nq,"The Weeknd, Gesaffelstein",I Was Never There,Universal Republic Records,17,60,15,10437317,2022-09-15
 56,spotify:track:3AJwUDP919kvQ9QcozQPxg,Coldplay,Yellow,Parlophone UK,56,79,91,10425798,2022-09-15
 57,spotify:track:5uSFGgIfHMT3osrAd9n9ym,Lewis Capaldi,Forget Me,Vertigo Berlin,57,-1,1,10295883,2022-09-15
@@ -108,7 +108,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 107,spotify:track:2pIUpMhHL6L9Z5lnKxJJr9,NewJeans,Attention,ADOR,81,81,5,7904471,2022-09-15
 108,spotify:track:5CzixCxDkRXX9mScCmah8O,Bad Bunny,Un Ratito,Rimas Entertainment LLC,10,90,19,7883512,2022-09-15
 109,spotify:track:3rq5w4bQGigXOfdN30ATJt,Arctic Monkeys,Do I Wanna Know?,Domino Recording Co,108,108,53,7855078,2022-09-15
-110,spotify:track:7iwJOi3hlMqZt6pj1sQOBj,Quevedo,VISTA AL MAR,Quevedo,110,-1,1,7850160,2022-09-15
+110,spotify:track:7iwJOi3hlMqZt6pj1sQOBj,Quevedo,Vista Al Mar,Quevedo,110,-1,1,7850160,2022-09-15
 111,spotify:track:5wANPM4fQCJwkGd4rN57mH,Olivia Rodrigo,drivers license,Olivia Rodrigo PS,1,107,88,7822035,2022-09-15
 112,spotify:track:6VrQTLzzuyGIYjUDe4kAZk,Bad Bunny,Un Coco,Rimas Entertainment LLC,25,96,19,7793057,2022-09-15
 113,spotify:track:4SqWKzw0CbA05TGszDgMlc,The Walters,I Love You So,Warner Records,21,111,49,7784350,2022-09-15
@@ -139,7 +139,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 138,spotify:track:68Dni7IE4VyPkTOH9mRWHr,J. Cole,No Role Modelz,Roc Nation Records LLC,76,146,60,7113060,2022-09-15
 139,spotify:track:0oO1AbL92F6329z13C2qQH,Yeat,Talk,Field Trip Recordings/Geffen Records,138,138,2,7071369,2022-09-15
 140,spotify:track:4d4ZXH4dr5bYfgErHiZCX2,Bad Bunny,Dos Mil 16,Rimas Entertainment LLC,19,132,19,7063482,2022-09-15
-141,spotify:track:6wtZPYBIXUvCpXwVjMCJBf,"Polimá Westcoast, Feid, Pailita, Paloma Mami, De La Ghetto",ULTRA SOLO REMIX,Sony Music Entertainment Chile S.A,44,125,13,7043351,2022-09-15
+141,spotify:track:6wtZPYBIXUvCpXwVjMCJBf,"Polimá Westcoast, Pailita, Feid, Paloma Mami, De La Ghetto",ULTRA SOLO REMIX,Sony Music Entertainment Chile S.A,44,125,13,7043351,2022-09-15
 142,spotify:track:3WMj8moIAXJhHsyLaqIIHI,Zach Bryan,Something in the Orange,Warner Records,142,-1,1,7040023,2022-09-15
 143,spotify:track:1gH1h30wkQdd9zhY3j7a8T,Rex Orange County,THE SHADE,Rex Orange County,116,121,8,7022666,2022-09-15
 144,spotify:track:7gwT3HGL84vF7bgtwL1N88,Lasso,Ojos Marrones,Universal Music Mexico,71,117,11,7020550,2022-09-15
@@ -175,7 +175,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 174,spotify:track:3DarAbFujv6eYNliUTyqtz,"Doja Cat, SZA",Kiss Me More (feat. SZA),Kemosabe Records/RCA Records,3,167,75,6246403,2022-09-15
 175,spotify:track:5QDLhrAOJJdNAmCTJ8xMyW,BTS,Dynamite,BIGHIT MUSIC,2,172,108,6242748,2022-09-15
 176,spotify:track:5TXDeTFVRVY7Cvt0Dw4vWW,XXXTENTACION,Revenge,Bad Vibes Forever / EMPIRE,63,179,29,6227435,2022-09-15
-177,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhayco",DÁKITI,Rimas Entertainment LLC,1,173,98,6212805,2022-09-15
+177,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhay Cortez",DÁKITI,Rimas Entertainment LLC,1,173,98,6212805,2022-09-15
 178,spotify:track:5qaEfEh1AtSdrdrByCP7qR,Imagine Dragons,Demons,Kid Ina Korner / Interscope,178,183,5,6174452,2022-09-15
 179,spotify:track:1v7L65Lzy0j0vdpRjJewt1,Eminem,"Lose Yourself - From ""8 Mile"" Soundtrack",Aftermath,44,191,91,6168623,2022-09-15
 180,spotify:track:59CfNbkERJ3NoTXDvoURjj,Dove Cameron,Boyfriend,Disruptor Records/Columbia,11,168,31,6141366,2022-09-15
@@ -187,7 +187,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 186,spotify:track:2K7xn816oNHJZ0aVqdQsha,The Neighbourhood,Softcore,Columbia,35,197,34,6122503,2022-09-15
 187,spotify:track:3dYD57lRAUcMHufyqn9GcI,Hozier,Take Me To Church,Universal-Island Records Ltd.,108,200,88,6109762,2022-09-15
 188,spotify:track:3Wrjm47oTz2sjIgck11l5e,Måneskin,Beggin',RCA Records Label,1,-1,66,6090378,2022-09-15
-189,spotify:track:1Y62KpDaP5MEL43ZcI6IaG,"Quevedo, Ovy On The Drums",SIN SEÑAL,Quevedo,189,190,2,6076210,2022-09-15
+189,spotify:track:1Y62KpDaP5MEL43ZcI6IaG,"Quevedo, Ovy On The Drums",Sin Señal,Quevedo,189,190,2,6076210,2022-09-15
 190,spotify:track:7D0RhFcb3CrfPuTJ0obrod,Coldplay,Sparks,Parlophone UK,190,-1,1,6044826,2022-09-15
 191,spotify:track:5g7sDjBhZ4I3gcFIpkrLuI,Bruno Mars,Locked out of Heaven,Atlantic Records,106,194,37,6014882,2022-09-15
 192,spotify:track:7JJmb5XwzOO8jgpou264Ml,Shawn Mendes,There's Nothing Holdin' Me Back,Island Records,5,-1,75,6011442,2022-09-15

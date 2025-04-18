@@ -22,7 +22,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 21,spotify:track:4hQ6UGyWQIGJmHSo0J88JW,Selena Gomez,Back To You - From 13 Reasons Why – Season 2 Soundtrack,UMGRI Interscope,4,19,10,16951697,2018-07-19
 22,spotify:track:4j3GWI86JvSaF0BLdmgcfF,Childish Gambino,Summertime Magic,Wolf+Rothstein/RCA Records,22,191,2,16749909,2018-07-19
 23,spotify:track:5SxkdsY1ufZzoq9iXceLw9,Ariana Grande,no tears left to cry,Republic Records,2,20,13,16510055,2018-07-19
-24,spotify:track:2ijef6ni2amuunRoKTlgww,"Becky G, NATTI NATASHA",Sin Pijama,Sony Music Latin,24,25,12,14962055,2018-07-19
+24,spotify:track:2ijef6ni2amuunRoKTlgww,"Becky G, Natti Natasha",Sin Pijama,Sony Music Latin,24,25,12,14962055,2018-07-19
 25,spotify:track:0kHyKhJMukHEPfeh8s7rdM,"Kygo, Imagine Dragons",Born To Be Yours,Kygo,25,29,5,13905970,2018-07-19
 26,spotify:track:7AFASza1mXqntmGtbxXprO,XXXTENTACION,changes,"Bad Vibes Forever, LLC",9,22,20,13677774,2018-07-19
 27,spotify:track:1ZEm9cJC05rawV2tptNfTS,"Nicki Minaj, Ariana Grande",Bed (feat. Ariana Grande),Young Money/Cash Money Records,22,31,5,13496542,2018-07-19
@@ -48,7 +48,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 47,spotify:track:0u2P5u6lvoDfwTYjAADbn4,"Billie Eilish, Khalid",lovely (with Khalid),Darkroom,24,40,13,10100946,2018-07-19
 48,spotify:track:6jA8JUuPCGYjFcgw0AoM5T,"Reik, Ozuna, Wisin",Me Niego (feat. Ozuna & Wisin),Columbia,22,43,22,9859532,2018-07-19
 49,spotify:track:1s2B5cndbqK8rPJEIcKJRQ,"Ozuna, Manuel Turizo",Vaina Loca,VP Records Corp/Dimelo Vi,49,63,3,9840859,2018-07-19
-50,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),Bloc Nation,6,50,23,9478647,2018-07-19
+50,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),OVO Sound/Warner Records,6,50,23,9478647,2018-07-19
 51,spotify:track:7qiZfU4dY1lWllzX7mPBI3,Ed Sheeran,Shape of You,Atlantic Records UK,1,54,80,9320187,2018-07-19
 52,spotify:track:7sFYVcKSb24qg0dAkqLEFj,KAROL G,Mi Cama,UMLE - Latino,52,52,7,8909031,2018-07-19
 53,spotify:track:76cy1WJvNGJTj78UqeA5zr,Dua Lipa,IDGAF,Warner Records,4,48,29,8844454,2018-07-19
@@ -62,7 +62,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 61,spotify:track:1v1IXPXl73Z7zy6f5tUa9n,Drake,Emotionless,Cash Money/Drake LP6,6,28,3,7924641,2018-07-19
 62,spotify:track:7DrluKkTviBwCc8AV3VGmf,"Shakira, Maluma",Clandestino,Sony Music Latin,62,82,6,7797932,2018-07-19
 63,spotify:track:6752EZMgXswvRBH3N2PilO,Ozuna,Unica,VP Records Corp/Dimelo Vi,63,69,8,7754505,2018-07-19
-64,spotify:track:6U2NuJILEOEpW2tVCuqKHb,"Daddy Yankee, NATTI NATASHA, Becky G, Bad Bunny",Dura - Remix,El Cartel Records (EC3),52,62,12,7752843,2018-07-19
+64,spotify:track:6U2NuJILEOEpW2tVCuqKHb,"Daddy Yankee, Natti Natasha, Becky G, Bad Bunny",Dura - Remix,El Cartel Records (EC3),52,62,12,7752843,2018-07-19
 65,spotify:track:2ekn2ttSfGqwhhate0LSR0,Dua Lipa,New Rules,Warner Records,2,73,54,7663629,2018-07-19
 66,spotify:track:1oc3jna2ablnfIKLYbKujl,Years & Years,If You're Over Me,Polydor Records,66,68,7,7588783,2018-07-19
 67,spotify:track:0E9ZjEAyAwOXZ7wJC0PD33,"Dynoro, Gigi D'Agostino",In My Mind,Columbia/B1 Recordings,67,121,2,7587531,2018-07-19
@@ -116,7 +116,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 115,spotify:track:2RVrdr062uLFxXwIxwdXPH,"Piso 21, Paulo Londra",Te Amo,WM Mexico,76,122,17,5438487,2018-07-19
 116,spotify:track:2CWnuF7ht55Ajyeg4WPvWu,BLACKPINK,DDU-DU DDU-DU,"2018 YG Entertainment, distributed through Interscope Records",47,108,5,5417805,2018-07-19
 117,spotify:track:3JJYIoJ5FyY9E0DGjr7SXF,Lauv,Enemies,Lauv,107,128,4,5417301,2018-07-19
-118,spotify:track:0Y4hwUppbGc8aIBmiTz30A,"Liam Payne, J Balvin",Familiar,Capitol Records UK / EMI,57,118,13,5408831,2018-07-19
+118,spotify:track:0Y4hwUppbGc8aIBmiTz30A,"Liam Payne, J Balvin",Familiar,Capitol,57,118,13,5408831,2018-07-19
 119,spotify:track:7sO5G9EABYOXQKNPNiE9NR,"Offset, Metro Boomin",Ric Flair Drip (with Metro Boomin),"Slaughter Gang, LLC/Epic/Quality Control Music/Motown/Capitol/Boominati Worldwide/Republic",32,126,38,5332198,2018-07-19
 120,spotify:track:6xTU6B6nFwKKTSZ9ySXS80,"Kygo, Miguel",Remind Me to Forget,Kygo,29,116,18,5329824,2018-07-19
 121,spotify:track:083Qf6hn6sFL6xiOHlZUyn,Jess Glynne,I'll Be There,Atlantic Records UK,66,125,11,5280557,2018-07-19
@@ -181,7 +181,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 180,spotify:track:5Z3GHaZ6ec9bsiI5BenrbY,Khalid,Young Dumb & Broke,"Right Hand Music Group, LLC/RCA Records",12,172,56,4139250,2018-07-19
 181,spotify:track:3fpVWegR6YOS1Yk5HSMYIq,Post Malone,Paranoid,Republic Records,4,173,12,4076428,2018-07-19
 182,spotify:track:5qqabIl2vWzo9ApSC317sa,Oasis,Wonderwall - Remastered,Big Brother,152,198,40,4037172,2018-07-19
-183,spotify:track:6Za3190Sbw39BBC77WSS1C,"NATTI NATASHA, Ozuna",Criminal,Pina Records,21,178,44,4031022,2018-07-19
+183,spotify:track:6Za3190Sbw39BBC77WSS1C,"Natti Natasha, Ozuna",Criminal,Pina Records,21,178,44,4031022,2018-07-19
 184,spotify:track:1Slwb6dOYkBlWal1PGtnNg,Ed Sheeran,Thinking out Loud,Atlantic Records UK,58,189,82,4026880,2018-07-19
 185,spotify:track:3Du2K5dLzmduCNp6uwuaL0,Demi Lovato,Sorry Not Sorry,Island Records,7,188,53,4026211,2018-07-19
 186,spotify:track:0TCnOEVeLQMXOUrpPlM7uY,"Rae Sremmurd, Swae Lee, Slim Jxmmi",Guatemala - From Swaecation,Mike WiLL Made-It,111,168,8,4023775,2018-07-19

@@ -10,7 +10,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 9,spotify:track:4iLqG9SeJSnt0cSPICSjxv,Charlie Puth,Attention,Artist Partner,5,7,18,18764590,2017-08-24
 10,spotify:track:7qiZfU4dY1lWllzX7mPBI3,Ed Sheeran,Shape of You,Atlantic Records UK,1,8,33,18479947,2017-08-24
 11,spotify:track:25C5CowdsfXld2jJanbiex,Demi Lovato,Sorry Not Sorry,Island Records,11,14,7,17865110,2017-08-24
-12,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,9,11,14,17427350,2017-08-24
+12,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,9,11,14,17427350,2017-08-24
 13,spotify:track:3DXncPQOG4VBw3QHh3S817,"DJ Khaled, Justin Bieber, Quavo, Chance the Rapper, Lil Wayne","I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",Epic/We The Best,2,9,17,17294945,2017-08-24
 14,spotify:track:0tKcYR2II1VCQWT79i5NrW,Imagine Dragons,Thunder,Kid Ina Korner / Interscope,8,12,17,17108973,2017-08-24
 15,spotify:track:3PEgB3fkiojxms35ntsTgs,Axwell /\ Ingrosso,More Than You Know,EMI,15,15,13,16550135,2017-08-24
@@ -56,7 +56,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 55,spotify:track:31MkGwj0SWgZaTvEt5Hgxv,P!nk,What About Us,RCA Records Label,55,67,2,7821134,2017-08-24
 56,spotify:track:0dA2Mk56wEzDgegdC6R17g,"Zedd, Alessia Cara",Stay,UMGRI Interscope,7,47,26,7710298,2017-08-24
 57,spotify:track:57p8CBvPOxrvyCbn6ttl5r,"Skrillex, Poo Bear",Would You Ever,OWSLA/Atlantic,57,69,4,7646276,2017-08-24
-58,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcángel",Ahora Dice,UMLE - Latino,46,57,20,7555935,2017-08-24
+58,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcangel",Ahora Dice,UMLE - Latino,46,57,20,7555935,2017-08-24
 59,spotify:track:3kxfsdsCpFgN412fpnW85Y,Childish Gambino,Redbone,Glassnote Entertainment Group LLC,35,44,35,7511253,2017-08-24
 60,spotify:track:3rOSwuTsUlJp0Pu0MkN8r8,Future,Mask Off,Epic/Freebandz/A1,5,58,27,7204145,2017-08-24
 61,spotify:track:3eR23VReFzcdmS7TYCrhCe,"Kygo, Selena Gomez",It Ain't Me (with Selena Gomez),Kygo,2,60,27,6900381,2017-08-24

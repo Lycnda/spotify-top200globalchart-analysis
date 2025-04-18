@@ -62,7 +62,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 61,spotify:track:0IuVhCflrQPMGRrOyoY5RW,Tate McRae,she's all i wanna be,RCA Records Label,38,67,8,8442426,2022-03-31
 62,spotify:track:4RVwu0g32PAqgUiJoXsdF8,Billie Eilish,Happier Than Ever,Darkroom/Interscope Records,6,66,35,8382395,2022-03-31
 63,spotify:track:4srcMdbm2qzVG98tJajHxp,"Alejo, Feid, ROBI",Pantysito,UMLE - Latino,63,99,2,8356120,2022-03-31
-64,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhayco",DÁKITI,Rimas Entertainment LLC,1,59,74,8298669,2022-03-31
+64,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhay Cortez",DÁKITI,Rimas Entertainment LLC,1,59,74,8298669,2022-03-31
 65,spotify:track:0oA9wBGDY4uyILLg4GymWP,"AnnenMayKantereit, Giant Rooks",Tom's Diner,Vertigo Berlin,65,90,2,8288971,2022-03-31
 66,spotify:track:5gflgO9EPbIBf16n5TKnQS,Zion & Lennox,Yo Voy (feat. Daddy Yankee),Baby Records Inc,63,64,6,8261411,2022-03-31
 67,spotify:track:6UelLqGlWMcVH1E5c4H7lY,Harry Styles,Watermelon Sugar,Columbia,4,73,124,8210299,2022-03-31
@@ -142,7 +142,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 141,spotify:track:0ct6r3EGTcMLPtrXHDvVjc,Avicii,The Nights,Universal Music AB,44,141,55,6077262,2022-03-31
 142,spotify:track:76YSWx6L6FNsuaP6GWBb8P,"Labrinth, Zendaya",All For Us,Syco Music,43,104,12,6062083,2022-03-31
 143,spotify:track:1DIXPcTDzTj8ZMHt3PDt8p,"Coolio, L.V.",Gangsta's Paradise,"Tommy Boy Music, LLC",116,142,23,6046209,2022-03-31
-144,spotify:track:6f5ExP43esnvdKPddwKXJH,"NEIKED, Mae Muller, Polo G",Better Days (NEIKED x Mae Muller x Polo G),Capitol Records UK / EMI,32,146,24,6039815,2022-03-31
+144,spotify:track:6f5ExP43esnvdKPddwKXJH,"NEIKED, Mae Muller, Polo G",Better Days (NEIKED x Mae Muller x Polo G),Capitol,32,146,24,6039815,2022-03-31
 145,spotify:track:4u7EnebtmKWzUH433cf5Qv,Queen,Bohemian Rhapsody - Remastered 2011,EMI,11,147,183,6026601,2022-03-31
 146,spotify:track:0dcnrLo8s1rhjm8euGjI4n,TREASURE,DARARI,YG Entertainment,102,118,5,6013795,2022-03-31
 147,spotify:track:6EtKlIQmGPB9SX8UjDJG5s,Labrinth,Formula,Masterworks,68,117,11,5994464,2022-03-31

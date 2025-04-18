@@ -14,7 +14,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 13,spotify:track:0ofbQMrRDsUaVKq2mGLEAb,"Camila Cabello, Young Thug",Havana (feat. Young Thug),Syco Music/Epic,13,23,4,17395453,2017-08-31
 14,spotify:track:3A7qX2QjDlPnazUsRk5y0M,"David Guetta, Justin Bieber",2U (feat. Justin Bieber),Parlophone (France),3,8,12,17307002,2017-08-31
 15,spotify:track:7F9vK8hNFMml4GtHsaXui6,"Louis Tomlinson, Bebe Rexha, Digital Farm Animals",Back to You (feat. Bebe Rexha & Digital Farm Animals),Syco Music,15,17,6,17094543,2017-08-31
-16,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,9,12,15,16856817,2017-08-31
+16,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,9,12,15,16856817,2017-08-31
 17,spotify:track:0tKcYR2II1VCQWT79i5NrW,Imagine Dragons,Thunder,Kid Ina Korner / Interscope,8,14,18,16783183,2017-08-31
 18,spotify:track:3PEgB3fkiojxms35ntsTgs,Axwell /\ Ingrosso,More Than You Know,EMI,15,15,14,16459437,2017-08-31
 19,spotify:track:7vGuf3Y35N4wmASOKLUVVU,"Marshmello, Khalid",Silence,Joytime Collective/RCA Records,19,25,3,16265782,2017-08-31
@@ -62,7 +62,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 61,spotify:track:57p8CBvPOxrvyCbn6ttl5r,"Skrillex, Poo Bear",Would You Ever,OWSLA/Atlantic,57,57,5,7671708,2017-08-31
 62,spotify:track:0dA2Mk56wEzDgegdC6R17g,"Zedd, Alessia Cara",Stay,UMGRI Interscope,7,56,27,7501143,2017-08-31
 63,spotify:track:5TXDeTFVRVY7Cvt0Dw4vWW,XXXTENTACION,Revenge,Bad Vibes Forever / EMPIRE,63,-1,1,7415782,2017-08-31
-64,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcángel",Ahora Dice,UMLE - Latino,46,58,21,7228989,2017-08-31
+64,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcangel",Ahora Dice,UMLE - Latino,46,58,21,7228989,2017-08-31
 65,spotify:track:5XQMr19TL7Mfksq9zihbOu,Chris Brown,Questions,RCA Records Label,65,81,2,7209213,2017-08-31
 66,spotify:track:7JNh1cfm0eXjqFVOzKLyau,"Becky G, Bad Bunny",Mayores,Kemosabe Records/RCA Records/Sony Music Latin,66,70,5,7181439,2017-08-31
 67,spotify:track:3kxfsdsCpFgN412fpnW85Y,Childish Gambino,Redbone,Glassnote Entertainment Group LLC,35,59,36,6800811,2017-08-31

@@ -19,7 +19,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 18,spotify:track:0tKcYR2II1VCQWT79i5NrW,Imagine Dragons,Thunder,Kid Ina Korner / Interscope,8,17,19,16269574,2017-09-07
 19,spotify:track:3PEgB3fkiojxms35ntsTgs,Axwell /\ Ingrosso,More Than You Know,EMI,15,18,15,16053633,2017-09-07
 20,spotify:track:3A7qX2QjDlPnazUsRk5y0M,"David Guetta, Justin Bieber",2U (feat. Justin Bieber),Parlophone (France),3,14,13,15954728,2017-09-07
-21,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,9,16,16,15718898,2017-09-07
+21,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,9,16,16,15718898,2017-09-07
 22,spotify:track:0NiXXAI876aGImAd6rTj8w,"Jonas Blue, William Singe",Mama,UMOD (Universal Music On Demand),11,20,18,15188739,2017-09-07
 23,spotify:track:3HVr6jTVwBHBa2flM0eURR,"Macklemore, Skylar Grey",Glorious (feat. Skylar Grey),Bendo LLC,19,21,9,14872065,2017-09-07
 24,spotify:track:79cuOz3SPQTuFrp8WgftAu,Shawn Mendes,There's Nothing Holdin' Me Back,Island Records,5,23,20,14272314,2017-09-07
@@ -61,7 +61,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 60,spotify:track:0jdny0dhgjUwoIp5GkqEaA,Kesha,Praying,Kemosabe Records/RCA Records,37,57,9,7196382,2017-09-07
 61,spotify:track:3GVkPk8mqxz0itaAriG1L7,XXXTENTACION,Everybody Dies In Their Nightmares,Bad Vibes Forever / EMPIRE,52,52,2,7167018,2017-09-07
 62,spotify:track:57p8CBvPOxrvyCbn6ttl5r,"Skrillex, Poo Bear",Would You Ever,OWSLA/Atlantic,57,61,6,7066537,2017-09-07
-63,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcángel",Ahora Dice,UMLE - Latino,46,64,22,7041209,2017-09-07
+63,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcangel",Ahora Dice,UMLE - Latino,46,64,22,7041209,2017-09-07
 64,spotify:track:2eAZfqOm4EnOF9VvN50Tyc,"Lil Uzi Vert, Oh Wonder",The Way Life Goes (feat. Oh Wonder),Generation Now/Atlantic,53,53,2,6940416,2017-09-07
 65,spotify:track:0KKkJNfGyhkQ5aFogxQAPU,Bruno Mars,That's What I Like,Atlantic Records,6,59,37,6939741,2017-09-07
 66,spotify:track:1louJpMmzEicAn7lzDalPW,"Cheat Codes, Demi Lovato",No Promises (feat. Demi Lovato),Parlophone UK,24,60,23,6937445,2017-09-07

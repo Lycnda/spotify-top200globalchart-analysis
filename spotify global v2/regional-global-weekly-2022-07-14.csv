@@ -1,5 +1,5 @@
 rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,streams,End Date
-1,spotify:track:75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God),Fish People,1,1,7,46609146,2022-07-14
+1,spotify:track:75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God),Parlophone UK,1,1,7,46609146,2022-07-14
 2,spotify:track:4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,Columbia,1,2,15,44759969,2022-07-14
 3,spotify:track:2tTmW7RDtMQtBk7m2rYeSw,"Bizarrap, Quevedo","Quevedo: Bzrp Music Sessions, Vol. 52",DALE PLAY Records,3,-1,1,38443942,2022-07-14
 4,spotify:track:6Sq7ltF9Qa7SNFBsV5Cogx,"Bad Bunny, Chencho Corleone",Me Porto Bonito,Rimas Entertainment LLC,2,4,10,38042392,2022-07-14
@@ -15,7 +15,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 14,spotify:track:2rurDawMfoKP4uHyb2kJBt,"Shakira, Rauw Alejandro",Te Felicito,Sony Music Latin,13,14,12,17913759,2022-07-14
 15,spotify:track:4h9wh7iOZ0GGn8QVp4RAOB,OneRepublic,I Ain't Worried,Interscope Records,15,20,6,17494174,2022-07-14
 16,spotify:track:3F5CgOj3wFlRv51JsHbxhe,"Drake, 21 Savage",Jimmy Cooks (feat. 21 Savage),OVO,7,13,4,17140949,2022-07-14
-17,spotify:track:41oY4WCTj5kccfesTVFnvN,"Bad Bunny, Jhayco",Tarot,Rimas Entertainment LLC,9,16,10,17125522,2022-07-14
+17,spotify:track:41oY4WCTj5kccfesTVFnvN,"Bad Bunny, Jhay Cortez",Tarot,Rimas Entertainment LLC,9,16,10,17125522,2022-07-14
 18,spotify:track:4tYFy8ALRjIZvnvSLw5lxN,"Bad Bunny, Rauw Alejandro",Party,Rimas Entertainment LLC,6,15,10,16783874,2022-07-14
 19,spotify:track:5PjdY0CKGZdEuoNab3yDmX,"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),Columbia,1,17,53,16690829,2022-07-14
 20,spotify:track:2MuWTIM3b0YEAskbeeFE1i,Metallica,Master Of Puppets,Blackened Recordings / Universal Music,20,26,2,16064478,2022-07-14
@@ -49,7 +49,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 48,spotify:track:6UelLqGlWMcVH1E5c4H7lY,Harry Styles,Watermelon Sugar,Columbia,4,50,139,10476053,2022-07-14
 49,spotify:track:7jtQIBanIiJOMS6RyCx6jZ,Tom Odell,Another Love,ITNO/Columbia,29,51,66,10250644,2022-07-14
 50,spotify:track:0oiv4E896TUTTeQU0cmIui,Drake,Massive,OVO,18,46,4,10210464,2022-07-14
-51,spotify:track:6wtZPYBIXUvCpXwVjMCJBf,"Polimá Westcoast, Feid, Pailita, Paloma Mami, De La Ghetto",ULTRA SOLO REMIX,Sony Music Entertainment Chile S.A,44,53,4,10184548,2022-07-14
+51,spotify:track:6wtZPYBIXUvCpXwVjMCJBf,"Polimá Westcoast, Pailita, Feid, Paloma Mami, De La Ghetto",ULTRA SOLO REMIX,Sony Music Entertainment Chile S.A,44,53,4,10184548,2022-07-14
 52,spotify:track:31i56LZnwE6uSu3exoHjtB,Bad Bunny,Neverita,Rimas Entertainment LLC,15,52,10,9909100,2022-07-14
 53,spotify:track:2B4GHvToeLTOBB4QLzW3Ni,Farruko,Pepas,Sony Music Latin,4,55,53,9862960,2022-07-14
 54,spotify:track:4hceSKjrkDTO0nMKFcb3sj,"Bizarrap, Villano Antillano","Villano Antillano: Bzrp Music Sessions, Vol. 51",DALE PLAY Records,54,97,5,9730344,2022-07-14
@@ -162,7 +162,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 161,spotify:track:18HOjcvTVV7W8YzBuOsAPS,Bad Bunny,Un Verano Sin Ti,Rimas Entertainment LLC,20,132,10,6253523,2022-07-14
 162,spotify:track:2J2Z1SkXYghSajLibnQHOa,Sia,Unstoppable,Monkey Puzzle Records/RCA Records,107,152,22,6251829,2022-07-14
 163,spotify:track:48AJSd42lXpicsGqcgopof,"Daddy Yankee, Bad Bunny",X ÚLTIMA VEZ,Republic Records,18,137,16,6246991,2022-07-14
-164,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhayco",DÁKITI,Rimas Entertainment LLC,1,153,89,6238240,2022-07-14
+164,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhay Cortez",DÁKITI,Rimas Entertainment LLC,1,153,89,6238240,2022-07-14
 165,spotify:track:7fBv7CLKzipRk6EC6TWHOB,The Weeknd,The Hills,Universal Republic Records,52,167,46,6217639,2022-07-14
 166,spotify:track:0i4UV3HjjvsUuV3BajEXoD,"MC Tairon, Mc Vitin Da Igrejinha, Dj Win",Baile no Morro,Life Song Records,154,154,2,6217171,2022-07-14
 167,spotify:track:0fea68AdmYNygeTGI4RC18,"J Balvin, Bad Bunny",LA CANCIÓN,Universal Music Latino / Rimas,17,161,73,6146420,2022-07-14

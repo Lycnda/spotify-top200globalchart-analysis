@@ -53,7 +53,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 52,spotify:track:1bjhYUwKUHEg5fHknxFObO,Frank Ocean,Lost,Red Zone Entertainment / IDJ,52,57,2,9375050,2022-01-27
 53,spotify:track:2eAvDnpXP5W0cVtiI0PUxV,Ruth B.,Dandelions,Columbia,53,60,24,9360892,2022-01-27
 54,spotify:track:37BZB0z9T8Xu7U3e65qxFy,"The Weeknd, Ariana Grande",Save Your Tears (with Ariana Grande) (Remix),Republic Records,5,56,40,9287028,2022-01-27
-55,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhayco",DÁKITI,Rimas Entertainment LLC,1,67,65,9000253,2022-01-27
+55,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhay Cortez",DÁKITI,Rimas Entertainment LLC,1,67,65,9000253,2022-01-27
 56,spotify:track:0Be7sopyKMv8Y8npsUkax2,Sebastian Yatra,Tacones Rojos,UMLE - Latino,56,58,10,8968782,2022-01-27
 57,spotify:track:29m79w9xPMH4YCD6r8JSmV,"AP Dhillon, Gurinder Gill, Intense",Excuses,RUN-UP RECORDS,57,95,2,8775546,2022-01-27
 58,spotify:track:2KnLkZ3z7PO3kgVGHGqDpD,Shawn Mendes,It'll Be Okay,Shawn Mendes LP4-5 PS/ Island,55,55,8,8774579,2022-01-27
@@ -94,7 +94,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 93,spotify:track:5rohUzwEoRsUvAA1Bf3DLo,Sebastian Yatra,Dos Oruguitas,Walt Disney Records,93,104,3,7224737,2022-01-27
 94,spotify:track:7jtQIBanIiJOMS6RyCx6jZ,Tom Odell,Another Love,ITNO/Columbia,76,96,42,7182641,2022-01-27
 95,spotify:track:09gysnJpfQ3ublBmJDfcEC,"Amaarae, Kali Uchis, Moliy",SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),0207 Def Jam,23,86,13,7103872,2022-01-27
-96,spotify:track:6f5ExP43esnvdKPddwKXJH,"NEIKED, Mae Muller, Polo G",Better Days (NEIKED x Mae Muller x Polo G),Capitol Records UK / EMI,32,85,15,7101448,2022-01-27
+96,spotify:track:6f5ExP43esnvdKPddwKXJH,"NEIKED, Mae Muller, Polo G",Better Days (NEIKED x Mae Muller x Polo G),Capitol,32,85,15,7101448,2022-01-27
 97,spotify:track:7EkWXAI1wn8Ii883ecd9xr,Surf Curse,Freaks,Surf Curse,55,102,39,7053104,2022-01-27
 98,spotify:track:0u2P5u6lvoDfwTYjAADbn4,"Billie Eilish, Khalid",lovely (with Khalid),Darkroom,24,99,197,7029152,2022-01-27
 99,spotify:track:2vXKRlJBXyOcvZYTdNeckS,"Gesaffelstein, The Weeknd",Lost in the Fire (feat. The Weeknd),Columbia,12,91,13,6974985,2022-01-27
@@ -135,7 +135,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 134,spotify:track:3M0lSi5WW79CXQamgSBIjx,Chase Atlantic,Swim,Warner Records,134,-1,1,5967488,2022-01-27
 135,spotify:track:48QmG1dfvMuYLxMPt7KSRA,"Sean Paul, Dua Lipa",No Lie,Universal-Island Records Ltd.,80,134,26,5964965,2022-01-27
 136,spotify:track:7qiZfU4dY1lWllzX7mPBI3,Ed Sheeran,Shape of You,Atlantic Records UK,1,142,261,5962258,2022-01-27
-137,spotify:track:5W1qmxHrMlQGGAiFA3ZQqP,"Dímelo Flow, Dalex, Sech, Justin Quiles, Arcángel, De La Ghetto, Lenny Tavárez",Se Le Ve,Rich Music,137,156,4,5951158,2022-01-27
+137,spotify:track:5W1qmxHrMlQGGAiFA3ZQqP,"Dímelo Flow, Dalex, Sech, Justin Quiles, Arcangel, De La Ghetto, Lenny Tavárez",Se Le Ve,Rich Music,137,156,4,5951158,2022-01-27
 138,spotify:track:0ct6r3EGTcMLPtrXHDvVjc,Avicii,The Nights,Universal Music AB,44,137,46,5944560,2022-01-27
 139,spotify:track:0gucTLf7trAf37Ua1uAyAu,Nirvana,Smells Like Teen Spirit,Geffen,109,150,55,5942303,2022-01-27
 140,spotify:track:2gMXnyrvIjhVBUZwvLZDMP,Lewis Capaldi,Before You Go,Vertigo Berlin,19,127,114,5921792,2022-01-27

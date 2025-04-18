@@ -5,7 +5,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 4,spotify:track:3rWDp9tBPQR9z6U5YyRSK4,Taylor Swift,Midnight Rain,Taylor Swift,4,-1,1,54035803,2022-10-27
 5,spotify:track:3eX0NZfLtGzoLUxPNvRfqm,Taylor Swift,Maroon,Taylor Swift,5,-1,1,53657547,2022-10-27
 6,spotify:track:4D7BCuvgdJlYvlX5WlN54t,Taylor Swift,"You're On Your Own, Kid",Taylor Swift,6,-1,1,50484259,2022-10-27
-7,spotify:track:3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),Capitol Records UK / EMI,1,1,5,50366139,2022-10-27
+7,spotify:track:3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),EMI,1,1,5,50366139,2022-10-27
 8,spotify:track:7KokYm8cMIXCsGVmUvKtqf,Taylor Swift,Karma,Taylor Swift,8,-1,1,46788921,2022-10-27
 9,spotify:track:1xwAWUI6Dj0WGC3KiUPN0O,Taylor Swift,Vigilante Shit,Taylor Swift,9,-1,1,46504014,2022-10-27
 10,spotify:track:0heeNYlwOGuUSe7TgUD27B,Taylor Swift,Question...?,Taylor Swift,10,-1,1,45085239,2022-10-27
@@ -67,10 +67,10 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 66,spotify:track:561jH07mF1jHuk7KlaeF0s,Eminem,Mockingbird,Aftermath,66,108,2,11167853,2022-10-27
 67,spotify:track:0O6u0VJ46W86TxN9wgyqDj,"Post Malone, Doja Cat",I Like You (A Happier Song) (with Doja Cat),Mercury Records/Republic Records,10,43,21,11044373,2022-10-27
 68,spotify:track:6JIC3hbC28JZKZ8AlAqX8h,"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,EMI,4,47,63,10963818,2022-10-27
-69,spotify:track:7iwJOi3hlMqZt6pj1sQOBj,Quevedo,VISTA AL MAR,Quevedo,45,51,7,10843932,2022-10-27
+69,spotify:track:7iwJOi3hlMqZt6pj1sQOBj,Quevedo,Vista Al Mar,Quevedo,45,51,7,10843932,2022-10-27
 70,spotify:track:58ge6dfP91o9oXMzq3XkIS,Arctic Monkeys,505,Domino Recording Co,43,49,43,10792175,2022-10-27
 71,spotify:track:4h4QlmocP3IuwYEj2j14p8,"Nicky Youre, dazy",Sunroof,Thirty Knots/Columbia,28,44,25,10718142,2022-10-27
-72,spotify:track:75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God),Fish People,1,45,22,10688775,2022-10-27
+72,spotify:track:75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God),Parlophone UK,1,45,22,10688775,2022-10-27
 73,spotify:track:74loibzxXRL875X20kenvk,Lil Yachty,Poland,Quality Control Music/Motown Records,33,33,2,10665540,2022-10-27
 74,spotify:track:3F5CgOj3wFlRv51JsHbxhe,"Drake, 21 Savage",Jimmy Cooks (feat. 21 Savage),OVO,7,59,19,10565309,2022-10-27
 75,spotify:track:2eAvDnpXP5W0cVtiI0PUxV,Ruth B.,Dandelions,Columbia,34,55,63,10465012,2022-10-27
@@ -133,7 +133,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 132,spotify:track:7qEHsqek33rTcFNT9PFqLf,Lewis Capaldi,Someone You Loved,Vertigo Berlin,4,106,199,7983547,2022-10-27
 133,spotify:track:3yfqSUWxFvZELEM4PmlwIR,Eminem,The Real Slim Shady,Interscope,51,117,73,7974984,2022-10-27
 134,spotify:track:4SqWKzw0CbA05TGszDgMlc,The Walters,I Love You So,Warner Records,21,98,55,7949628,2022-10-27
-135,spotify:track:3fjN3y5x4hN53rykAN2LHQ,Rels B,cómo dormiste?,DALE PLAY Records / Flakk Team,24,97,12,7946537,2022-10-27
+135,spotify:track:3fjN3y5x4hN53rykAN2LHQ,Rels B,cómo dormiste?,Flakk Team / DALE PLAY Records,24,97,12,7946537,2022-10-27
 136,spotify:track:4ASA1PZyWGbuc4d9N8OAcF,"Gustavo Mioto, Mari Fernandez",Eu Gosto Assim - Ao Vivo,Universal Music Ltda.,121,121,3,7908889,2022-10-27
 137,spotify:track:46IZ0fSY2mpAiktS3KOqds,Adele,Easy On Me,Columbia,1,110,54,7896411,2022-10-27
 138,spotify:track:086myS9r57YsLbJpU0TgK9,Arctic Monkeys,Why'd You Only Call Me When You're High?,Domino Recording Co,104,116,51,7864627,2022-10-27
@@ -192,7 +192,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 191,spotify:track:2gYj9lubBorOPIVWsTXugG,IVE,After LIKE,Starship Entertainment,48,143,10,6546716,2022-10-27
 192,spotify:track:5E30LdtzQTGqRvNd7l6kG5,The Neighbourhood,Daddy Issues,Columbia,99,167,100,6509684,2022-10-27
 193,spotify:track:10xV5l9nhLvFpR8mqzs0bL,"Marshmello, Khalid",Numb,Joytime Collective/RCA Records,110,152,20,6476066,2022-10-27
-194,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhayco",DÁKITI,Rimas Entertainment LLC,1,182,104,6467450,2022-10-27
+194,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhay Cortez",DÁKITI,Rimas Entertainment LLC,1,182,104,6467450,2022-10-27
 195,spotify:track:0gucTLf7trAf37Ua1uAyAu,Nirvana,Smells Like Teen Spirit,Geffen,103,171,94,6436800,2022-10-27
 196,spotify:track:5g7sDjBhZ4I3gcFIpkrLuI,Bruno Mars,Locked out of Heaven,Atlantic Records,106,177,43,6434111,2022-10-27
 197,spotify:track:1UwUhKmFxGKs59xiWO60Sx,Arctic Monkeys,I Ain’t Quite Where I Think I Am,Domino Recording Co,197,-1,1,6395032,2022-10-27

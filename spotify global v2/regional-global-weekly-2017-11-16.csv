@@ -23,7 +23,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 22,spotify:track:3B54sVLJ402zGa6Xm4YGNe,"French Montana, Swae Lee",Unforgettable,Bad Boy Entertainment/Epic Records,3,21,32,12661035,2017-11-16
 23,spotify:track:0tKcYR2II1VCQWT79i5NrW,Imagine Dragons,Thunder,Kid Ina Korner / Interscope,8,25,29,12572320,2017-11-16
 24,spotify:track:7GX5flRQZVHRAGd6B4TmDO,Lil Uzi Vert,XO Tour Llif3,Generation Now/Atlantic,10,24,34,12431181,2017-11-16
-25,spotify:track:6Za3190Sbw39BBC77WSS1C,"NATTI NATASHA, Ozuna",Criminal,Pina Records,25,30,9,12124234,2017-11-16
+25,spotify:track:6Za3190Sbw39BBC77WSS1C,"Natti Natasha, Ozuna",Criminal,Pina Records,25,30,9,12124234,2017-11-16
 26,spotify:track:2rb5MvYT7ZIxbKW5hfcHx8,"J Balvin, Willy William",Mi Gente,UMLE - Latino,1,20,20,12092036,2017-11-16
 27,spotify:track:3m660poUr1chesgkkjQM7P,Demi Lovato,Sorry Not Sorry,Island Records,7,19,19,11675022,2017-11-16
 28,spotify:track:2fQrGHiQOvpL9UgPvtYy6G,21 Savage,Bank Account,"Slaughter Gang, LLC/Epic Records",22,27,19,11449649,2017-11-16
@@ -81,7 +81,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 80,spotify:track:1OAh8uOEOvTDqkKFsKksCi,"DJ Khaled, Rihanna, Bryson Tiller",Wild Thoughts (feat. Rihanna & Bryson Tiller),Epic/We The Best,2,77,22,6279381,2017-11-16
 81,spotify:track:3ojTJaonfkL96iIWa47SU3,Chris Brown,Questions,RCA Records Label,56,70,13,6233485,2017-11-16
 82,spotify:track:5uCax9HTNlzGybIStD3vDh,James Arthur,Say You Won't Let Go,Columbia,7,90,47,6205445,2017-11-16
-83,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,9,84,26,6052077,2017-11-16
+83,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,9,84,26,6052077,2017-11-16
 84,spotify:track:19WjVVgXjdKXfLXoaDPwTM,Taylor Swift,...Ready For It?,"Big Machine Records, LLC",13,103,11,5992352,2017-11-16
 85,spotify:track:0Wv5wuenRLI3BcwgT3HPIP,"DJ Snake, Lauv",A Different Way (with Lauv),Geffen,66,78,8,5948451,2017-11-16
 86,spotify:track:5yuShbu70mtHXY0yLzCQLQ,Post Malone,Go Flex,Universal Records,52,87,19,5934885,2017-11-16
@@ -96,13 +96,13 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 95,spotify:track:1Qg9jWGDkKAGZXj5v2OG59,Maroon 5,Wait,Interscope Records*,74,74,2,5660515,2017-11-16
 96,spotify:track:5Gd19NupVe5X8bAqxf9Iaz,Taylor Swift,Gorgeous,"Big Machine Records, LLC",11,102,4,5543886,2017-11-16
 97,spotify:track:38yBBH2jacvDxrznF7h08J,Niall Horan,Slow Hands,Capitol Records (US1A),29,95,28,5513328,2017-11-16
-98,spotify:track:1pZdegOXTZ2ftINo3oUuRZ,Liam Payne,Bedroom Floor,Capitol Records UK / EMI,71,91,4,5415440,2017-11-16
-99,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcángel",Ahora Dice,UMLE - Latino,46,107,32,5350183,2017-11-16
+98,spotify:track:1pZdegOXTZ2ftINo3oUuRZ,Liam Payne,Bedroom Floor,Capitol,71,91,4,5415440,2017-11-16
+99,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcangel",Ahora Dice,UMLE - Latino,46,107,32,5350183,2017-11-16
 100,spotify:track:40oKW22ZNNkEdZLJTScaQI,"Kodak Black, XXXTENTACION",Roll in Peace (feat. XXXTENTACION),Atlantic Records,79,101,13,5342208,2017-11-16
 101,spotify:track:6kex4EBAj0WHXDKZMEJaaF,"Jason Derulo, Nicki Minaj, Ty Dolla $ign",Swalla (feat. Nicki Minaj & Ty Dolla $ign),Beluga Heights/Warner Records,6,104,38,5288154,2017-11-16
 102,spotify:track:1x5sYLZiu9r5E43kMlt9f8,"Clean Bandit, Zara Larsson",Symphony (feat. Zara Larsson),Atlantic Records UK,11,109,35,5227127,2017-11-16
 103,spotify:track:6p8NuHm8uCGnn2Dtbtf7zE,"Migos, Gucci Mane",Slippery (feat. Gucci Mane),Quality Control Music,71,108,33,5213368,2017-11-16
-104,spotify:track:0tPQPaOKM32WgMSbPCYyRH,"David Guetta, AFROJACK, Charli XCX, French Montana",Dirty Sexy Money (feat. Charli XCX & French Montana),Parlophone (France),104,135,2,5167474,2017-11-16
+104,spotify:track:0tPQPaOKM32WgMSbPCYyRH,"David Guetta, Afrojack, Charli XCX, French Montana",Dirty Sexy Money (feat. Charli XCX & French Montana),Parlophone (France),104,135,2,5167474,2017-11-16
 105,spotify:track:790MhTXPFrYkrqCKvpg4t1,"NAV, Lil Uzi Vert",Wanted You (feat. Lil Uzi Vert),XO Records,105,-1,1,5139572,2017-11-16
 106,spotify:track:0afhq8XCExXpqazXczTSve,Ed Sheeran,Galway Girl,Atlantic Records UK,2,121,37,5128935,2017-11-16
 107,spotify:track:4lESS6vuruP6a79KWRaQou,"Maluma, Nego do Borel",Corazón (feat. Nego do Borel),Sony Music Latin,107,133,2,5056434,2017-11-16

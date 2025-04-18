@@ -1,5 +1,5 @@
 rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,streams,End Date
-1,spotify:track:75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God),Fish People,1,4,2,57221016,2022-06-09
+1,spotify:track:75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God),Parlophone UK,1,4,2,57221016,2022-06-09
 2,spotify:track:4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,Columbia,1,1,10,56282016,2022-06-09
 3,spotify:track:6Sq7ltF9Qa7SNFBsV5Cogx,"Bad Bunny, Chencho Corleone",Me Porto Bonito,Rimas Entertainment LLC,2,2,5,39839157,2022-06-09
 4,spotify:track:3k3NWokhRRkEPhCzPmV8TW,"Bad Bunny, Bomba Estéreo",Ojitos Lindos,Rimas Entertainment LLC,3,3,5,37479812,2022-06-09
@@ -17,7 +17,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 16,spotify:track:5PjdY0CKGZdEuoNab3yDmX,"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),Columbia,1,15,48,19362515,2022-06-09
 17,spotify:track:2DB4DdfCFMw1iaR6JaR03a,"Camila Cabello, Ed Sheeran",Bam Bam (feat. Ed Sheeran),Epic,5,16,14,19302179,2022-06-09
 18,spotify:track:32vE1nuG8T9c8bhmZdRY6d,"Post Malone, Roddy Ricch",Cooped Up (with Roddy Ricch),Mercury Records/Republic Records,18,52,4,19140766,2022-06-09
-19,spotify:track:41oY4WCTj5kccfesTVFnvN,"Bad Bunny, Jhayco",Tarot,Rimas Entertainment LLC,9,19,5,17713807,2022-06-09
+19,spotify:track:41oY4WCTj5kccfesTVFnvN,"Bad Bunny, Jhay Cortez",Tarot,Rimas Entertainment LLC,9,19,5,17713807,2022-06-09
 20,spotify:track:1dm6z1fWB0cErMszU25dy2,Bad Bunny,Después de la Playa,Rimas Entertainment LLC,7,18,5,17049379,2022-06-09
 21,spotify:track:6JIC3hbC28JZKZ8AlAqX8h,"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,EMI,4,21,43,16997794,2022-06-09
 22,spotify:track:58HvfVOeJY7lUuCqF0m3ly,Elley Duhé,MIDDLE OF THE NIGHT,Not Fit For Society/RCA Records,11,22,24,16576631,2022-06-09
@@ -160,7 +160,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 159,spotify:track:21jGcNKet2qwijlDFuPiPb,Post Malone,Circles,Republic Records,1,176,145,6372442,2022-06-09
 160,spotify:track:7qiZfU4dY1lWllzX7mPBI3,Ed Sheeran,Shape of You,Atlantic Records UK,1,147,280,6359688,2022-06-09
 161,spotify:track:31tf1qEai5o5f4r66Kd0pU,Childish Gambino,Me and Your Mama,Glassnote Entertainment Group LLC,161,-1,1,6352470,2022-06-09
-162,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhayco",DÁKITI,Rimas Entertainment LLC,1,150,84,6305020,2022-06-09
+162,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhay Cortez",DÁKITI,Rimas Entertainment LLC,1,150,84,6305020,2022-06-09
 163,spotify:track:5oH4DQAuu1J1800RzUsBWa,"PSY, SUGA",That That (prod. & feat. SUGA of BTS),P NATION,21,126,6,6296940,2022-06-09
 164,spotify:track:1JSTJqkT5qHq8MDJnJbRE1,The Police,Every Breath You Take,Polydor Records,144,174,52,6291019,2022-06-09
 165,spotify:track:1c2hJSwcCfoPEw1su83Sw0,Lady Gaga,Hold My Hand,Interscope Records,165,-1,2,6263739,2022-06-09

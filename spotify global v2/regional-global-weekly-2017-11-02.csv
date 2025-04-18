@@ -31,7 +31,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 30,spotify:track:7fwXWKdDNI5IutOMc5OKYw,"J Balvin, Willy William, Beyoncé",Mi Gente (feat. Beyoncé),Mi Gente Remix,15,29,5,11651377,2017-11-02
 31,spotify:track:0Qh38w01QRXK6KHIv0e3hb,P!nk,What About Us,RCA Records Label,18,27,12,11285744,2017-11-02
 32,spotify:track:2771LMNxwf62FTAdpJMQfM,Cardi B,Bodak Yellow,KSR/Atlantic,21,30,14,11047320,2017-11-02
-33,spotify:track:2SmgFAhQkQCQPyBiBxR6Te,"NATTI NATASHA, Ozuna",Criminal,Pina Records,33,39,7,10832483,2017-11-02
+33,spotify:track:2SmgFAhQkQCQPyBiBxR6Te,"Natti Natasha, Ozuna",Criminal,Pina Records,33,39,7,10832483,2017-11-02
 34,spotify:track:4iLqG9SeJSnt0cSPICSjxv,Charlie Puth,Attention,Artist Partner,5,32,28,10832277,2017-11-02
 35,spotify:track:1m69ELEgE6k5ZWsap40ozt,Ozuna,Se Preparó,VP Records Corp/Dimelo Vi,35,38,10,10738974,2017-11-02
 36,spotify:track:6De0lHrwBfPfrhorm9q1Xl,Danny Ocean,Me Rehúso,Atlantic Records,20,35,37,10699755,2017-11-02
@@ -67,7 +67,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 66,spotify:track:0Wv5wuenRLI3BcwgT3HPIP,"DJ Snake, Lauv",A Different Way (with Lauv),Geffen,66,73,6,7201200,2017-11-02
 67,spotify:track:1yxgsra98r3qAtxqiGZPiX,Travis Scott,BUTTERFLY EFFECT,Epic/Grand Hustle/Cactus Jack,40,59,24,7198404,2017-11-02
 68,spotify:track:7y9iMe8SOB6z3NoHE2OfXl,Halsey,Bad At Love,Astralwerks (ASW),68,72,10,7147419,2017-11-02
-69,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,9,52,24,6921653,2017-11-02
+69,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,9,52,24,6921653,2017-11-02
 70,spotify:track:2cnKEkpVUSV4wnjQiTWfH6,"Wisin, Ozuna",Escápate Conmigo (feat. Ozuna),Sony Music Latin,38,70,30,6894512,2017-11-02
 71,spotify:track:0NiXXAI876aGImAd6rTj8w,"Jonas Blue, William Singe",Mama,UMOD (Universal Music On Demand),11,56,26,6776616,2017-11-02
 72,spotify:track:3ojTJaonfkL96iIWa47SU3,Chris Brown,Questions,RCA Records Label,56,77,11,6759422,2017-11-02
@@ -78,7 +78,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 77,spotify:track:5TysCiZtv1HnSWcTcUFusI,"Joey Montana, Sebastian Yatra",Suena El Dembow,UMLE - Latino,77,79,7,6372023,2017-11-02
 78,spotify:track:152lZdxL1OR0ZMW6KquMif,Khalid,Location,"Right Hand Music Group, LLC/RCA Records",34,75,39,6357873,2017-11-02
 79,spotify:track:38yBBH2jacvDxrznF7h08J,Niall Horan,Slow Hands,Capitol Records (US1A),29,50,26,6350163,2017-11-02
-80,spotify:track:1pZdegOXTZ2ftINo3oUuRZ,Liam Payne,Bedroom Floor,Capitol Records UK / EMI,71,71,2,6331893,2017-11-02
+80,spotify:track:1pZdegOXTZ2ftINo3oUuRZ,Liam Payne,Bedroom Floor,Capitol,71,71,2,6331893,2017-11-02
 81,spotify:track:3DXncPQOG4VBw3QHh3S817,"DJ Khaled, Justin Bieber, Quavo, Chance the Rapper, Lil Wayne","I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",Epic/We The Best,2,78,27,6116712,2017-11-02
 82,spotify:track:5uCax9HTNlzGybIStD3vDh,James Arthur,Say You Won't Let Go,Columbia,7,82,45,6027733,2017-11-02
 83,spotify:track:4aWmUDTfIPGksMNLV2rQP2,"Luis Fonsi, Daddy Yankee",Despacito,UMLE - Latino,4,81,42,5975185,2017-11-02
@@ -96,7 +96,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 95,spotify:track:3A7qX2QjDlPnazUsRk5y0M,"David Guetta, Justin Bieber",2U (feat. Justin Bieber),Parlophone (France),3,84,21,5520011,2017-11-02
 96,spotify:track:4hKWUzhQWsOkgT6LnDEASe,Bausa,Was du Liebe nennst,WM Germany,96,97,3,5467145,2017-11-02
 97,spotify:track:2UxfcZJCphbEkfbZ6nLiDx,"Kygo, The Night Game",Kids in Love (feat. The Night Game),Kygo,61,61,2,5433709,2017-11-02
-98,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcángel",Ahora Dice,UMLE - Latino,46,89,30,5415065,2017-11-02
+98,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcangel",Ahora Dice,UMLE - Latino,46,89,30,5415065,2017-11-02
 99,spotify:track:1x5sYLZiu9r5E43kMlt9f8,"Clean Bandit, Zara Larsson",Symphony (feat. Zara Larsson),Atlantic Records UK,11,92,33,5410841,2017-11-02
 100,spotify:track:3rOSwuTsUlJp0Pu0MkN8r8,Future,Mask Off,Epic/Freebandz/A1,5,96,37,5325582,2017-11-02
 101,spotify:track:6p8NuHm8uCGnn2Dtbtf7zE,"Migos, Gucci Mane",Slippery (feat. Gucci Mane),Quality Control Music,71,95,31,5303803,2017-11-02

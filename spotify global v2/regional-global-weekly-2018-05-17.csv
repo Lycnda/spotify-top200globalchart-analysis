@@ -15,7 +15,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 14,spotify:track:10Igtw8bSDyyFs7KIsKngZ,"Lil Dicky, Chris Brown",Freaky Friday (feat. Chris Brown),Commission/BMG,7,14,9,16010120,2018-05-17
 15,spotify:track:45Egmo7icyopuzJN0oMEdk,"Khalid, Normani",Love Lies (with Normani),RCA Records Label,11,15,13,15711995,2018-05-17
 16,spotify:track:3fpVWegR6YOS1Yk5HSMYIq,Post Malone,Paranoid,Republic Records,4,12,3,15204447,2018-05-17
-17,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),Bloc Nation,6,20,14,14702549,2018-05-17
+17,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),OVO Sound/Warner Records,6,20,14,14702549,2018-05-17
 18,spotify:track:1gm616Plq4ScqNi7TVkZ5N,The Weeknd,Call Out My Name,Universal Republic Records,1,16,7,14663727,2018-05-17
 19,spotify:track:4hQ6UGyWQIGJmHSo0J88JW,Selena Gomez,Back To You - From 13 Reasons Why – Season 2 Soundtrack,UMGRI Interscope,19,-1,1,14575836,2018-05-17
 20,spotify:track:63SevszngYpZOwf63o61K4,Dennis Lloyd,Nevermind,WM Italy,20,25,9,14023147,2018-05-17
@@ -60,8 +60,8 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 59,spotify:track:1D2L6MefbXon28PzIk9I3r,Post Malone,92 Explorer,Republic Records,23,44,3,7979034,2018-05-17
 60,spotify:track:688QpQAwqsLdBR6lr13wK1,"Post Malone, G-Eazy, YG",Same Bitches (feat. G-Eazy & YG),Republic Records,18,42,3,7921762,2018-05-17
 61,spotify:track:1zsG4eaZmkA1dvjDDsAGLK,"Luis Fonsi, Demi Lovato",Échame La Culpa,UMLE - Latino,7,60,26,7854007,2018-05-17
-62,spotify:track:0Y4hwUppbGc8aIBmiTz30A,"Liam Payne, J Balvin",Familiar,Capitol Records UK / EMI,57,70,4,7840767,2018-05-17
-63,spotify:track:6U2NuJILEOEpW2tVCuqKHb,"Daddy Yankee, NATTI NATASHA, Becky G, Bad Bunny",Dura - Remix,El Cartel Records (EC3),63,97,3,7806230,2018-05-17
+62,spotify:track:0Y4hwUppbGc8aIBmiTz30A,"Liam Payne, J Balvin",Familiar,Capitol,57,70,4,7840767,2018-05-17
+63,spotify:track:6U2NuJILEOEpW2tVCuqKHb,"Daddy Yankee, Natti Natasha, Becky G, Bad Bunny",Dura - Remix,El Cartel Records (EC3),63,97,3,7806230,2018-05-17
 64,spotify:track:5Y9fnynLlIvqtM710MHzfz,Ozuna,Síguelo Bailando,VP Records Corp/Dimelo Vi,43,71,20,7683712,2018-05-17
 65,spotify:track:0tgVpDi06FyKpA1z0VMD4v,Ed Sheeran,Perfect,Atlantic Records UK,4,65,63,7629055,2018-05-17
 66,spotify:track:75ZvA4QfFiZvzhj2xkaWAh,Post Malone,I Fall Apart,Universal Records,10,64,34,7578709,2018-05-17
@@ -74,7 +74,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 73,spotify:track:1j6xOGusnyXq3l6IryKF3G,"Piso 21, Manuel Turizo",Déjala Que Vuelva (feat. Manuel Turizo),WM Mexico,33,67,28,7031861,2018-05-17
 74,spotify:track:0b93tWwuoAC0nXe1CfR30I,Arctic Monkeys,Star Treatment,Domino Recording Co,74,-1,1,6975933,2018-05-17
 75,spotify:track:0VKkyBKCXyR99navhVRqcP,Zion & Lennox,La player (Bandolera),WEA Latina,75,86,9,6965770,2018-05-17
-76,spotify:track:2ijef6ni2amuunRoKTlgww,"Becky G, NATTI NATASHA",Sin Pijama,Sony Music Latin,76,98,3,6953849,2018-05-17
+76,spotify:track:2ijef6ni2amuunRoKTlgww,"Becky G, Natti Natasha",Sin Pijama,Sony Music Latin,76,98,3,6953849,2018-05-17
 77,spotify:track:7GX5flRQZVHRAGd6B4TmDO,Lil Uzi Vert,XO Tour Llif3,Generation Now/Atlantic,10,91,60,6622163,2018-05-17
 78,spotify:track:4qWCFTuNnmGNdY4egtb4ZY,Post Malone,Otherside,Republic Records,25,51,3,6573302,2018-05-17
 79,spotify:track:73F87Sqh6jQWucOOvz1WFx,"Sia, Diplo, Labrinth, LSD","Genius (feat. Sia, Diplo, and Labrinth)",Records/Columbia,66,66,2,6572991,2018-05-17
@@ -87,7 +87,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 86,spotify:track:2BJSMvOGABRxokHKB0OI8i,"Playboi Carti, Lil Uzi Vert",Shoota (feat. Lil Uzi Vert),AWGE Label,86,-1,1,6484798,2018-05-17
 87,spotify:track:0CZ8lquoTX2Dkg7Ak2inwA,King Princess,1950,"Zelig Records, LLC./Columbia Records",61,81,9,6463346,2018-05-17
 88,spotify:track:3xcCix7Jv1Rp90YVmgo35D,Wolfine,Bella,LOMIORECORDS,28,73,21,6433975,2018-05-17
-89,spotify:track:6Za3190Sbw39BBC77WSS1C,"NATTI NATASHA, Ozuna",Criminal,Pina Records,21,84,35,6426376,2018-05-17
+89,spotify:track:6Za3190Sbw39BBC77WSS1C,"Natti Natasha, Ozuna",Criminal,Pina Records,21,84,35,6426376,2018-05-17
 90,spotify:track:18W92Zm1KjLCbUIszOhpkD,"NOTD, Bea Miller",I Wanna Know (feat. Bea Miller),Universal Music AB,74,88,6,6320442,2018-05-17
 91,spotify:track:1t67WYNfUxfOiwaz7SJ66b,Arctic Monkeys,One Point Perspective,Domino Recording Co,91,-1,1,6301161,2018-05-17
 92,spotify:track:51rXHuKN8Loc4sUlKPODgH,"Jay Rock, Kendrick Lamar, Future, James Blake","King's Dead (with Kendrick Lamar, Future & James Blake)",Black Panther (TDE/DMG) PS,29,96,18,6264344,2018-05-17
@@ -189,7 +189,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 188,spotify:track:1Slwb6dOYkBlWal1PGtnNg,Ed Sheeran,Thinking out Loud,Atlantic Records UK,58,192,73,4117351,2018-05-17
 189,spotify:track:7EI6Iki24tBHAMxtb4xQN2,Rita Ora,Anywhere,Atlantic Records UK,39,164,30,4111204,2018-05-17
 190,spotify:track:08hm0V6cTsWDX62hW42sEv,The Chainsmokers,Sick Boy,Disruptor Records/Columbia,14,141,17,4110384,2018-05-17
-191,spotify:track:5hM6sP0Gh1jD57drszNueC,"Liam Payne, Rita Ora",For You (With Rita Ora),Capitol Records UK / EMI,27,177,19,4109389,2018-05-17
+191,spotify:track:5hM6sP0Gh1jD57drszNueC,"Liam Payne, Rita Ora",For You (With Rita Ora),Capitol,27,177,19,4109389,2018-05-17
 192,spotify:track:794QVQtFNy7hvtjQP1keQd,"G-Eazy, Yo Gotti, YBN Nahmir",1942 (feat. Yo Gotti & YBN Nahmir),BPG/RVG/RCA Records,108,171,5,4099817,2018-05-17
 193,spotify:track:1yxgsra98r3qAtxqiGZPiX,Travis Scott,BUTTERFLY EFFECT,Epic/Grand Hustle/Cactus Jack,40,183,52,4092059,2018-05-17
 194,spotify:track:2VKf0WEOpq06JE5PTNr9wa,"Tee Grizzley, Lil Pump",Jettski Grizzley (feat. Lil Pump),300 Entertainment,194,-1,1,4067764,2018-05-17

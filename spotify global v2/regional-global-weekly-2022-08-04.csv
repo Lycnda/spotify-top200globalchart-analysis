@@ -2,7 +2,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 1,spotify:track:2tTmW7RDtMQtBk7m2rYeSw,"Bizarrap, Quevedo","Quevedo: Bzrp Music Sessions, Vol. 52",DALE PLAY Records,1,1,4,51399073,2022-08-04
 2,spotify:track:4Dvkj6JhhA12EX05fT7y2e,Harry Styles,As It Was,Columbia,1,2,18,40266478,2022-08-04
 3,spotify:track:6Sq7ltF9Qa7SNFBsV5Cogx,"Bad Bunny, Chencho Corleone",Me Porto Bonito,Rimas Entertainment LLC,2,4,13,36480198,2022-08-04
-4,spotify:track:75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God),Fish People,1,3,10,32858503,2022-08-04
+4,spotify:track:75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God),Parlophone UK,1,3,10,32858503,2022-08-04
 5,spotify:track:1IHWl5LamUGEuP4ozKQSXZ,Bad Bunny,Tití Me Preguntó,Rimas Entertainment LLC,5,5,13,32456159,2022-08-04
 6,spotify:track:5ildQOEKmJuWGl2vRkFdYc,ROSALÍA,DESPECHÁ,Columbia,6,-1,1,27548965,2022-08-04
 7,spotify:track:6xGruZOHLs39ZbVccQTuPZ,Joji,Glimpse of Us,88rising Music/Warner Records,1,6,8,27049991,2022-08-04
@@ -17,7 +17,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 16,spotify:track:4h9wh7iOZ0GGn8QVp4RAOB,OneRepublic,I Ain't Worried,Interscope Records,13,13,9,18266579,2022-08-04
 17,spotify:track:0mBP9X2gPCuapvpZ7TGDk3,"Charlie Puth, Jung Kook, BTS",Left and Right (Feat. Jung Kook of BTS),Atlantic Records,7,14,6,17521029,2022-08-04
 18,spotify:track:5ww2BF9slyYgNOk37BlC4u,Manuel Turizo,La Bachata,Sony Music Latin/La Industria,18,29,5,17376727,2022-08-04
-19,spotify:track:41oY4WCTj5kccfesTVFnvN,"Bad Bunny, Jhayco",Tarot,Rimas Entertainment LLC,9,19,13,16208589,2022-08-04
+19,spotify:track:41oY4WCTj5kccfesTVFnvN,"Bad Bunny, Jhay Cortez",Tarot,Rimas Entertainment LLC,9,19,13,16208589,2022-08-04
 20,spotify:track:6HMtHNpW6YPi1hrw9tgF8P,Lizzo,About Damn Time,Nice Life/Atlantic,9,15,14,16011918,2022-08-04
 21,spotify:track:5PjdY0CKGZdEuoNab3yDmX,"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),Columbia,1,17,56,15958590,2022-08-04
 22,spotify:track:2rurDawMfoKP4uHyb2kJBt,"Shakira, Rauw Alejandro",Te Felicito,Sony Music Latin,13,18,15,15900854,2022-08-04
@@ -76,7 +76,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 75,spotify:track:3rmo8F54jFF8OgYsqTxm5d,Ed Sheeran,Bad Habits,Atlantic Records UK,3,65,58,9135126,2022-08-04
 76,spotify:track:09mEdoA6zrmBPgTEN5qXmN,The Weeknd,Call Out My Name,Universal Republic Records,1,66,41,9109184,2022-08-04
 77,spotify:track:0Fl4eWzVaMUOdXcOrj6F1q,Beyoncé,VIRGO'S GROOVE,Parkwood Entertainment/Columbia,77,-1,1,9056408,2022-08-04
-78,spotify:track:6wtZPYBIXUvCpXwVjMCJBf,"Polimá Westcoast, Feid, Pailita, Paloma Mami, De La Ghetto",ULTRA SOLO REMIX,Sony Music Entertainment Chile S.A,44,62,7,8994736,2022-08-04
+78,spotify:track:6wtZPYBIXUvCpXwVjMCJBf,"Polimá Westcoast, Pailita, Feid, Paloma Mami, De La Ghetto",ULTRA SOLO REMIX,Sony Music Entertainment Chile S.A,44,62,7,8994736,2022-08-04
 79,spotify:track:5QO79kh1waicV47BqGRL3g,The Weeknd,Save Your Tears,Republic Records,2,71,87,8917997,2022-08-04
 80,spotify:track:1cKHdTo9u0ZymJdPGSh6nq,"The Weeknd, Gesaffelstein",I Was Never There,Universal Republic Records,17,77,9,8795464,2022-08-04
 81,spotify:track:4ZtFanR9U6ndgddUvNcjcG,Olivia Rodrigo,good 4 u,Olivia Rodrigo PS,1,70,64,8751374,2022-08-04
@@ -172,7 +172,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 171,spotify:track:40SBS57su9xLiE1WqkXOVr,LF SYSTEM,Afraid To Feel,Warner Records,154,170,4,6234982,2022-08-04
 172,spotify:track:1gH1h30wkQdd9zhY3j7a8T,Rex Orange County,THE SHADE,Rex Orange County,172,190,2,6214960,2022-08-04
 173,spotify:track:2J2Z1SkXYghSajLibnQHOa,Sia,Unstoppable,Monkey Puzzle Records/RCA Records,107,158,25,6198696,2022-08-04
-174,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhayco",DÁKITI,Rimas Entertainment LLC,1,171,92,6197738,2022-08-04
+174,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhay Cortez",DÁKITI,Rimas Entertainment LLC,1,171,92,6197738,2022-08-04
 175,spotify:track:2SwQShWjZsxoGviEyaEMOX,Ezhel,Nerdesin,StageArt Europe,164,164,2,6196905,2022-08-04
 176,spotify:track:7KWKWJnbGJ3Soag6Oopion,Luísa Sonza,CACHORRINHAS,Sony Music Entertainment,109,109,2,6194402,2022-08-04
 177,spotify:track:5gDWsRxpJ2lZAffh5p7K0w,"The Weeknd, Lana Del Rey",Stargirl Interlude,Universal Republic Records,173,173,3,6184419,2022-08-04

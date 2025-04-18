@@ -54,7 +54,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 53,spotify:track:6lX6l7OuA3qrnIRfdsr0dw,"Blessd, Justin Quiles, Lenny Tavárez",Medallo,WEA Latina,49,49,12,9850073,2022-02-10
 54,spotify:track:6ylDpki1VpIsc525KC1ojF,Sebastian Yatra,Tacones Rojos,UMLE - Latino,47,47,12,9765155,2022-02-10
 55,spotify:track:5vUnjhBzRJJIAOJPde6zDx,"Jnr Choi, Sam Tompkins",TO THE MOON,Jnr Choi/Epic,55,55,5,9614884,2022-02-10
-56,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhayco",DÁKITI,Rimas Entertainment LLC,1,51,67,9565471,2022-02-10
+56,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhay Cortez",DÁKITI,Rimas Entertainment LLC,1,51,67,9565471,2022-02-10
 57,spotify:track:1bjhYUwKUHEg5fHknxFObO,Frank Ocean,Lost,Red Zone Entertainment / IDJ,52,59,4,9561204,2022-02-10
 58,spotify:track:0NBgyml7T0IvUNbXIkcSpH,"Xamã, Gustah, Neo Beats, Bagua Records",Malvadão 3,Bagua Records,33,46,7,9514569,2022-02-10
 59,spotify:track:37BZB0z9T8Xu7U3e65qxFy,"The Weeknd, Ariana Grande",Save Your Tears (with Ariana Grande) (Remix),Republic Records,5,57,42,9334474,2022-02-10
@@ -103,7 +103,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 102,spotify:track:4TGwERXRlyQtBdggYTHo6j,"Tiago PZK, LIT killah, Maria Becerra, Nicki Nicole",Entre Nosotros (Remix) [con Nicki Nicole],WEA Latina,53,73,5,7124116,2022-02-10
 103,spotify:track:7EkWXAI1wn8Ii883ecd9xr,Surf Curse,Freaks,Surf Curse,55,96,41,7094010,2022-02-10
 104,spotify:track:5719MEdRQcH4c3phXqX7WN,"Hugo & Guilherme, Marília Mendonça",Mal Feito - Ao Vivo,Som Livre,72,100,4,7093125,2022-02-10
-105,spotify:track:6f5ExP43esnvdKPddwKXJH,"NEIKED, Mae Muller, Polo G",Better Days (NEIKED x Mae Muller x Polo G),Capitol Records UK / EMI,32,94,17,7071512,2022-02-10
+105,spotify:track:6f5ExP43esnvdKPddwKXJH,"NEIKED, Mae Muller, Polo G",Better Days (NEIKED x Mae Muller x Polo G),Capitol,32,94,17,7071512,2022-02-10
 106,spotify:track:3QGxgNaqaFSpORp2OVLXHR,"Chefin, Mainstreet",212,Mainstreet Records,89,90,3,7024310,2022-02-10
 107,spotify:track:5rohUzwEoRsUvAA1Bf3DLo,Sebastian Yatra,Dos Oruguitas,Walt Disney Records,93,97,5,6882300,2022-02-10
 108,spotify:track:3M0lSi5WW79CXQamgSBIjx,Chase Atlantic,Swim,Warner Records,108,109,3,6866524,2022-02-10
@@ -131,7 +131,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 130,spotify:track:2tpWsVSb9UEmDRxAl1zhX1,OneRepublic,Counting Stars,Mosley / Interscope,129,129,48,6240438,2022-02-10
 131,spotify:track:5g7sDjBhZ4I3gcFIpkrLuI,Bruno Mars,Locked out of Heaven,Atlantic Records,111,126,6,6211423,2022-02-10
 132,spotify:track:0tgVpDi06FyKpA1z0VMD4v,Ed Sheeran,Perfect,Atlantic Records UK,4,125,256,6209722,2022-02-10
-133,spotify:track:5W1qmxHrMlQGGAiFA3ZQqP,"Dímelo Flow, Dalex, Sech, Justin Quiles, Arcángel, De La Ghetto, Lenny Tavárez",Se Le Ve,Rich Music,133,135,6,6208347,2022-02-10
+133,spotify:track:5W1qmxHrMlQGGAiFA3ZQqP,"Dímelo Flow, Dalex, Sech, Justin Quiles, Arcangel, De La Ghetto, Lenny Tavárez",Se Le Ve,Rich Music,133,135,6,6208347,2022-02-10
 134,spotify:track:3xRH6FPVtheDyNla3T1FE7,Muni Long,Hrs & Hrs,"Supergiant Records, LLC / Def Jam Recordings",119,119,3,6207706,2022-02-10
 135,spotify:track:0fea68AdmYNygeTGI4RC18,"J Balvin, Bad Bunny",LA CANCIÓN,Universal Music Latino / Rimas,17,133,58,6200472,2022-02-10
 136,spotify:track:4xkOaSrkexMciUUogZKVTS,"Eminem, Nate Dogg",Till I Collapse,Aftermath,136,148,33,6127427,2022-02-10

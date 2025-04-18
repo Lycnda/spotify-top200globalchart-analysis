@@ -49,7 +49,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 48,spotify:track:5wANPM4fQCJwkGd4rN57mH,Olivia Rodrigo,drivers license,Olivia Rodrigo PS,1,46,56,10144789,2022-02-03
 49,spotify:track:6lX6l7OuA3qrnIRfdsr0dw,"Blessd, Justin Quiles, Lenny Tavárez",Medallo,WEA Latina,49,50,11,9953772,2022-02-03
 50,spotify:track:2gpWyfu7eZ01zzncHpxOtA,"Swedish House Mafia, The Weeknd",Moth To A Flame (with The Weeknd),Republic Records,7,45,15,9908575,2022-02-03
-51,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhayco",DÁKITI,Rimas Entertainment LLC,1,55,66,9756195,2022-02-03
+51,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhay Cortez",DÁKITI,Rimas Entertainment LLC,1,55,66,9756195,2022-02-03
 52,spotify:track:2vmfvSoZBFAt9hhRoEByLi,"Aventura, Bad Bunny",Volví,Rimas Entertainment LLC,10,51,27,9675168,2022-02-03
 53,spotify:track:00Blm7zeNqgYLPtW6zg8cj,"Post Malone, The Weeknd",One Right Now (with The Weeknd),Republic Records,9,48,13,9465381,2022-02-03
 54,spotify:track:2eAvDnpXP5W0cVtiI0PUxV,Ruth B.,Dandelions,Columbia,53,53,25,9326479,2022-02-03
@@ -92,7 +92,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 91,spotify:track:0pqnGHJpmpxLKifKRmU6WP,Imagine Dragons,Believer,Kid Ina Korner / Interscope,16,91,261,7383189,2022-02-03
 92,spotify:track:10hMM5nsZQf66ldBlgWBfG,"Labrinth, Zendaya",All For Us - from the HBO Original Series Euphoria,Republic Records,92,126,4,7313075,2022-02-03
 93,spotify:track:5QDLhrAOJJdNAmCTJ8xMyW,BTS,Dynamite,BIGHIT MUSIC,2,64,76,7309588,2022-02-03
-94,spotify:track:6f5ExP43esnvdKPddwKXJH,"NEIKED, Mae Muller, Polo G",Better Days (NEIKED x Mae Muller x Polo G),Capitol Records UK / EMI,32,96,16,7292158,2022-02-03
+94,spotify:track:6f5ExP43esnvdKPddwKXJH,"NEIKED, Mae Muller, Polo G",Better Days (NEIKED x Mae Muller x Polo G),Capitol,32,96,16,7292158,2022-02-03
 95,spotify:track:3PfIrDoz19wz7qK7tYeu62,Dua Lipa,Don't Start Now,Warner Records,2,92,118,7215315,2022-02-03
 96,spotify:track:7EkWXAI1wn8Ii883ecd9xr,Surf Curse,Freaks,Surf Curse,55,97,40,7097347,2022-02-03
 97,spotify:track:5rohUzwEoRsUvAA1Bf3DLo,Sebastian Yatra,Dos Oruguitas,Walt Disney Records,93,93,4,7089299,2022-02-03
@@ -133,7 +133,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 132,spotify:track:4HzqWEdAbzcVFDv0pvxV4w,Maluma,Sobrio,Sony Music Latin,41,123,30,6069862,2022-02-03
 133,spotify:track:0fea68AdmYNygeTGI4RC18,"J Balvin, Bad Bunny",LA CANCIÓN,Universal Music Latino / Rimas,17,189,57,6067376,2022-02-03
 134,spotify:track:35mvY5S1H3J2QZyna3TFe0,Ariana Grande,positions,Republic Records,1,131,67,6047292,2022-02-03
-135,spotify:track:5W1qmxHrMlQGGAiFA3ZQqP,"Dímelo Flow, Dalex, Sech, Justin Quiles, Arcángel, De La Ghetto, Lenny Tavárez",Se Le Ve,Rich Music,135,137,5,6024477,2022-02-03
+135,spotify:track:5W1qmxHrMlQGGAiFA3ZQqP,"Dímelo Flow, Dalex, Sech, Justin Quiles, Arcangel, De La Ghetto, Lenny Tavárez",Se Le Ve,Rich Music,135,137,5,6024477,2022-02-03
 136,spotify:track:6IAZHEBUIGJ6NJKxxOBIEr,Adele,Rolling in the Deep,XL Recordings,36,124,18,6018431,2022-02-03
 137,spotify:track:2N8m6CYs74qQO4mjVcXO30,Tones And I,Dance Monkey,Elektra (NEK),1,121,133,6017558,2022-02-03
 138,spotify:track:5Ts1DYOuouQLgzTaisxWYh,Edison Lighthouse,Love Grows (Where My Rosemary Goes),Crimson,112,125,5,5990451,2022-02-03

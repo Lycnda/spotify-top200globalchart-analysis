@@ -18,7 +18,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 17,spotify:track:2eMwDehkIC1j68U6FA3Eiq,Lil Uzi Vert,XO Tour Llif3,Generation Now/Atlantic,16,20,10,17634568,2017-06-01
 18,spotify:track:0qYTZCo5Bwh1nsUFGZP3zn,Maluma,Felices los 4,Sony Music Latin,17,19,6,16661565,2017-06-01
 19,spotify:track:0tKcYR2II1VCQWT79i5NrW,Imagine Dragons,Thunder,Kid Ina Korner / Interscope,19,22,5,16661005,2017-06-01
-20,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,20,30,2,16497946,2017-06-01
+20,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,20,30,2,16497946,2017-06-01
 21,spotify:track:1sCxVKWImDZSZKvG0U9B23,Selena Gomez,Bad Liar,Selena Gomez PS,6,6,3,16420214,2017-06-01
 22,spotify:track:2Gl0FzuLxflY6nPifJp5Dr,"Kygo, Ellie Goulding",First Time,Kygo,19,21,5,15356523,2017-06-01
 23,spotify:track:5Ohxk2dO5COHF1krpoPigN,Harry Styles,Sign of the Times,Columbia,14,18,8,15152071,2017-06-01
@@ -48,7 +48,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 47,spotify:track:5knuzwU65gJK7IF5yJsuaW,"Clean Bandit, Sean Paul, Anne-Marie",Rockabye (feat. Sean Paul & Anne-Marie),Atlantic Records UK,3,45,23,9607866,2017-06-01
 48,spotify:track:2cnKEkpVUSV4wnjQiTWfH6,"Wisin, Ozuna",Escápate Conmigo (feat. Ozuna),Sony Music Latin,48,48,8,9591864,2017-06-01
 49,spotify:track:72jbDTw1piOOj770jWNeaG,The Chainsmokers,Paris,Disruptor Records/Columbia,2,46,20,9200751,2017-06-01
-50,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcángel",Ahora Dice,UMLE - Latino,50,55,8,8786577,2017-06-01
+50,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcangel",Ahora Dice,UMLE - Latino,50,55,8,8786577,2017-06-01
 51,spotify:track:3umS4y3uQDkqekNjVpiRUs,Nicky Jam,El Amante,Sony Music Latin,32,51,19,8597179,2017-06-01
 52,spotify:track:3NdDpSvN911VPGivFlV5d0,"ZAYN, Taylor Swift",I Don’t Wanna Live Forever (Fifty Shades Darker),"Big Machine Records, LLC",2,50,23,8556450,2017-06-01
 53,spotify:track:3kxfsdsCpFgN412fpnW85Y,Childish Gambino,Redbone,Glassnote Entertainment Group LLC,53,79,23,8430189,2017-06-01

@@ -31,8 +31,8 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 30,spotify:track:6Bg7MznA9X0dIhlAsLyBYj,"Kanye West, PARTYNEXTDOOR",Ghost Town,"Getting Out Our Dreams, Inc./Def Jam Recordings",6,6,2,11905161,2018-06-14
 31,spotify:track:2r4JRwcbIeuAzWjH4YXlLs,Kanye West,Yikes,"Getting Out Our Dreams, Inc./Def Jam Recordings",5,5,2,11836224,2018-06-14
 32,spotify:track:21YnmkSDhUkmkkni22Svc4,Shawn Mendes,In My Blood,Island Records,7,29,12,11768151,2018-06-14
-33,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),Bloc Nation,6,34,18,11736895,2018-06-14
-34,spotify:track:2ijef6ni2amuunRoKTlgww,"Becky G, NATTI NATASHA",Sin Pijama,Sony Music Latin,34,42,7,11662830,2018-06-14
+33,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),OVO Sound/Warner Records,6,34,18,11736895,2018-06-14
+34,spotify:track:2ijef6ni2amuunRoKTlgww,"Becky G, Natti Natasha",Sin Pijama,Sony Music Latin,34,42,7,11662830,2018-06-14
 35,spotify:track:76cy1WJvNGJTj78UqeA5zr,Dua Lipa,IDGAF,Warner Records,4,33,24,11563915,2018-06-14
 36,spotify:track:4kWO6O1BUXcZmaxitpVUwp,"Tiësto, Dzeko, Preme, Post Malone",Jackie Chan,"Universal Music, a division of Universal International Music BV",36,52,4,11193884,2018-06-14
 37,spotify:track:4F1yvJfQ7gJkrcgFJQDjOr,"KYLE, Kehlani",Playinwitme (feat. Kehlani),independently popular.,28,37,10,11132620,2018-06-14
@@ -52,7 +52,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 51,spotify:track:7oHkit3F3vimtsBbnZkU0G,KIDS SEE GHOSTS,Fire,"Getting Out Our Dreams, Inc./Def Jam Recordings",51,-1,1,8925211,2018-06-14
 52,spotify:track:7GRTrWsP3yo2Fx8umJfA1X,"KIDS SEE GHOSTS, Ty Dolla $ign",Freeee (Ghost Town Pt. 2),"Getting Out Our Dreams, Inc./Def Jam Recordings",52,-1,1,8762738,2018-06-14
 53,spotify:track:3H2JThgdBxezwj1wwafQS8,Juice WRLD,All Girls Are The Same,Juice WRLD Mixtape / ISR P&D,53,60,5,8504254,2018-06-14
-54,spotify:track:6U2NuJILEOEpW2tVCuqKHb,"Daddy Yankee, NATTI NATASHA, Becky G, Bad Bunny",Dura - Remix,El Cartel Records (EC3),52,58,7,8415565,2018-06-14
+54,spotify:track:6U2NuJILEOEpW2tVCuqKHb,"Daddy Yankee, Natti Natasha, Becky G, Bad Bunny",Dura - Remix,El Cartel Records (EC3),52,58,7,8415565,2018-06-14
 55,spotify:track:6mAz8D1TmlTuef90dbNIiZ,Rich The Kid,Plug Walk,Rich The Kid / (TDE/ISR PS),19,62,15,8296952,2018-06-14
 56,spotify:track:7qiZfU4dY1lWllzX7mPBI3,Ed Sheeran,Shape of You,Atlantic Records UK,1,54,75,8289610,2018-06-14
 57,spotify:track:7uzmGiiJyRfuViKKK3lVmR,Bazzi,Mine,iamcosmic,3,57,21,8210932,2018-06-14
@@ -66,7 +66,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 65,spotify:track:4kUZvXB3LC3an3HX6h0s17,KIDS SEE GHOSTS,Cudi Montage,"Getting Out Our Dreams, Inc./Def Jam Recordings",65,-1,1,7762996,2018-06-14
 66,spotify:track:083Qf6hn6sFL6xiOHlZUyn,Jess Glynne,I'll Be There,Atlantic Records UK,66,75,6,7730507,2018-06-14
 67,spotify:track:19MBk3PbNFE36wqIqkMq9H,Alvaro Soler,La Cintura,Airforce1,67,81,5,7508665,2018-06-14
-68,spotify:track:0Y4hwUppbGc8aIBmiTz30A,"Liam Payne, J Balvin",Familiar,Capitol Records UK / EMI,57,69,8,7439980,2018-06-14
+68,spotify:track:0Y4hwUppbGc8aIBmiTz30A,"Liam Payne, J Balvin",Familiar,Capitol,57,69,8,7439980,2018-06-14
 69,spotify:track:5Y9fnynLlIvqtM710MHzfz,Ozuna,Síguelo Bailando,VP Records Corp/Dimelo Vi,43,67,24,7363853,2018-06-14
 70,spotify:track:7sO5G9EABYOXQKNPNiE9NR,"Offset, Metro Boomin",Ric Flair Drip (with Metro Boomin),"Slaughter Gang, LLC/Epic/Quality Control Music/Motown/Capitol/Boominati Worldwide/Republic",32,66,33,7345806,2018-06-14
 71,spotify:track:3bH4HzoZZFq8UpZmI2AMgV,John Mayer,New Light,Columbia,63,63,4,7335952,2018-06-14
@@ -122,7 +122,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 121,spotify:track:7Fg342AJtNsIDdwCfX0paC,ZAYN,Let Me,RCA Records Label,28,108,9,5273380,2018-06-14
 122,spotify:track:7m9OqQk4RVRkw9JJdeAw96,XXXTENTACION,Jocelyn Flores,Bad Vibes Forever / EMPIRE,15,120,42,5256015,2018-06-14
 123,spotify:track:6VrBWh90BiwWmwKtvwWFcq,J Balvin,Ambiente,UMLE - Latino,109,114,3,5209565,2018-06-14
-124,spotify:track:6Za3190Sbw39BBC77WSS1C,"NATTI NATASHA, Ozuna",Criminal,Pina Records,21,102,39,5194823,2018-06-14
+124,spotify:track:6Za3190Sbw39BBC77WSS1C,"Natti Natasha, Ozuna",Criminal,Pina Records,21,102,39,5194823,2018-06-14
 125,spotify:track:1mXVgsBdtIVeCLJnSnmtdV,Sam Smith,Too Good At Goodbyes,Capitol,1,116,40,5149475,2018-06-14
 126,spotify:track:44KKhCyI0BGS6LvVyDqJtH,Lil Pump,Esskeetit,Warner Records,51,117,9,5131900,2018-06-14
 127,spotify:track:6QgjcU0zLnzq5OrUoSZ3OK,Portugal. The Man,Feel It Still,Atlantic Records,18,115,48,5128391,2018-06-14

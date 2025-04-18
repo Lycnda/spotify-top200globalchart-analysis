@@ -14,7 +14,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 13,spotify:track:02MWAaffLxlfxAUY7c5dvx,Glass Animals,Heat Waves,Polydor Records,1,13,73,24705268,2022-05-19
 14,spotify:track:4xIhSUJantE6BMl3u8dtCJ,"Kendrick Lamar, Sampha",Father Time (feat. Sampha),pgLang/Top Dawg Entertainment/Aftermath/Interscope Records,14,-1,1,22940175,2022-05-19
 15,spotify:track:1dm6z1fWB0cErMszU25dy2,Bad Bunny,Después de la Playa,Rimas Entertainment LLC,7,7,2,22002488,2022-05-19
-16,spotify:track:41oY4WCTj5kccfesTVFnvN,"Bad Bunny, Jhayco",Tarot,Rimas Entertainment LLC,9,9,2,21768332,2022-05-19
+16,spotify:track:41oY4WCTj5kccfesTVFnvN,"Bad Bunny, Jhay Cortez",Tarot,Rimas Entertainment LLC,9,9,2,21768332,2022-05-19
 17,spotify:track:6kYGOFNUMxpab09L5Ukoke,Kendrick Lamar,Rich Spirit,pgLang/Top Dawg Entertainment/Aftermath/Interscope Records,17,-1,1,20601204,2022-05-19
 18,spotify:track:5PjdY0CKGZdEuoNab3yDmX,"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),Columbia,1,23,45,19954567,2022-05-19
 19,spotify:track:2DB4DdfCFMw1iaR6JaR03a,"Camila Cabello, Ed Sheeran",Bam Bam (feat. Ed Sheeran),Epic,5,26,11,19696640,2022-05-19
@@ -89,7 +89,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 88,spotify:track:5oH4DQAuu1J1800RzUsBWa,"PSY, SUGA",That That (prod. & feat. SUGA of BTS),P NATION,21,54,3,9630499,2022-05-19
 89,spotify:track:2JPLbjOn0wPCngEot2STUS,Bad Bunny,Yonaguni,Rimas Entertainment LLC,3,69,50,9574583,2022-05-19
 90,spotify:track:3DarAbFujv6eYNliUTyqtz,"Doja Cat, SZA",Kiss Me More (feat. SZA),Kemosabe Records/RCA Records,3,75,58,9515964,2022-05-19
-91,spotify:track:5uU1uuyaUIBOiiUSQG7Wl3,Morgan Wallen,You Proof,Big Loud / Mercury Records / Republic Records,91,-1,1,9428717,2022-05-19
+91,spotify:track:5uU1uuyaUIBOiiUSQG7Wl3,Morgan Wallen,You Proof,Mercury Records / Republic Records,91,-1,1,9428717,2022-05-19
 92,spotify:track:5nujrmhLynf4yMoMtj8AQF,"Dua Lipa, DaBaby",Levitating (feat. DaBaby),Warner Records,4,78,85,9351037,2022-05-19
 93,spotify:track:1ei3hzQmrgealgRKFxIcWn,Benson Boone,In The Stars,Warner Records,54,79,3,9160676,2022-05-19
 94,spotify:track:5wANPM4fQCJwkGd4rN57mH,Olivia Rodrigo,drivers license,Olivia Rodrigo PS,1,82,71,9107552,2022-05-19
@@ -107,7 +107,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 106,spotify:track:68Dni7IE4VyPkTOH9mRWHr,J. Cole,No Role Modelz,Roc Nation Records LLC,76,94,43,8270414,2022-05-19
 107,spotify:track:2uky0VCI2EZni0nArOPznM,"Bizarrap, Paulo Londra","Paulo Londra: Bzrp Music Sessions, Vol. 23",DALE PLAY Records,14,63,4,8251961,2022-05-19
 108,spotify:track:2XRn6Qu0Wd1KvOND8JbaTx,Luciano,Beautiful Girl,URBAN,59,76,3,8092296,2022-05-19
-109,spotify:track:2vHzOWRKYPLu8umRPIFuOq,"KALUSH, Kalush Orchestra",Stefania (Kalush Orchestra),Columbia Local,109,-1,1,8051373,2022-05-19
+109,spotify:track:2vHzOWRKYPLu8umRPIFuOq,KALUSH,Stefania (Kalush Orchestra),Columbia Local,109,-1,1,8051373,2022-05-19
 110,spotify:track:4RVwu0g32PAqgUiJoXsdF8,Billie Eilish,Happier Than Ever,Darkroom/Interscope Records,6,90,42,7994296,2022-05-19
 111,spotify:track:2rurDawMfoKP4uHyb2kJBt,"Shakira, Rauw Alejandro",Te Felicito,Sony Music Latin,91,91,4,7989486,2022-05-19
 112,spotify:track:1SC5rEoYDGUK4NfG82494W,Lil Nas X,MONTERO (Call Me By Your Name),Columbia,1,93,60,7968155,2022-05-19
@@ -135,7 +135,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 134,spotify:track:1XGmzt0PVuFgQYYnV2It7A,"Maroon 5, Wiz Khalifa",Payphone,Interscope Records*,70,118,22,7006274,2022-05-19
 135,spotify:track:0U1W2LZVUX7qTm7dDpqxh6,Shawn Mendes,When You're Gone,Shawn Mendes LP4-5 PS/ Island,21,105,7,6964317,2022-05-19
 136,spotify:track:1mWdTewIgB3gtBM3TOSFhB,BTS,Butter,BIGHIT MUSIC,2,114,52,6928333,2022-05-19
-137,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhayco",DÁKITI,Rimas Entertainment LLC,1,99,81,6899156,2022-05-19
+137,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhay Cortez",DÁKITI,Rimas Entertainment LLC,1,99,81,6899156,2022-05-19
 138,spotify:track:2gpQi3hbcUAcEG8m2dlgfB,Paulo Londra,Plan A,WEA Latina,4,102,9,6892780,2022-05-19
 139,spotify:track:4h4QlmocP3IuwYEj2j14p8,"Nicky Youre, dazy",Sunroof,Thirty Knots/Columbia,139,170,2,6877134,2022-05-19
 140,spotify:track:6Pif6RkFoYzLygdqktus4Q,My Chemical Romance,The Foundations of Decay,Reprise,140,-1,1,6859683,2022-05-19

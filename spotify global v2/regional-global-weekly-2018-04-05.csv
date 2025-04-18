@@ -11,7 +11,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 10,spotify:track:2ARqIya5NAuvFVHSN3bL0m,"Zedd, Maren Morris, Grey",The Middle,UMGRI Interscope,6,8,10,20248458,2018-04-05
 11,spotify:track:10Igtw8bSDyyFs7KIsKngZ,"Lil Dicky, Chris Brown",Freaky Friday (feat. Chris Brown),Commission/BMG,11,13,3,20034897,2018-04-05
 12,spotify:track:45Egmo7icyopuzJN0oMEdk,"Khalid, Normani",Love Lies (with Normani),RCA Records Label,11,12,7,19280198,2018-04-05
-13,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),Bloc Nation,6,10,8,19118987,2018-04-05
+13,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),OVO Sound/Warner Records,6,10,8,19118987,2018-04-05
 14,spotify:track:3GCdLUSnKSMJhs4Tj6CV3s,"Kendrick Lamar, SZA",All The Stars (with SZA),Black Panther (TDE/DMG) PS,2,9,13,18613793,2018-04-05
 15,spotify:track:6tHWl8ows5JOZq9Yfaqn3M,Bazzi,Mine,iamcosmic,3,11,11,17808465,2018-04-05
 16,spotify:track:13wNEvWmBsWaWVtiLPRIW5,"The Weeknd, Gesaffelstein",Hurt You,Universal Republic Records,16,-1,1,17639162,2018-04-05
@@ -62,7 +62,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 61,spotify:track:3Ga6eKrUFf12ouh9Yw3v2D,"Anitta, J Balvin",Downtown,WM Brazil,21,49,20,7685894,2018-04-05
 62,spotify:track:4lESS6vuruP6a79KWRaQou,"Maluma, Nego do Borel",Corazón (feat. Nego do Borel),Sony Music Latin,17,51,22,7661459,2018-04-05
 63,spotify:track:26gceVsA1ybT8qsX3aYLEn,Imagine Dragons,Thunder,Kid Ina Korner / Interscope,8,61,49,7646251,2018-04-05
-64,spotify:track:6Za3190Sbw39BBC77WSS1C,"NATTI NATASHA, Ozuna",Criminal,Pina Records,21,57,29,7598804,2018-04-05
+64,spotify:track:6Za3190Sbw39BBC77WSS1C,"Natti Natasha, Ozuna",Criminal,Pina Records,21,57,29,7598804,2018-04-05
 65,spotify:track:6tvQzeCPwOytDlBYCIOY0n,"Jax Jones, Ina Wroldsen",Breathe (feat. Ina Wroldsen),Polydor Records,48,48,12,7464127,2018-04-05
 66,spotify:track:5AEtlRudpgdT5FtNiuly6Y,"Hailee Steinfeld, Alesso, Florida Georgia Line, WATT","Let Me Go (with Alesso, Florida Georgia Line & watt)",Universal Records,16,56,30,7419876,2018-04-05
 67,spotify:track:7GX5flRQZVHRAGd6B4TmDO,Lil Uzi Vert,XO Tour Llif3,Generation Now/Atlantic,10,62,54,7256359,2018-04-05
@@ -79,7 +79,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 78,spotify:track:0CZ8lquoTX2Dkg7Ak2inwA,King Princess,1950,"Zelig Records, LLC./Columbia Records",78,90,3,6679903,2018-04-05
 79,spotify:track:4lTiuD1DwBKo4L7wqMkD7C,Famous Dex,JAPAN,300 Entertainment,79,96,2,6641492,2018-04-05
 80,spotify:track:5k38wzpLb15YgncyWdTZE4,"G-Eazy, Halsey",Him & I (with Halsey),BPG/RVG/RCA Records,7,65,18,6582234,2018-04-05
-81,spotify:track:5hM6sP0Gh1jD57drszNueC,"Liam Payne, Rita Ora",For You (With Rita Ora),Capitol Records UK / EMI,27,55,13,6562385,2018-04-05
+81,spotify:track:5hM6sP0Gh1jD57drszNueC,"Liam Payne, Rita Ora",For You (With Rita Ora),Capitol,27,55,13,6562385,2018-04-05
 82,spotify:track:2vvdTrdryjsl8DmPIMDWZU,"Enrique Iglesias, Bad Bunny",EL BAÑO (feat. Bad Bunny),RCA Records/Sony Music International/Sony Music Latin,38,73,12,6555025,2018-04-05
 83,spotify:track:5hcisvFMidkMJlElTO9Qmw,"Bad Bunny, Prince Royce, J Balvin, Mambo Kingz, DJ Luian",Sensualidad,Hear This Music,21,69,22,6551810,2018-04-05
 84,spotify:track:2xmrfQpmS2iJExTlklLoAL,"Clean Bandit, Julia Michaels",I Miss You (feat. Julia Michaels),Atlantic Records UK,23,76,23,6384363,2018-04-05
@@ -176,7 +176,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 175,spotify:track:3S0OXQeoh0w6AY8WQVckRW,Jason Mraz,I'm Yours,Atlantic Records/ATG,175,183,2,3894090,2018-04-05
 176,spotify:track:3DXncPQOG4VBw3QHh3S817,"DJ Khaled, Justin Bieber, Quavo, Chance the Rapper, Lil Wayne","I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",Epic/We The Best,2,179,49,3868640,2018-04-05
 177,spotify:track:43ay9lQZ5rfNcOOHhRF2cM,"Hugh Jackman, Keala Settle, Zac Efron, Zendaya, The Greatest Showman Ensemble",The Greatest Show,Atlantic Records,73,182,14,3864244,2018-04-05
-178,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,9,163,46,3850158,2018-04-05
+178,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,9,163,46,3850158,2018-04-05
 179,spotify:track:7Il2yWQmsqKgSkLQvHTPUI,Dan + Shay,Tequila,Warner Records,179,-1,1,3833887,2018-04-05
 180,spotify:track:7vu0JkJh0ldukEYbTVcqd0,Julia Michaels,Issues,J/Republic,9,170,64,3811811,2018-04-05
 181,spotify:track:38zwkK6TtTjIW9tpYBfZ3D,George Ezra,Paradise,Columbia,162,162,2,3801625,2018-04-05

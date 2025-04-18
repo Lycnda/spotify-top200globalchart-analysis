@@ -4,7 +4,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 3,spotify:track:2FRnf9qhLbvw8fu4IBXx78,Wham!,Last Christmas,Epic,2,2,41,43177189,2022-12-22
 4,spotify:track:2EjXfH91m7f8HiJN1yQg97,Brenda Lee,Rockin' Around The Christmas Tree,MCA Nashville,4,4,36,40917945,2022-12-22
 5,spotify:track:7vQbuQcyTflfCIOu3Uzzya,Bobby Helms,Jingle Bell Rock,Geffen,5,7,35,35707249,2022-12-22
-6,spotify:track:3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),Capitol Records UK / EMI,1,5,13,33351718,2022-12-22
+6,spotify:track:3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),EMI,1,5,13,33351718,2022-12-22
 7,spotify:track:1rv46mRwDqMEhOBZ7vODg3,Michael Bublé,It's Beginning to Look a Lot like Christmas,Reprise,6,9,35,31885806,2022-12-22
 8,spotify:track:2dHHgzDwk4BJdRwy9uXhTO,"Metro Boomin, The Weeknd, 21 Savage",Creepin' (with The Weeknd & 21 Savage),Republic Records,3,6,3,30490056,2022-12-22
 9,spotify:track:0lizgQ7Qw35od7CYaoMBZb,Ariana Grande,Santa Tell Me,Universal Records,3,13,36,28754864,2022-12-22
@@ -84,7 +84,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 83,spotify:track:6Xom58OOXk2SoU711L2IXO,Bad Bunny,Moscow Mule,Rimas Entertainment LLC,2,84,33,11496776,2022-12-22
 84,spotify:track:6G12ZafqofSq7YtrMqUm76,"Shakira, Ozuna",Monotonía,Sony Music Latin,21,87,9,11469021,2022-12-22
 85,spotify:track:0YWUHZPJVg4iujddsJDwhM,Britney Spears,My Only Wish (This Year),Jive,64,131,18,11303234,2022-12-22
-86,spotify:track:0oBtwScT4B4BR5kZitNWd5,Quevedo,PUNTO G,Quevedo,84,97,7,10922456,2022-12-22
+86,spotify:track:0oBtwScT4B4BR5kZitNWd5,Quevedo,Punto G,Quevedo,84,97,7,10922456,2022-12-22
 87,spotify:track:4OH5Cd8ZOI1eSgJSC9PYmU,"Mert Demir, Mabel Matiz",Antidepresan,Pale Records,87,132,3,10767678,2022-12-22
 88,spotify:track:23Lyy7ZXRvzfgH4JtDkKrX,Grupo Frontera,No Se Va - En Vivo,Grupo Frontera,36,107,13,10602073,2022-12-22
 89,spotify:track:2pnPe4pJtq7689i5ydzvJJ,Chuck Berry,Run Rudolph Run,Geffen*,65,154,16,10516459,2022-12-22
@@ -109,7 +109,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 108,spotify:track:6OzUIp8KjuwxJnCWkXp1uL,"Wisin & Yandel, ROSALÍA",Besos Moja2,Sony Music Latin,64,115,12,9527019,2022-12-22
 109,spotify:track:3PIDciSFdrQxSQSihim3hN,Mariah Carey,Christmas (Baby Please Come Home),Columbia,65,187,16,9495503,2022-12-22
 110,spotify:track:6a1hzBiTkgqTsDA0Xgfh9z,The Jackson 5,Santa Claus Is Coming To Town,UNI/MOTOWN,59,197,15,9483687,2022-12-22
-111,spotify:track:7iwJOi3hlMqZt6pj1sQOBj,Quevedo,VISTA AL MAR,Quevedo,45,123,15,9377320,2022-12-22
+111,spotify:track:7iwJOi3hlMqZt6pj1sQOBj,Quevedo,Vista Al Mar,Quevedo,45,123,15,9377320,2022-12-22
 112,spotify:track:7gRFDGEzF9UkBV233yv2dc,BLACKPINK,Shut Down,YG Entertainment/Interscope Records,1,120,14,9369373,2022-12-22
 113,spotify:track:3F5CgOj3wFlRv51JsHbxhe,"Drake, 21 Savage",Jimmy Cooks (feat. 21 Savage),OVO,7,113,27,9343157,2022-12-22
 114,spotify:track:0JXXNGljqupsJaZsgSbMZV,Miguel,Sure Thing,Jive,114,194,2,9315389,2022-12-22
@@ -143,7 +143,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 142,spotify:track:1mea3bSkSGXuIRvnydlB5b,Coldplay,Viva La Vida,Parlophone UK,122,164,17,8487223,2022-12-22
 143,spotify:track:1N8TTK1Uoy7UvQNUazfUt5,ThxSoMch,SPIT IN MY FACE!,Elektra (NEK),110,151,6,8446400,2022-12-22
 144,spotify:track:4PMqSO5qyjpvzhlLI5GnID,SZA,Good Days,Top Dawg Entertainment/RCA Records,5,81,34,8420312,2022-12-22
-145,spotify:track:2t6IxTASaSFkZEt61tQ6W6,"Quevedo, Myke Towers",PLAYA DEL INGLÉS,WM Spain,145,-1,1,8365635,2022-12-22
+145,spotify:track:2t6IxTASaSFkZEt61tQ6W6,"Quevedo, Myke Towers",Playa Del Inglés,WM Spain,145,-1,1,8365635,2022-12-22
 146,spotify:track:25leEEaz1gIpp7o21Fqyjo,Gene Autry,Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version,Columbia/Legacy,146,-1,2,8343681,2022-12-22
 147,spotify:track:3QIoEi8Enr9uHffwInGIsC,Eagles,Please Come Home for Christmas - 2013 Remaster,Rhino/Elektra,129,-1,4,8328405,2022-12-22
 148,spotify:track:4iZ4pt7kvcaH6Yo8UoZ4s2,SZA,Snooze,Top Dawg Entertainment/RCA Records,57,57,2,8321568,2022-12-22
@@ -172,7 +172,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 171,spotify:track:5TXDeTFVRVY7Cvt0Dw4vWW,XXXTENTACION,Revenge,Bad Vibes Forever / EMPIRE,63,172,43,7839748,2022-12-22
 172,spotify:track:5Z9KJZvQzH6PFmb8SNkxuk,"Lil Nas X, Jack Harlow",INDUSTRY BABY (feat. Jack Harlow),Columbia,2,177,74,7833603,2022-12-22
 173,spotify:track:0tgVpDi06FyKpA1z0VMD4v,Ed Sheeran,Perfect,Atlantic Records UK,4,190,301,7820150,2022-12-22
-174,spotify:track:3tAQNhm1o0kzldsI5QkrB1,Aerosmith,Dream On,Aerosmith P&D - Sony,104,182,7,7796270,2022-12-22
+174,spotify:track:3tAQNhm1o0kzldsI5QkrB1,Aerosmith,Dream On,Columbia,104,182,7,7796270,2022-12-22
 175,spotify:track:4h5x3XHLVYFJaItKuO2rhy,"SZA, Phoebe Bridgers",Ghost in the Machine (feat. Phoebe Bridgers),Top Dawg Entertainment/RCA Records,58,58,2,7790263,2022-12-22
 176,spotify:track:7qEHsqek33rTcFNT9PFqLf,Lewis Capaldi,Someone You Loved,Vertigo Berlin,4,185,207,7784893,2022-12-22
 177,spotify:track:7H0ya83CMmgFcOhw0UB6ow,Beach House,Space Song,Apple Orchard Music,152,152,13,7775059,2022-12-22
@@ -186,7 +186,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 185,spotify:track:2yjlYDiNiQkdxVqTlaSrlX,Nicki Minaj,Super Freaky Girl,Republic Records,14,181,19,7691690,2022-12-22
 186,spotify:track:41oY4WCTj5kccfesTVFnvN,"Bad Bunny, Jhayco",Tarot,Rimas Entertainment LLC,9,157,33,7683985,2022-12-22
 187,spotify:track:0B7wvvmu9EISAwZnOpjhNI,Bruno Mars,When I Was Your Man,Atlantic Records,161,192,17,7661188,2022-12-22
-188,spotify:track:75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God),Fish People,1,170,30,7654868,2022-12-22
+188,spotify:track:75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God),Parlophone UK,1,170,30,7654868,2022-12-22
 189,spotify:track:2JPLbjOn0wPCngEot2STUS,Bad Bunny,Yonaguni,Rimas Entertainment LLC,3,196,80,7648822,2022-12-22
 190,spotify:track:4fzyvSu73BhGvi96p2zwjL,Coldplay,Christmas Lights,Parlophone UK,61,-1,16,7631453,2022-12-22
 191,spotify:track:7fBv7CLKzipRk6EC6TWHOB,The Weeknd,The Hills,Universal Republic Records,52,186,69,7601587,2022-12-22

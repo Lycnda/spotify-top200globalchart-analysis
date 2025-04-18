@@ -7,7 +7,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 6,spotify:track:4iLqG9SeJSnt0cSPICSjxv,Charlie Puth,Attention,Artist Partner,5,5,8,22922326,2017-06-15
 7,spotify:track:3B54sVLJ402zGa6Xm4YGNe,"French Montana, Swae Lee",Unforgettable,Bad Boy Entertainment/Epic Records,7,7,10,22421504,2017-06-15
 8,spotify:track:6kex4EBAj0WHXDKZMEJaaF,"Jason Derulo, Nicki Minaj, Ty Dolla $ign",Swalla (feat. Nicki Minaj & Ty Dolla $ign),Beluga Heights/Warner Records,6,6,16,20420851,2017-06-15
-9,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,9,13,4,19956442,2017-06-15
+9,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,9,13,4,19956442,2017-06-15
 10,spotify:track:79cuOz3SPQTuFrp8WgftAu,Shawn Mendes,There's Nothing Holdin' Me Back,Island Records,5,8,8,19614320,2017-06-15
 11,spotify:track:2eMwDehkIC1j68U6FA3Eiq,Lil Uzi Vert,XO Tour Llif3,Generation Now/Atlantic,10,10,12,19409469,2017-06-15
 12,spotify:track:4aWmUDTfIPGksMNLV2rQP2,"Luis Fonsi, Daddy Yankee",Despacito,UMLE - Latino,4,9,22,19392970,2017-06-15
@@ -46,7 +46,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 45,spotify:track:6D0b04NJIKfEMg040WioJQ,Julia Michaels,Issues,J/Republic,9,38,22,10371528,2017-06-15
 46,spotify:track:0CcQNd8CINkwQfe1RDtGV6,Imagine Dragons,Believer,Kid Ina Korner / Interscope,19,44,19,10287248,2017-06-15
 47,spotify:track:2cnKEkpVUSV4wnjQiTWfH6,"Wisin, Ozuna",Escápate Conmigo (feat. Ozuna),Sony Music Latin,47,47,10,9938029,2017-06-15
-48,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcángel",Ahora Dice,UMLE - Latino,48,50,10,9235404,2017-06-15
+48,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcangel",Ahora Dice,UMLE - Latino,48,50,10,9235404,2017-06-15
 49,spotify:track:3PEgB3fkiojxms35ntsTgs,Axwell /\ Ingrosso,More Than You Know,EMI,49,62,3,9202134,2017-06-15
 50,spotify:track:3ebXMykcMXOcLeJ9xZ17XH,"Martin Garrix, Dua Lipa",Scared to Be Lonely,Epic Amsterdam,5,42,20,9193730,2017-06-15
 51,spotify:track:2EEeOnHehOozLq4aS0n6SL,"KYLE, Lil Yachty",iSpy (feat. Lil Yachty),independently popular.,21,46,25,8995910,2017-06-15

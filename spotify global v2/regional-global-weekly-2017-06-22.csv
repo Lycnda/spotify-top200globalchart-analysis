@@ -7,7 +7,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 6,spotify:track:3B54sVLJ402zGa6Xm4YGNe,"French Montana, Swae Lee",Unforgettable,Bad Boy Entertainment/Epic Records,6,7,11,23320818,2017-06-22
 7,spotify:track:4iLqG9SeJSnt0cSPICSjxv,Charlie Puth,Attention,Artist Partner,5,6,9,22647142,2017-06-22
 8,spotify:track:7KXjTSCq5nL1LoYtL7XAwS,Kendrick Lamar,HUMBLE.,Aftermath,1,5,12,21826332,2017-06-22
-9,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,9,9,5,20433428,2017-06-22
+9,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,9,9,5,20433428,2017-06-22
 10,spotify:track:6kex4EBAj0WHXDKZMEJaaF,"Jason Derulo, Nicki Minaj, Ty Dolla $ign",Swalla (feat. Nicki Minaj & Ty Dolla $ign),Beluga Heights/Warner Records,6,8,17,20072364,2017-06-22
 11,spotify:track:79cuOz3SPQTuFrp8WgftAu,Shawn Mendes,There's Nothing Holdin' Me Back,Island Records,5,10,9,19383733,2017-06-22
 12,spotify:track:4aWmUDTfIPGksMNLV2rQP2,"Luis Fonsi, Daddy Yankee",Despacito,UMLE - Latino,4,12,23,19085403,2017-06-22
@@ -49,7 +49,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 48,spotify:track:6D0b04NJIKfEMg040WioJQ,Julia Michaels,Issues,J/Republic,9,45,23,10033492,2017-06-22
 49,spotify:track:6HZILIRieu8S0iqY8kIKhj,Kendrick Lamar,DNA.,Aftermath,3,42,10,9869669,2017-06-22
 50,spotify:track:2cnKEkpVUSV4wnjQiTWfH6,"Wisin, Ozuna",Escápate Conmigo (feat. Ozuna),Sony Music Latin,47,47,11,9850769,2017-06-22
-51,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcángel",Ahora Dice,UMLE - Latino,48,48,11,8609000,2017-06-22
+51,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcangel",Ahora Dice,UMLE - Latino,48,48,11,8609000,2017-06-22
 52,spotify:track:5knuzwU65gJK7IF5yJsuaW,"Clean Bandit, Sean Paul, Anne-Marie",Rockabye (feat. Sean Paul & Anne-Marie),Atlantic Records UK,3,53,26,7862282,2017-06-22
 53,spotify:track:0lMbuWUpfTWhEmOKxppEau,"Calvin Harris, Future, Khalid, Funk Wav",Rollin (feat. Future & Khalid),Columbia,43,55,6,7829911,2017-06-22
 54,spotify:track:2mfUa8bLs2s5N4VaqJZ4lZ,Hailee Steinfeld,Most Girls,Universal Records,54,57,8,7758527,2017-06-22

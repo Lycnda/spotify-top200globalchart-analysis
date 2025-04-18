@@ -22,7 +22,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 21,spotify:track:5CtI0qwDJkDQGwXD1H1cLb,"Luis Fonsi, Daddy Yankee, Justin Bieber",Despacito - Remix,UMLE - Latino,1,12,22,15370611,2017-09-14
 22,spotify:track:7GX5flRQZVHRAGd6B4TmDO,Lil Uzi Vert,XO Tour Llif3,Generation Now/Atlantic,10,14,25,15350875,2017-09-14
 23,spotify:track:3PEgB3fkiojxms35ntsTgs,Axwell /\ Ingrosso,More Than You Know,EMI,15,19,16,15130302,2017-09-14
-24,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,9,21,17,14751783,2017-09-14
+24,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,9,21,17,14751783,2017-09-14
 25,spotify:track:5Z3GHaZ6ec9bsiI5BenrbY,Khalid,Young Dumb & Broke,"Right Hand Music Group, LLC/RCA Records",25,27,12,14613498,2017-09-14
 26,spotify:track:3HVr6jTVwBHBa2flM0eURR,"Macklemore, Skylar Grey",Glorious (feat. Skylar Grey),Bendo LLC,19,23,10,14491286,2017-09-14
 27,spotify:track:3A7qX2QjDlPnazUsRk5y0M,"David Guetta, Justin Bieber",2U (feat. Justin Bieber),Parlophone (France),3,20,14,14271434,2017-09-14
@@ -63,7 +63,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 62,spotify:track:2eAZfqOm4EnOF9VvN50Tyc,"Lil Uzi Vert, Oh Wonder",The Way Life Goes (feat. Oh Wonder),Generation Now/Atlantic,53,64,3,6811920,2017-09-14
 63,spotify:track:57p8CBvPOxrvyCbn6ttl5r,"Skrillex, Poo Bear",Would You Ever,OWSLA/Atlantic,57,62,7,6793144,2017-09-14
 64,spotify:track:3GVkPk8mqxz0itaAriG1L7,XXXTENTACION,Everybody Dies In Their Nightmares,Bad Vibes Forever / EMPIRE,52,61,3,6667119,2017-09-14
-65,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcángel",Ahora Dice,UMLE - Latino,46,63,23,6660054,2017-09-14
+65,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcangel",Ahora Dice,UMLE - Latino,46,63,23,6660054,2017-09-14
 66,spotify:track:3VClLWqNn80Llv0PJOsKgr,"Nacho, Yandel, Bad Bunny, Mambo Kingz, DJ Luian",Báilame - Remix,UMLE - Latino,66,84,4,6588727,2017-09-14
 67,spotify:track:3zoYkqS4y2BsGVShPL2nTE,"CNCO, Little Mix",Reggaetón Lento (Remix),Sony Music Latin,67,69,4,6574164,2017-09-14
 68,spotify:track:1HTtUBEY3tuw2btgwwI2Ja,"Gucci Mane, Migos",I Get the Bag (feat. Migos),Guwop Enterprises/Atlantic,68,77,4,6522500,2017-09-14

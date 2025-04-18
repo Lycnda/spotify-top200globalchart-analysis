@@ -18,7 +18,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 17,spotify:track:4H7WNRErSbONkM06blBoGc,Post Malone,Stay,Republic Records,11,11,2,16222212,2018-05-10
 18,spotify:track:3V8UKqhEK5zBkBb6d6ub8i,"Nio Garcia, Casper Magico, Bad Bunny, Darell, Ozuna, Nicky Jam",Te Boté - Remix,"2018 Flow La Movie, Inc.",18,38,4,16129735,2018-05-10
 19,spotify:track:5CLGzJsGqhCEECcpnFQA8x,"Rudimental, Jess Glynne, Macklemore, Dan Caplen","These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",Atlantic Records UK,9,30,16,15193023,2018-05-10
-20,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),Bloc Nation,6,31,13,15172354,2018-05-10
+20,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),OVO Sound/Warner Records,6,31,13,15172354,2018-05-10
 21,spotify:track:76cy1WJvNGJTj78UqeA5zr,Dua Lipa,IDGAF,Warner Records,4,29,19,14983344,2018-05-10
 22,spotify:track:5VuxWXbt7XENQCtE9TzpTv,"Post Malone, Swae Lee",Spoil My Night (feat. Swae Lee),Republic Records,9,9,2,14872393,2018-05-10
 23,spotify:track:3ee8Jmje8o58CHK66QrVC2,XXXTENTACION,SAD!,"Bad Vibes Forever, LLC",3,28,10,14446173,2018-05-10
@@ -68,7 +68,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 67,spotify:track:33bnxcjePIkcmNjEFTJX0l,"Piso 21, Manuel Turizo",Déjala Que Vuelva (feat. Manuel Turizo),WM Mexico,33,72,27,7789440,2018-05-10
 68,spotify:track:6WbADFqMvR8N5u0BvtsWQE,"Avicii, Sandro Cavazza",Without You (feat. Sandro Cavazza),Universal Music AB,20,50,31,7753847,2018-05-10
 69,spotify:track:0MrRAUcB8AZiB9ue2VOBYe,Post Malone,Sugar Wraith,Republic Records,33,33,2,7722703,2018-05-10
-70,spotify:track:0Y4hwUppbGc8aIBmiTz30A,"Liam Payne, J Balvin",Familiar,Capitol Records UK / EMI,57,84,3,7674287,2018-05-10
+70,spotify:track:0Y4hwUppbGc8aIBmiTz30A,"Liam Payne, J Balvin",Familiar,Capitol,57,84,3,7674287,2018-05-10
 71,spotify:track:5Y9fnynLlIvqtM710MHzfz,Ozuna,Síguelo Bailando,VP Records Corp/Dimelo Vi,43,74,19,7628104,2018-05-10
 72,spotify:track:1LhMopPAallLeaeNutqbgS,"Justin Timberlake, Chris Stapleton",Say Something (feat. Chris Stapleton),RCA Records Label,25,56,15,7576589,2018-05-10
 73,spotify:track:3xcCix7Jv1Rp90YVmgo35D,Wolfine,Bella,LOMIORECORDS,28,64,20,7457074,2018-05-10
@@ -82,7 +82,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 81,spotify:track:0CZ8lquoTX2Dkg7Ak2inwA,King Princess,1950,"Zelig Records, LLC./Columbia Records",61,88,8,6858734,2018-05-10
 82,spotify:track:2gTYVoQCUh0QNUaFix01ld,Nicki Minaj,Chun-Li,Young Money/Cash Money Records,58,93,4,6843452,2018-05-10
 83,spotify:track:6NFyWDv5CjfwuzoCkw47Xf,Taylor Swift,Delicate,"Big Machine Records, LLC",26,68,11,6804062,2018-05-10
-84,spotify:track:6Za3190Sbw39BBC77WSS1C,"NATTI NATASHA, Ozuna",Criminal,Pina Records,21,87,34,6779467,2018-05-10
+84,spotify:track:6Za3190Sbw39BBC77WSS1C,"Natti Natasha, Ozuna",Criminal,Pina Records,21,87,34,6779467,2018-05-10
 85,spotify:track:44KKhCyI0BGS6LvVyDqJtH,Lil Pump,Esskeetit,Warner Records,51,76,4,6764625,2018-05-10
 86,spotify:track:0VKkyBKCXyR99navhVRqcP,Zion & Lennox,La player (Bandolera),WEA Latina,83,92,8,6753428,2018-05-10
 87,spotify:track:3pWcj8hxj3fsb9TDAcMpEl,"The Chainsmokers, Drew Love",Somebody,Disruptor Records/Columbia,79,96,3,6749909,2018-05-10
@@ -95,8 +95,8 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 94,spotify:track:3Vo4wInECJQuz9BIBMOu8i,"Bruno Mars, Cardi B",Finesse - Remix; feat. Cardi B,Atlantic Records,4,98,18,6463360,2018-05-10
 95,spotify:track:6tZ3b7ik1QDXFAZlXib0YZ,J. Cole,Kevin’s Heart,J. Cole P&D,16,54,3,6333120,2018-05-10
 96,spotify:track:51rXHuKN8Loc4sUlKPODgH,"Jay Rock, Kendrick Lamar, Future, James Blake","King's Dead (with Kendrick Lamar, Future & James Blake)",Black Panther (TDE/DMG) PS,29,103,17,6323270,2018-05-10
-97,spotify:track:6U2NuJILEOEpW2tVCuqKHb,"Daddy Yankee, NATTI NATASHA, Becky G, Bad Bunny",Dura - Remix,El Cartel Records (EC3),97,150,2,6295292,2018-05-10
-98,spotify:track:2ijef6ni2amuunRoKTlgww,"Becky G, NATTI NATASHA",Sin Pijama,Sony Music Latin,98,123,2,6226719,2018-05-10
+97,spotify:track:6U2NuJILEOEpW2tVCuqKHb,"Daddy Yankee, Natti Natasha, Becky G, Bad Bunny",Dura - Remix,El Cartel Records (EC3),97,150,2,6295292,2018-05-10
+98,spotify:track:2ijef6ni2amuunRoKTlgww,"Becky G, Natti Natasha",Sin Pijama,Sony Music Latin,98,123,2,6226719,2018-05-10
 99,spotify:track:5AEtlRudpgdT5FtNiuly6Y,"Hailee Steinfeld, Alesso, Florida Georgia Line, WATT","Let Me Go (with Alesso, Florida Georgia Line & watt)",Universal Records,16,102,35,6190249,2018-05-10
 100,spotify:track:2UciqgwVDwro0fev3MFbxJ,J. Cole,ATM,J. Cole P&D,12,55,3,6139173,2018-05-10
 101,spotify:track:4ofvoCdXq99vpMZO4Cfp8x,"The Weeknd, Kendrick Lamar",Pray For Me,Universal Republic Records,3,108,14,6131115,2018-05-10
@@ -175,7 +175,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 174,spotify:track:5TVirkSwFEXF1nLJEebe2I,Bazzi,Beautiful,iamcosmic,113,164,10,4472327,2018-05-10
 175,spotify:track:1nfyE13arjOuO54HH0zmqj,Manuel Turizo,Esperándote,Sony Music Latin/La Industria,107,165,16,4449088,2018-05-10
 176,spotify:track:3TnhQSRwT3AVMdXw5JPq0x,"Paulo Londra, Lenny Tavárez",Nena Maldición (feat. Lenny Tavárez),WEA Latina,176,191,2,4448525,2018-05-10
-177,spotify:track:5hM6sP0Gh1jD57drszNueC,"Liam Payne, Rita Ora",For You (With Rita Ora),Capitol Records UK / EMI,27,156,18,4414074,2018-05-10
+177,spotify:track:5hM6sP0Gh1jD57drszNueC,"Liam Payne, Rita Ora",For You (With Rita Ora),Capitol,27,156,18,4414074,2018-05-10
 178,spotify:track:0SaYeGhSXN0dDWstyNTQ56,"Wolfine, Maluma",Bella - Remix,LOMIORECORDS,178,-1,1,4413766,2018-05-10
 179,spotify:track:38zwkK6TtTjIW9tpYBfZ3D,George Ezra,Paradise,Columbia,156,169,7,4407031,2018-05-10
 180,spotify:track:7AQim7LbvFVZJE3O8TYgf2,"XXXTENTACION, Trippie Redd",Fuck Love (feat. Trippie Redd),Bad Vibes Forever / EMPIRE,41,167,37,4398557,2018-05-10

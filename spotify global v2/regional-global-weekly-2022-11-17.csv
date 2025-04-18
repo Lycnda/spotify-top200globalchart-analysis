@@ -1,5 +1,5 @@
 rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,streams,End Date
-1,spotify:track:3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),Capitol Records UK / EMI,1,3,8,43959585,2022-11-17
+1,spotify:track:3nqQXoyQOWXiESFLlDF1hG,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),EMI,1,3,8,43959585,2022-11-17
 2,spotify:track:0V3wPSX9ygBnCm8psDIegu,Taylor Swift,Anti-Hero,Taylor Swift,1,1,4,43007887,2022-11-17
 3,spotify:track:1bDbXMyjaUIooNwFE9wn0N,"Drake, 21 Savage",Rich Flex,OVO / Republic Records,2,2,2,35589849,2022-11-17
 4,spotify:track:5ww2BF9slyYgNOk37BlC4u,Manuel Turizo,La Bachata,Sony Music Latin/La Industria,4,8,20,29757806,2022-11-17
@@ -67,7 +67,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 66,spotify:track:0HYAsQwJIO6FLqpyTeD3l6,Fujii Kaze,Shinunoga E-Wa,Universal Music LLC,66,88,11,10748113,2022-11-17
 67,spotify:track:38T0tPVZHcPZyhtOcCP7pF,Lil Nas X,STAR WALKIN' (League of Legends Worlds Anthem),Columbia,22,76,8,10720499,2022-11-17
 68,spotify:track:6JIC3hbC28JZKZ8AlAqX8h,"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,EMI,4,84,66,10701002,2022-11-17
-69,spotify:track:7iwJOi3hlMqZt6pj1sQOBj,Quevedo,VISTA AL MAR,Quevedo,45,85,10,10660460,2022-11-17
+69,spotify:track:7iwJOi3hlMqZt6pj1sQOBj,Quevedo,Vista Al Mar,Quevedo,45,85,10,10660460,2022-11-17
 70,spotify:track:0A1JLUlkZkp2EFrosoNQi0,Taylor Swift,Labyrinth,Taylor Swift,12,59,4,10647855,2022-11-17
 71,spotify:track:5zwwW9Oq7ubSxoCGyW1nbY,BLACKPINK,Pink Venom,YG Entertainment/Interscope Records,2,79,13,10643869,2022-11-17
 72,spotify:track:33cF8aTmGJ6TsEf23uqGIN,"Rauw Alejandro, Lyanno, Brray",LOKERA,Sony Music Latin/Duars Entertainment,38,77,14,10564656,2022-11-17
@@ -100,7 +100,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 99,spotify:track:09mEdoA6zrmBPgTEN5qXmN,The Weeknd,Call Out My Name,Universal Republic Records,1,115,56,8933438,2022-11-17
 100,spotify:track:3khEEPRyBeOUabbmOPJzAG,Kenshi Yonezu,KICK BACK,Sony Music Labels Inc.,66,101,5,8908164,2022-11-17
 101,spotify:track:1ga4PztXOIw1yBbdUt2X8v,"KAROL G, Maldy",GATÚBELA,UMLE - Latino,33,113,12,8784361,2022-11-17
-102,spotify:track:75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God),Fish People,1,102,25,8753649,2022-11-17
+102,spotify:track:75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God),Parlophone UK,1,102,25,8753649,2022-11-17
 103,spotify:track:3CIyK1V4JEJkg02E4EJnDl,"Imagine Dragons, JID, Arcane, League of Legends",Enemy (with JID) - from the series Arcane League of Legends,Kid Ina Korner / Interscope,3,114,55,8677380,2022-11-17
 104,spotify:track:41oY4WCTj5kccfesTVFnvN,"Bad Bunny, Jhayco",Tarot,Rimas Entertainment LLC,9,119,28,8663194,2022-11-17
 105,spotify:track:6HMtHNpW6YPi1hrw9tgF8P,Lizzo,About Damn Time,Nice Life/Atlantic,9,107,29,8554818,2022-11-17
@@ -116,7 +116,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 115,spotify:track:2FRnf9qhLbvw8fu4IBXx78,Wham!,Last Christmas,Epic,2,-1,36,8237725,2022-11-17
 116,spotify:track:6I3mqTwhRpn34SLVafSH7G,Justin Bieber,Ghost,RBMG/Def Jam,11,129,61,8232870,2022-11-17
 117,spotify:track:1Fid2jjqsHViMX6xNH70hE,Seafret,Atlantis,Sweet Jane Recordings,63,116,17,8226567,2022-11-17
-118,spotify:track:0oBtwScT4B4BR5kZitNWd5,Quevedo,PUNTO G,Quevedo,118,169,2,8164868,2022-11-17
+118,spotify:track:0oBtwScT4B4BR5kZitNWd5,Quevedo,Punto G,Quevedo,118,169,2,8164868,2022-11-17
 119,spotify:track:3xWGA8pa0IKFI7IMPri4P0,Ed Sheeran,Shivers,Atlantic Records UK,4,133,62,8158272,2022-11-17
 120,spotify:track:5jt25aFjW2kNoBqaEVaz5W,"Mora, Feid",LA INOCENTE,Rimas Entertainment LLC,74,117,20,8139737,2022-11-17
 121,spotify:track:0pqnGHJpmpxLKifKRmU6WP,Imagine Dragons,Believer,Kid Ina Korner / Interscope,16,141,302,8096140,2022-11-17
@@ -133,7 +133,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 132,spotify:track:1mea3bSkSGXuIRvnydlB5b,Coldplay,Viva La Vida,Parlophone UK,125,148,12,7949158,2022-11-17
 133,spotify:track:5FVd6KXrgO9B3JPmC8OPst,Arctic Monkeys,Do I Wanna Know?,Domino Recording Co,98,147,62,7930112,2022-11-17
 134,spotify:track:086myS9r57YsLbJpU0TgK9,Arctic Monkeys,Why'd You Only Call Me When You're High?,Domino Recording Co,104,157,54,7918229,2022-11-17
-135,spotify:track:3tAQNhm1o0kzldsI5QkrB1,Aerosmith,Dream On,Aerosmith P&D - Sony,135,195,2,7878280,2022-11-17
+135,spotify:track:3tAQNhm1o0kzldsI5QkrB1,Aerosmith,Dream On,Columbia,135,195,2,7878280,2022-11-17
 136,spotify:track:2J2Z1SkXYghSajLibnQHOa,Sia,Unstoppable,Monkey Puzzle Records/RCA Records,107,149,40,7864870,2022-11-17
 137,spotify:track:4woTEX1wYOTGDqNXuavlRC,"Eminem, Dina Rae",Superman,Aftermath,137,146,7,7850085,2022-11-17
 138,spotify:track:7ef4DlsgrMEH11cDZd32M6,"Calvin Harris, Dua Lipa",One Kiss (with Dua Lipa),Sony Music UK,2,150,97,7731251,2022-11-17
@@ -157,7 +157,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 156,spotify:track:0tgVpDi06FyKpA1z0VMD4v,Ed Sheeran,Perfect,Atlantic Records UK,4,178,296,7321872,2022-11-17
 157,spotify:track:6mmPpaltUZK7xjNlBPQQ0p,"Rauw Alejandro, Chencho Corleone",Desesperados,Sony Music Latin/Duars Entertainment,8,180,49,7283674,2022-11-17
 158,spotify:track:7fBv7CLKzipRk6EC6TWHOB,The Weeknd,The Hills,Universal Republic Records,52,190,64,7263486,2022-11-17
-159,spotify:track:3fjN3y5x4hN53rykAN2LHQ,Rels B,cómo dormiste?,DALE PLAY Records / Flakk Team,24,154,15,7237532,2022-11-17
+159,spotify:track:3fjN3y5x4hN53rykAN2LHQ,Rels B,cómo dormiste?,Flakk Team / DALE PLAY Records,24,154,15,7237532,2022-11-17
 160,spotify:track:2DB4DdfCFMw1iaR6JaR03a,"Camila Cabello, Ed Sheeran",Bam Bam (feat. Ed Sheeran),Epic,5,136,37,7231922,2022-11-17
 161,spotify:track:3hxIUxnT27p5WcmjGUXNwx,Hotel Ugly,Shut up My Moms Calling,"Hotel Ugly, under exclusive license to Amuseio AB",161,191,4,7191455,2022-11-17
 162,spotify:track:46HNZY1i7O6jwTA7Slo2PI,"Coldplay, BTS",My Universe,Parlophone UK,3,171,60,7160301,2022-11-17
@@ -172,7 +172,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 171,spotify:track:7vQbuQcyTflfCIOu3Uzzya,Bobby Helms,Jingle Bell Rock,Geffen,6,-1,30,7084762,2022-11-17
 172,spotify:track:0RiRZpuVRbi7oqRdSMwhQY,"Post Malone, Swae Lee",Sunflower - Spider-Man: Into the Spider-Verse,Republic Records,1,-1,212,7024755,2022-11-17
 173,spotify:track:18zQTt3ifDv6iLni2YuXMg,Rihanna,Born Again,Roc Nation/Def Jam/Hollywood,173,-1,1,7020422,2022-11-17
-174,spotify:track:2Lu7qsFpsvDfC05R4GT1lT,ThxSoMch,SPIT IN MY FACE!,Elektra (NEK),174,-1,1,7012800,2022-11-17
+174,spotify:track:2Lu7qsFpsvDfC05R4GT1lT,ThxSoMch,SPIT IN MY FACE!,ThxSoMch,174,-1,1,7012800,2022-11-17
 175,spotify:track:0B7wvvmu9EISAwZnOpjhNI,Bruno Mars,When I Was Your Man,Atlantic Records,161,185,12,7010103,2022-11-17
 176,spotify:track:3GYlZ7tbxLOxe6ewMNVTkw,Billie Eilish,TV,Darkroom/Interscope Records,27,197,8,7009023,2022-11-17
 177,spotify:track:0ll8uFnc0nANY35E0Lfxvg,Keane,Somewhere Only We Know,Universal-Island Records Ltd.,120,192,10,6987949,2022-11-17
@@ -198,4 +198,4 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 197,spotify:track:1Ame8XTX6QHY0l0ahqUhgv,Måneskin,THE LONELIEST,Epic,50,175,6,6687919,2022-11-17
 198,spotify:track:0kTMK4gNFfLXaTb62w1UaJ,"Pablito Pesadilla, Polimá Westcoast, Nickoog Clk, Fran C",BABY OTAKU,BZR Music,47,152,8,6683757,2022-11-17
 199,spotify:track:6J834IBcZJMH38ksrgAqwF,Taylor Swift,Paris,Taylor Swift,34,123,4,6674148,2022-11-17
-200,spotify:track:5Zlb01Jcn0Ld49zazzZJSB,"TWISTED, Oliver Tree",WORTH NOTHING - Fast & Furious: Drift Tape/Phonk Vol 1,APG Inc – FF10,188,188,2,6650861,2022-11-17
+200,spotify:track:5Zlb01Jcn0Ld49zazzZJSB,"TWISTED, Oliver Tree",WORTH NOTHING - Fast & Furious: Drift Tape/Phonk Vol 1,Artist Partner Group – FF10,188,188,2,6650861,2022-11-17

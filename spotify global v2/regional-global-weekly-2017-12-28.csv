@@ -25,7 +25,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 24,spotify:track:1ADjWm8QNhgNV8yCNNgQ1T,Ariana Grande,Santa Tell Me,Universal Records,24,51,6,11977857,2017-12-28
 25,spotify:track:3T7dNA7O8c3Axj5WyDNcH3,Brenda Lee,Rockin' Around The Christmas Tree,MCA Nashville,25,50,6,11900150,2017-12-28
 26,spotify:track:5hcisvFMidkMJlElTO9Qmw,"Bad Bunny, Prince Royce, J Balvin, Mambo Kingz, DJ Luian",Sensualidad,Hear This Music,21,21,8,11773720,2017-12-28
-27,spotify:track:6Za3190Sbw39BBC77WSS1C,"NATTI NATASHA, Ozuna",Criminal,Pina Records,21,27,15,11718073,2017-12-28
+27,spotify:track:6Za3190Sbw39BBC77WSS1C,"Natti Natasha, Ozuna",Criminal,Pina Records,21,27,15,11718073,2017-12-28
 28,spotify:track:3zJw3rugfpVrmBeDDnUYzy,"John Lennon, Yoko Ono",Happy Xmas (War Is Over) - Remastered 2010,EMI Catalogue,28,63,5,11683575,2017-12-28
 29,spotify:track:5hslUAKq9I9CG2bAulFkHN,Andy Williams,It's the Most Wonderful Time of the Year,Columbia/Legacy,29,56,6,11647031,2017-12-28
 30,spotify:track:6u0EAxf1OJTLS7CvInuNd7,"Anitta, ZAAC, Maejor, Tropkillaz, DJ Yuri Martins",Vai malandra (feat. Tropkillaz & DJ Yuri Martins),WM Brazil,30,54,2,11436693,2017-12-28
@@ -133,7 +133,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 132,spotify:track:1P17dC1amhFzptugyAO7Il,Taylor Swift,Look What You Made Me Do,"Big Machine Records, LLC",1,105,18,5367547,2017-12-28
 133,spotify:track:0ERbK7qVqveCaBWIiYCrl3,"Romeo Santos, Daddy Yankee, Nicky Jam",Bella y Sensual,Sony Music Latin,106,131,22,5348617,2017-12-28
 134,spotify:track:0CokSRCu5hZgPxcZBaEzVE,"Macklemore, Skylar Grey",Glorious (feat. Skylar Grey),Bendo LLC,14,114,25,5346992,2017-12-28
-135,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,9,119,32,5344759,2017-12-28
+135,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,9,119,32,5344759,2017-12-28
 136,spotify:track:7y9iMe8SOB6z3NoHE2OfXl,Halsey,Bad At Love,Astralwerks (ASW),68,99,18,5327201,2017-12-28
 137,spotify:track:152lZdxL1OR0ZMW6KquMif,Khalid,Location,"Right Hand Music Group, LLC/RCA Records",34,112,47,5315462,2017-12-28
 138,spotify:track:5bcTCxgc7xVfSaMV3RuVke,"Calvin Harris, Pharrell Williams, Katy Perry, Big Sean, Funk Wav","Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",Columbia,5,120,28,5306038,2017-12-28
@@ -162,11 +162,11 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 161,spotify:track:1hy6kKvsPbv7VTcllCuATC,Meghan Trainor,I'll Be Home,Epic,161,-1,1,4725864,2017-12-28
 162,spotify:track:5ASM6Qjiav2xPe7gRkQMsQ,The Ronettes,Sleigh Ride,Legacy Recordings,137,-1,2,4712421,2017-12-28
 163,spotify:track:6kex4EBAj0WHXDKZMEJaaF,"Jason Derulo, Nicki Minaj, Ty Dolla $ign",Swalla (feat. Nicki Minaj & Ty Dolla $ign),Beluga Heights/Warner Records,6,156,44,4657699,2017-12-28
-164,spotify:track:0tPQPaOKM32WgMSbPCYyRH,"David Guetta, AFROJACK, Charli XCX, French Montana",Dirty Sexy Money (feat. Charli XCX & French Montana),Parlophone (France),100,153,8,4631692,2017-12-28
+164,spotify:track:0tPQPaOKM32WgMSbPCYyRH,"David Guetta, Afrojack, Charli XCX, French Montana",Dirty Sexy Money (feat. Charli XCX & French Montana),Parlophone (France),100,153,8,4631692,2017-12-28
 165,spotify:track:0yyZN5ASdrYu0XYWFzfxUu,"Jesse & Joy, Gente De Zona",3 A.M.,WM Mexico,112,167,15,4617456,2017-12-28
 166,spotify:track:3qk4wRMDlaeagZGjSYbsOV,"G-Eazy, Charlie Puth",Sober,BPG/RVG/RCA Records,111,111,2,4603047,2017-12-28
 167,spotify:track:5vuiHi3QYbwcm1OKJOYnrf,"Huncho Jack, Travis Scott, Quavo",Huncho Jack,Quality Control Music - Epic,167,-1,1,4597569,2017-12-28
-168,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcángel",Ahora Dice,UMLE - Latino,46,162,38,4574465,2017-12-28
+168,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcangel",Ahora Dice,UMLE - Latino,46,162,38,4574465,2017-12-28
 169,spotify:track:4IWAyPf1KMq7JCyGeCjTeH,Imagine Dragons,Whatever It Takes,Kid Ina Korner / Interscope,51,164,20,4567374,2017-12-28
 170,spotify:track:7AQim7LbvFVZJE3O8TYgf2,"XXXTENTACION, Trippie Redd",Fuck Love (feat. Trippie Redd),Bad Vibes Forever / EMPIRE,41,146,18,4500524,2017-12-28
 171,spotify:track:3NdDpSvN911VPGivFlV5d0,"ZAYN, Taylor Swift",I Don’t Wanna Live Forever (Fifty Shades Darker),"Big Machine Records, LLC",2,161,53,4496893,2017-12-28
@@ -198,4 +198,4 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 197,spotify:track:2RttW7RAu5nOAfq6YFvApB,Ed Sheeran,Happier,Atlantic Records UK,10,184,43,4018449,2017-12-28
 198,spotify:track:5EId1m4DNwTf3at31w8bPJ,Ozuna,El Farsante,VP Records Corp/Dimelo Vi,105,185,20,4016492,2017-12-28
 199,spotify:track:38yBBH2jacvDxrznF7h08J,Niall Horan,Slow Hands,Capitol Records (US1A),29,179,34,4013987,2017-12-28
-200,spotify:track:15coTBAzEN1bOeipoNDZAR,*NSYNC,"Merry Christmas, Happy Holidays",RCA Records Label,200,-1,1,4012601,2017-12-28
+200,spotify:track:15coTBAzEN1bOeipoNDZAR,*NSYNC,"Merry Christmas, Happy Holidays",RCA/Legacy,200,-1,1,4012601,2017-12-28

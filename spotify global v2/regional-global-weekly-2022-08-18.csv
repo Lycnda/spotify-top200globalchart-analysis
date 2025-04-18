@@ -5,7 +5,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 4,spotify:track:1IHWl5LamUGEuP4ozKQSXZ,Bad Bunny,Tití Me Preguntó,Rimas Entertainment LLC,4,4,15,31493570,2022-08-18
 5,spotify:track:5ildQOEKmJuWGl2vRkFdYc,ROSALÍA,DESPECHÁ,Columbia,5,6,3,30330456,2022-08-18
 6,spotify:track:5Eax0qFko2dh7Rl2lYs3bx,Bad Bunny,Efecto,Rimas Entertainment LLC,6,7,15,26541870,2022-08-18
-7,spotify:track:75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God),Fish People,1,5,12,26425452,2022-08-18
+7,spotify:track:75FEaRjZTKLhTrFGsfMUXR,Kate Bush,Running Up That Hill (A Deal With God),Parlophone UK,1,5,12,26425452,2022-08-18
 8,spotify:track:6xGruZOHLs39ZbVccQTuPZ,Joji,Glimpse of Us,88rising Music/Warner Records,1,8,10,23178941,2022-08-18
 9,spotify:track:3k3NWokhRRkEPhCzPmV8TW,"Bad Bunny, Bomba Estéreo",Ojitos Lindos,Rimas Entertainment LLC,3,9,15,23092066,2022-08-18
 10,spotify:track:5ww2BF9slyYgNOk37BlC4u,Manuel Turizo,La Bachata,Sony Music Latin/La Industria,10,13,7,22985189,2022-08-18
@@ -19,10 +19,10 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 18,spotify:track:0mBP9X2gPCuapvpZ7TGDk3,"Charlie Puth, Jung Kook, BTS",Left and Right (Feat. Jung Kook of BTS),Atlantic Records,7,17,8,16933246,2022-08-18
 19,spotify:track:76OGwb5RA9h4FxQPT33ekc,Rosa Linn,SNAP,Columbia,19,26,6,15739460,2022-08-18
 20,spotify:track:5PjdY0CKGZdEuoNab3yDmX,"The Kid LAROI, Justin Bieber",STAY (with Justin Bieber),Columbia,1,22,58,15490803,2022-08-18
-21,spotify:track:41oY4WCTj5kccfesTVFnvN,"Bad Bunny, Jhayco",Tarot,Rimas Entertainment LLC,9,23,15,15198412,2022-08-18
+21,spotify:track:41oY4WCTj5kccfesTVFnvN,"Bad Bunny, Jhay Cortez",Tarot,Rimas Entertainment LLC,9,23,15,15198412,2022-08-18
 22,spotify:track:6HMtHNpW6YPi1hrw9tgF8P,Lizzo,About Damn Time,Nice Life/Atlantic,9,20,16,15006625,2022-08-18
 23,spotify:track:6JIC3hbC28JZKZ8AlAqX8h,"Elton John, Dua Lipa, PNAU",Cold Heart - PNAU Remix,EMI,4,24,53,14896236,2022-08-18
-24,spotify:track:3fjN3y5x4hN53rykAN2LHQ,Rels B,cómo dormiste?,DALE PLAY Records / Flakk Team,24,53,2,14767034,2022-08-18
+24,spotify:track:3fjN3y5x4hN53rykAN2LHQ,Rels B,cómo dormiste?,Flakk Team / DALE PLAY Records,24,53,2,14767034,2022-08-18
 25,spotify:track:2rurDawMfoKP4uHyb2kJBt,"Shakira, Rauw Alejandro",Te Felicito,Sony Music Latin,13,25,17,14707224,2022-08-18
 26,spotify:track:5IgjP7X4th6nMNDh4akUHb,Chris Brown,Under The Influence,Chris Brown Entertainment/RCA Records,26,32,4,14558621,2022-08-18
 27,spotify:track:0xzI1KAr0Yd9tv8jlIk3sn,"benny blanco, BTS, Snoop Dogg",Bad Decisions (with BTS & Snoop Dogg),Friends Keep Secrets/Interscope Records,15,15,2,14272119,2022-08-18
@@ -80,7 +80,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 79,spotify:track:4gzsuuZypVbxs0Af1LSZyB,"Tainy, Bad Bunny, Julieta Venegas",Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),Neon16,12,80,46,8434636,2022-08-18
 80,spotify:track:4ZtFanR9U6ndgddUvNcjcG,Olivia Rodrigo,good 4 u,Olivia Rodrigo PS,1,79,66,8341449,2022-08-18
 81,spotify:track:2bbwjxA68m9PHZFWgF1fze,Duki,GIVENCHY,DALE PLAY Records / SSJ Records,25,65,4,8309422,2022-08-18
-82,spotify:track:6wtZPYBIXUvCpXwVjMCJBf,"Polimá Westcoast, Feid, Pailita, Paloma Mami, De La Ghetto",ULTRA SOLO REMIX,Sony Music Entertainment Chile S.A,44,77,9,8247124,2022-08-18
+82,spotify:track:6wtZPYBIXUvCpXwVjMCJBf,"Polimá Westcoast, Pailita, Feid, Paloma Mami, De La Ghetto",ULTRA SOLO REMIX,Sony Music Entertainment Chile S.A,44,77,9,8247124,2022-08-18
 83,spotify:track:7fZBQnc0zXwVybgCIrQQil,"Imanbek, BYOR",Belly Dancer,Musical Freedom,77,87,12,8244936,2022-08-18
 84,spotify:track:7a8GawTVgHZvBLQOh46he7,Arctic Monkeys,I Wanna Be Yours,Domino Recording Co,84,103,6,8148901,2022-08-18
 85,spotify:track:44XjoNvtwevktFKjvVe1vH,"Bad Bunny, Buscabulla",Andrea,Rimas Entertainment LLC,21,84,15,8127784,2022-08-18
@@ -156,7 +156,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 155,spotify:track:2J2Z1SkXYghSajLibnQHOa,Sia,Unstoppable,Monkey Puzzle Records/RCA Records,107,158,27,6440150,2022-08-18
 156,spotify:track:0RiRZpuVRbi7oqRdSMwhQY,"Post Malone, Swae Lee",Sunflower - Spider-Man: Into the Spider-Verse,Republic Records,1,149,200,6427972,2022-08-18
 157,spotify:track:2tpWsVSb9UEmDRxAl1zhX1,OneRepublic,Counting Stars,Mosley / Interscope,101,153,75,6398251,2022-08-18
-158,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhayco",DÁKITI,Rimas Entertainment LLC,1,166,94,6397545,2022-08-18
+158,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhay Cortez",DÁKITI,Rimas Entertainment LLC,1,166,94,6397545,2022-08-18
 159,spotify:track:5gDWsRxpJ2lZAffh5p7K0w,"The Weeknd, Lana Del Rey",Stargirl Interlude,Universal Republic Records,159,168,5,6393352,2022-08-18
 160,spotify:track:4EWCNWgDS8707fNSZ1oaA5,Kanye West,Heartless,Roc-A-Fella,160,198,2,6389447,2022-08-18
 161,spotify:track:0gucTLf7trAf37Ua1uAyAu,Nirvana,Smells Like Teen Spirit,Geffen,103,159,84,6348119,2022-08-18

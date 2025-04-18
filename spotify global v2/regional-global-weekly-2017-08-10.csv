@@ -8,7 +8,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 7,spotify:track:3DXncPQOG4VBw3QHh3S817,"DJ Khaled, Justin Bieber, Quavo, Chance the Rapper, Lil Wayne","I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",Epic/We The Best,2,7,15,20549830,2017-08-10
 8,spotify:track:4iLqG9SeJSnt0cSPICSjxv,Charlie Puth,Attention,Artist Partner,5,9,16,20183768,2017-08-10
 9,spotify:track:7qiZfU4dY1lWllzX7mPBI3,Ed Sheeran,Shape of You,Atlantic Records UK,1,8,31,19742646,2017-08-10
-10,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,9,10,12,18902405,2017-08-10
+10,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,9,10,12,18902405,2017-08-10
 11,spotify:track:0tKcYR2II1VCQWT79i5NrW,Imagine Dragons,Thunder,Kid Ina Korner / Interscope,8,11,15,18332145,2017-08-10
 12,spotify:track:0NiXXAI876aGImAd6rTj8w,"Jonas Blue, William Singe",Mama,UMOD (Universal Music On Demand),11,12,14,17572399,2017-08-10
 13,spotify:track:25C5CowdsfXld2jJanbiex,Demi Lovato,Sorry Not Sorry,Island Records,13,14,5,16753558,2017-08-10
@@ -50,7 +50,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 49,spotify:track:693iqPOQvhI7PobtR8CC8v,"J Balvin, Jowell & Randy",Bonita,Rimas (J Balvin - Jowell & Randy),49,52,9,9076324,2017-08-10
 50,spotify:track:7nKBxz47S9SD79N086fuhn,"Enrique Iglesias, Descemer Bueno, Zion & Lennox",SUBEME LA RADIO (feat. Descemer Bueno & Zion & Lennox),RCA Records/Sony Music International/Sony Music Latin,31,49,24,8628550,2017-08-10
 51,spotify:track:3rOSwuTsUlJp0Pu0MkN8r8,Future,Mask Off,Epic/Freebandz/A1,5,50,25,8369494,2017-08-10
-52,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcángel",Ahora Dice,UMLE - Latino,46,53,18,7916637,2017-08-10
+52,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcangel",Ahora Dice,UMLE - Latino,46,53,18,7916637,2017-08-10
 53,spotify:track:3eR23VReFzcdmS7TYCrhCe,"Kygo, Selena Gomez",It Ain't Me (with Selena Gomez),Kygo,2,51,25,7755216,2017-08-10
 54,spotify:track:7aF09WaavZAmAWuUeYxlYD,"OneRepublic, Seeb",Rich Love (with Seeb),Mosley / Interscope,54,63,4,7603509,2017-08-10
 55,spotify:track:79NlESqzFSW0hdBWgls4FX,Kesha,Praying,Kemosabe Records/RCA Records,49,57,5,7528501,2017-08-10

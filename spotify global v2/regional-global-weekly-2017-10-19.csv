@@ -44,11 +44,11 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 43,spotify:track:1wjzFQodRWrPcQ0AnYnvQ9,Lauv,I Like Me Better,Lauv,29,39,20,9975143,2017-10-19
 44,spotify:track:1OAh8uOEOvTDqkKFsKksCi,"DJ Khaled, Rihanna, Bryson Tiller",Wild Thoughts (feat. Rihanna & Bryson Tiller),Epic/We The Best,2,41,18,9671410,2017-10-19
 45,spotify:track:1XRgIKC5TPwo7nWGyKqgG0,"Gucci Mane, Migos",I Get the Bag (feat. Migos),Guwop Enterprises/Atlantic,45,66,9,9649817,2017-10-19
-46,spotify:track:2SmgFAhQkQCQPyBiBxR6Te,"NATTI NATASHA, Ozuna",Criminal,Pina Records,46,57,5,9556949,2017-10-19
+46,spotify:track:2SmgFAhQkQCQPyBiBxR6Te,"Natti Natasha, Ozuna",Criminal,Pina Records,46,57,5,9556949,2017-10-19
 47,spotify:track:5AEtlRudpgdT5FtNiuly6Y,"Hailee Steinfeld, Alesso, Florida Georgia Line, WATT","Let Me Go (with Alesso, Florida Georgia Line & watt)",Universal Records,47,52,6,9391336,2017-10-19
 48,spotify:track:0NiXXAI876aGImAd6rTj8w,"Jonas Blue, William Singe",Mama,UMOD (Universal Music On Demand),11,43,24,9362914,2017-10-19
 49,spotify:track:79cuOz3SPQTuFrp8WgftAu,Shawn Mendes,There's Nothing Holdin' Me Back,Island Records,5,44,26,9344638,2017-10-19
-50,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,9,40,22,9294736,2017-10-19
+50,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol,9,40,22,9294736,2017-10-19
 51,spotify:track:0CcQNd8CINkwQfe1RDtGV6,Imagine Dragons,Believer,Kid Ina Korner / Interscope,16,48,37,8959451,2017-10-19
 52,spotify:track:5yuShbu70mtHXY0yLzCQLQ,Post Malone,Go Flex,Universal Records,52,74,15,8195550,2017-10-19
 53,spotify:track:2eAZfqOm4EnOF9VvN50Tyc,"Lil Uzi Vert, Oh Wonder",The Way Life Goes (feat. Oh Wonder),Generation Now/Atlantic,44,50,8,8183481,2017-10-19
@@ -84,7 +84,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 83,spotify:track:7AQim7LbvFVZJE3O8TYgf2,"XXXTENTACION, Trippie Redd",Fuck Love (feat. Trippie Redd),Bad Vibes Forever / EMPIRE,41,77,8,6070561,2017-10-19
 84,spotify:track:5TysCiZtv1HnSWcTcUFusI,"Joey Montana, Sebastian Yatra",Suena El Dembow,UMLE - Latino,84,91,5,6011775,2017-10-19
 85,spotify:track:40oKW22ZNNkEdZLJTScaQI,"Kodak Black, XXXTENTACION",Roll in Peace (feat. XXXTENTACION),Atlantic Records,79,84,9,5869990,2017-10-19
-86,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcángel",Ahora Dice,UMLE - Latino,46,85,28,5812065,2017-10-19
+86,spotify:track:22eADXu8DfOAUEDw4vU8qy,"Chris Jedi, J Balvin, Ozuna, Arcangel",Ahora Dice,UMLE - Latino,46,85,28,5812065,2017-10-19
 87,spotify:track:1x5sYLZiu9r5E43kMlt9f8,"Clean Bandit, Zara Larsson",Symphony (feat. Zara Larsson),Atlantic Records UK,11,86,31,5676532,2017-10-19
 88,spotify:track:3rOSwuTsUlJp0Pu0MkN8r8,Future,Mask Off,Epic/Freebandz/A1,5,89,35,5606418,2017-10-19
 89,spotify:track:5zSOVwaY3sVjnmLhuEfsuf,Ozuna,Tú Foto,VP Records Corp/Dimelo Vi,72,90,25,5565298,2017-10-19

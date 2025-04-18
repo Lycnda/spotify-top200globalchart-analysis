@@ -53,7 +53,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 52,spotify:track:1bjhYUwKUHEg5fHknxFObO,Frank Ocean,Lost,Red Zone Entertainment / IDJ,52,55,6,9631223,2022-02-24
 53,spotify:track:4RVwu0g32PAqgUiJoXsdF8,Billie Eilish,Happier Than Ever,Darkroom/Interscope Records,6,50,30,9572375,2022-02-24
 54,spotify:track:3Kkjo3cT83cw09VJyrLNwX,Adele,Oh My God,Columbia,3,45,14,9543181,2022-02-24
-55,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhayco",DÁKITI,Rimas Entertainment LLC,1,52,69,9328078,2022-02-24
+55,spotify:track:4MzXwWMhyBbmu6hOcLVD49,"Bad Bunny, Jhay Cortez",DÁKITI,Rimas Entertainment LLC,1,52,69,9328078,2022-02-24
 56,spotify:track:5wANPM4fQCJwkGd4rN57mH,Olivia Rodrigo,drivers license,Olivia Rodrigo PS,1,61,59,9309234,2022-02-24
 57,spotify:track:2Xr1dTzJee307rmrkt8c0g,CKay,love nwantiti (ah ah ah),Chocolate City Music,9,53,24,9067215,2022-02-24
 58,spotify:track:6N1K5OVVCopBjGViHs2IvP,"Ed Sheeran, Taylor Swift",The Joker And The Queen (feat. Taylor Swift),Atlantic Records UK,20,20,2,9057120,2022-02-24
@@ -108,7 +108,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 107,spotify:track:7EkWXAI1wn8Ii883ecd9xr,Surf Curse,Freaks,Surf Curse,55,106,43,7023733,2022-02-24
 108,spotify:track:3M0lSi5WW79CXQamgSBIjx,Chase Atlantic,Swim,Warner Records,108,114,5,6821864,2022-02-24
 109,spotify:track:0k4d5YPDr1r7FX77VdqWez,"Doja Cat, The Weeknd",You Right,Kemosabe Records/RCA Records,15,101,35,6820925,2022-02-24
-110,spotify:track:5W1qmxHrMlQGGAiFA3ZQqP,"Dímelo Flow, Dalex, Sech, Justin Quiles, Arcángel, De La Ghetto, Lenny Tavárez",Se Le Ve,Rich Music,110,128,8,6792957,2022-02-24
+110,spotify:track:5W1qmxHrMlQGGAiFA3ZQqP,"Dímelo Flow, Dalex, Sech, Justin Quiles, Arcangel, De La Ghetto, Lenny Tavárez",Se Le Ve,Rich Music,110,128,8,6792957,2022-02-24
 111,spotify:track:1LPSkqVhWVRUkKE03YUkpB,"Bruno Mars, Anderson .Paak, Silk Sonic",Leave The Door Open,Aftermath Entertainment/Atlantic,5,109,51,6632490,2022-02-24
 112,spotify:track:5719MEdRQcH4c3phXqX7WN,"Hugo & Guilherme, Marília Mendonça",Mal Feito - Ao Vivo,Som Livre,72,111,6,6621065,2022-02-24
 113,spotify:track:1mSviQV9iQnGSRyvTIuxAj,"Alvaro Diaz, Rauw Alejandro",Problemón,"UMG Recordings, Inc./Universal Music Latino",113,123,5,6565114,2022-02-24
@@ -120,7 +120,7 @@ rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,s
 119,spotify:track:3QGxgNaqaFSpORp2OVLXHR,"Chefin, Mainstreet",212,Mainstreet Records,89,110,5,6456200,2022-02-24
 120,spotify:track:2BcMwX1MPV6ZHP4tUT9uq6,"Drake, 21 Savage, Project Pat",Knife Talk (with 21 Savage ft. Project Pat),OVO,10,116,25,6441277,2022-02-24
 121,spotify:track:2tpWsVSb9UEmDRxAl1zhX1,OneRepublic,Counting Stars,Mosley / Interscope,121,132,50,6424798,2022-02-24
-122,spotify:track:6f5ExP43esnvdKPddwKXJH,"NEIKED, Mae Muller, Polo G",Better Days (NEIKED x Mae Muller x Polo G),Capitol Records UK / EMI,32,121,19,6414500,2022-02-24
+122,spotify:track:6f5ExP43esnvdKPddwKXJH,"NEIKED, Mae Muller, Polo G",Better Days (NEIKED x Mae Muller x Polo G),Capitol,32,121,19,6414500,2022-02-24
 123,spotify:track:68Dni7IE4VyPkTOH9mRWHr,J. Cole,No Role Modelz,Roc Nation Records LLC,119,134,31,6402448,2022-02-24
 124,spotify:track:5enxwA8aAbwZbf5qCHORXi,Taylor Swift,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),Taylor Swift,1,115,15,6395527,2022-02-24
 125,spotify:track:4jPy3l0RUwlUI9T5XHBW2m,"24kGoldn, iann dior",Mood (feat. iann dior),Records/Columbia,1,125,81,6389064,2022-02-24
