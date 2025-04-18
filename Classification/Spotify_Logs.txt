@@ -103,3 +103,10 @@ The chart locale is: ng
  All Thursdays present: True
  The number of artists in the data: 549
  The output data written to this file: Classification/all_files_ngv1.csv
+The run datetime is: 2025-04-18 17:32:55.250890The chart locale is: kr
+ The number of files is: 219
+ The number of dates is: 219
+ The start dates is: 2021-02-04. The end date is: 2025-04-10
+ All Thursdays present: True
+ The number of artists in the data: 757
+ The output data written to this file: Classification/all_files_krv1.csv
