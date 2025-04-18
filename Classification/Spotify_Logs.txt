@@ -40,3 +40,66 @@ The chart locale is: in
  All Thursdays present: True
  The number of artists in the data: 801
  The output data written to this file: Classification/all_files_inv1.csv
+The run datetime is: 2025-04-18 17:17:01.398059The chart locale is: kr
+ The number of files is: 219
+ The number of dates is: 219
+ The start dates is: 2021-02-04. The end date is: 2025-04-10
+ All Thursdays present: True
+ The number of artists in the data: 757
+ The output data written to this file: Classification/all_files_krv1.csv
+The chart locale is: za
+ The number of files is: 370
+ The number of dates is: 370
+ The start dates is: 2018-03-15. The end date is: 2025-04-10
+ All Thursdays present: True
+ The number of artists in the data: 1263
+ The output data written to this file: Classification/all_files_zav1.csv
+The chart locale is: in
+ The number of files is: 320
+ The number of dates is: 320
+ The start dates is: 2019-02-28. The end date is: 2025-04-10
+ All Thursdays present: True
+ The number of artists in the data: 801
+ The output data written to this file: Classification/all_files_inv1.csv
+The chart locale is: global
+ The number of files is: 433
+ The number of dates is: 433
+ The start dates is: 2016-12-29. The end date is: 2025-04-10
+ All Thursdays present: True
+ The number of artists in the data: 1422
+ The output data written to this file: Classification/all_files_globalv1.csv
+The run datetime is: 2025-04-18 17:17:01.398059The chart locale is: kr
+ The number of files is: 219
+ The number of dates is: 219
+ The start dates is: 2021-02-04. The end date is: 2025-04-10
+ All Thursdays present: True
+ The number of artists in the data: 757
+ The output data written to this file: Classification/all_files_krv1.csv
+The chart locale is: za
+ The number of files is: 370
+ The number of dates is: 370
+ The start dates is: 2018-03-15. The end date is: 2025-04-10
+ All Thursdays present: True
+ The number of artists in the data: 1263
+ The output data written to this file: Classification/all_files_zav1.csv
+The chart locale is: in
+ The number of files is: 320
+ The number of dates is: 320
+ The start dates is: 2019-02-28. The end date is: 2025-04-10
+ All Thursdays present: True
+ The number of artists in the data: 801
+ The output data written to this file: Classification/all_files_inv1.csv
+The chart locale is: global
+ The number of files is: 433
+ The number of dates is: 433
+ The start dates is: 2016-12-29. The end date is: 2025-04-10
+ All Thursdays present: True
+ The number of artists in the data: 1422
+ The output data written to this file: Classification/all_files_globalv1.csv
+The chart locale is: ng
+ The number of files is: 165
+ The number of dates is: 165
+ The start dates is: 2022-02-17. The end date is: 2025-04-10
+ All Thursdays present: True
+ The number of artists in the data: 549
+ The output data written to this file: Classification/all_files_ngv1.csv
