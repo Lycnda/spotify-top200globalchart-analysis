@@ -4,10 +4,11 @@ import matplotlib.pyplot as plt
 import datetime
 import re
 from datetime import datetime, timedelta
+import yaml
 
 
 #Add the dates to the files - run once
-def addsDatesToData(locale_name):   
+def addsDatesToData(locale_name,global_music_file_paths):   
     to_remove_front = "spotify " +locale_name+ " v2\\regional-" +locale_name+"-weekly-"
     to_remove_back = ".csv"
 
@@ -39,7 +40,7 @@ def addsDatesToData(locale_name):
         the_data_in_file.to_csv(file, index=False)
         
 #remove dates in existing files
-def removeExistingDates():
+def removeExistingDates(global_music_file_paths):
     for file in global_music_file_paths:
         
         the_data_in_file = pd.read_csv(file)
@@ -216,3 +217,14 @@ def weekonweekposition(x):
 #     print(x.values)
     
     pd.DataFrame({'email':x.index, 'list':x.values})
+
+def load_test_config(path_to_config):
+    """
+    Load a yaml file as the test config.
+    """
+    
+    with open(path_to_config, 'r') as stream:
+        
+        parsed_yaml=yaml.safe_load(stream)
+        
+    return parsed_yaml

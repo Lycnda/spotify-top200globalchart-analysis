@@ -1,0 +1,3 @@
+chartdetails:
+  locales: ["kr", "za", "in", "global", "ng"]
+  read_enc_val : ["ISO-8859-1", "cp1252", "utf-8"]

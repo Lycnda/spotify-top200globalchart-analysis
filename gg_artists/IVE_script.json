@@ -1,12 +1,12 @@
 {
     "IVE": {
-        "num_of_streams": "40096580",
+        "num_of_streams": "40164043",
         "min_rank": "1",
         "max_rank": "200",
         "min_date": "2021-12-02",
-        "max_date": "2024-09-26",
+        "max_date": "2024-10-10",
         "num_unique_songs": "24",
-        "artistappearanceCount": "557",
+        "artistappearanceCount": "559",
         "unique_songs": [
             " (HEYA)",
             " (Hypnosis)",
@@ -36,7 +36,7 @@
         "source_end_date_latest_ls": {
             "STARSHIP ENTERTAINMENT": "2023-08-31",
             "STARSHIP Entertainment": "2024-08-15",
-            "Starship Entertainment": "2024-09-26",
+            "Starship Entertainment": "2024-10-10",
             "Starship Entertainment/Columbia": "2024-02-08"
         },
         "min_rank_song_unique_dt_ls": {

@@ -1,12 +1,12 @@
 {
     "NewJeans": {
-        "num_of_streams": "113283140",
+        "num_of_streams": "116127484",
         "min_rank": "1",
         "max_rank": "200",
         "min_date": "2022-08-04",
-        "max_date": "2024-09-26",
+        "max_date": "2024-10-17",
         "num_unique_songs": "29",
-        "artistappearanceCount": "1037",
+        "artistappearanceCount": "1076",
         "unique_songs": [
             "ASAP",
             "Attention",
@@ -39,7 +39,7 @@
             "Zero (J.I.D Remix)"
         ],
         "source_end_date_latest_ls": {
-            "ADOR": "2024-09-26",
+            "ADOR": "2024-10-17",
             "Genie Music Corporation, Stone Music Entertainment": "2023-09-14",
             "SBS Contents Hub Co., Ltd.": "2023-11-30"
         },

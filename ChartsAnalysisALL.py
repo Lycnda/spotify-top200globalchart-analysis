@@ -6,12 +6,16 @@ import re
 from datetime import datetime, timedelta
 import ChartsAnalysisALL_Functions
 
-read_enc_val ="ISO-8859-1"
-read_enc_val ="cp1252"
-read_enc_val ="utf-8"
 
-thelocalenames = ["kr", "za", "in", "global", "ng"]
-thelocalenames = ["kr"]
+path_to_test_config1 = "configs/chartsanalysisparams.yml"
+test_config1 = ChartsAnalysisALL_Functions.load_test_config(path_to_test_config1)
+thelocalenames = test_config1["chartdetails"]["locales"]
+read_enc_vals = test_config1["chartdetails"]["read_enc_val"]
+
+print(thelocalenames)
+# ["kr", "za", "in", "global", "ng"]
+
+read_enc_val = read_enc_vals[0]
 
 x = datetime.now()
 
@@ -29,7 +33,7 @@ for locale_name in thelocalenames:
 
     print(global_music_file_paths[:4])
 
-    ChartsAnalysisALL_Functions.addsDatesToData(locale_name)
+    ChartsAnalysisALL_Functions.addsDatesToData(locale_name,global_music_file_paths)
     
     #### Add Dates to the Files
     

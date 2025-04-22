@@ -1,12 +1,12 @@
 {
     "ILLIT": {
-        "num_of_streams": "9756365",
+        "num_of_streams": "10244006",
         "min_rank": "1",
         "max_rank": "187",
         "min_date": "2024-03-28",
-        "max_date": "2024-09-26",
+        "max_date": "2024-10-17",
         "num_unique_songs": "4",
-        "artistappearanceCount": "66",
+        "artistappearanceCount": "72",
         "unique_songs": [
             "Lucky Girl Syndrome",
             "Magnetic",
@@ -14,7 +14,7 @@
             "My World"
         ],
         "source_end_date_latest_ls": {
-            "BELIFT LAB": "2024-09-26"
+            "BELIFT LAB": "2024-10-17"
         },
         "min_rank_song_unique_dt_ls": {
             "2024-04-04": "Magnetic",

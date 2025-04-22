@@ -1,24 +1,23 @@
 {
     "MEOVV": {
-        "num_of_streams": "421828",
+        "num_of_streams": "747352",
         "min_rank": "12",
-        "max_rank": "15",
+        "max_rank": "31",
         "min_date": "2024-09-12",
-        "max_date": "2024-09-26",
+        "max_date": "2024-10-17",
         "num_unique_songs": "1",
-        "artistappearanceCount": "3",
+        "artistappearanceCount": "6",
         "unique_songs": [
             "MEOW"
         ],
         "source_end_date_latest_ls": {
-            "MEOVV": "2024-09-26"
+            "MEOVV": "2024-10-17"
         },
         "min_rank_song_unique_dt_ls": {
             "2024-09-12": "MEOW"
         },
         "max_rank_song_unique_dt_ls": {
-            "2024-09-19": "MEOW",
-            "2024-09-26": "MEOW"
+            "2024-10-10": "MEOW"
         }
     }
 }
