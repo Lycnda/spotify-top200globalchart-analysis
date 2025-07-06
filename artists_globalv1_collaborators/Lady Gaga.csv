@@ -1,9 +1,8 @@
-artist,number of times
-,1
-Gesaffelstein,1
-Bruno Mars,1
-Colby O'Donis,1
-Bradley Cooper,1
-Ariana Grande,1
-BLACKPINK,1
-Elton John,1
+collab_artist,number of times,main_artist
+Bradley Cooper,1,Lady Gaga
+BLACKPINK,1,Lady Gaga
+Colby O'Donis,1,Lady Gaga
+Gesaffelstein,1,Lady Gaga
+Bruno Mars,1,Lady Gaga
+Ariana Grande,1,Lady Gaga
+Elton John,1,Lady Gaga

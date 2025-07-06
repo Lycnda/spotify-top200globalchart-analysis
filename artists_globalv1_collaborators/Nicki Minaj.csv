@@ -1,13 +1,12 @@
-artist,number of times
-,1
-Lil Wayne,2
-Bantu,1
-Labrinth,1
-Aqua,1
-Drake,2
-Lil Uzi Vert,1
-Ariana Grande,1
-Lil Baby,1
-Anuel AA,1
-Eminem,1
-Ice Spice,1
+collab_artist,number of times,main_artist
+Lil Wayne,2,Nicki Minaj
+Drake,2,Nicki Minaj
+Eminem,1,Nicki Minaj
+Bantu,1,Nicki Minaj
+Labrinth,1,Nicki Minaj
+Ice Spice,1,Nicki Minaj
+Aqua,1,Nicki Minaj
+Lil Uzi Vert,1,Nicki Minaj
+Lil Baby,1,Nicki Minaj
+Ariana Grande,1,Nicki Minaj
+Anuel AA,1,Nicki Minaj

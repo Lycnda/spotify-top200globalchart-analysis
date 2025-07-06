@@ -1,16 +1,15 @@
-artist,number of times
-,1
-Pharrell Williams,1
-Ty Dolla $ign,1
-The Weeknd,1
-Justin Timberlake,1
-Phoebe Bridgers,1
-Doja Cat,1
-Travis Scott,2
-Kendrick Lamar,1
-Don Toliver,1
-Game of Thrones,1
-Justin Bieber,1
-The Neptunes,1
-Calvin Harris,1
-Funk Wav,1
+collab_artist,number of times,main_artist
+Travis Scott,2,SZA
+The Neptunes,1,SZA
+Justin Bieber,1,SZA
+Calvin Harris,1,SZA
+Game of Thrones,1,SZA
+The Weeknd,1,SZA
+Phoebe Bridgers,1,SZA
+Funk Wav,1,SZA
+Doja Cat,1,SZA
+Justin Timberlake,1,SZA
+Ty Dolla $ign,1,SZA
+Kendrick Lamar,1,SZA
+Pharrell Williams,1,SZA
+Don Toliver,1,SZA

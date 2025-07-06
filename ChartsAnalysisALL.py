@@ -12,7 +12,7 @@ test_config1 = ChartsAnalysisALL_Functions.load_test_config(path_to_test_config1
 thelocalenames = test_config1["chartdetails"]["locales"]
 read_enc_vals = test_config1["chartdetails"]["read_enc_val"]
 
-print(thelocalenames)
+# print(thelocalenames)
 # ["kr", "za", "in", "global", "ng"]
 
 read_enc_val = read_enc_vals[0]
@@ -23,8 +23,9 @@ thelogdetails = ""
 thelogdetails = "The run datetime is: " + str(x)
 
 for locale_name in thelocalenames:
+    print("THE CURRENT CHART LOCALE RUNNING IS: ", str(locale_name))
 
-    thelogdetails = thelogdetails + "The chart locale is: " + str(locale_name) + "\n"
+    thelogdetails = thelogdetails + "THE CURRENT CHART LOCALE RUNNING IS: " + str(locale_name) + "\n"
 
     global_music_file_paths = glob2.glob('spotify ' + locale_name + ' v2/*.csv')
 
@@ -67,15 +68,15 @@ for locale_name in thelocalenames:
     
     ### Error checking that all the Thursday dates are present
     date_list = the_spotify_data["End Date"].unique().tolist()
-    print(date_list)
+    # print(date_list)
     thelogdetails = thelogdetails + " The number of dates is: " + str(len(date_list)) + "\n"
     start_date = date_list[0]
     end_date = date_list[len(date_list)-1]
     
-    len(date_list)
+    # len(date_list)
 
     thelogdetails = thelogdetails + " The start dates is: " + str(start_date) + "." + " The end date is: " + str(end_date) + "\n"
-    print(start_date, end_date)
+    print("THE START AND END DATES ARE: ", start_date, end_date)
 
     result = ChartsAnalysisALL_Functions.check_thursdays_in_range(date_list, start_date, end_date)
     print("All Thursdays present:", result)
@@ -127,13 +128,13 @@ for locale_name in thelocalenames:
     
     ### how long does a song last on the charts?
     
-    the_spotify_data["isTopTen"].value_counts()
+    # the_spotify_data["isTopTen"].value_counts()
     
     # the_spotify_data.isnull().sum()
     
     unique_artists = the_spotify_data["main_artist"].unique().tolist()
     num_artists = len(unique_artists)
-    print(num_artists)
+    print("THE NUM OF ARTISTS: ", num_artists)
     thelogdetails = thelogdetails + " The number of artists in the data: " + str(num_artists) + "\n"
 
     the_spotify_data = the_spotify_data.drop(['artist_names', 'track_name'], axis=1)
@@ -182,9 +183,11 @@ for locale_name in thelocalenames:
     
     ggdf = pd.read_csv("Classification/ListofGirlGroups.csv", encoding='ANSI')
     bgdf = pd.read_csv("Classification/ListofBoyGroups.csv", on_bad_lines='skip', encoding='ANSI')
+    mgdf = pd.read_csv("Classification/ListofMixedGroups.csv", on_bad_lines='skip', encoding='ANSI')
 
     all_files_grouped["IsGirlGroup"] = all_files_grouped["main_artist"].apply(lambda x : ChartsAnalysisALL_Functions.IsGG(ggdf, x))
     all_files_grouped["IsBoyGroup"] = all_files_grouped["main_artist"].apply(lambda x : ChartsAnalysisALL_Functions.IsGG(bgdf, x))
+    all_files_grouped["IsMixedGroup"] = all_files_grouped["main_artist"].apply(lambda x : ChartsAnalysisALL_Functions.IsGG(mgdf, x))
     
     ggs = all_files_grouped[all_files_grouped["IsGirlGroup"]==True]["main_artist"].unique().tolist()
     bgs = all_files_grouped[all_files_grouped["IsBoyGroup"]==True]["main_artist"].unique().tolist()

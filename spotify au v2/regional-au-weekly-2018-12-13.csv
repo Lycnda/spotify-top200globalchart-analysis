@@ -1,201 +1,201 @@
-﻿rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,streams
-1,"spotify:track:2rPE9A1vEgShuZxxzR2tZH","Ariana Grande","thank u, next","Republic Records",1,1,6,"2053131"
-2,"spotify:track:5p7ujcrUXASCNwRaWNHR1C","Halsey","Without Me","Capitol Records",1,2,10,"1457056"
-3,"spotify:track:1A6OTy97kk0mMdm78rHsm8","Post Malone, Swae Lee","Sunflower - Spider-Man: Into the Spider-Verse","Republic Records",2,3,8,"1334938"
-4,"spotify:track:7FGq80cy8juXBCD2nrqdWU","benny blanco, Halsey, Khalid","Eastside (with Halsey & Khalid)","Friends Keep Secrets/Interscope Records",1,4,22,"1141222"
-5,"spotify:track:27rdGxbavYJeBphck5MZAF","Mark Ronson, Miley Cyrus","Nothing Breaks Like a Heart (feat. Miley Cyrus)","Columbia",5,14,2,"1076666"
-6,"spotify:track:2dpaYNEQHiRxtZbfNsse99","Marshmello, Bastille","Happier","Joytime Collective",2,5,17,"1074065"
-7,"spotify:track:25sgk305KZfyuqVBQIahim","Ava Max","Sweet but Psycho","Atlantic Records",7,9,11,"1063039"
-8,"spotify:track:2xLMifQCjDGFmkHkpNLD9h","Travis Scott","SICKO MODE","Cactus Jack / Epic",7,7,19,"1021634"
-9,"spotify:track:6zeeWid2sgw4lap2jV61PZ","Khalid","Better","Right Hand Music Group, LLC/RCA Records",4,6,13,"1020427"
-10,"spotify:track:4ofwffwvvnbSkrMSCKQDaC","George Ezra","Shotgun","Columbia",3,8,21,"1007338"
-11,"spotify:track:3EPXxR3ImUwfayaurPi3cm","Dean Lewis","Be Alright","Universal Music Australia Pty. Ltd.",1,13,24,"942881"
-12,"spotify:track:0bYg9bo50gSsH3LtXe2SQn","Mariah Carey","All I Want for Christmas Is You","Columbia",1,12,11,"912024"
-13,"spotify:track:2VxeLyX666F8uXCJ0dZF8B","Lady Gaga, Bradley Cooper","Shallow","A Star is Born OST",5,11,10,"861756"
-14,"spotify:track:14JzyD6FlBD5z0wV5P07YI","Billie Eilish","when the party's over","Darkroom/Interscope Records",2,10,9,"827206"
-15,"spotify:track:5Fla3zyOCcIRqrDoKLU0DP","Rita Ora","Let You Love Me","Atlantic Records UK",15,17,12,"782456"
-16,"spotify:track:2iUXsYOEPhVqEBwsqP70rE","5 Seconds of Summer","Youngblood","Capitol",1,21,35,"762833"
-17,"spotify:track:7l3E7lcozEodtVsSTCkcaA","Kodak Black, Offset, Travis Scott","ZEZE (feat. Travis Scott & Offset)","Atlantic Records",9,16,9,"757940"
-18,"spotify:track:7K7MUBCnzgBAvMVW2RTWNs","Loud Luxury, Brando","Body","Armada Music",18,20,25,"746565"
-19,"spotify:track:2LskIZrCeLxRvCiGP8gxlh","XXXTENTACION, Lil Pump, Swae Lee, Maluma","Arms Around You (feat. Maluma & Swae Lee)","Warner Records",10,15,7,"741801"
-20,"spotify:track:0E9ZjEAyAwOXZ7wJC0PD33","Dynoro, Gigi D'Agostino","In My Mind","Columbia/B1 Recordings",8,18,21,"724560"
-21,"spotify:track:7dt6x5M1jzdTEt8oCbisTK","Post Malone","Better Now","Republic Records",1,26,33,"676767"
-22,"spotify:track:7pdF27mSDuPWhppnHAmWHa","XXXTENTACION","whoa (mind in awe)","Bad Vibes Forever / EMPIRE",22,-1,1,"665373"
-23,"spotify:track:2FRnf9qhLbvw8fu4IBXx78","Wham!","Last Christmas","Epic",9,43,8,"651437"
-24,"spotify:track:22An65gG31JLf9n18qjdhZ","XXXTENTACION","BAD!","Bad Vibes Forever / EMPIRE",23,57,5,"649486"
-25,"spotify:track:2RSHsoi04658QL5xgQVov3","Imagine Dragons","Bad Liar","Kid Ina Korner / Interscope",17,22,5,"648071"
-26,"spotify:track:0TBFJanfWaByPIi3f7RR82","KIAN","Waiting","KB Recording Pty Ltd",25,25,17,"627800"
-27,"spotify:track:0lLdorYw7lVrJydTINhWdI","Michael Bublé","It's Beginning to Look a Lot like Christmas","143/Reprise",8,34,9,"623228"
-28,"spotify:track:3id2EVGKc3eFAMn9nFnB0r","Lukas Graham","Love Someone","Warner Records",26,29,13,"612384"
-29,"spotify:track:1xzBco0xcoJEDXktl7Jxrr","Sheck Wes","Mo Bamba","Cactus Jack Records/ G.O.O.D. Music/ Interscope Records",19,24,12,"590977"
-30,"spotify:track:2IRZnDFmlqMuOrYOLnZZyc","Meek Mill, Drake","Going Bad (feat. Drake)","MMG/Atlantic",30,51,2,"588026"
-31,"spotify:track:7wC5eZcFS1Q1BsQ35DU6H4","Billie Eilish","come out and play","Darkroom",16,19,4,"583212"
-32,"spotify:track:3KLygy1YWhmrQx0GRs7IOx","Jonas Blue, Jack & Jack","Rise","Positiva",10,35,27,"583041"
-33,"spotify:track:285pBltuF7vW8TeWk8hdRR","Juice WRLD","Lucid Dreams","Juice WRLD Mixtape / ISR P&D",6,38,30,"583032"
-34,"spotify:track:5N5k9nd479b1xpDZ4usjrg","Calvin Harris, Sam Smith, Jessie Reyez","Promises (with Sam Smith)","Columbia",5,28,17,"572762"
-35,"spotify:track:5IaHrVsrferBYDm0bDyABy","Tyga, Offset","Taste (feat. Offset)","Last Kings Music / EMPIRE",5,37,30,"569514"
-36,"spotify:track:7tFiyTwD0nx5a1eklYtX2J","Queen","Bohemian Rhapsody - Remastered 2011","EMI",24,27,9,"558300"
-37,"spotify:track:3ee8Jmje8o58CHK66QrVC2","XXXTENTACION","SAD!","Bad Vibes Forever, LLC",3,48,41,"556778"
-38,"spotify:track:03Pg5wDlaYAZlTNLeAfl2r","Hilltop Hoods","Leave Me Lonely","Universal Music Australia Pty. Ltd.",38,44,3,"554063"
-39,"spotify:track:4S8d14HvHb70ImctNgVzQQ","Kanye West, Lil Pump","I Love It (& Lil Pump)","Getting Out Our Dreams, Inc./Def Jam Recordings",1,33,14,"551433"
-40,"spotify:track:7fa9MBXhVfQ8P8Df9OEbD8","Maroon 5, Cardi B","Girls Like You (feat. Cardi B) - Cardi B Version","Interscope Records*",3,47,28,"542971"
-41,"spotify:track:1NJcg626wLln4pGHpiV7mf","Billie Eilish, Khalid","lovely (with Khalid)","Darkroom",5,39,34,"541557"
-42,"spotify:track:05mAIVLkIWc2d1UBYZBCp8","Charli xcx, Troye Sivan","1999","Atlantic Records UK",13,36,10,"541547"
-43,"spotify:track:7uqcLJFlSYjVPLUz1vPxkY","XXXTENTACION","Guardian angel","Bad Vibes Forever / EMPIRE",43,-1,1,"540132"
-44,"spotify:track:1rqqCSm0Qe4I9rUvWncaom","Panic! At The Disco","High Hopes","DCD2 / Fueled By Ramen",9,56,25,"530691"
-45,"spotify:track:5tAa8Uaqr4VvA3693mbIhU","Zara Larsson","Ruin My Life","Epic/Record Company TEN",20,30,8,"527674"
-46,"spotify:track:6DCZcSspjsKoFjzjrWoCdn","Drake","God's Plan","Cash Money/Drake LP6",1,65,47,"506374"
-47,"spotify:track:2G7V7zsVDxg1yRsu7Ew9RJ","Drake","In My Feelings","Cash Money/Drake LP6",1,53,24,"501627"
-48,"spotify:track:5kfNriitmkNE8mUbZ7gbq8","Khalid","Saturday Nights","Right Hand Music Group, LLC/RCA Records",48,54,6,"500326"
-49,"spotify:track:75ZvA4QfFiZvzhj2xkaWAh","Post Malone","I Fall Apart","Universal Records",1,58,64,"486908"
-50,"spotify:track:7FjZU7XFs7P9jHI9Z0yRhK","NOTD, Felix Jaehn, Captain Cuts, Georgia Ku","So Close","Universal Music AB",50,52,5,"484537"
-51,"spotify:track:5JEx7HbmvHQQswJCsoo9rA","Ellie Goulding, Diplo, Swae Lee","Close To Me (with Diplo) (feat. Swae Lee)","Polydor Records",31,31,7,"470950"
-52,"spotify:track:1oJ8EDr2pv94IvSd6ZmDgo","6ix9ine, Kanye West, Nicki Minaj","MAMA (feat. Nicki Minaj & Kanye West)","ScumGang Records / TenThousand Projects, LLC",23,23,3,"462738"
-53,"spotify:track:0e7ipj03S05BNilyu5bRzt","Post Malone, 21 Savage","rockstar (feat. 21 Savage)","Republic Records",1,59,65,"441660"
-54,"spotify:track:0lizgQ7Qw35od7CYaoMBZb","Ariana Grande","Santa Tell Me","Universal Records",40,40,8,"438125"
-55,"spotify:track:4w8niZpiMy6qz1mntFA5uM","DJ Snake, Selena Gomez, Ozuna, Cardi B","Taki Taki (with Selena Gomez, Ozuna & Cardi B)","DJ Snake Music Productions Limited, under exclusive license to Geffen Records",11,41,11,"437709"
-56,"spotify:track:3swc6WTsr7rl9DqQKQA55C","Post Malone, Ty Dolla $ign","Psycho (feat. Ty Dolla $ign)","Republic Records",1,68,42,"426756"
-57,"spotify:track:7m9OqQk4RVRkw9JJdeAw96","XXXTENTACION","Jocelyn Flores","Bad Vibes Forever / EMPIRE",7,73,68,"417851"
-58,"spotify:track:7nGuT0EfqQ1TXcADEKwB6Q","Morgan Evans","Day Drunk","Warner Records",58,62,9,"416277"
-59,"spotify:track:4axYWgXASdsCBHuwInAubT","XXXTENTACION","I don't let go","Bad Vibes Forever / EMPIRE",59,-1,1,"415672"
-60,"spotify:track:2BgEsaKNfHUdlh97KmvFyo","Anne-Marie","2002","Atlantic Records UK",9,60,34,"414074"
-61,"spotify:track:2hnxrRNzF74mdDzpQZQukQ","Lauv, Julia Michaels","There's No Way (feat. Julia Michaels)","Lauv",21,45,11,"403818"
-62,"spotify:track:4jvjzW7Hm0yK4LvvE0Paz9","Lil Peep, XXXTENTACION","Falling Down - Bonus Track","Columbia",5,49,13,"398093"
-63,"spotify:track:0247StOpd3AkeBQzANX4Zf","Band Aid","Do They Know It's Christmas? - 1984 Version","EMI",22,79,7,"385491"
-64,"spotify:track:0JP9xo3adEtGSdUEISiszL","XXXTENTACION","Moonlight","Bad Vibes Forever, LLC",11,70,39,"385412"
-65,"spotify:track:6Gy7rXB6Ku5vIWC7WGWsl3","6ix9ine, Tory Lanez","KIKA (feat. Tory Lanez)","ScumGang Records / TenThousand Projects, LLC",32,32,3,"383285"
-66,"spotify:track:14sOS5L36385FJ3OL8hew4","Kygo, Sandro Cavazza","Happy Now","Kygo",46,55,6,"379867"
-67,"spotify:track:3CA9pLiwRIGtUBiMjbZmRw","Drake","Nice For What","Cash Money/Drake LP6",1,94,36,"374039"
-68,"spotify:track:2qT1uLXPVPzGgFOx4jtEuo","Ariana Grande","no tears left to cry","Republic Records",2,74,34,"369956"
-69,"spotify:track:5hslUAKq9I9CG2bAulFkHN","Andy Williams","It's the Most Wonderful Time of the Year","Columbia/Legacy",45,80,7,"368299"
-70,"spotify:track:5lar0mCUejpILVkAz50s2J","XXXTENTACION","Train food","Bad Vibes Forever / EMPIRE",70,-1,1,"362108"
-71,"spotify:track:78QR3Wp35dqAhFEc2qAGjE","Lil Baby, Gunna","Drip Too Hard (Lil Baby & Gunna)","Quality Control Music/Young Stoner Life Records, a 300 Entertainment Label/Motown Records/Capitol Records",61,72,11,"359144"
-72,"spotify:track:4m5Cd9kAbIxg6t9sMrQWtk","6ix9ine, Lil Baby","TIC TOC (feat. Lil Baby)","ScumGang Records / TenThousand Projects, LLC",42,42,2,"358475"
-73,"spotify:track:7ycWLEP1GsNjVvcjawXz3z","A$AP Rocky, Skepta","Praise The Lord (Da Shine) (feat. Skepta)","A$AP Worldwide/Polo Grounds Music/RCA Records",28,78,29,"358121"
-74,"spotify:track:222B3aljXx6fFwKmFjuBED","Little Mix, Nicki Minaj","Woman Like Me (feat. Nicki Minaj)","Syco Music",10,50,9,"353315"
-75,"spotify:track:7xapw9Oy21WpfEcib2ErSA","Justin Bieber","Mistletoe","RBMG/Def Jam",72,81,7,"343998"
-76,"spotify:track:3nc420PXjTdBV5TN0gCFkS","Martin Garrix, Khalid","Ocean (feat. Khalid)","Epic Amsterdam",8,67,26,"343166"
-77,"spotify:track:58q2HKrzhC3ozto2nDdN4z","Cardi B, Bad Bunny, J Balvin","I Like It","Atlantic/KSR",12,98,36,"341256"
-78,"spotify:track:5N4erncE7kuUccm7zEmwzk","Silk City, Dua Lipa, Mark Ronson, Diplo","Electricity","Columbia",9,69,14,"340686"
-79,"spotify:track:57nOpVSc3j9o03Cr928ZM4","XXXTENTACION","what are you so afraid of","Bad Vibes Forever / EMPIRE",79,-1,1,"340445"
-80,"spotify:track:4e4fqjx0Izh4svvTef1z7e","Bebe Rexha, Florida Georgia Line","Meant to Be (feat. Florida Georgia Line)","Warner Records",7,104,65,"339281"
-81,"spotify:track:6LKYeyLt4G4SlZ6OJwFhVS","The Chainsmokers, Kelsea Ballerini","This Feeling","Disruptor Records/Columbia",10,66,12,"339198"
-82,"spotify:track:7inXu0Eaeg02VsM8kHNvzM","Frank Sinatra, B. Swanson Quartet","Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)","Columbia/Legacy",42,90,7,"338834"
-83,"spotify:track:7qiZfU4dY1lWllzX7mPBI3","Ed Sheeran","Shape of You","Atlantic Records UK",1,89,101,"334312"
-84,"spotify:track:45Egmo7icyopuzJN0oMEdk","Khalid, Normani","Love Lies (with Normani)","RCA Records Label",3,112,43,"332217"
-85,"spotify:track:5vdp5UmvTsnMEMESIF2Ym7","Queen","Another One Bites The Dust - Remastered 2011","EMI",47,63,6,"332015"
-86,"spotify:track:7oK9VyNzrYvRFo7nQEYkWN","The Killers","Mr. Brightside","Island Records",54,86,103,"330050"
-87,"spotify:track:4kWO6O1BUXcZmaxitpVUwp","Tiësto, Dzeko, Preme, Post Malone","Jackie Chan","Universal Music, a division of Universal International Music BV",10,87,30,"325989"
-88,"spotify:track:4OafepJy2teCjYJbvFE60J","Ariana Grande","breathin","Republic Records",7,75,17,"322480"
-89,"spotify:track:6pVW5LRWgeLaHudxauOTJU","Daryl Hall & John Oates","Jingle Bell Rock - Daryl's Version","Legacy Recordings",43,120,7,"322090"
-90,"spotify:track:0T6RSXxFhW8dRTWHI604ld","XXXTENTACION, Kanye West, Travis Barker","One Minute (feat. Kanye West & Travis Barker)","Bad Vibes Forever / EMPIRE",90,-1,1,"320145"
-91,"spotify:track:0TlLq3lA83rQOYtrqBqSct","Drake","Nonstop","Cash Money/Drake LP6",5,93,24,"318983"
-92,"spotify:track:4QIyEq7TcTdAcxjI2AFlAK","6ix9ine, Nicki Minaj, Murda Beatz","FEFE (feat. Nicki Minaj & Murda Beatz)","ScumGang Records / TenThousand Projects, LLC",8,71,21,"316136"
-93,"spotify:track:13hvHEstJ4sNbzdroPrPI3","Dua Lipa, BLACKPINK","Kiss and Make Up","Warner Records",29,64,8,"314194"
-94,"spotify:track:2P91MQbaiQOfbiz9VqhqKQ","Lauv","I Like Me Better","Lauv",9,105,80,"313850"
-95,"spotify:track:6mQLN3zRtAp6ovjusyYKrV","James Arthur, Anne-Marie","Rewrite The Stars (with James Arthur & Anne-Marie)","Atlantic Records",77,77,3,"313388"
-96,"spotify:track:4VUwkH455At9kENOfzTqmF","Bazzi, Camila Cabello","Beautiful (feat. Camila Cabello)","iamcosmic",17,84,19,"313173"
-97,"spotify:track:3zJw3rugfpVrmBeDDnUYzy","John Lennon, Yoko Ono","Happy Xmas (War Is Over) - Remastered 2010","EMI Catalogue",37,121,6,"311677"
-98,"spotify:track:51NFxnQvaosfDDutk0tams","Billie Eilish","bellyache","Darkroom",64,82,16,"310824"
-99,"spotify:track:5uCax9HTNlzGybIStD3vDh","James Arthur","Say You Won't Let Go","Columbia",5,95,103,"310172"
-100,"spotify:track:4hQ6UGyWQIGJmHSo0J88JW","Selena Gomez","Back To You - From 13 Reasons Why – Season 2 Soundtrack","UMGRI Interscope",4,110,31,"308185"
-101,"spotify:track:7KXjTSCq5nL1LoYtL7XAwS","Kendrick Lamar","HUMBLE.","Aftermath",1,106,89,"306778"
-102,"spotify:track:4rERoP56GEEjKmshbphPBK","The Ronettes","Sleigh Ride","Legacy Recordings",57,114,7,"305166"
-103,"spotify:track:2rbDhOo9Fh61Bbu23T2qCk","Lady Gaga","Always Remember Us This Way","A Star is Born OST",34,76,8,"305078"
-104,"spotify:track:4KpKyRFwN0gcwj58Uqjv7q","XXXTENTACION","STARING AT THE SKY","Bad Vibes Forever / EMPIRE",104,-1,1,"304111"
-105,"spotify:track:2G1tXoGBaEMJ7FKGnkf6ud","Gucci Mane, Bruno Mars, Kodak Black","Wake Up in the Sky","Guwop Enterprises/Atlantic",39,96,13,"303435"
-106,"spotify:track:3BZkEOJwKUYRlkLWZB1izC","Peking Duk","Fire","Sony Music Entertainment",16,108,31,"303111"
-107,"spotify:track:09IStsImFySgyp0pIQdqAc","Zedd, Maren Morris, Grey","The Middle","UMGRI Interscope",6,132,46,"299663"
-108,"spotify:track:60SdxE8apGAxMiRrpbmLY0","Eminem, Joyner Lucas","Lucky You (feat. Joyner Lucas)","Aftermath",3,92,15,"299384"
-109,"spotify:track:73FebDuELlAEinHw1xWJCZ","Jess Glynne","I'll Be There","Atlantic Records UK",23,102,31,"297431"
-110,"spotify:track:5T8EDUDqKcs6OSOwEsfqG7","Queen","Don't Stop Me Now - Remastered 2011","EMI",59,83,6,"295625"
-111,"spotify:track:5itzep0nGnq7hxCfFNsTIR","XXXTENTACION","difference (interlude)","Bad Vibes Forever / EMPIRE",111,-1,1,"292799"
-112,"spotify:track:6tjituizSxwSmBB5vtgHZE","Michael Bublé","Holly Jolly Christmas","143/Reprise",64,101,5,"292491"
-113,"spotify:track:5Z3GHaZ6ec9bsiI5BenrbY","Khalid","Young Dumb & Broke","Right Hand Music Group, LLC/RCA Records",2,113,77,"292420"
-114,"spotify:track:3GCdLUSnKSMJhs4Tj6CV3s","Kendrick Lamar, SZA","All The Stars (with SZA)","Black Panther (TDE/DMG) PS",2,184,48,"291877"
-115,"spotify:track:5OCJzvD7sykQEKHH7qAC3C","Ariana Grande","God is a woman","Republic Records",5,107,22,"289727"
-116,"spotify:track:4qBejt9FeqLI9blHI1Nq1x","Michael Bublé, The Puppini Sisters","Jingle Bells (feat. The Puppini Sisters)","143/Reprise",36,109,7,"288863"
-117,"spotify:track:2fuCquhmrzHpu5xcA1ci9x","Queen, David Bowie","Under Pressure - Remastered 2011","EMI",67,88,6,"281498"
-118,"spotify:track:7AFASza1mXqntmGtbxXprO","XXXTENTACION","changes","Bad Vibes Forever, LLC",13,134,41,"279311"
-119,"spotify:track:7ef4DlsgrMEH11cDZd32M6","Calvin Harris, Dua Lipa","One Kiss (with Dua Lipa)","Sony Music UK",6,141,36,"278790"
-120,"spotify:track:2uIX8YMNjGMD7441kqyyNU","Billie Eilish","ocean eyes","Darkroom",37,99,29,"278373"
-121,"spotify:track:70TEuKwiK0bd5phEQkbvT4","BENEE","Soaked","Republic Records",121,-1,1,"277519"
-122,"spotify:track:6cFZ4PLC19taNlpl9pbGMf","Queen","Somebody To Love - Remastered 2011","EMI",60,85,6,"275388"
-123,"spotify:track:0N8MGHEDAq29ip7RrlrTeN","The Chainsmokers","Beach House","Disruptor Records/Columbia",51,61,4,"274100"
-124,"spotify:track:2374M0fQpWi3dLnB54qaLX","TOTO","Africa","Columbia",84,119,59,"273980"
-125,"spotify:track:7BKLCZ1jbUBVqRi2FVlTVw","The Chainsmokers, Halsey","Closer","Disruptor Records/Columbia",3,111,103,"273198"
-126,"spotify:track:6fq5GyXeT7kfzkK97b9rGC","benny blanco, Jesse®, Swae Lee","Better to Lie (with Jesse & Swae Lee)","Friends Keep Secrets/Interscope Records",118,118,2,"270996"
-127,"spotify:track:2EjXfH91m7f8HiJN1yQg97","Brenda Lee","Rockin' Around The Christmas Tree","MCA Nashville",82,130,5,"268256"
-128,"spotify:track:5WvAo7DNuPRmk4APhdPzi8","DJ Khaled, Justin Bieber, Quavo, Chance the Rapper","No Brainer","Epic/We The Best",4,123,20,"268106"
-129,"spotify:track:1rfofaqEpACxVEHIZBJe6W","Camila Cabello, Young Thug","Havana (feat. Young Thug)","Syco Music/Epic",2,149,70,"267690"
-130,"spotify:track:1zB4vmk8tFRmM9UULNzbLB","Imagine Dragons","Thunder","Kid Ina Korner / Interscope",7,140,85,"266199"
-131,"spotify:track:1kQhi22kyluRCnIPAXtxEZ","benny blanco, Calvin Harris","I Found You (with Calvin Harris)","Friends Keep Secrets/Interscope Records",23,46,6,"265059"
-132,"spotify:track:76cy1WJvNGJTj78UqeA5zr","Dua Lipa","IDGAF","Warner Records",4,194,50,"262217"
-133,"spotify:track:6VHLa2Ov2NnnekRjLpAgdv","Hayden James, Running Touch","Better Together","Future Classic",63,100,6,"261386"
-134,"spotify:track:116H0KvKr2Zl4RPuVBruDO","Bad Bunny, Drake","MIA","Rimas Entertainment LLC",31,97,9,"261300"
-135,"spotify:track:40T5GIqQ1CegGm2PTEl8Bu","Billie Eilish","idontwannabeyouanymore","Darkroom",87,117,21,"260247"
-136,"spotify:track:63SevszngYpZOwf63o61K4","Dennis Lloyd","Nevermind","WM Italy",14,169,38,"259701"
-137,"spotify:track:5Gu0PDLN4YJeW75PpBSg9p","Hailee Steinfeld, Alesso, Florida Georgia Line, WATT","Let Me Go (with Alesso, Florida Georgia Line & watt)","Universal Records",7,167,66,"258087"
-138,"spotify:track:5CLGzJsGqhCEECcpnFQA8x","Rudimental, Jess Glynne, Macklemore, Dan Caplen","These Days (feat. Jess Glynne, Macklemore & Dan Caplen)","Atlantic Records UK",5,178,47,"257167"
-139,"spotify:track:1cS0TgbR263ey9jn0MwD2s","Eminem, Ed Sheeran","River (feat. Ed Sheeran)","Aftermath",2,166,52,"256824"
-140,"spotify:track:4gvPqK7RifS2F45o9Obo5B","Amy Shark","I Said Hi","Wonderlick",12,152,35,"255757"
-141,"spotify:track:4E2s2lCNKxbWJMwHPMzOfq","The Rubens","Never Ever","Opposition",23,142,28,"254514"
-142,"spotify:track:5zxwumO0laRosoeOvbVSvc","Mitch James","Bright Blue Skies","Sony Music Entertainment",77,116,12,"254124"
-143,"spotify:track:0tgVpDi06FyKpA1z0VMD4v","Ed Sheeran","Perfect","Atlantic Records UK",7,144,93,"254085"
-144,"spotify:track:2wVDWtLKXunswWecARNILj","JENNIE","SOLO","YG Entertainment, distributed through Interscope Records",92,103,4,"253721"
-145,"spotify:track:4so0Wek9Ig1p6CRCHuINwW","Bing Crosby, Ken Darby Singers, John Scott Trotter & His Orchestra","White Christmas - 1947 Version","Geffen",44,162,6,"251888"
-146,"spotify:track:6Hgh47WXVKtXN5zGOu0hjI","Khalid, 6LACK, Ty Dolla $ign","OTW","Right Hand Music Group, LLC/RCA Records",10,174,34,"250850"
-147,"spotify:track:3NuK5xMlSlB6K2Qp16zf3h","Clean Bandit, Demi Lovato","Solo (feat. Demi Lovato)","Atlantic Records UK",13,146,30,"250298"
-148,"spotify:track:55GiOwtxNajXVbpjjIzMnD","Tyga","SWISH","Last Kings Music / EMPIRE",35,124,20,"249648"
-149,"spotify:track:0Ie5uiv54KgCr7P4sYDTHl","Idina Menzel, Michael Bublé","Baby It's Cold Outside (with Michael Bublé)","Warner Records",32,168,7,"249606"
-150,"spotify:track:7yq4Qj7cqayVTp3FF9CWbm","Vance Joy","Riptide","F-Stop Records/Atlantic",89,127,102,"247137"
-151,"spotify:track:0CZ8lquoTX2Dkg7Ak2inwA","King Princess","1950","Zelig Records, LLC./Columbia Records",14,171,40,"247090"
-152,"spotify:track:7vQbuQcyTflfCIOu3Uzzya","Bobby Helms","Jingle Bell Rock","Geffen",133,133,3,"246789"
-153,"spotify:track:1mXVgsBdtIVeCLJnSnmtdV","Sam Smith","Too Good At Goodbyes","PLG - Capitol",4,143,66,"244322"
-154,"spotify:track:4M3FO0ji6Lc8vwD1sgf1nc","Kygo, Imagine Dragons","Born To Be Yours","Kygo",27,137,26,"244069"
-155,"spotify:track:4keoy2fqgwGnbWlm3ZVZFa","Zedd, Elley Duhé","Happy Now","UMGRI Interscope",25,138,21,"243799"
-156,"spotify:track:2xGjteMU3E1tkEPVFBO08U","Keala Settle, The Greatest Showman Ensemble","This Is Me","Atlantic Records",20,199,48,"243429"
-157,"spotify:track:7vGuf3Y35N4wmASOKLUVVU","Marshmello, Khalid","Silence","Joytime Collective/RCA Records",3,176,70,"243138"
-158,"spotify:track:0b9oOr2ZgvyQu88wzixux9","Childish Gambino","This Is America","Wolf+Rothstein/RCA Records",1,-1,25,"240466"
-159,"spotify:track:6a1hzBiTkgqTsDA0Xgfh9z","The Jackson 5","Santa Claus Is Coming To Town","UNI/MOTOWN",46,188,6,"240370"
-160,"spotify:track:6xTU6B6nFwKKTSZ9ySXS80","Kygo, Miguel","Remind Me to Forget","Kygo",20,164,39,"240209"
-161,"spotify:track:3WefHNGtjexZvi66ZEx9u4","Madison Beer, Offset","Hurts Like Hell (feat. Offset)","Access Records",115,115,4,"239226"
-162,"spotify:track:0pqnGHJpmpxLKifKRmU6WP","Imagine Dragons","Believer","Kid Ina Korner / Interscope",34,161,97,"238221"
-163,"spotify:track:0u695M7KyzXaPIjpEbxOkB","Travis Scott, Skrillex","SICKO MODE - Skrillex Remix","Cactus Jack / Epic",163,190,2,"237712"
-164,"spotify:track:3GVkPk8mqxz0itaAriG1L7","XXXTENTACION","Everybody Dies In Their Nightmares","Bad Vibes Forever / EMPIRE",26,179,66,"237572"
-165,"spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL","BlocBoy JB, Drake","Look Alive (feat. Drake)","Bloc Nation",16,195,44,"237391"
-166,"spotify:track:1jo3TwNGCXfNdB5uba3ZVv","Eminem","Killshot","Aftermath",20,131,12,"237344"
-167,"spotify:track:52okn5MNA47tk87PeZJLEL","NF","Let You Down","NF Real Music",4,-1,61,"236764"
-168,"spotify:track:14mHfNsSHN0FbLftyjrV9g","Flipp Dinero","Leave Me Alone","Cinematic/Epic/We The Best",161,186,5,"236242"
-169,"spotify:track:3a1lNhkSLSkpJE4MSHpDu9","Post Malone, Quavo","Congratulations","Universal Records",15,155,96,"236240"
-170,"spotify:track:5tz69p7tJuGPeMGwNTxYuV","Logic, Alessia Cara, Khalid","1-800-273-8255","Def Jam Recordings",1,157,84,"235357"
-171,"spotify:track:6tB4XVKceo2307SSWXaO0y","Hayden James, Boy Matthews","Just Friends","EMI",20,197,33,"234758"
-172,"spotify:track:4AhSkRYioEIfGvCV19peYN","Khalid, Empress Of","Suncity (feat. Empress Of)","Right Hand Music Group, LLC/RCA Records",32,122,8,"234524"
-173,"spotify:track:6PKxFkewPt55P5ao5tVS5o","PNAU, Kira Divine","Go Bang","etcetc AU",11,-1,56,"234173"
-174,"spotify:track:7AQim7LbvFVZJE3O8TYgf2","XXXTENTACION, Trippie Redd","Fuck Love","Bad Vibes Forever / EMPIRE",27,185,55,"230959"
-175,"spotify:track:04MLEeAMuV9IlHEsD8vF6A","French Montana, Drake","No Stylist (feat. Drake)","Epic",39,135,12,"230889"
-176,"spotify:track:4pbJqGIASGPr0ZpGpnWkDn","Queen","We Will Rock You - Remastered 2011","EMI",90,125,6,"229321"
-177,"spotify:track:6QgjcU0zLnzq5OrUoSZ3OK","Portugal. The Man","Feel It Still","Atlantic Records",9,-1,71,"229221"
-178,"spotify:track:5wujBwqG7INdStqGd4tRMX","Juice WRLD","Armed And Dangerous","Juice WRLD Mixtape / ISR P&D",89,128,5,"228635"
-179,"spotify:track:32lItqlMi4LBhb4k0BaSaC","Post Malone","Candy Paint","Republic Records",15,-1,59,"227814"
-180,"spotify:track:2xJCMIJfcNYDc5iR0sAm2O","Dua Lipa","New Rules","Warner Records",2,191,74,"227468"
-181,"spotify:track:7GX5flRQZVHRAGd6B4TmDO","Lil Uzi Vert","XO Tour Llif3","Generation Now/Atlantic",22,193,89,"226726"
-182,"spotify:track:5qqabIl2vWzo9ApSC317sa","Oasis","Wonderwall - Remastered","Big Brother",111,153,90,"226232"
-183,"spotify:track:2RttW7RAu5nOAfq6YFvApB","Ed Sheeran","Happier","Atlantic Records UK",8,181,93,"225823"
-184,"spotify:track:79esEXlqqmq0GPz0xQSZTV","Shawn Mendes","Lost In Japan","Island Records",24,-1,16,"224973"
-185,"spotify:track:7MXVkk9YMctZqd1Srtv4MB","The Weeknd, Daft Punk","Starboy","Universal Republic Records",1,165,99,"224788"
-186,"spotify:track:6PCUP3dWmTjcTtXY02oFdT","Ed Sheeran","Castle on the Hill","Atlantic Records UK",2,159,101,"223805"
-187,"spotify:track:1Slwb6dOYkBlWal1PGtnNg","Ed Sheeran","Thinking out Loud","Atlantic Records UK",68,156,103,"223669"
-188,"spotify:track:6lOWoTqVnAWXchddtTH31W","Tom Walker","Leave a Light On","Relentless Records",89,158,13,"223005"
-189,"spotify:track:2SL6oP2YAEQbqsrkOzRGO4","Eminem","Venom - Music From The Motion Picture","Aftermath",32,151,15,"222420"
-190,"spotify:track:6jreFSOTUAViWjKyzOC4Kg","Alesso","REMEDY","10:22 pm",18,150,15,"221642"
-191,"spotify:track:2GGMabyHXnJmjY6CXhhB2e","Cardi B","Money","Atlantic/KSR",74,129,7,"221349"
-192,"spotify:track:65Q2mv3UlVi9eO70OpsmSe","Burl Ives","A Holly Jolly Christmas","Geffen",73,200,4,"220006"
-193,"spotify:track:6914ZWSnIGPlQkNgQldTmT","Amy Shark","All Loved Up","Wonderlick",103,154,9,"218059"
-194,"spotify:track:3B54sVLJ402zGa6Xm4YGNe","French Montana, Swae Lee","Unforgettable","Bad Boy Entertainment/Epic Records",2,187,86,"216242"
-195,"spotify:track:4ricyQVd20UQde1jpXCSuJ","Tony Bennett","Winter Wonderland","Columbia/Legacy",71,-1,4,"215967"
-196,"spotify:track:7uzmGiiJyRfuViKKK3lVmR","Bazzi","Mine","iamcosmic",4,-1,37,"213651"
-197,"spotify:track:3S0OXQeoh0w6AY8WQVckRW","Jason Mraz","I'm Yours","Atlantic Records/ATG",87,173,55,"210656"
-198,"spotify:track:3d9DChrdc6BOeFsbrZ3Is0","Red Hot Chili Peppers","Under the Bridge","Warner Records",125,172,31,"210173"
-199,"spotify:track:1Qi2wh8fFgDV7tl4Sj3f2K","Sam Smith","Have Yourself A Merry Little Christmas","PLG - Capitol",103,136,4,"209517"
-200,"spotify:track:1bhUWB0zJMIKr9yVPrkEuI","Ed Sheeran, Beyoncé","Perfect Duet (Ed Sheeran & Beyoncé)","Atlantic Records UK",7,-1,51,"209310"
+rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,streams,End Date
+1,spotify:track:2rPE9A1vEgShuZxxzR2tZH,Ariana Grande,"thank u, next",Republic Records,1,1,6,2053131,2018-12-13
+2,spotify:track:5p7ujcrUXASCNwRaWNHR1C,Halsey,Without Me,Capitol Records,1,2,10,1457056,2018-12-13
+3,spotify:track:1A6OTy97kk0mMdm78rHsm8,"Post Malone, Swae Lee",Sunflower - Spider-Man: Into the Spider-Verse,Republic Records,2,3,8,1334938,2018-12-13
+4,spotify:track:7FGq80cy8juXBCD2nrqdWU,"benny blanco, Halsey, Khalid",Eastside (with Halsey & Khalid),Friends Keep Secrets/Interscope Records,1,4,22,1141222,2018-12-13
+5,spotify:track:27rdGxbavYJeBphck5MZAF,"Mark Ronson, Miley Cyrus",Nothing Breaks Like a Heart (feat. Miley Cyrus),Columbia,5,14,2,1076666,2018-12-13
+6,spotify:track:2dpaYNEQHiRxtZbfNsse99,"Marshmello, Bastille",Happier,Joytime Collective,2,5,17,1074065,2018-12-13
+7,spotify:track:25sgk305KZfyuqVBQIahim,Ava Max,Sweet but Psycho,Atlantic Records,7,9,11,1063039,2018-12-13
+8,spotify:track:2xLMifQCjDGFmkHkpNLD9h,Travis Scott,SICKO MODE,Cactus Jack / Epic,7,7,19,1021634,2018-12-13
+9,spotify:track:6zeeWid2sgw4lap2jV61PZ,Khalid,Better,"Right Hand Music Group, LLC/RCA Records",4,6,13,1020427,2018-12-13
+10,spotify:track:4ofwffwvvnbSkrMSCKQDaC,George Ezra,Shotgun,Columbia,3,8,21,1007338,2018-12-13
+11,spotify:track:3EPXxR3ImUwfayaurPi3cm,Dean Lewis,Be Alright,Universal Music Australia Pty. Ltd.,1,13,24,942881,2018-12-13
+12,spotify:track:0bYg9bo50gSsH3LtXe2SQn,Mariah Carey,All I Want for Christmas Is You,Columbia,1,12,11,912024,2018-12-13
+13,spotify:track:2VxeLyX666F8uXCJ0dZF8B,"Lady Gaga, Bradley Cooper",Shallow,A Star is Born OST,5,11,10,861756,2018-12-13
+14,spotify:track:14JzyD6FlBD5z0wV5P07YI,Billie Eilish,when the party's over,Darkroom/Interscope Records,2,10,9,827206,2018-12-13
+15,spotify:track:5Fla3zyOCcIRqrDoKLU0DP,Rita Ora,Let You Love Me,Atlantic Records UK,15,17,12,782456,2018-12-13
+16,spotify:track:2iUXsYOEPhVqEBwsqP70rE,5 Seconds of Summer,Youngblood,Capitol,1,21,35,762833,2018-12-13
+17,spotify:track:7l3E7lcozEodtVsSTCkcaA,"Kodak Black, Offset, Travis Scott",ZEZE (feat. Travis Scott & Offset),Atlantic Records,9,16,9,757940,2018-12-13
+18,spotify:track:7K7MUBCnzgBAvMVW2RTWNs,"Loud Luxury, Brando",Body,Armada Music,18,20,25,746565,2018-12-13
+19,spotify:track:2LskIZrCeLxRvCiGP8gxlh,"XXXTENTACION, Lil Pump, Swae Lee, Maluma",Arms Around You (feat. Maluma & Swae Lee),Warner Records,10,15,7,741801,2018-12-13
+20,spotify:track:0E9ZjEAyAwOXZ7wJC0PD33,"Dynoro, Gigi D'Agostino",In My Mind,Columbia/B1 Recordings,8,18,21,724560,2018-12-13
+21,spotify:track:7dt6x5M1jzdTEt8oCbisTK,Post Malone,Better Now,Republic Records,1,26,33,676767,2018-12-13
+22,spotify:track:7pdF27mSDuPWhppnHAmWHa,XXXTENTACION,whoa (mind in awe),Bad Vibes Forever / EMPIRE,22,-1,1,665373,2018-12-13
+23,spotify:track:2FRnf9qhLbvw8fu4IBXx78,Wham!,Last Christmas,Epic,9,43,8,651437,2018-12-13
+24,spotify:track:22An65gG31JLf9n18qjdhZ,XXXTENTACION,BAD!,Bad Vibes Forever / EMPIRE,23,57,5,649486,2018-12-13
+25,spotify:track:2RSHsoi04658QL5xgQVov3,Imagine Dragons,Bad Liar,Kid Ina Korner / Interscope,17,22,5,648071,2018-12-13
+26,spotify:track:0TBFJanfWaByPIi3f7RR82,KIAN,Waiting,KB Recording Pty Ltd,25,25,17,627800,2018-12-13
+27,spotify:track:0lLdorYw7lVrJydTINhWdI,Michael Bublé,It's Beginning to Look a Lot like Christmas,143/Reprise,8,34,9,623228,2018-12-13
+28,spotify:track:3id2EVGKc3eFAMn9nFnB0r,Lukas Graham,Love Someone,Warner Records,26,29,13,612384,2018-12-13
+29,spotify:track:1xzBco0xcoJEDXktl7Jxrr,Sheck Wes,Mo Bamba,Cactus Jack Records/ G.O.O.D. Music/ Interscope Records,19,24,12,590977,2018-12-13
+30,spotify:track:2IRZnDFmlqMuOrYOLnZZyc,"Meek Mill, Drake",Going Bad (feat. Drake),MMG/Atlantic,30,51,2,588026,2018-12-13
+31,spotify:track:7wC5eZcFS1Q1BsQ35DU6H4,Billie Eilish,come out and play,Darkroom,16,19,4,583212,2018-12-13
+32,spotify:track:3KLygy1YWhmrQx0GRs7IOx,"Jonas Blue, Jack & Jack",Rise,Positiva,10,35,27,583041,2018-12-13
+33,spotify:track:285pBltuF7vW8TeWk8hdRR,Juice WRLD,Lucid Dreams,Juice WRLD Mixtape / ISR P&D,6,38,30,583032,2018-12-13
+34,spotify:track:5N5k9nd479b1xpDZ4usjrg,"Calvin Harris, Sam Smith, Jessie Reyez",Promises (with Sam Smith),Columbia,5,28,17,572762,2018-12-13
+35,spotify:track:5IaHrVsrferBYDm0bDyABy,"Tyga, Offset",Taste (feat. Offset),Last Kings Music / EMPIRE,5,37,30,569514,2018-12-13
+36,spotify:track:7tFiyTwD0nx5a1eklYtX2J,Queen,Bohemian Rhapsody - Remastered 2011,EMI,24,27,9,558300,2018-12-13
+37,spotify:track:3ee8Jmje8o58CHK66QrVC2,XXXTENTACION,SAD!,"Bad Vibes Forever, LLC",3,48,41,556778,2018-12-13
+38,spotify:track:03Pg5wDlaYAZlTNLeAfl2r,Hilltop Hoods,Leave Me Lonely,Universal Music Australia Pty. Ltd.,38,44,3,554063,2018-12-13
+39,spotify:track:4S8d14HvHb70ImctNgVzQQ,"Kanye West, Lil Pump",I Love It (& Lil Pump),"Getting Out Our Dreams, Inc./Def Jam Recordings",1,33,14,551433,2018-12-13
+40,spotify:track:7fa9MBXhVfQ8P8Df9OEbD8,"Maroon 5, Cardi B",Girls Like You (feat. Cardi B) - Cardi B Version,Interscope Records*,3,47,28,542971,2018-12-13
+41,spotify:track:1NJcg626wLln4pGHpiV7mf,"Billie Eilish, Khalid",lovely (with Khalid),Darkroom,5,39,34,541557,2018-12-13
+42,spotify:track:05mAIVLkIWc2d1UBYZBCp8,"Charli xcx, Troye Sivan",1999,Atlantic Records UK,13,36,10,541547,2018-12-13
+43,spotify:track:7uqcLJFlSYjVPLUz1vPxkY,XXXTENTACION,Guardian angel,Bad Vibes Forever / EMPIRE,43,-1,1,540132,2018-12-13
+44,spotify:track:1rqqCSm0Qe4I9rUvWncaom,Panic! At The Disco,High Hopes,DCD2 / Fueled By Ramen,9,56,25,530691,2018-12-13
+45,spotify:track:5tAa8Uaqr4VvA3693mbIhU,Zara Larsson,Ruin My Life,Epic/Record Company TEN,20,30,8,527674,2018-12-13
+46,spotify:track:6DCZcSspjsKoFjzjrWoCdn,Drake,God's Plan,Cash Money/Drake LP6,1,65,47,506374,2018-12-13
+47,spotify:track:2G7V7zsVDxg1yRsu7Ew9RJ,Drake,In My Feelings,Cash Money/Drake LP6,1,53,24,501627,2018-12-13
+48,spotify:track:5kfNriitmkNE8mUbZ7gbq8,Khalid,Saturday Nights,"Right Hand Music Group, LLC/RCA Records",48,54,6,500326,2018-12-13
+49,spotify:track:75ZvA4QfFiZvzhj2xkaWAh,Post Malone,I Fall Apart,Universal Records,1,58,64,486908,2018-12-13
+50,spotify:track:7FjZU7XFs7P9jHI9Z0yRhK,"NOTD, Felix Jaehn, Captain Cuts, Georgia Ku",So Close,Universal Music AB,50,52,5,484537,2018-12-13
+51,spotify:track:5JEx7HbmvHQQswJCsoo9rA,"Ellie Goulding, Diplo, Swae Lee",Close To Me (with Diplo) (feat. Swae Lee),Polydor Records,31,31,7,470950,2018-12-13
+52,spotify:track:1oJ8EDr2pv94IvSd6ZmDgo,"6ix9ine, Kanye West, Nicki Minaj",MAMA (feat. Nicki Minaj & Kanye West),"ScumGang Records / TenThousand Projects, LLC",23,23,3,462738,2018-12-13
+53,spotify:track:0e7ipj03S05BNilyu5bRzt,"Post Malone, 21 Savage",rockstar (feat. 21 Savage),Republic Records,1,59,65,441660,2018-12-13
+54,spotify:track:0lizgQ7Qw35od7CYaoMBZb,Ariana Grande,Santa Tell Me,Universal Records,40,40,8,438125,2018-12-13
+55,spotify:track:4w8niZpiMy6qz1mntFA5uM,"DJ Snake, Selena Gomez, Ozuna, Cardi B","Taki Taki (with Selena Gomez, Ozuna & Cardi B)","DJ Snake Music Productions Limited, under exclusive license to Geffen Records",11,41,11,437709,2018-12-13
+56,spotify:track:3swc6WTsr7rl9DqQKQA55C,"Post Malone, Ty Dolla $ign",Psycho (feat. Ty Dolla $ign),Republic Records,1,68,42,426756,2018-12-13
+57,spotify:track:7m9OqQk4RVRkw9JJdeAw96,XXXTENTACION,Jocelyn Flores,Bad Vibes Forever / EMPIRE,7,73,68,417851,2018-12-13
+58,spotify:track:7nGuT0EfqQ1TXcADEKwB6Q,Morgan Evans,Day Drunk,Warner Records,58,62,9,416277,2018-12-13
+59,spotify:track:4axYWgXASdsCBHuwInAubT,XXXTENTACION,I don't let go,Bad Vibes Forever / EMPIRE,59,-1,1,415672,2018-12-13
+60,spotify:track:2BgEsaKNfHUdlh97KmvFyo,Anne-Marie,2002,Atlantic Records UK,9,60,34,414074,2018-12-13
+61,spotify:track:2hnxrRNzF74mdDzpQZQukQ,"Lauv, Julia Michaels",There's No Way (feat. Julia Michaels),Lauv,21,45,11,403818,2018-12-13
+62,spotify:track:4jvjzW7Hm0yK4LvvE0Paz9,"Lil Peep, XXXTENTACION",Falling Down - Bonus Track,Columbia,5,49,13,398093,2018-12-13
+63,spotify:track:0247StOpd3AkeBQzANX4Zf,Band Aid,Do They Know It's Christmas? - 1984 Version,EMI,22,79,7,385491,2018-12-13
+64,spotify:track:0JP9xo3adEtGSdUEISiszL,XXXTENTACION,Moonlight,"Bad Vibes Forever, LLC",11,70,39,385412,2018-12-13
+65,spotify:track:6Gy7rXB6Ku5vIWC7WGWsl3,"6ix9ine, Tory Lanez",KIKA (feat. Tory Lanez),"ScumGang Records / TenThousand Projects, LLC",32,32,3,383285,2018-12-13
+66,spotify:track:14sOS5L36385FJ3OL8hew4,"Kygo, Sandro Cavazza",Happy Now,Kygo,46,55,6,379867,2018-12-13
+67,spotify:track:3CA9pLiwRIGtUBiMjbZmRw,Drake,Nice For What,Cash Money/Drake LP6,1,94,36,374039,2018-12-13
+68,spotify:track:2qT1uLXPVPzGgFOx4jtEuo,Ariana Grande,no tears left to cry,Republic Records,2,74,34,369956,2018-12-13
+69,spotify:track:5hslUAKq9I9CG2bAulFkHN,Andy Williams,It's the Most Wonderful Time of the Year,Columbia/Legacy,45,80,7,368299,2018-12-13
+70,spotify:track:5lar0mCUejpILVkAz50s2J,XXXTENTACION,Train food,Bad Vibes Forever / EMPIRE,70,-1,1,362108,2018-12-13
+71,spotify:track:78QR3Wp35dqAhFEc2qAGjE,"Lil Baby, Gunna",Drip Too Hard (Lil Baby & Gunna),"Quality Control Music/Young Stoner Life Records, a 300 Entertainment Label/Motown Records/Capitol Records",61,72,11,359144,2018-12-13
+72,spotify:track:4m5Cd9kAbIxg6t9sMrQWtk,"6ix9ine, Lil Baby",TIC TOC (feat. Lil Baby),"ScumGang Records / TenThousand Projects, LLC",42,42,2,358475,2018-12-13
+73,spotify:track:7ycWLEP1GsNjVvcjawXz3z,"A$AP Rocky, Skepta",Praise The Lord (Da Shine) (feat. Skepta),A$AP Worldwide/Polo Grounds Music/RCA Records,28,78,29,358121,2018-12-13
+74,spotify:track:222B3aljXx6fFwKmFjuBED,"Little Mix, Nicki Minaj",Woman Like Me (feat. Nicki Minaj),Syco Music,10,50,9,353315,2018-12-13
+75,spotify:track:7xapw9Oy21WpfEcib2ErSA,Justin Bieber,Mistletoe,RBMG/Def Jam,72,81,7,343998,2018-12-13
+76,spotify:track:3nc420PXjTdBV5TN0gCFkS,"Martin Garrix, Khalid",Ocean (feat. Khalid),Epic Amsterdam,8,67,26,343166,2018-12-13
+77,spotify:track:58q2HKrzhC3ozto2nDdN4z,"Cardi B, Bad Bunny, J Balvin",I Like It,Atlantic/KSR,12,98,36,341256,2018-12-13
+78,spotify:track:5N4erncE7kuUccm7zEmwzk,"Silk City, Dua Lipa, Mark Ronson, Diplo",Electricity,Columbia,9,69,14,340686,2018-12-13
+79,spotify:track:57nOpVSc3j9o03Cr928ZM4,XXXTENTACION,what are you so afraid of,Bad Vibes Forever / EMPIRE,79,-1,1,340445,2018-12-13
+80,spotify:track:4e4fqjx0Izh4svvTef1z7e,"Bebe Rexha, Florida Georgia Line",Meant to Be (feat. Florida Georgia Line),Warner Records,7,104,65,339281,2018-12-13
+81,spotify:track:6LKYeyLt4G4SlZ6OJwFhVS,"The Chainsmokers, Kelsea Ballerini",This Feeling,Disruptor Records/Columbia,10,66,12,339198,2018-12-13
+82,spotify:track:7inXu0Eaeg02VsM8kHNvzM,"Frank Sinatra, B. Swanson Quartet",Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet),Columbia/Legacy,42,90,7,338834,2018-12-13
+83,spotify:track:7qiZfU4dY1lWllzX7mPBI3,Ed Sheeran,Shape of You,Atlantic Records UK,1,89,101,334312,2018-12-13
+84,spotify:track:45Egmo7icyopuzJN0oMEdk,"Khalid, Normani",Love Lies (with Normani),RCA Records Label,3,112,43,332217,2018-12-13
+85,spotify:track:5vdp5UmvTsnMEMESIF2Ym7,Queen,Another One Bites The Dust - Remastered 2011,EMI,47,63,6,332015,2018-12-13
+86,spotify:track:7oK9VyNzrYvRFo7nQEYkWN,The Killers,Mr. Brightside,Island Records,54,86,103,330050,2018-12-13
+87,spotify:track:4kWO6O1BUXcZmaxitpVUwp,"Tiësto, Dzeko, Preme, Post Malone",Jackie Chan,"Universal Music, a division of Universal International Music BV",10,87,30,325989,2018-12-13
+88,spotify:track:4OafepJy2teCjYJbvFE60J,Ariana Grande,breathin,Republic Records,7,75,17,322480,2018-12-13
+89,spotify:track:6pVW5LRWgeLaHudxauOTJU,Daryl Hall & John Oates,Jingle Bell Rock - Daryl's Version,Legacy Recordings,43,120,7,322090,2018-12-13
+90,spotify:track:0T6RSXxFhW8dRTWHI604ld,"XXXTENTACION, Kanye West, Travis Barker",One Minute (feat. Kanye West & Travis Barker),Bad Vibes Forever / EMPIRE,90,-1,1,320145,2018-12-13
+91,spotify:track:0TlLq3lA83rQOYtrqBqSct,Drake,Nonstop,Cash Money/Drake LP6,5,93,24,318983,2018-12-13
+92,spotify:track:4QIyEq7TcTdAcxjI2AFlAK,"6ix9ine, Nicki Minaj, Murda Beatz",FEFE (feat. Nicki Minaj & Murda Beatz),"ScumGang Records / TenThousand Projects, LLC",8,71,21,316136,2018-12-13
+93,spotify:track:13hvHEstJ4sNbzdroPrPI3,"Dua Lipa, BLACKPINK",Kiss and Make Up,Warner Records,29,64,8,314194,2018-12-13
+94,spotify:track:2P91MQbaiQOfbiz9VqhqKQ,Lauv,I Like Me Better,Lauv,9,105,80,313850,2018-12-13
+95,spotify:track:6mQLN3zRtAp6ovjusyYKrV,"James Arthur, Anne-Marie",Rewrite The Stars (with James Arthur & Anne-Marie),Atlantic Records,77,77,3,313388,2018-12-13
+96,spotify:track:4VUwkH455At9kENOfzTqmF,"Bazzi, Camila Cabello",Beautiful (feat. Camila Cabello),iamcosmic,17,84,19,313173,2018-12-13
+97,spotify:track:3zJw3rugfpVrmBeDDnUYzy,"John Lennon, Yoko Ono",Happy Xmas (War Is Over) - Remastered 2010,EMI Catalogue,37,121,6,311677,2018-12-13
+98,spotify:track:51NFxnQvaosfDDutk0tams,Billie Eilish,bellyache,Darkroom,64,82,16,310824,2018-12-13
+99,spotify:track:5uCax9HTNlzGybIStD3vDh,James Arthur,Say You Won't Let Go,Columbia,5,95,103,310172,2018-12-13
+100,spotify:track:4hQ6UGyWQIGJmHSo0J88JW,Selena Gomez,Back To You - From 13 Reasons Why – Season 2 Soundtrack,UMGRI Interscope,4,110,31,308185,2018-12-13
+101,spotify:track:7KXjTSCq5nL1LoYtL7XAwS,Kendrick Lamar,HUMBLE.,Aftermath,1,106,89,306778,2018-12-13
+102,spotify:track:4rERoP56GEEjKmshbphPBK,The Ronettes,Sleigh Ride,Legacy Recordings,57,114,7,305166,2018-12-13
+103,spotify:track:2rbDhOo9Fh61Bbu23T2qCk,Lady Gaga,Always Remember Us This Way,A Star is Born OST,34,76,8,305078,2018-12-13
+104,spotify:track:4KpKyRFwN0gcwj58Uqjv7q,XXXTENTACION,STARING AT THE SKY,Bad Vibes Forever / EMPIRE,104,-1,1,304111,2018-12-13
+105,spotify:track:2G1tXoGBaEMJ7FKGnkf6ud,"Gucci Mane, Bruno Mars, Kodak Black",Wake Up in the Sky,Guwop Enterprises/Atlantic,39,96,13,303435,2018-12-13
+106,spotify:track:3BZkEOJwKUYRlkLWZB1izC,Peking Duk,Fire,Sony Music Entertainment,16,108,31,303111,2018-12-13
+107,spotify:track:09IStsImFySgyp0pIQdqAc,"Zedd, Maren Morris, Grey",The Middle,UMGRI Interscope,6,132,46,299663,2018-12-13
+108,spotify:track:60SdxE8apGAxMiRrpbmLY0,"Eminem, Joyner Lucas",Lucky You (feat. Joyner Lucas),Aftermath,3,92,15,299384,2018-12-13
+109,spotify:track:73FebDuELlAEinHw1xWJCZ,Jess Glynne,I'll Be There,Atlantic Records UK,23,102,31,297431,2018-12-13
+110,spotify:track:5T8EDUDqKcs6OSOwEsfqG7,Queen,Don't Stop Me Now - Remastered 2011,EMI,59,83,6,295625,2018-12-13
+111,spotify:track:5itzep0nGnq7hxCfFNsTIR,XXXTENTACION,difference (interlude),Bad Vibes Forever / EMPIRE,111,-1,1,292799,2018-12-13
+112,spotify:track:6tjituizSxwSmBB5vtgHZE,Michael Bublé,Holly Jolly Christmas,143/Reprise,64,101,5,292491,2018-12-13
+113,spotify:track:5Z3GHaZ6ec9bsiI5BenrbY,Khalid,Young Dumb & Broke,"Right Hand Music Group, LLC/RCA Records",2,113,77,292420,2018-12-13
+114,spotify:track:3GCdLUSnKSMJhs4Tj6CV3s,"Kendrick Lamar, SZA",All The Stars (with SZA),Black Panther (TDE/DMG) PS,2,184,48,291877,2018-12-13
+115,spotify:track:5OCJzvD7sykQEKHH7qAC3C,Ariana Grande,God is a woman,Republic Records,5,107,22,289727,2018-12-13
+116,spotify:track:4qBejt9FeqLI9blHI1Nq1x,"Michael Bublé, The Puppini Sisters",Jingle Bells (feat. The Puppini Sisters),143/Reprise,36,109,7,288863,2018-12-13
+117,spotify:track:2fuCquhmrzHpu5xcA1ci9x,"Queen, David Bowie",Under Pressure - Remastered 2011,EMI,67,88,6,281498,2018-12-13
+118,spotify:track:7AFASza1mXqntmGtbxXprO,XXXTENTACION,changes,"Bad Vibes Forever, LLC",13,134,41,279311,2018-12-13
+119,spotify:track:7ef4DlsgrMEH11cDZd32M6,"Calvin Harris, Dua Lipa",One Kiss (with Dua Lipa),Sony Music UK,6,141,36,278790,2018-12-13
+120,spotify:track:2uIX8YMNjGMD7441kqyyNU,Billie Eilish,ocean eyes,Darkroom,37,99,29,278373,2018-12-13
+121,spotify:track:70TEuKwiK0bd5phEQkbvT4,BENEE,Soaked,Republic Records,121,-1,1,277519,2018-12-13
+122,spotify:track:6cFZ4PLC19taNlpl9pbGMf,Queen,Somebody To Love - Remastered 2011,EMI,60,85,6,275388,2018-12-13
+123,spotify:track:0N8MGHEDAq29ip7RrlrTeN,The Chainsmokers,Beach House,Disruptor Records/Columbia,51,61,4,274100,2018-12-13
+124,spotify:track:2374M0fQpWi3dLnB54qaLX,TOTO,Africa,Columbia,84,119,59,273980,2018-12-13
+125,spotify:track:7BKLCZ1jbUBVqRi2FVlTVw,"The Chainsmokers, Halsey",Closer,Disruptor Records/Columbia,3,111,103,273198,2018-12-13
+126,spotify:track:6fq5GyXeT7kfzkK97b9rGC,"benny blanco, Jesse®, Swae Lee",Better to Lie (with Jesse & Swae Lee),Friends Keep Secrets/Interscope Records,118,118,2,270996,2018-12-13
+127,spotify:track:2EjXfH91m7f8HiJN1yQg97,Brenda Lee,Rockin' Around The Christmas Tree,MCA Nashville,82,130,5,268256,2018-12-13
+128,spotify:track:5WvAo7DNuPRmk4APhdPzi8,"DJ Khaled, Justin Bieber, Quavo, Chance the Rapper",No Brainer,Epic/We The Best,4,123,20,268106,2018-12-13
+129,spotify:track:1rfofaqEpACxVEHIZBJe6W,"Camila Cabello, Young Thug",Havana (feat. Young Thug),Syco Music/Epic,2,149,70,267690,2018-12-13
+130,spotify:track:1zB4vmk8tFRmM9UULNzbLB,Imagine Dragons,Thunder,Kid Ina Korner / Interscope,7,140,85,266199,2018-12-13
+131,spotify:track:1kQhi22kyluRCnIPAXtxEZ,"benny blanco, Calvin Harris",I Found You (with Calvin Harris),Friends Keep Secrets/Interscope Records,23,46,6,265059,2018-12-13
+132,spotify:track:76cy1WJvNGJTj78UqeA5zr,Dua Lipa,IDGAF,Warner Records,4,194,50,262217,2018-12-13
+133,spotify:track:6VHLa2Ov2NnnekRjLpAgdv,"Hayden James, Running Touch",Better Together,Future Classic,63,100,6,261386,2018-12-13
+134,spotify:track:116H0KvKr2Zl4RPuVBruDO,"Bad Bunny, Drake",MIA,Rimas Entertainment LLC,31,97,9,261300,2018-12-13
+135,spotify:track:40T5GIqQ1CegGm2PTEl8Bu,Billie Eilish,idontwannabeyouanymore,Darkroom,87,117,21,260247,2018-12-13
+136,spotify:track:63SevszngYpZOwf63o61K4,Dennis Lloyd,Nevermind,WM Italy,14,169,38,259701,2018-12-13
+137,spotify:track:5Gu0PDLN4YJeW75PpBSg9p,"Hailee Steinfeld, Alesso, Florida Georgia Line, WATT","Let Me Go (with Alesso, Florida Georgia Line & watt)",Universal Records,7,167,66,258087,2018-12-13
+138,spotify:track:5CLGzJsGqhCEECcpnFQA8x,"Rudimental, Jess Glynne, Macklemore, Dan Caplen","These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",Atlantic Records UK,5,178,47,257167,2018-12-13
+139,spotify:track:1cS0TgbR263ey9jn0MwD2s,"Eminem, Ed Sheeran",River (feat. Ed Sheeran),Aftermath,2,166,52,256824,2018-12-13
+140,spotify:track:4gvPqK7RifS2F45o9Obo5B,Amy Shark,I Said Hi,Wonderlick,12,152,35,255757,2018-12-13
+141,spotify:track:4E2s2lCNKxbWJMwHPMzOfq,The Rubens,Never Ever,Opposition,23,142,28,254514,2018-12-13
+142,spotify:track:5zxwumO0laRosoeOvbVSvc,Mitch James,Bright Blue Skies,Sony Music Entertainment,77,116,12,254124,2018-12-13
+143,spotify:track:0tgVpDi06FyKpA1z0VMD4v,Ed Sheeran,Perfect,Atlantic Records UK,7,144,93,254085,2018-12-13
+144,spotify:track:2wVDWtLKXunswWecARNILj,JENNIE,SOLO,"YG Entertainment, distributed through Interscope Records",92,103,4,253721,2018-12-13
+145,spotify:track:4so0Wek9Ig1p6CRCHuINwW,"Bing Crosby, Ken Darby Singers, John Scott Trotter & His Orchestra",White Christmas - 1947 Version,Geffen,44,162,6,251888,2018-12-13
+146,spotify:track:6Hgh47WXVKtXN5zGOu0hjI,"Khalid, 6LACK, Ty Dolla $ign",OTW,"Right Hand Music Group, LLC/RCA Records",10,174,34,250850,2018-12-13
+147,spotify:track:3NuK5xMlSlB6K2Qp16zf3h,"Clean Bandit, Demi Lovato",Solo (feat. Demi Lovato),Atlantic Records UK,13,146,30,250298,2018-12-13
+148,spotify:track:55GiOwtxNajXVbpjjIzMnD,Tyga,SWISH,Last Kings Music / EMPIRE,35,124,20,249648,2018-12-13
+149,spotify:track:0Ie5uiv54KgCr7P4sYDTHl,"Idina Menzel, Michael Bublé",Baby It's Cold Outside (with Michael Bublé),Warner Records,32,168,7,249606,2018-12-13
+150,spotify:track:7yq4Qj7cqayVTp3FF9CWbm,Vance Joy,Riptide,F-Stop Records/Atlantic,89,127,102,247137,2018-12-13
+151,spotify:track:0CZ8lquoTX2Dkg7Ak2inwA,King Princess,1950,"Zelig Records, LLC./Columbia Records",14,171,40,247090,2018-12-13
+152,spotify:track:7vQbuQcyTflfCIOu3Uzzya,Bobby Helms,Jingle Bell Rock,Geffen,133,133,3,246789,2018-12-13
+153,spotify:track:1mXVgsBdtIVeCLJnSnmtdV,Sam Smith,Too Good At Goodbyes,PLG - Capitol,4,143,66,244322,2018-12-13
+154,spotify:track:4M3FO0ji6Lc8vwD1sgf1nc,"Kygo, Imagine Dragons",Born To Be Yours,Kygo,27,137,26,244069,2018-12-13
+155,spotify:track:4keoy2fqgwGnbWlm3ZVZFa,"Zedd, Elley Duhé",Happy Now,UMGRI Interscope,25,138,21,243799,2018-12-13
+156,spotify:track:2xGjteMU3E1tkEPVFBO08U,"Keala Settle, The Greatest Showman Ensemble",This Is Me,Atlantic Records,20,199,48,243429,2018-12-13
+157,spotify:track:7vGuf3Y35N4wmASOKLUVVU,"Marshmello, Khalid",Silence,Joytime Collective/RCA Records,3,176,70,243138,2018-12-13
+158,spotify:track:0b9oOr2ZgvyQu88wzixux9,Childish Gambino,This Is America,Wolf+Rothstein/RCA Records,1,-1,25,240466,2018-12-13
+159,spotify:track:6a1hzBiTkgqTsDA0Xgfh9z,The Jackson 5,Santa Claus Is Coming To Town,UNI/MOTOWN,46,188,6,240370,2018-12-13
+160,spotify:track:6xTU6B6nFwKKTSZ9ySXS80,"Kygo, Miguel",Remind Me to Forget,Kygo,20,164,39,240209,2018-12-13
+161,spotify:track:3WefHNGtjexZvi66ZEx9u4,"Madison Beer, Offset",Hurts Like Hell (feat. Offset),Access Records,115,115,4,239226,2018-12-13
+162,spotify:track:0pqnGHJpmpxLKifKRmU6WP,Imagine Dragons,Believer,Kid Ina Korner / Interscope,34,161,97,238221,2018-12-13
+163,spotify:track:0u695M7KyzXaPIjpEbxOkB,"Travis Scott, Skrillex",SICKO MODE - Skrillex Remix,Cactus Jack / Epic,163,190,2,237712,2018-12-13
+164,spotify:track:3GVkPk8mqxz0itaAriG1L7,XXXTENTACION,Everybody Dies In Their Nightmares,Bad Vibes Forever / EMPIRE,26,179,66,237572,2018-12-13
+165,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),Bloc Nation,16,195,44,237391,2018-12-13
+166,spotify:track:1jo3TwNGCXfNdB5uba3ZVv,Eminem,Killshot,Aftermath,20,131,12,237344,2018-12-13
+167,spotify:track:52okn5MNA47tk87PeZJLEL,NF,Let You Down,NF Real Music,4,-1,61,236764,2018-12-13
+168,spotify:track:14mHfNsSHN0FbLftyjrV9g,Flipp Dinero,Leave Me Alone,Cinematic/Epic/We The Best,161,186,5,236242,2018-12-13
+169,spotify:track:3a1lNhkSLSkpJE4MSHpDu9,"Post Malone, Quavo",Congratulations,Universal Records,15,155,96,236240,2018-12-13
+170,spotify:track:5tz69p7tJuGPeMGwNTxYuV,"Logic, Alessia Cara, Khalid",1-800-273-8255,Def Jam Recordings,1,157,84,235357,2018-12-13
+171,spotify:track:6tB4XVKceo2307SSWXaO0y,"Hayden James, Boy Matthews",Just Friends,EMI,20,197,33,234758,2018-12-13
+172,spotify:track:4AhSkRYioEIfGvCV19peYN,"Khalid, Empress Of",Suncity (feat. Empress Of),"Right Hand Music Group, LLC/RCA Records",32,122,8,234524,2018-12-13
+173,spotify:track:6PKxFkewPt55P5ao5tVS5o,"PNAU, Kira Divine",Go Bang,etcetc AU,11,-1,56,234173,2018-12-13
+174,spotify:track:7AQim7LbvFVZJE3O8TYgf2,"XXXTENTACION, Trippie Redd",Fuck Love,Bad Vibes Forever / EMPIRE,27,185,55,230959,2018-12-13
+175,spotify:track:04MLEeAMuV9IlHEsD8vF6A,"French Montana, Drake",No Stylist (feat. Drake),Epic,39,135,12,230889,2018-12-13
+176,spotify:track:4pbJqGIASGPr0ZpGpnWkDn,Queen,We Will Rock You - Remastered 2011,EMI,90,125,6,229321,2018-12-13
+177,spotify:track:6QgjcU0zLnzq5OrUoSZ3OK,Portugal. The Man,Feel It Still,Atlantic Records,9,-1,71,229221,2018-12-13
+178,spotify:track:5wujBwqG7INdStqGd4tRMX,Juice WRLD,Armed And Dangerous,Juice WRLD Mixtape / ISR P&D,89,128,5,228635,2018-12-13
+179,spotify:track:32lItqlMi4LBhb4k0BaSaC,Post Malone,Candy Paint,Republic Records,15,-1,59,227814,2018-12-13
+180,spotify:track:2xJCMIJfcNYDc5iR0sAm2O,Dua Lipa,New Rules,Warner Records,2,191,74,227468,2018-12-13
+181,spotify:track:7GX5flRQZVHRAGd6B4TmDO,Lil Uzi Vert,XO Tour Llif3,Generation Now/Atlantic,22,193,89,226726,2018-12-13
+182,spotify:track:5qqabIl2vWzo9ApSC317sa,Oasis,Wonderwall - Remastered,Big Brother,111,153,90,226232,2018-12-13
+183,spotify:track:2RttW7RAu5nOAfq6YFvApB,Ed Sheeran,Happier,Atlantic Records UK,8,181,93,225823,2018-12-13
+184,spotify:track:79esEXlqqmq0GPz0xQSZTV,Shawn Mendes,Lost In Japan,Island Records,24,-1,16,224973,2018-12-13
+185,spotify:track:7MXVkk9YMctZqd1Srtv4MB,"The Weeknd, Daft Punk",Starboy,Universal Republic Records,1,165,99,224788,2018-12-13
+186,spotify:track:6PCUP3dWmTjcTtXY02oFdT,Ed Sheeran,Castle on the Hill,Atlantic Records UK,2,159,101,223805,2018-12-13
+187,spotify:track:1Slwb6dOYkBlWal1PGtnNg,Ed Sheeran,Thinking out Loud,Atlantic Records UK,68,156,103,223669,2018-12-13
+188,spotify:track:6lOWoTqVnAWXchddtTH31W,Tom Walker,Leave a Light On,Relentless Records,89,158,13,223005,2018-12-13
+189,spotify:track:2SL6oP2YAEQbqsrkOzRGO4,Eminem,Venom - Music From The Motion Picture,Aftermath,32,151,15,222420,2018-12-13
+190,spotify:track:6jreFSOTUAViWjKyzOC4Kg,Alesso,REMEDY,10:22 pm,18,150,15,221642,2018-12-13
+191,spotify:track:2GGMabyHXnJmjY6CXhhB2e,Cardi B,Money,Atlantic/KSR,74,129,7,221349,2018-12-13
+192,spotify:track:65Q2mv3UlVi9eO70OpsmSe,Burl Ives,A Holly Jolly Christmas,Geffen,73,200,4,220006,2018-12-13
+193,spotify:track:6914ZWSnIGPlQkNgQldTmT,Amy Shark,All Loved Up,Wonderlick,103,154,9,218059,2018-12-13
+194,spotify:track:3B54sVLJ402zGa6Xm4YGNe,"French Montana, Swae Lee",Unforgettable,Bad Boy Entertainment/Epic Records,2,187,86,216242,2018-12-13
+195,spotify:track:4ricyQVd20UQde1jpXCSuJ,Tony Bennett,Winter Wonderland,Columbia/Legacy,71,-1,4,215967,2018-12-13
+196,spotify:track:7uzmGiiJyRfuViKKK3lVmR,Bazzi,Mine,iamcosmic,4,-1,37,213651,2018-12-13
+197,spotify:track:3S0OXQeoh0w6AY8WQVckRW,Jason Mraz,I'm Yours,Atlantic Records/ATG,87,173,55,210656,2018-12-13
+198,spotify:track:3d9DChrdc6BOeFsbrZ3Is0,Red Hot Chili Peppers,Under the Bridge,Warner Records,125,172,31,210173,2018-12-13
+199,spotify:track:1Qi2wh8fFgDV7tl4Sj3f2K,Sam Smith,Have Yourself A Merry Little Christmas,PLG - Capitol,103,136,4,209517,2018-12-13
+200,spotify:track:1bhUWB0zJMIKr9yVPrkEuI,"Ed Sheeran, Beyoncé",Perfect Duet (Ed Sheeran & Beyoncé),Atlantic Records UK,7,-1,51,209310,2018-12-13

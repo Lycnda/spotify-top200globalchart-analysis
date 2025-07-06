@@ -1,11 +1,10 @@
-artist,number of times
-,1
-Manuel Turizo,1
-Anuel AA,1
-Wyclef Jean,1
-Maluma,1
-Fuerza Regida,1
-Nicky Jam,1
-Cardi B,1
-Ozuna,1
-Rauw Alejandro,1
+collab_artist,number of times,main_artist
+Ozuna,1,Shakira
+Maluma,1,Shakira
+Nicky Jam,1,Shakira
+Manuel Turizo,1,Shakira
+Wyclef Jean,1,Shakira
+Rauw Alejandro,1,Shakira
+Fuerza Regida,1,Shakira
+Anuel AA,1,Shakira
+Cardi B,1,Shakira

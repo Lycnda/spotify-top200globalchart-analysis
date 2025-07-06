@@ -1,201 +1,201 @@
-﻿rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,streams
-1,"spotify:track:0bYg9bo50gSsH3LtXe2SQn","Mariah Carey","All I Want for Christmas Is You","Columbia",1,13,7,"1451329"
-2,"spotify:track:5UEnHoDYpsxlfzWLZIc7LD","Eminem, Ed Sheeran","River (feat. Ed Sheeran)","Aftermath",2,5,2,"1375481"
-3,"spotify:track:7wGoVu4Dady5GV0Sv4UIsx","Post Malone, 21 Savage","rockstar (feat. 21 Savage)","Republic Records",1,1,15,"1357375"
-4,"spotify:track:75ZvA4QfFiZvzhj2xkaWAh","Post Malone","I Fall Apart","Universal Records",2,2,14,"1282665"
-5,"spotify:track:6mrKP2jyIQmM0rw6fQryjr","NF","Let You Down","NF Real Music",4,4,12,"1150376"
-6,"spotify:track:7vGuf3Y35N4wmASOKLUVVU","Marshmello, Khalid","Silence","Joytime Collective/RCA Records",3,3,20,"1141988"
-7,"spotify:track:0ofbQMrRDsUaVKq2mGLEAb","Camila Cabello, Young Thug","Havana (feat. Young Thug)","Syco Music/Epic",2,6,20,"1113238"
-8,"spotify:track:0lLdorYw7lVrJydTINhWdI","Michael Bublé","It's Beginning to Look a Lot like Christmas","143/Reprise",8,36,6,"1078862"
-9,"spotify:track:2FRnf9qhLbvw8fu4IBXx78","Wham!","Last Christmas","Epic",9,42,5,"1038015"
-10,"spotify:track:7EmGUiUaOSGDnUUQUDrOXC","Selena Gomez, Marshmello","Wolves","Selena Gomez PS",5,7,9,"968679"
-11,"spotify:track:5Z3GHaZ6ec9bsiI5BenrbY","Khalid","Young Dumb & Broke","Right Hand Music Group, LLC/RCA Records",2,9,27,"931892"
-12,"spotify:track:3hBBKuWJfxlIlnd9QFoC8k","Maroon 5, SZA","What Lovers Do (feat. SZA)","Interscope Records*",8,11,17,"923084"
-13,"spotify:track:2ekn2ttSfGqwhhate0LSR0","Dua Lipa","New Rules","Warner Records",2,8,24,"914024"
-14,"spotify:track:5AEtlRudpgdT5FtNiuly6Y","Hailee Steinfeld, Alesso, Florida Georgia Line, WATT","Let Me Go (with Alesso, Florida Georgia Line & watt)","Universal Records",10,10,16,"902949"
-15,"spotify:track:1bhUWB0zJMIKr9yVPrkEuI","Ed Sheeran, Beyoncé","Perfect Duet (Ed Sheeran & Beyoncé)","Atlantic Records UK",7,12,4,"844060"
-16,"spotify:track:5k38wzpLb15YgncyWdTZE4","G-Eazy, Halsey","Him & I (with Halsey)","BPG/RVG/RCA Records",15,15,4,"834583"
-17,"spotify:track:6QgjcU0zLnzq5OrUoSZ3OK","Portugal. The Man","Feel It Still","Atlantic Records",9,16,23,"816870"
-18,"spotify:track:7iDa6hUg2VgEL1o1HjmfBn","Bebe Rexha, Florida Georgia Line","Meant to Be (feat. Florida Georgia Line)","Warner Records",14,14,15,"802899"
-19,"spotify:track:6PKxFkewPt55P5ao5tVS5o","PNAU, Kira Divine","Go Bang","etcetc AU",19,20,7,"748657"
-20,"spotify:track:1mXVgsBdtIVeCLJnSnmtdV","Sam Smith","Too Good At Goodbyes","Capitol",4,17,16,"717876"
-21,"spotify:track:1wjzFQodRWrPcQ0AnYnvQ9","Lauv","I Like Me Better","Lauv",9,19,30,"717611"
-22,"spotify:track:1hvpDAxZPKjKztOc72sv06","Band Aid","Do They Know It's Christmas? - 1984 Version","EMI",22,61,5,"717009"
-23,"spotify:track:32DGGj6KlNuBr6WaqRxpxi","Charlie Puth","How Long","Artist Partner",18,21,12,"711542"
-24,"spotify:track:42CeaId2XNlxugDvyqHfDf","Post Malone","Candy Paint","Republic Records",15,18,12,"690201"
-25,"spotify:track:2xmrfQpmS2iJExTlklLoAL","Clean Bandit, Julia Michaels","I Miss You (feat. Julia Michaels)","Atlantic Records UK",25,25,9,"640563"
-26,"spotify:track:2rE9TX3VQ0WNt7kziFhKep","Lorde, Khalid, Post Malone, SZA","Homemade Dynamite (Feat. Khalid, Post Malone & SZA) - REMIX","Universal Music New Zealand Limited",17,28,15,"626263"
-27,"spotify:track:0tgVpDi06FyKpA1z0VMD4v","Ed Sheeran","Perfect","Atlantic Records UK",7,26,43,"624600"
-28,"spotify:track:2Za1AlJNvksouPPWbXpR2X","Macklemore, Kesha","Good Old Days (feat. Kesha)","Bendo LLC",16,27,14,"622606"
-29,"spotify:track:7EI6Iki24tBHAMxtb4xQN2","Rita Ora","Anywhere","Atlantic Records UK",21,24,10,"613189"
-30,"spotify:track:43ZyHQITOjhciSUUNPVRHc","Lil Pump","Gucci Gang","Warner Records",13,23,12,"607937"
-31,"spotify:track:3m660poUr1chesgkkjQM7P","Demi Lovato","Sorry Not Sorry","Island Records",6,29,24,"603748"
-32,"spotify:track:0Ie5uiv54KgCr7P4sYDTHl","Idina Menzel, Michael Bublé","Baby It's Cold Outside (with Michael Bublé)","Warner Records",32,81,5,"597471"
-33,"spotify:track:7qiZfU4dY1lWllzX7mPBI3","Ed Sheeran","Shape of You","Atlantic Records UK",1,32,51,"594510"
-34,"spotify:track:0tPQPaOKM32WgMSbPCYyRH","David Guetta, AFROJACK, Charli xcx, French Montana","Dirty Sexy Money (feat. Charli XCX & French Montana)","Parlophone (France)",31,31,8,"591981"
-35,"spotify:track:1j4kHkkpqZRBwE0A4CN4Yv","ZAYN, Sia","Dusk Till Dawn (feat. Sia) - Radio Edit","RCA Records Label",8,22,16,"591643"
-36,"spotify:track:4qBejt9FeqLI9blHI1Nq1x","Michael Bublé, The Puppini Sisters","Jingle Bells (feat. The Puppini Sisters)","143/Reprise",36,92,5,"590894"
-37,"spotify:track:3zJw3rugfpVrmBeDDnUYzy","John Lennon, Yoko Ono","Happy Xmas (War Is Over) - Remastered 2010","EMI Catalogue",37,96,4,"586643"
-38,"spotify:track:0Zbbxnx4SGGHoIow4PpISP","Kygo, Justin Jesso","Stargazing","Kygo",24,33,14,"571048"
-39,"spotify:track:3a1lNhkSLSkpJE4MSHpDu9","Post Malone, Quavo","Congratulations","Universal Records",15,30,46,"569042"
-40,"spotify:track:0tKcYR2II1VCQWT79i5NrW","Imagine Dragons","Thunder","Kid Ina Korner / Interscope",7,35,35,"568627"
-41,"spotify:track:7MUNNBJKYo3cdokp06wEOB","Vance Joy","Lay It on Me","Atlantic Records",36,48,24,"558710"
-42,"spotify:track:7inXu0Eaeg02VsM8kHNvzM","Coro Polifonico Santa Lucia","Let is snow","TEM-Record",42,112,5,"552776"
-43,"spotify:track:6pVW5LRWgeLaHudxauOTJU","Daryl Hall & John Oates","Jingle Bell Rock - Daryl's Version","Legacy Recordings",43,107,5,"552410"
-44,"spotify:track:4so0Wek9Ig1p6CRCHuINwW","Bing Crosby","White Christmas","Geffen*",44,102,4,"552219"
-45,"spotify:track:5hslUAKq9I9CG2bAulFkHN","Andy Williams","It's the Most Wonderful Time of the Year","Columbia/Legacy",45,124,5,"544319"
-46,"spotify:track:6a1hzBiTkgqTsDA0Xgfh9z","The Jackson 5","Santa Claus Is Coming To Town","UNI/MOTOWN",46,103,4,"539930"
-47,"spotify:track:5tz69p7tJuGPeMGwNTxYuV","Logic, Alessia Cara, Khalid","1-800-273-8255","Def Jam Recordings",1,34,34,"530059"
-48,"spotify:track:7nZmah2llfvLDiUjm0kiyz","Justin Bieber, BloodPop®","Friends (with BloodPop®)","BloodPop/DJ/RMBG/Republic",3,38,19,"529903"
-49,"spotify:track:1LIbTjMdFP15jIXGkcICSU","Angus & Julia Stone","Chateau","[PIAS] Le Label",40,47,17,"528612"
-50,"spotify:track:2nUJvBO87SkxCViQsLc9Zr","Big Shaq","Man's Not Hot","Universal-Island Records Ltd.",34,37,12,"523188"
-51,"spotify:track:1ADjWm8QNhgNV8yCNNgQ1T","Ariana Grande","Santa Tell Me","Universal Records",51,73,5,"518475"
-52,"spotify:track:2MK8xQVIFA81r32V4E1MkT","Peking Duk, Icona Pop","Let You Down","Sony Music Entertainment",38,40,11,"516603"
-53,"spotify:track:5uu28fUesZMl89lf9CLrgN","Cheat Codes, Fetty Wap, CVBZ","Feels Great (feat. Fetty Wap & CVBZ)","Parlophone UK",32,41,11,"512732"
-54,"spotify:track:0CokSRCu5hZgPxcZBaEzVE","Macklemore, Skylar Grey","Glorious (feat. Skylar Grey)","Bendo LLC",1,44,28,"502757"
-55,"spotify:track:4fzyvSu73BhGvi96p2zwjL","Coldplay","Christmas Lights","Parlophone UK",55,115,3,"492863"
-56,"spotify:track:7KXjTSCq5nL1LoYtL7XAwS","Kendrick Lamar","HUMBLE.","Aftermath",1,46,39,"487569"
-57,"spotify:track:5ASM6Qjiav2xPe7gRkQMsQ","The Ronettes","Sleigh Ride","Legacy Recordings",57,143,5,"485489"
-58,"spotify:track:3VTNVsTTu05dmTsVFrmGpK","The Pogues, Kirsty MacColl","Fairytale of New York (feat. Kirsty MacColl)","WM UK",58,127,3,"483758"
-59,"spotify:track:0ZoHHROTzwIYeNAHRPedTY","Chris Rea","Driving Home for Christmas","Rhino",59,132,2,"475762"
-60,"spotify:track:3YQUpKTmtgPJf8u6ooi9KA","Elton John","Step Into Christmas - Remastered 1995","EMI",60,146,3,"459721"
-61,"spotify:track:3WrG9BpOPQWUus3FjA1Tny","Destiny's Child","8 Days of Christmas","Columbia",61,136,3,"459607"
-62,"spotify:track:2BTw5ZxeBygVJpdMK1Ur3c","Kita Alexander","Hotel","Atlantic Records UK",42,45,29,"455978"
-63,"spotify:track:5XSwdC5vHtheRRrMmGoEVV","Paul Kelly","How to Make Gravy","Cooking Vinyl Limited",63,156,3,"454883"
-64,"spotify:track:6tjituizSxwSmBB5vtgHZE","Michael Bublé","Holly Jolly Christmas","143/Reprise",64,104,3,"450136"
-65,"spotify:track:3B54sVLJ402zGa6Xm4YGNe","French Montana, Swae Lee","Unforgettable","Bad Boy Entertainment/Epic Records",2,43,36,"449275"
-66,"spotify:track:2OALaHcDdKkjYEpAr0Qzab","Avicii, Rita Ora","Lonely Together (feat. Rita Ora)","Universal Music AB",26,39,20,"443563"
-67,"spotify:track:7y9iMe8SOB6z3NoHE2OfXl","Halsey","Bad At Love","Astralwerks (ASW)",38,49,19,"442348"
-68,"spotify:track:7mldq42yDuxiUNn08nvzHO","Sam Hunt","Body Like A Back Road","MCA Nashville",27,50,43,"438342"
-69,"spotify:track:09OojFvtrM9YRzRjnXqJjA","Brenda Lee","Rockin' Around the Christmas Tree - Rerecorded Version","Warner Records",69,166,3,"429999"
-70,"spotify:track:2ISl1zekPsc26sUQpVt8UB","Shakin' Stevens","Merry Christmas Everyone","Sony Music CG",60,174,3,"426995"
-71,"spotify:track:4ricyQVd20UQde1jpXCSuJ","Tony Bennett","Winter Wonderland","Columbia/Legacy",71,185,3,"421162"
-72,"spotify:track:32OWobmyAz8J2qA8iWekyS","Justin Bieber","Mistletoe","RBMG/Def Jam",72,98,5,"418709"
-73,"spotify:track:65Q2mv3UlVi9eO70OpsmSe","Burl Ives","A Holly Jolly Christmas","Geffen",73,-1,2,"397408"
-74,"spotify:track:5WoaF1B5XIEnWfmb5NZikf","Miguel, Travis Scott","Sky Walker (feat. Travis Scott)","ByStorm Entertainment/RCA Records",52,52,10,"395626"
-75,"spotify:track:5humEOJehpAwMJEJmb0JJ2","Nat King Cole","The Christmas Song (Merry Christmas To You)","Capitol Records",75,-1,2,"395260"
-76,"spotify:track:7GX5flRQZVHRAGd6B4TmDO","Lil Uzi Vert","XO Tour Llif3","Generation Now/Atlantic",22,51,39,"393824"
-77,"spotify:track:2qqZ5fOGuNvYVzgPFDLQ4l","Boney M.","Mary's Boy Child / Oh My Lord","Sony Music Catalog",77,-1,2,"391737"
-78,"spotify:track:47X9nPgLBHEGts5tFwpF6S","Ella Fitzgerald","Have Yourself A Merry Little Christmas","Verve Reissues",78,-1,2,"388012"
-79,"spotify:track:2qoZNAP3JLyIOtbsPtBjvV","Stevie Wonder","What Christmas Means To Me","UNI/MOTOWN",79,-1,2,"373868"
-80,"spotify:track:5wTM2Bm8phDwHAuOsfBwhU","Pretenders","2000 Miles - 2007 Remaster","Rhino/Warner Records",80,-1,2,"370811"
-81,"spotify:track:2DQ1ITjI0YoLFzuADN1ZBW","G-Eazy, A$AP Rocky, Cardi B","No Limit","BPG/RVG/RCA Records",54,54,8,"357626"
-82,"spotify:track:3T7dNA7O8c3Axj5WyDNcH3","Brenda Lee","Rockin' Around The Christmas Tree","MCA Nashville",82,163,3,"357076"
-83,"spotify:track:3QiAAp20rPC3dcAtKtMaqQ","Elvis Presley","Blue Christmas","RCA Victor",81,-1,2,"357013"
-84,"spotify:track:4bJzIbze97tZwCxxMw4hx9","Hayden James, GRAACE","NUMB","Future Classic",53,57,11,"354945"
-85,"spotify:track:3gfmFoJgmn9LiIj5mV8oSS","R3HAB, Quintino","I Just Can't","CYB3RPVNK",56,58,15,"348265"
-86,"spotify:track:2pnPe4pJtq7689i5ydzvJJ","Chuck Berry","Run Rudolph Run","Geffen*",86,-1,2,"339481"
-87,"spotify:track:70f0ToGXTEtLKFSwHMbHoC","Aaron Neville","Please Come Home For Christmas","A&M",87,-1,2,"338040"
-88,"spotify:track:2DlIwu1iDTILEMXA7MUotn","P!nk","Beautiful Trauma","RCA Records Label",78,89,11,"333116"
-89,"spotify:track:5xlS0QkVrSH7ssEbBgBzbM","The Beach Boys","Little Saint Nick - 1991 Remix","Capitol Records",89,-1,2,"331238"
-90,"spotify:track:7fwXWKdDNI5IutOMc5OKYw","J Balvin, Willy William, Beyoncé","Mi Gente (feat. Beyoncé)","Mi Gente Remix",33,60,13,"330945"
-91,"spotify:track:6EpRaXYhGOB3fj4V2uDkMJ","Liam Payne, Quavo","Strip That Down (feat. Quavo)","Capitol Records UK / EMI",3,63,32,"324214"
-92,"spotify:track:77ngtwBosDuAwiQu8afOOQ","Tyron Hapi, Mimoza","Anyway","Teamwrk Records",65,65,9,"322244"
-93,"spotify:track:152lZdxL1OR0ZMW6KquMif","Khalid","Location","Right Hand Music Group, LLC/RCA Records",24,53,42,"319665"
-94,"spotify:track:0Wv5wuenRLI3BcwgT3HPIP","DJ Snake, Lauv","A Different Way (with Lauv)","Geffen",55,64,14,"319479"
-95,"spotify:track:7m9OqQk4RVRkw9JJdeAw96","XXXTENTACION","Jocelyn Flores","Bad Vibes Forever / EMPIRE",13,56,18,"313078"
-96,"spotify:track:4eQvrHRAG4WoGYFNe3pCLu","Darlene Love","All Alone on Christmas","Sony BMG Music Entertainment",96,-1,2,"311356"
-97,"spotify:track:2gbCG4Rt9984UZ7Tc0dIFd","Michael Bublé, Shania Twain","White Christmas (with Shania Twain)","143/Reprise",89,-1,2,"309345"
-98,"spotify:track:2fQrGHiQOvpL9UgPvtYy6G","21 Savage","Bank Account","Slaughter Gang, LLC/Epic Records",47,59,23,"301575"
-99,"spotify:track:1OAh8uOEOvTDqkKFsKksCi","DJ Khaled, Rihanna, Bryson Tiller","Wild Thoughts (feat. Rihanna & Bryson Tiller)","Epic/We The Best",2,71,28,"300636"
-100,"spotify:track:7FOJKfiyl1tegmYRqs7AuZ","Traditional, John Williams","We Wish You a Merry Christmas / End Title - Voice","Masterworks",100,-1,1,"300396"
-101,"spotify:track:5CtI0qwDJkDQGwXD1H1cLb","Luis Fonsi, Daddy Yankee, Justin Bieber","Despacito - Remix","UMLE - Latino",1,75,37,"299105"
-102,"spotify:track:5bcTCxgc7xVfSaMV3RuVke","Calvin Harris, Pharrell Williams, Katy Perry, Big Sean, Funk Wav","Feels (feat. Pharrell Williams, Katy Perry & Big Sean)","Columbia",4,74,28,"299038"
-103,"spotify:track:7Hz6LLOVxrojLPIHJJ1S0E","Sam Smith","Have Yourself A Merry Little Christmas","Capitol",103,176,2,"296847"
-104,"spotify:track:57p8CBvPOxrvyCbn6ttl5r","Skrillex, Poo Bear","Would You Ever","OWSLA/Atlantic",43,77,22,"296337"
-105,"spotify:track:05X6aMCQR09E6smUmw9qms","Queen","Thank God It's Christmas - Non-Album Single","EMI",105,-1,2,"293593"
-106,"spotify:track:7FIcV2kEiO2mvvMbxU5Jkn","Johnny Cash","The Little Drummer Boy","Columbia Nashville Legacy",106,-1,2,"291970"
-107,"spotify:track:2771LMNxwf62FTAdpJMQfM","Cardi B","Bodak Yellow","KSR/Atlantic",30,79,19,"290477"
-108,"spotify:track:4v094LQ9eF10k2O2Te2ngK","Niall Horan","Too Much To Ask","Capitol Records (US1A)",24,67,15,"290028"
-109,"spotify:track:6RUKPb4LETWmmr3iAEQktW","The Chainsmokers, Coldplay","Something Just Like This","Disruptor Records/Columbia",2,68,45,"286758"
-110,"spotify:track:4c2W3VKsOFoIg2SFaO6DY5","Rita Ora","Your Song","Atlantic Records UK",14,78,31,"284260"
-111,"spotify:track:0afhq8XCExXpqazXczTSve","Ed Sheeran","Galway Girl","Atlantic Records UK",2,82,43,"283185"
-112,"spotify:track:5Ber68jZ7ytegr2UISEdb7","Michael Bublé","Santa Claus Is Coming to Town","143/Reprise",101,-1,2,"282969"
-113,"spotify:track:4iLqG9SeJSnt0cSPICSjxv","Charlie Puth","Attention","Artist Partner",6,69,36,"281769"
-114,"spotify:track:3kxfsdsCpFgN412fpnW85Y","Childish Gambino","Redbone","Glassnote Entertainment Group LLC",16,72,53,"281517"
-115,"spotify:track:4FPrAERfkPKOBKrRoyuxLu","Michael Bublé","Cold December Night","143/Reprise",115,-1,2,"280927"
-116,"spotify:track:41onDks2UPbyjer5fMeUWf","Run–D.M.C.","Christmas In Hollis","Arista/Legacy",116,-1,2,"280668"
-117,"spotify:track:2x0WlnmfG39ZuDmstl9xfX","Taylor Swift, Ed Sheeran, Future","End Game","Big Machine Records, LLC",70,70,4,"280302"
-118,"spotify:track:4PpuH4mxL0rD35mOWaLoKS","N.E.R.D, Rihanna, Pharrell Williams","Lemon","Columbia",58,62,8,"276605"
-119,"spotify:track:4STCTQ1h0VuWfvDyhGOxkv","Otis Redding","Merry Christmas Baby","Rhino Atlantic",119,-1,2,"275692"
-120,"spotify:track:5yuShbu70mtHXY0yLzCQLQ","Post Malone","Go Flex","Universal Records",55,80,22,"271517"
-121,"spotify:track:6PCUP3dWmTjcTtXY02oFdT","Ed Sheeran","Castle on the Hill","Atlantic Records UK",2,95,51,"271147"
-122,"spotify:track:3HBvs6g8WgT8KT1gZzGSX1","U2","Christmas (Baby Please Come Home)","UME - Global Clearing House",122,-1,2,"270403"
-123,"spotify:track:3AlpkljBS1AU7HFVPms8K6","Sia","Santa's Coming for Us","Monkey Puzzle/Atlantic",123,-1,1,"265742"
-124,"spotify:track:7sO5G9EABYOXQKNPNiE9NR","Offset, Metro Boomin","Ric Flair Drip (with Metro Boomin)","Slaughter Gang, LLC/Epic/Quality Control Music/Motown/Capitol/Boominati Worldwide/Republic",69,76,8,"264641"
-125,"spotify:track:7oK9VyNzrYvRFo7nQEYkWN","The Killers","Mr. Brightside","Island Records",54,83,53,"263569"
-126,"spotify:track:79cuOz3SPQTuFrp8WgftAu","Shawn Mendes","There's Nothing Holdin' Me Back","Island Records",6,84,36,"261080"
-127,"spotify:track:6QjOlkobyT3SGsqGAZX70s","Madonna","Santa Baby","A&M",127,-1,1,"259411"
-128,"spotify:track:6SlJooJullmwjBsrnRNROA","Bliss n Eso, Gavin James","Moments","Illusive",25,86,39,"257767"
-129,"spotify:track:6VpQdig9pdpTSIFItgkJV5","Camila Cabello","Never Be the Same","Syco Music/Epic",105,109,3,"257753"
-130,"spotify:track:5uCax9HTNlzGybIStD3vDh","James Arthur","Say You Won't Let Go","Columbia",5,87,53,"255182"
-131,"spotify:track:0xU98OPwjKsdUCuftg8Abz","Guy Sebastian","Bloodstone","Sony Music Entertainment",86,88,7,"254696"
-132,"spotify:track:4dVpf9jZjcORqGTLUaeYj9","A$AP Ferg","Plain Jane","RCA Records Label",53,85,13,"253947"
-133,"spotify:track:0KjRajKMXowSKCE2LEfXuE","Bon Jovi","I Wish Everyday Could Be Like Christmas","Universal Music",133,-1,1,"253058"
-134,"spotify:track:0P6AWOA4LG1XOctzaVu5tt","SZA, Calvin Harris, Funk Wav","The Weekend - Funk Wav Remix","Top Dawg Entertainment/RCA Records",134,-1,1,"252196"
-135,"spotify:track:0Qh38w01QRXK6KHIv0e3hb","P!nk","What About Us","RCA Records Label",16,90,20,"249476"
-136,"spotify:track:0CcQNd8CINkwQfe1RDtGV6","Imagine Dragons","Believer","Kid Ina Korner / Interscope",34,105,47,"246432"
-137,"spotify:track:6eT7xZZlB2mwyzJ2sUKG6w","Post Malone","White Iverson","Universal Records",66,101,34,"244884"
-138,"spotify:track:0xPaZrF25ltzvz1a2Pm5DQ","Michael Bublé","All I Want for Christmas Is You","143/Reprise",99,-1,2,"239061"
-139,"spotify:track:1QXg7pVx5hpAZWw8KIAcGw","Carpenters","Merry Christmas Darling - Remix","A&M",139,-1,1,"238793"
-140,"spotify:track:0NiXXAI876aGImAd6rTj8w","Jonas Blue, William Singe","Mama","UMOD (Universal Music On Demand)",6,93,34,"238097"
-141,"spotify:track:3DXncPQOG4VBw3QHh3S817","DJ Khaled, Justin Bieber, Quavo, Chance the Rapper, Lil Wayne","I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)","Epic/We The Best",1,108,35,"238000"
-142,"spotify:track:7BKLCZ1jbUBVqRi2FVlTVw","The Chainsmokers, Halsey","Closer","Disruptor Records/Columbia",3,111,53,"237471"
-143,"spotify:track:5PIBgH1cUFwu5IiUk9tnN9","Eminem, Beyoncé","Walk On Water (feat. Beyoncé)","Aftermath",23,55,7,"237031"
-144,"spotify:track:2SBr3MK1sdMs8IxdRcN6qz","Kylie Minogue","Santa Baby","Parlophone UK",144,-1,1,"236695"
-145,"spotify:track:3nCcFA1iiehndgGSddMiV2","Tom Petty and the Heartbreakers","Christmas All Over Again","A&M",145,-1,1,"236573"
-146,"spotify:track:0OlnLZY4cmQzT6ZGttvWBM","Martin Garrix, David Guetta, Jamie Scott, Romy Dya","So Far Away (feat. Jamie Scott & Romy Dya)","Epic Amsterdam",100,100,4,"236520"
-147,"spotify:track:26H5lCAcFqSSZHGi5iFm71","Bob Dylan","Must Be Santa","Columbia",147,-1,2,"236364"
-148,"spotify:track:2mfUa8bLs2s5N4VaqJZ4lZ","Hailee Steinfeld","Most Girls","Universal Records",22,94,35,"236339"
-149,"spotify:track:5aAx2yezTd8zXrkmtKl66Z","The Weeknd, Daft Punk","Starboy","Universal Republic Records",1,106,53,"235530"
-150,"spotify:track:3jjlirUKZDrpR3rrN6Ya6R","Dean Martin","Silent Night","Legacy Recordings",150,-1,1,"233874"
-151,"spotify:track:1P17dC1amhFzptugyAO7Il","Taylor Swift","Look What You Made Me Do","Big Machine Records, LLC",1,91,18,"231945"
-152,"spotify:track:3zJgkL8v0UNVdyKTGc8wzk","R.E.M.","Deck the Halls","Warner Records",152,-1,1,"231443"
-153,"spotify:track:5Il1mXOawI5DG72WcRWpxO","Harry Connick, Jr.","(It Must've Been Ol') Santa Claus","Columbia",153,-1,1,"231088"
-154,"spotify:track:5nTuQBSjMML1tcgheI2YsY","Whitney Houston","One Wish (For Christmas)","Arista",154,-1,1,"230901"
-155,"spotify:track:7aiVBCp1ibIWE5GeHkbtxr","Britney Spears","My Only Wish (This Year)","Arista",155,-1,2,"230495"
-156,"spotify:track:0OI7AFifLSoGzpb8bdBLLV","mgk, X Ambassadors, Bebe Rexha","Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha)","Atlantic Records",103,128,5,"230009"
-157,"spotify:track:12REd1n8PeiHHWOh066tpr","Flume, kai","Never Be Like You","Future Classic",31,110,53,"228994"
-158,"spotify:track:3kGfazcbVvVkuZunzlLgTD","Sigala, Ella Eyre","Came Here for Love","Ministry of Sound Recordings",90,122,26,"225003"
-159,"spotify:track:78pn8k7RogKo2oxl0DyX6d","Leona Lewis","One More Sleep","Syco Music",159,-1,1,"223829"
-160,"spotify:track:1YZfcVLbbJwfizR5cDOp3q","Migos, Nicki Minaj, Cardi B","MotorSport","Quality Control Music, LLC",67,120,9,"221098"
-161,"spotify:track:1dclAs33xgghKN6jgIkDqV","Michael Jackson","Little Christmas Tree","UNI/MOTOWN",161,-1,1,"221025"
-162,"spotify:track:1DnSNqCQM3LUxqFuXt184Q","Michael Bublé","Have Yourself a Merry Little Christmas","143/Reprise",124,-1,2,"220662"
-163,"spotify:track:1x5sYLZiu9r5E43kMlt9f8","Clean Bandit, Zara Larsson","Symphony (feat. Zara Larsson)","Atlantic Records UK",4,113,41,"220571"
-164,"spotify:track:38yBBH2jacvDxrznF7h08J","Niall Horan","Slow Hands","Capitol Records (US1A)",9,116,34,"220347"
-165,"spotify:track:1hy6kKvsPbv7VTcllCuATC","Meghan Trainor","I'll Be Home","Epic",165,-1,1,"219504"
-166,"spotify:track:75FDPwaULRdYDn4StFN2rT","Cardi B, 21 Savage","Bartier Cardi (feat. 21 Savage)","KSR/Atlantic",166,-1,1,"219372"
-167,"spotify:track:1HrMWH5GUdK6Yi94rbANJA","CamelPhat, Elderbrook","Cola","Defected Records",126,126,5,"218491"
-168,"spotify:track:66WPXyhXqMlkM1kZhyEXWK","Michael Bublé","Christmas (Baby Please Come Home)","143/Reprise",136,-1,2,"218397"
-169,"spotify:track:1Slwb6dOYkBlWal1PGtnNg","Ed Sheeran","Thinking out Loud","Atlantic Records UK",68,139,53,"217315"
-170,"spotify:track:1yxgsra98r3qAtxqiGZPiX","Travis Scott","BUTTERFLY EFFECT","Cactus Jack / Epic",56,123,31,"215412"
-171,"spotify:track:1NDxZ7cFAo481dtYWdrUnR","Maggie Lindemann, Cheat Codes, CADE","Pretty Girl - Cheat Codes X CADE Remix","300 Entertainment",12,118,38,"214767"
-172,"spotify:track:4pbLMXPtU8ruMCMPmQNY4q","PNAU, Kira Divine","Chameleon","etcetc AU",5,114,53,"214401"
-173,"spotify:track:5D5eypKWn0nhBBI35I2CBi","Dean Lewis","Lose My Mind","Universal Music Australia Pty. Ltd.",87,129,9,"210522"
-174,"spotify:track:5xjj2WjQVC4Ar8UNIvSUiL","Kylie Minogue","Every Day's Like Christmas","Parlophone UK",174,-1,1,"209236"
-175,"spotify:track:1xznGGDReH1oQq0xzbwXa3","Drake, Wizkid, Kyla","One Dance","Cash Money Records/Young Money Ent./Universal Rec.",26,138,53,"208793"
-176,"spotify:track:7hPtrGqzMOO0KMevkaQnYR","The Vamps","Jingle Bell Rock","EMI",176,-1,1,"207102"
-177,"spotify:track:4rQM5oK7ljhu1DtoysUofD","Touch Sensitive","Lay Down","Future Classic",159,159,6,"206674"
-178,"spotify:track:7y4JznkAv2W3IKw9T1o2VK","Daya","New","UMGRI Interscope",82,125,10,"205744"
-179,"spotify:track:2z4pcBLQXF2BXKFvd0BuB6","Jason Derulo, French Montana","Tip Toe (feat. French Montana)","Beluga Heights/Warner Records",116,137,6,"202652"
-180,"spotify:track:1louJpMmzEicAn7lzDalPW","Cheat Codes, Demi Lovato","No Promises (feat. Demi Lovato)","Parlophone UK",13,117,39,"200199"
-181,"spotify:track:6gBFPUFcJLzWGx4lenP6h2","Travis Scott","goosebumps","Cactus Jack / Epic",65,135,49,"200065"
-182,"spotify:track:6SUocL0caib4mLHe8ZrZzi","Rudimental, James Arthur","Sun Comes Up (feat. James Arthur)","Atlantic Records UK",85,152,23,"199813"
-183,"spotify:track:0KKkJNfGyhkQ5aFogxQAPU","Bruno Mars","That's What I Like","Atlantic Records",6,144,51,"198392"
-184,"spotify:track:6DwnAl6l63e83dDgIzY8P4","Michael Bublé","Santa Baby","143/Reprise",148,-1,2,"196898"
-185,"spotify:track:0NnVzBW6TJLaEzcyXjqRDH","Tash Sultana","Mystik","Lonely Lands Records",148,168,5,"195333"
-186,"spotify:track:0jdny0dhgjUwoIp5GkqEaA","Kesha","Praying","Kemosabe Records/RCA Records",13,134,25,"194450"
-187,"spotify:track:7hDc8b7IXETo14hHIHdnhd","Drake","Passionfruit","Cash Money Records/Young Money Ent./Universal Rec.",2,142,41,"194245"
-188,"spotify:track:6NWl2m8asvH83xjuXVNsuG","Lil Xan","Betrayed","Columbia",91,145,7,"192621"
-189,"spotify:track:5Htb1uFQ1KrkFXlefS8oGj","Demi Lovato","Tell Me You Love Me","Island Records",189,-1,1,"192205"
-190,"spotify:track:2RttW7RAu5nOAfq6YFvApB","Ed Sheeran","Happier","Atlantic Records UK",8,153,43,"192051"
-191,"spotify:track:7vu0JkJh0ldukEYbTVcqd0","Julia Michaels","Issues","J/Republic",5,140,49,"190861"
-192,"spotify:track:1zsG4eaZmkA1dvjDDsAGLK","Luis Fonsi, Demi Lovato","Échame La Culpa","UMLE - Latino",103,149,6,"190549"
-193,"spotify:track:3nAp4IvdMPPWEH9uuXFFV5","Kelly Clarkson","Underneath the Tree","RCA Records Label",193,-1,1,"190078"
-194,"spotify:track:0dA2Mk56wEzDgegdC6R17g","Zedd, Alessia Cara","Stay","UMGRI Interscope",3,141,44,"189391"
-195,"spotify:track:5dNfHmqgr128gMY2tc5CeJ","R. Kelly","Ignition - Remix","Jive",77,155,53,"188680"
-196,"spotify:track:1NfNdnuFbTgYpRG0z5bHxv","Sia","Candy Cane Lane","Monkey Puzzle/Atlantic",196,-1,1,"188619"
-197,"spotify:track:2374M0fQpWi3dLnB54qaLX","TOTO","Africa","Columbia",128,186,9,"187958"
-198,"spotify:track:33SNO8AaciGbNaQFkxvPrW","Harry Styles","Kiwi","Columbia",89,121,9,"185724"
-199,"spotify:track:2yLa0QULdQr0qAIvVwN6B5","Taylor Swift","...Ready For It?","Big Machine Records, LLC",9,131,17,"185516"
-200,"spotify:track:7taXf5odg9xCAZERYfyOkS","José Feliciano","Feliz Navidad","RCA Records Label",135,-1,2,"184597"
+rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,streams,End Date
+1,spotify:track:0bYg9bo50gSsH3LtXe2SQn,Mariah Carey,All I Want for Christmas Is You,Columbia,1,13,7,1451329,2017-12-28
+2,spotify:track:5UEnHoDYpsxlfzWLZIc7LD,"Eminem, Ed Sheeran",River (feat. Ed Sheeran),Aftermath,2,5,2,1375481,2017-12-28
+3,spotify:track:7wGoVu4Dady5GV0Sv4UIsx,"Post Malone, 21 Savage",rockstar (feat. 21 Savage),Republic Records,1,1,15,1357375,2017-12-28
+4,spotify:track:75ZvA4QfFiZvzhj2xkaWAh,Post Malone,I Fall Apart,Universal Records,2,2,14,1282665,2017-12-28
+5,spotify:track:6mrKP2jyIQmM0rw6fQryjr,NF,Let You Down,NF Real Music,4,4,12,1150376,2017-12-28
+6,spotify:track:7vGuf3Y35N4wmASOKLUVVU,"Marshmello, Khalid",Silence,Joytime Collective/RCA Records,3,3,20,1141988,2017-12-28
+7,spotify:track:0ofbQMrRDsUaVKq2mGLEAb,"Camila Cabello, Young Thug",Havana (feat. Young Thug),Syco Music/Epic,2,6,20,1113238,2017-12-28
+8,spotify:track:0lLdorYw7lVrJydTINhWdI,Michael Bublé,It's Beginning to Look a Lot like Christmas,143/Reprise,8,36,6,1078862,2017-12-28
+9,spotify:track:2FRnf9qhLbvw8fu4IBXx78,Wham!,Last Christmas,Epic,9,42,5,1038015,2017-12-28
+10,spotify:track:7EmGUiUaOSGDnUUQUDrOXC,"Selena Gomez, Marshmello",Wolves,Selena Gomez PS,5,7,9,968679,2017-12-28
+11,spotify:track:5Z3GHaZ6ec9bsiI5BenrbY,Khalid,Young Dumb & Broke,"Right Hand Music Group, LLC/RCA Records",2,9,27,931892,2017-12-28
+12,spotify:track:3hBBKuWJfxlIlnd9QFoC8k,"Maroon 5, SZA",What Lovers Do (feat. SZA),Interscope Records*,8,11,17,923084,2017-12-28
+13,spotify:track:2ekn2ttSfGqwhhate0LSR0,Dua Lipa,New Rules,Warner Records,2,8,24,914024,2017-12-28
+14,spotify:track:5AEtlRudpgdT5FtNiuly6Y,"Hailee Steinfeld, Alesso, Florida Georgia Line, WATT","Let Me Go (with Alesso, Florida Georgia Line & watt)",Universal Records,10,10,16,902949,2017-12-28
+15,spotify:track:1bhUWB0zJMIKr9yVPrkEuI,"Ed Sheeran, Beyoncé",Perfect Duet (Ed Sheeran & Beyoncé),Atlantic Records UK,7,12,4,844060,2017-12-28
+16,spotify:track:5k38wzpLb15YgncyWdTZE4,"G-Eazy, Halsey",Him & I (with Halsey),BPG/RVG/RCA Records,15,15,4,834583,2017-12-28
+17,spotify:track:6QgjcU0zLnzq5OrUoSZ3OK,Portugal. The Man,Feel It Still,Atlantic Records,9,16,23,816870,2017-12-28
+18,spotify:track:7iDa6hUg2VgEL1o1HjmfBn,"Bebe Rexha, Florida Georgia Line",Meant to Be (feat. Florida Georgia Line),Warner Records,14,14,15,802899,2017-12-28
+19,spotify:track:6PKxFkewPt55P5ao5tVS5o,"PNAU, Kira Divine",Go Bang,etcetc AU,19,20,7,748657,2017-12-28
+20,spotify:track:1mXVgsBdtIVeCLJnSnmtdV,Sam Smith,Too Good At Goodbyes,Capitol,4,17,16,717876,2017-12-28
+21,spotify:track:1wjzFQodRWrPcQ0AnYnvQ9,Lauv,I Like Me Better,Lauv,9,19,30,717611,2017-12-28
+22,spotify:track:1hvpDAxZPKjKztOc72sv06,Band Aid,Do They Know It's Christmas? - 1984 Version,EMI,22,61,5,717009,2017-12-28
+23,spotify:track:32DGGj6KlNuBr6WaqRxpxi,Charlie Puth,How Long,Artist Partner,18,21,12,711542,2017-12-28
+24,spotify:track:42CeaId2XNlxugDvyqHfDf,Post Malone,Candy Paint,Republic Records,15,18,12,690201,2017-12-28
+25,spotify:track:2xmrfQpmS2iJExTlklLoAL,"Clean Bandit, Julia Michaels",I Miss You (feat. Julia Michaels),Atlantic Records UK,25,25,9,640563,2017-12-28
+26,spotify:track:2rE9TX3VQ0WNt7kziFhKep,"Lorde, Khalid, Post Malone, SZA","Homemade Dynamite (Feat. Khalid, Post Malone & SZA) - REMIX",Universal Music New Zealand Limited,17,28,15,626263,2017-12-28
+27,spotify:track:0tgVpDi06FyKpA1z0VMD4v,Ed Sheeran,Perfect,Atlantic Records UK,7,26,43,624600,2017-12-28
+28,spotify:track:2Za1AlJNvksouPPWbXpR2X,"Macklemore, Kesha",Good Old Days (feat. Kesha),Bendo LLC,16,27,14,622606,2017-12-28
+29,spotify:track:7EI6Iki24tBHAMxtb4xQN2,Rita Ora,Anywhere,Atlantic Records UK,21,24,10,613189,2017-12-28
+30,spotify:track:43ZyHQITOjhciSUUNPVRHc,Lil Pump,Gucci Gang,Warner Records,13,23,12,607937,2017-12-28
+31,spotify:track:3m660poUr1chesgkkjQM7P,Demi Lovato,Sorry Not Sorry,Island Records,6,29,24,603748,2017-12-28
+32,spotify:track:0Ie5uiv54KgCr7P4sYDTHl,"Idina Menzel, Michael Bublé",Baby It's Cold Outside (with Michael Bublé),Warner Records,32,81,5,597471,2017-12-28
+33,spotify:track:7qiZfU4dY1lWllzX7mPBI3,Ed Sheeran,Shape of You,Atlantic Records UK,1,32,51,594510,2017-12-28
+34,spotify:track:0tPQPaOKM32WgMSbPCYyRH,"David Guetta, AFROJACK, Charli xcx, French Montana",Dirty Sexy Money (feat. Charli XCX & French Montana),Parlophone (France),31,31,8,591981,2017-12-28
+35,spotify:track:1j4kHkkpqZRBwE0A4CN4Yv,"ZAYN, Sia",Dusk Till Dawn (feat. Sia) - Radio Edit,RCA Records Label,8,22,16,591643,2017-12-28
+36,spotify:track:4qBejt9FeqLI9blHI1Nq1x,"Michael Bublé, The Puppini Sisters",Jingle Bells (feat. The Puppini Sisters),143/Reprise,36,92,5,590894,2017-12-28
+37,spotify:track:3zJw3rugfpVrmBeDDnUYzy,"John Lennon, Yoko Ono",Happy Xmas (War Is Over) - Remastered 2010,EMI Catalogue,37,96,4,586643,2017-12-28
+38,spotify:track:0Zbbxnx4SGGHoIow4PpISP,"Kygo, Justin Jesso",Stargazing,Kygo,24,33,14,571048,2017-12-28
+39,spotify:track:3a1lNhkSLSkpJE4MSHpDu9,"Post Malone, Quavo",Congratulations,Universal Records,15,30,46,569042,2017-12-28
+40,spotify:track:0tKcYR2II1VCQWT79i5NrW,Imagine Dragons,Thunder,Kid Ina Korner / Interscope,7,35,35,568627,2017-12-28
+41,spotify:track:7MUNNBJKYo3cdokp06wEOB,Vance Joy,Lay It on Me,Atlantic Records,36,48,24,558710,2017-12-28
+42,spotify:track:7inXu0Eaeg02VsM8kHNvzM,Coro Polifonico Santa Lucia,Let is snow,TEM-Record,42,112,5,552776,2017-12-28
+43,spotify:track:6pVW5LRWgeLaHudxauOTJU,Daryl Hall & John Oates,Jingle Bell Rock - Daryl's Version,Legacy Recordings,43,107,5,552410,2017-12-28
+44,spotify:track:4so0Wek9Ig1p6CRCHuINwW,Bing Crosby,White Christmas,Geffen*,44,102,4,552219,2017-12-28
+45,spotify:track:5hslUAKq9I9CG2bAulFkHN,Andy Williams,It's the Most Wonderful Time of the Year,Columbia/Legacy,45,124,5,544319,2017-12-28
+46,spotify:track:6a1hzBiTkgqTsDA0Xgfh9z,The Jackson 5,Santa Claus Is Coming To Town,UNI/MOTOWN,46,103,4,539930,2017-12-28
+47,spotify:track:5tz69p7tJuGPeMGwNTxYuV,"Logic, Alessia Cara, Khalid",1-800-273-8255,Def Jam Recordings,1,34,34,530059,2017-12-28
+48,spotify:track:7nZmah2llfvLDiUjm0kiyz,"Justin Bieber, BloodPop®",Friends (with BloodPop®),BloodPop/DJ/RMBG/Republic,3,38,19,529903,2017-12-28
+49,spotify:track:1LIbTjMdFP15jIXGkcICSU,Angus & Julia Stone,Chateau,[PIAS] Le Label,40,47,17,528612,2017-12-28
+50,spotify:track:2nUJvBO87SkxCViQsLc9Zr,Big Shaq,Man's Not Hot,Universal-Island Records Ltd.,34,37,12,523188,2017-12-28
+51,spotify:track:1ADjWm8QNhgNV8yCNNgQ1T,Ariana Grande,Santa Tell Me,Universal Records,51,73,5,518475,2017-12-28
+52,spotify:track:2MK8xQVIFA81r32V4E1MkT,"Peking Duk, Icona Pop",Let You Down,Sony Music Entertainment,38,40,11,516603,2017-12-28
+53,spotify:track:5uu28fUesZMl89lf9CLrgN,"Cheat Codes, Fetty Wap, CVBZ",Feels Great (feat. Fetty Wap & CVBZ),Parlophone UK,32,41,11,512732,2017-12-28
+54,spotify:track:0CokSRCu5hZgPxcZBaEzVE,"Macklemore, Skylar Grey",Glorious (feat. Skylar Grey),Bendo LLC,1,44,28,502757,2017-12-28
+55,spotify:track:4fzyvSu73BhGvi96p2zwjL,Coldplay,Christmas Lights,Parlophone UK,55,115,3,492863,2017-12-28
+56,spotify:track:7KXjTSCq5nL1LoYtL7XAwS,Kendrick Lamar,HUMBLE.,Aftermath,1,46,39,487569,2017-12-28
+57,spotify:track:5ASM6Qjiav2xPe7gRkQMsQ,The Ronettes,Sleigh Ride,Legacy Recordings,57,143,5,485489,2017-12-28
+58,spotify:track:3VTNVsTTu05dmTsVFrmGpK,"The Pogues, Kirsty MacColl",Fairytale of New York (feat. Kirsty MacColl),WM UK,58,127,3,483758,2017-12-28
+59,spotify:track:0ZoHHROTzwIYeNAHRPedTY,Chris Rea,Driving Home for Christmas,Rhino,59,132,2,475762,2017-12-28
+60,spotify:track:3YQUpKTmtgPJf8u6ooi9KA,Elton John,Step Into Christmas - Remastered 1995,EMI,60,146,3,459721,2017-12-28
+61,spotify:track:3WrG9BpOPQWUus3FjA1Tny,Destiny's Child,8 Days of Christmas,Columbia,61,136,3,459607,2017-12-28
+62,spotify:track:2BTw5ZxeBygVJpdMK1Ur3c,Kita Alexander,Hotel,Atlantic Records UK,42,45,29,455978,2017-12-28
+63,spotify:track:5XSwdC5vHtheRRrMmGoEVV,Paul Kelly,How to Make Gravy,Cooking Vinyl Limited,63,156,3,454883,2017-12-28
+64,spotify:track:6tjituizSxwSmBB5vtgHZE,Michael Bublé,Holly Jolly Christmas,143/Reprise,64,104,3,450136,2017-12-28
+65,spotify:track:3B54sVLJ402zGa6Xm4YGNe,"French Montana, Swae Lee",Unforgettable,Bad Boy Entertainment/Epic Records,2,43,36,449275,2017-12-28
+66,spotify:track:2OALaHcDdKkjYEpAr0Qzab,"Avicii, Rita Ora",Lonely Together (feat. Rita Ora),Universal Music AB,26,39,20,443563,2017-12-28
+67,spotify:track:7y9iMe8SOB6z3NoHE2OfXl,Halsey,Bad At Love,Astralwerks (ASW),38,49,19,442348,2017-12-28
+68,spotify:track:7mldq42yDuxiUNn08nvzHO,Sam Hunt,Body Like A Back Road,MCA Nashville,27,50,43,438342,2017-12-28
+69,spotify:track:09OojFvtrM9YRzRjnXqJjA,Brenda Lee,Rockin' Around the Christmas Tree - Rerecorded Version,Warner Records,69,166,3,429999,2017-12-28
+70,spotify:track:2ISl1zekPsc26sUQpVt8UB,Shakin' Stevens,Merry Christmas Everyone,Sony Music CG,60,174,3,426995,2017-12-28
+71,spotify:track:4ricyQVd20UQde1jpXCSuJ,Tony Bennett,Winter Wonderland,Columbia/Legacy,71,185,3,421162,2017-12-28
+72,spotify:track:32OWobmyAz8J2qA8iWekyS,Justin Bieber,Mistletoe,RBMG/Def Jam,72,98,5,418709,2017-12-28
+73,spotify:track:65Q2mv3UlVi9eO70OpsmSe,Burl Ives,A Holly Jolly Christmas,Geffen,73,-1,2,397408,2017-12-28
+74,spotify:track:5WoaF1B5XIEnWfmb5NZikf,"Miguel, Travis Scott",Sky Walker (feat. Travis Scott),ByStorm Entertainment/RCA Records,52,52,10,395626,2017-12-28
+75,spotify:track:5humEOJehpAwMJEJmb0JJ2,Nat King Cole,The Christmas Song (Merry Christmas To You),Capitol Records,75,-1,2,395260,2017-12-28
+76,spotify:track:7GX5flRQZVHRAGd6B4TmDO,Lil Uzi Vert,XO Tour Llif3,Generation Now/Atlantic,22,51,39,393824,2017-12-28
+77,spotify:track:2qqZ5fOGuNvYVzgPFDLQ4l,Boney M.,Mary's Boy Child / Oh My Lord,Sony Music Catalog,77,-1,2,391737,2017-12-28
+78,spotify:track:47X9nPgLBHEGts5tFwpF6S,Ella Fitzgerald,Have Yourself A Merry Little Christmas,Verve Reissues,78,-1,2,388012,2017-12-28
+79,spotify:track:2qoZNAP3JLyIOtbsPtBjvV,Stevie Wonder,What Christmas Means To Me,UNI/MOTOWN,79,-1,2,373868,2017-12-28
+80,spotify:track:5wTM2Bm8phDwHAuOsfBwhU,Pretenders,2000 Miles - 2007 Remaster,Rhino/Warner Records,80,-1,2,370811,2017-12-28
+81,spotify:track:2DQ1ITjI0YoLFzuADN1ZBW,"G-Eazy, A$AP Rocky, Cardi B",No Limit,BPG/RVG/RCA Records,54,54,8,357626,2017-12-28
+82,spotify:track:3T7dNA7O8c3Axj5WyDNcH3,Brenda Lee,Rockin' Around The Christmas Tree,MCA Nashville,82,163,3,357076,2017-12-28
+83,spotify:track:3QiAAp20rPC3dcAtKtMaqQ,Elvis Presley,Blue Christmas,RCA Victor,81,-1,2,357013,2017-12-28
+84,spotify:track:4bJzIbze97tZwCxxMw4hx9,"Hayden James, GRAACE",NUMB,Future Classic,53,57,11,354945,2017-12-28
+85,spotify:track:3gfmFoJgmn9LiIj5mV8oSS,"R3HAB, Quintino",I Just Can't,CYB3RPVNK,56,58,15,348265,2017-12-28
+86,spotify:track:2pnPe4pJtq7689i5ydzvJJ,Chuck Berry,Run Rudolph Run,Geffen*,86,-1,2,339481,2017-12-28
+87,spotify:track:70f0ToGXTEtLKFSwHMbHoC,Aaron Neville,Please Come Home For Christmas,A&M,87,-1,2,338040,2017-12-28
+88,spotify:track:2DlIwu1iDTILEMXA7MUotn,P!nk,Beautiful Trauma,RCA Records Label,78,89,11,333116,2017-12-28
+89,spotify:track:5xlS0QkVrSH7ssEbBgBzbM,The Beach Boys,Little Saint Nick - 1991 Remix,Capitol Records,89,-1,2,331238,2017-12-28
+90,spotify:track:7fwXWKdDNI5IutOMc5OKYw,"J Balvin, Willy William, Beyoncé",Mi Gente (feat. Beyoncé),Mi Gente Remix,33,60,13,330945,2017-12-28
+91,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,3,63,32,324214,2017-12-28
+92,spotify:track:77ngtwBosDuAwiQu8afOOQ,"Tyron Hapi, Mimoza",Anyway,Teamwrk Records,65,65,9,322244,2017-12-28
+93,spotify:track:152lZdxL1OR0ZMW6KquMif,Khalid,Location,"Right Hand Music Group, LLC/RCA Records",24,53,42,319665,2017-12-28
+94,spotify:track:0Wv5wuenRLI3BcwgT3HPIP,"DJ Snake, Lauv",A Different Way (with Lauv),Geffen,55,64,14,319479,2017-12-28
+95,spotify:track:7m9OqQk4RVRkw9JJdeAw96,XXXTENTACION,Jocelyn Flores,Bad Vibes Forever / EMPIRE,13,56,18,313078,2017-12-28
+96,spotify:track:4eQvrHRAG4WoGYFNe3pCLu,Darlene Love,All Alone on Christmas,Sony BMG Music Entertainment,96,-1,2,311356,2017-12-28
+97,spotify:track:2gbCG4Rt9984UZ7Tc0dIFd,"Michael Bublé, Shania Twain",White Christmas (with Shania Twain),143/Reprise,89,-1,2,309345,2017-12-28
+98,spotify:track:2fQrGHiQOvpL9UgPvtYy6G,21 Savage,Bank Account,"Slaughter Gang, LLC/Epic Records",47,59,23,301575,2017-12-28
+99,spotify:track:1OAh8uOEOvTDqkKFsKksCi,"DJ Khaled, Rihanna, Bryson Tiller",Wild Thoughts (feat. Rihanna & Bryson Tiller),Epic/We The Best,2,71,28,300636,2017-12-28
+100,spotify:track:7FOJKfiyl1tegmYRqs7AuZ,"Traditional, John Williams",We Wish You a Merry Christmas / End Title - Voice,Masterworks,100,-1,1,300396,2017-12-28
+101,spotify:track:5CtI0qwDJkDQGwXD1H1cLb,"Luis Fonsi, Daddy Yankee, Justin Bieber",Despacito - Remix,UMLE - Latino,1,75,37,299105,2017-12-28
+102,spotify:track:5bcTCxgc7xVfSaMV3RuVke,"Calvin Harris, Pharrell Williams, Katy Perry, Big Sean, Funk Wav","Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",Columbia,4,74,28,299038,2017-12-28
+103,spotify:track:7Hz6LLOVxrojLPIHJJ1S0E,Sam Smith,Have Yourself A Merry Little Christmas,Capitol,103,176,2,296847,2017-12-28
+104,spotify:track:57p8CBvPOxrvyCbn6ttl5r,"Skrillex, Poo Bear",Would You Ever,OWSLA/Atlantic,43,77,22,296337,2017-12-28
+105,spotify:track:05X6aMCQR09E6smUmw9qms,Queen,Thank God It's Christmas - Non-Album Single,EMI,105,-1,2,293593,2017-12-28
+106,spotify:track:7FIcV2kEiO2mvvMbxU5Jkn,Johnny Cash,The Little Drummer Boy,Columbia Nashville Legacy,106,-1,2,291970,2017-12-28
+107,spotify:track:2771LMNxwf62FTAdpJMQfM,Cardi B,Bodak Yellow,KSR/Atlantic,30,79,19,290477,2017-12-28
+108,spotify:track:4v094LQ9eF10k2O2Te2ngK,Niall Horan,Too Much To Ask,Capitol Records (US1A),24,67,15,290028,2017-12-28
+109,spotify:track:6RUKPb4LETWmmr3iAEQktW,"The Chainsmokers, Coldplay",Something Just Like This,Disruptor Records/Columbia,2,68,45,286758,2017-12-28
+110,spotify:track:4c2W3VKsOFoIg2SFaO6DY5,Rita Ora,Your Song,Atlantic Records UK,14,78,31,284260,2017-12-28
+111,spotify:track:0afhq8XCExXpqazXczTSve,Ed Sheeran,Galway Girl,Atlantic Records UK,2,82,43,283185,2017-12-28
+112,spotify:track:5Ber68jZ7ytegr2UISEdb7,Michael Bublé,Santa Claus Is Coming to Town,143/Reprise,101,-1,2,282969,2017-12-28
+113,spotify:track:4iLqG9SeJSnt0cSPICSjxv,Charlie Puth,Attention,Artist Partner,6,69,36,281769,2017-12-28
+114,spotify:track:3kxfsdsCpFgN412fpnW85Y,Childish Gambino,Redbone,Glassnote Entertainment Group LLC,16,72,53,281517,2017-12-28
+115,spotify:track:4FPrAERfkPKOBKrRoyuxLu,Michael Bublé,Cold December Night,143/Reprise,115,-1,2,280927,2017-12-28
+116,spotify:track:41onDks2UPbyjer5fMeUWf,Run–D.M.C.,Christmas In Hollis,Arista/Legacy,116,-1,2,280668,2017-12-28
+117,spotify:track:2x0WlnmfG39ZuDmstl9xfX,"Taylor Swift, Ed Sheeran, Future",End Game,"Big Machine Records, LLC",70,70,4,280302,2017-12-28
+118,spotify:track:4PpuH4mxL0rD35mOWaLoKS,"N.E.R.D, Rihanna, Pharrell Williams",Lemon,Columbia,58,62,8,276605,2017-12-28
+119,spotify:track:4STCTQ1h0VuWfvDyhGOxkv,Otis Redding,Merry Christmas Baby,Rhino Atlantic,119,-1,2,275692,2017-12-28
+120,spotify:track:5yuShbu70mtHXY0yLzCQLQ,Post Malone,Go Flex,Universal Records,55,80,22,271517,2017-12-28
+121,spotify:track:6PCUP3dWmTjcTtXY02oFdT,Ed Sheeran,Castle on the Hill,Atlantic Records UK,2,95,51,271147,2017-12-28
+122,spotify:track:3HBvs6g8WgT8KT1gZzGSX1,U2,Christmas (Baby Please Come Home),UME - Global Clearing House,122,-1,2,270403,2017-12-28
+123,spotify:track:3AlpkljBS1AU7HFVPms8K6,Sia,Santa's Coming for Us,Monkey Puzzle/Atlantic,123,-1,1,265742,2017-12-28
+124,spotify:track:7sO5G9EABYOXQKNPNiE9NR,"Offset, Metro Boomin",Ric Flair Drip (with Metro Boomin),"Slaughter Gang, LLC/Epic/Quality Control Music/Motown/Capitol/Boominati Worldwide/Republic",69,76,8,264641,2017-12-28
+125,spotify:track:7oK9VyNzrYvRFo7nQEYkWN,The Killers,Mr. Brightside,Island Records,54,83,53,263569,2017-12-28
+126,spotify:track:79cuOz3SPQTuFrp8WgftAu,Shawn Mendes,There's Nothing Holdin' Me Back,Island Records,6,84,36,261080,2017-12-28
+127,spotify:track:6QjOlkobyT3SGsqGAZX70s,Madonna,Santa Baby,A&M,127,-1,1,259411,2017-12-28
+128,spotify:track:6SlJooJullmwjBsrnRNROA,"Bliss n Eso, Gavin James",Moments,Illusive,25,86,39,257767,2017-12-28
+129,spotify:track:6VpQdig9pdpTSIFItgkJV5,Camila Cabello,Never Be the Same,Syco Music/Epic,105,109,3,257753,2017-12-28
+130,spotify:track:5uCax9HTNlzGybIStD3vDh,James Arthur,Say You Won't Let Go,Columbia,5,87,53,255182,2017-12-28
+131,spotify:track:0xU98OPwjKsdUCuftg8Abz,Guy Sebastian,Bloodstone,Sony Music Entertainment,86,88,7,254696,2017-12-28
+132,spotify:track:4dVpf9jZjcORqGTLUaeYj9,A$AP Ferg,Plain Jane,RCA Records Label,53,85,13,253947,2017-12-28
+133,spotify:track:0KjRajKMXowSKCE2LEfXuE,Bon Jovi,I Wish Everyday Could Be Like Christmas,Universal Music,133,-1,1,253058,2017-12-28
+134,spotify:track:0P6AWOA4LG1XOctzaVu5tt,"SZA, Calvin Harris, Funk Wav",The Weekend - Funk Wav Remix,Top Dawg Entertainment/RCA Records,134,-1,1,252196,2017-12-28
+135,spotify:track:0Qh38w01QRXK6KHIv0e3hb,P!nk,What About Us,RCA Records Label,16,90,20,249476,2017-12-28
+136,spotify:track:0CcQNd8CINkwQfe1RDtGV6,Imagine Dragons,Believer,Kid Ina Korner / Interscope,34,105,47,246432,2017-12-28
+137,spotify:track:6eT7xZZlB2mwyzJ2sUKG6w,Post Malone,White Iverson,Universal Records,66,101,34,244884,2017-12-28
+138,spotify:track:0xPaZrF25ltzvz1a2Pm5DQ,Michael Bublé,All I Want for Christmas Is You,143/Reprise,99,-1,2,239061,2017-12-28
+139,spotify:track:1QXg7pVx5hpAZWw8KIAcGw,Carpenters,Merry Christmas Darling - Remix,A&M,139,-1,1,238793,2017-12-28
+140,spotify:track:0NiXXAI876aGImAd6rTj8w,"Jonas Blue, William Singe",Mama,UMOD (Universal Music On Demand),6,93,34,238097,2017-12-28
+141,spotify:track:3DXncPQOG4VBw3QHh3S817,"DJ Khaled, Justin Bieber, Quavo, Chance the Rapper, Lil Wayne","I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",Epic/We The Best,1,108,35,238000,2017-12-28
+142,spotify:track:7BKLCZ1jbUBVqRi2FVlTVw,"The Chainsmokers, Halsey",Closer,Disruptor Records/Columbia,3,111,53,237471,2017-12-28
+143,spotify:track:5PIBgH1cUFwu5IiUk9tnN9,"Eminem, Beyoncé",Walk On Water (feat. Beyoncé),Aftermath,23,55,7,237031,2017-12-28
+144,spotify:track:2SBr3MK1sdMs8IxdRcN6qz,Kylie Minogue,Santa Baby,Parlophone UK,144,-1,1,236695,2017-12-28
+145,spotify:track:3nCcFA1iiehndgGSddMiV2,Tom Petty and the Heartbreakers,Christmas All Over Again,A&M,145,-1,1,236573,2017-12-28
+146,spotify:track:0OlnLZY4cmQzT6ZGttvWBM,"Martin Garrix, David Guetta, Jamie Scott, Romy Dya",So Far Away (feat. Jamie Scott & Romy Dya),Epic Amsterdam,100,100,4,236520,2017-12-28
+147,spotify:track:26H5lCAcFqSSZHGi5iFm71,Bob Dylan,Must Be Santa,Columbia,147,-1,2,236364,2017-12-28
+148,spotify:track:2mfUa8bLs2s5N4VaqJZ4lZ,Hailee Steinfeld,Most Girls,Universal Records,22,94,35,236339,2017-12-28
+149,spotify:track:5aAx2yezTd8zXrkmtKl66Z,"The Weeknd, Daft Punk",Starboy,Universal Republic Records,1,106,53,235530,2017-12-28
+150,spotify:track:3jjlirUKZDrpR3rrN6Ya6R,Dean Martin,Silent Night,Legacy Recordings,150,-1,1,233874,2017-12-28
+151,spotify:track:1P17dC1amhFzptugyAO7Il,Taylor Swift,Look What You Made Me Do,"Big Machine Records, LLC",1,91,18,231945,2017-12-28
+152,spotify:track:3zJgkL8v0UNVdyKTGc8wzk,R.E.M.,Deck the Halls,Warner Records,152,-1,1,231443,2017-12-28
+153,spotify:track:5Il1mXOawI5DG72WcRWpxO,"Harry Connick, Jr.",(It Must've Been Ol') Santa Claus,Columbia,153,-1,1,231088,2017-12-28
+154,spotify:track:5nTuQBSjMML1tcgheI2YsY,Whitney Houston,One Wish (For Christmas),Arista,154,-1,1,230901,2017-12-28
+155,spotify:track:7aiVBCp1ibIWE5GeHkbtxr,Britney Spears,My Only Wish (This Year),Arista,155,-1,2,230495,2017-12-28
+156,spotify:track:0OI7AFifLSoGzpb8bdBLLV,"mgk, X Ambassadors, Bebe Rexha","Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha)",Atlantic Records,103,128,5,230009,2017-12-28
+157,spotify:track:12REd1n8PeiHHWOh066tpr,"Flume, kai",Never Be Like You,Future Classic,31,110,53,228994,2017-12-28
+158,spotify:track:3kGfazcbVvVkuZunzlLgTD,"Sigala, Ella Eyre",Came Here for Love,Ministry of Sound Recordings,90,122,26,225003,2017-12-28
+159,spotify:track:78pn8k7RogKo2oxl0DyX6d,Leona Lewis,One More Sleep,Syco Music,159,-1,1,223829,2017-12-28
+160,spotify:track:1YZfcVLbbJwfizR5cDOp3q,"Migos, Nicki Minaj, Cardi B",MotorSport,"Quality Control Music, LLC",67,120,9,221098,2017-12-28
+161,spotify:track:1dclAs33xgghKN6jgIkDqV,Michael Jackson,Little Christmas Tree,UNI/MOTOWN,161,-1,1,221025,2017-12-28
+162,spotify:track:1DnSNqCQM3LUxqFuXt184Q,Michael Bublé,Have Yourself a Merry Little Christmas,143/Reprise,124,-1,2,220662,2017-12-28
+163,spotify:track:1x5sYLZiu9r5E43kMlt9f8,"Clean Bandit, Zara Larsson",Symphony (feat. Zara Larsson),Atlantic Records UK,4,113,41,220571,2017-12-28
+164,spotify:track:38yBBH2jacvDxrznF7h08J,Niall Horan,Slow Hands,Capitol Records (US1A),9,116,34,220347,2017-12-28
+165,spotify:track:1hy6kKvsPbv7VTcllCuATC,Meghan Trainor,I'll Be Home,Epic,165,-1,1,219504,2017-12-28
+166,spotify:track:75FDPwaULRdYDn4StFN2rT,"Cardi B, 21 Savage",Bartier Cardi (feat. 21 Savage),KSR/Atlantic,166,-1,1,219372,2017-12-28
+167,spotify:track:1HrMWH5GUdK6Yi94rbANJA,"CamelPhat, Elderbrook",Cola,Defected Records,126,126,5,218491,2017-12-28
+168,spotify:track:66WPXyhXqMlkM1kZhyEXWK,Michael Bublé,Christmas (Baby Please Come Home),143/Reprise,136,-1,2,218397,2017-12-28
+169,spotify:track:1Slwb6dOYkBlWal1PGtnNg,Ed Sheeran,Thinking out Loud,Atlantic Records UK,68,139,53,217315,2017-12-28
+170,spotify:track:1yxgsra98r3qAtxqiGZPiX,Travis Scott,BUTTERFLY EFFECT,Cactus Jack / Epic,56,123,31,215412,2017-12-28
+171,spotify:track:1NDxZ7cFAo481dtYWdrUnR,"Maggie Lindemann, Cheat Codes, CADE",Pretty Girl - Cheat Codes X CADE Remix,300 Entertainment,12,118,38,214767,2017-12-28
+172,spotify:track:4pbLMXPtU8ruMCMPmQNY4q,"PNAU, Kira Divine",Chameleon,etcetc AU,5,114,53,214401,2017-12-28
+173,spotify:track:5D5eypKWn0nhBBI35I2CBi,Dean Lewis,Lose My Mind,Universal Music Australia Pty. Ltd.,87,129,9,210522,2017-12-28
+174,spotify:track:5xjj2WjQVC4Ar8UNIvSUiL,Kylie Minogue,Every Day's Like Christmas,Parlophone UK,174,-1,1,209236,2017-12-28
+175,spotify:track:1xznGGDReH1oQq0xzbwXa3,"Drake, Wizkid, Kyla",One Dance,Cash Money Records/Young Money Ent./Universal Rec.,26,138,53,208793,2017-12-28
+176,spotify:track:7hPtrGqzMOO0KMevkaQnYR,The Vamps,Jingle Bell Rock,EMI,176,-1,1,207102,2017-12-28
+177,spotify:track:4rQM5oK7ljhu1DtoysUofD,Touch Sensitive,Lay Down,Future Classic,159,159,6,206674,2017-12-28
+178,spotify:track:7y4JznkAv2W3IKw9T1o2VK,Daya,New,UMGRI Interscope,82,125,10,205744,2017-12-28
+179,spotify:track:2z4pcBLQXF2BXKFvd0BuB6,"Jason Derulo, French Montana",Tip Toe (feat. French Montana),Beluga Heights/Warner Records,116,137,6,202652,2017-12-28
+180,spotify:track:1louJpMmzEicAn7lzDalPW,"Cheat Codes, Demi Lovato",No Promises (feat. Demi Lovato),Parlophone UK,13,117,39,200199,2017-12-28
+181,spotify:track:6gBFPUFcJLzWGx4lenP6h2,Travis Scott,goosebumps,Cactus Jack / Epic,65,135,49,200065,2017-12-28
+182,spotify:track:6SUocL0caib4mLHe8ZrZzi,"Rudimental, James Arthur",Sun Comes Up (feat. James Arthur),Atlantic Records UK,85,152,23,199813,2017-12-28
+183,spotify:track:0KKkJNfGyhkQ5aFogxQAPU,Bruno Mars,That's What I Like,Atlantic Records,6,144,51,198392,2017-12-28
+184,spotify:track:6DwnAl6l63e83dDgIzY8P4,Michael Bublé,Santa Baby,143/Reprise,148,-1,2,196898,2017-12-28
+185,spotify:track:0NnVzBW6TJLaEzcyXjqRDH,Tash Sultana,Mystik,Lonely Lands Records,148,168,5,195333,2017-12-28
+186,spotify:track:0jdny0dhgjUwoIp5GkqEaA,Kesha,Praying,Kemosabe Records/RCA Records,13,134,25,194450,2017-12-28
+187,spotify:track:7hDc8b7IXETo14hHIHdnhd,Drake,Passionfruit,Cash Money Records/Young Money Ent./Universal Rec.,2,142,41,194245,2017-12-28
+188,spotify:track:6NWl2m8asvH83xjuXVNsuG,Lil Xan,Betrayed,Columbia,91,145,7,192621,2017-12-28
+189,spotify:track:5Htb1uFQ1KrkFXlefS8oGj,Demi Lovato,Tell Me You Love Me,Island Records,189,-1,1,192205,2017-12-28
+190,spotify:track:2RttW7RAu5nOAfq6YFvApB,Ed Sheeran,Happier,Atlantic Records UK,8,153,43,192051,2017-12-28
+191,spotify:track:7vu0JkJh0ldukEYbTVcqd0,Julia Michaels,Issues,J/Republic,5,140,49,190861,2017-12-28
+192,spotify:track:1zsG4eaZmkA1dvjDDsAGLK,"Luis Fonsi, Demi Lovato",Échame La Culpa,UMLE - Latino,103,149,6,190549,2017-12-28
+193,spotify:track:3nAp4IvdMPPWEH9uuXFFV5,Kelly Clarkson,Underneath the Tree,RCA Records Label,193,-1,1,190078,2017-12-28
+194,spotify:track:0dA2Mk56wEzDgegdC6R17g,"Zedd, Alessia Cara",Stay,UMGRI Interscope,3,141,44,189391,2017-12-28
+195,spotify:track:5dNfHmqgr128gMY2tc5CeJ,R. Kelly,Ignition - Remix,Jive,77,155,53,188680,2017-12-28
+196,spotify:track:1NfNdnuFbTgYpRG0z5bHxv,Sia,Candy Cane Lane,Monkey Puzzle/Atlantic,196,-1,1,188619,2017-12-28
+197,spotify:track:2374M0fQpWi3dLnB54qaLX,TOTO,Africa,Columbia,128,186,9,187958,2017-12-28
+198,spotify:track:33SNO8AaciGbNaQFkxvPrW,Harry Styles,Kiwi,Columbia,89,121,9,185724,2017-12-28
+199,spotify:track:2yLa0QULdQr0qAIvVwN6B5,Taylor Swift,...Ready For It?,"Big Machine Records, LLC",9,131,17,185516,2017-12-28
+200,spotify:track:7taXf5odg9xCAZERYfyOkS,José Feliciano,Feliz Navidad,RCA Records Label,135,-1,2,184597,2017-12-28

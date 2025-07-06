@@ -1,11 +1,10 @@
-artist,number of times
-,1
-Young Thug,1
-DaBaby,1
-Ed Sheeran,1
-Quavo,1
-Tainy,1
-Myke Towers,1
-Daddy Yankee,1
-WILLOW,1
-Playboi Carti,1
+collab_artist,number of times,main_artist
+DaBaby,1,Camila Cabello
+Daddy Yankee,1,Camila Cabello
+Myke Towers,1,Camila Cabello
+Ed Sheeran,1,Camila Cabello
+Tainy,1,Camila Cabello
+WILLOW,1,Camila Cabello
+Young Thug,1,Camila Cabello
+Playboi Carti,1,Camila Cabello
+Quavo,1,Camila Cabello

@@ -1,24 +1,23 @@
-artist,number of times
-,1
-HAIM,1
-Hayley Williams,1
-Future,1
-Colbie Caillat,1
-Brendon Urie,1
-Ed Sheeran,2
-Bon Iver,1
-Keith Urban,1
-Chris Stapleton,1
-Post Malone,1
-Phoebe Bridgers,1
-Lana Del Rey,1
-The National,1
-Florence + The Machine,1
-Shawn Mendes,1
-Gary Lightbody,1
-Fall Out Boy,1
-Maren Morris,1
-Kendrick Lamar,1
-The Chicks,1
-Ice Spice,1
-Panic! At The Disco,1
+collab_artist,number of times,main_artist
+Ed Sheeran,2,Taylor Swift
+Fall Out Boy,1,Taylor Swift
+Colbie Caillat,1,Taylor Swift
+Bon Iver,1,Taylor Swift
+Panic! At The Disco,1,Taylor Swift
+Hayley Williams,1,Taylor Swift
+Post Malone,1,Taylor Swift
+The National,1,Taylor Swift
+Shawn Mendes,1,Taylor Swift
+Maren Morris,1,Taylor Swift
+Gary Lightbody,1,Taylor Swift
+Florence + The Machine,1,Taylor Swift
+Chris Stapleton,1,Taylor Swift
+Phoebe Bridgers,1,Taylor Swift
+Lana Del Rey,1,Taylor Swift
+HAIM,1,Taylor Swift
+Brendon Urie,1,Taylor Swift
+Future,1,Taylor Swift
+Kendrick Lamar,1,Taylor Swift
+The Chicks,1,Taylor Swift
+Ice Spice,1,Taylor Swift
+Keith Urban,1,Taylor Swift

@@ -1,12 +1,11 @@
-artist,number of times
-,1
-Camilo,1
-Gucci Mane,1
-Myke Towers,1
-benny blanco,2
-Marshmello,1
-Kid Cudi,1
-6LACK,1
-The Maras,1
-Rauw Alejandro,1
-Gracie Abrams,1
+collab_artist,number of times,main_artist
+benny blanco,2,Selena Gomez
+The Maras,1,Selena Gomez
+Myke Towers,1,Selena Gomez
+Marshmello,1,Selena Gomez
+6LACK,1,Selena Gomez
+Gracie Abrams,1,Selena Gomez
+Gucci Mane,1,Selena Gomez
+Rauw Alejandro,1,Selena Gomez
+Camilo,1,Selena Gomez
+Kid Cudi,1,Selena Gomez

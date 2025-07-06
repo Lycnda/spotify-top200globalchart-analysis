@@ -1,32 +1,31 @@
-artist,number of times
-,1
-Elton John,1
-Cardi B,1
-Skrillex,1
-Young Thug,1
-Andrea Bocelli,1
-Taylor Swift,1
-Beyonc,1
-Meek Mill,1
-Stormzy,1
-50 Cent,1
-A Boogie Wit da Hoodie,1
-Dave,1
-PnB Rock,1
-Eminem,1
-Ella Mai,1
-Chris Stapleton,1
-J Hus,1
-Chance the Rapper,1
-Bruno Mars,1
-Travis Scott,1
-Yebba,1
-Justin Bieber,1
-H.E.R.,1
-Lil Baby,1
-Major Lazer,1
-Khalid,1
-Paulo Londra,1
-Nyla,1
-Kranium,1
-Camila Cabello,1
+collab_artist,number of times,main_artist
+Travis Scott,1,Ed Sheeran
+PnB Rock,1,Ed Sheeran
+A Boogie Wit da Hoodie,1,Ed Sheeran
+Cardi B,1,Ed Sheeran
+Young Thug,1,Ed Sheeran
+Camila Cabello,1,Ed Sheeran
+Kranium,1,Ed Sheeran
+Justin Bieber,1,Ed Sheeran
+H.E.R.,1,Ed Sheeran
+Meek Mill,1,Ed Sheeran
+50 Cent,1,Ed Sheeran
+Lil Baby,1,Ed Sheeran
+Chance the Rapper,1,Ed Sheeran
+Paulo Londra,1,Ed Sheeran
+Yebba,1,Ed Sheeran
+Eminem,1,Ed Sheeran
+J Hus,1,Ed Sheeran
+Chris Stapleton,1,Ed Sheeran
+Dave,1,Ed Sheeran
+Elton John,1,Ed Sheeran
+Bruno Mars,1,Ed Sheeran
+Ella Mai,1,Ed Sheeran
+Taylor Swift,1,Ed Sheeran
+Skrillex,1,Ed Sheeran
+Nyla,1,Ed Sheeran
+Stormzy,1,Ed Sheeran
+Beyonc,1,Ed Sheeran
+Andrea Bocelli,1,Ed Sheeran
+Khalid,1,Ed Sheeran
+Major Lazer,1,Ed Sheeran
