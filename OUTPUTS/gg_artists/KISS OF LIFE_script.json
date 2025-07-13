@@ -1,0 +1,31 @@
+{
+    "KISS OF LIFE": {
+        "num_of_streams": "10021732",
+        "min_rank": "6",
+        "max_rank": "200",
+        "min_date": "2023-07-13",
+        "max_date": "2024-10-17",
+        "num_unique_songs": "9",
+        "artistappearanceCount": "166",
+        "unique_songs": [
+            "Bad News",
+            "Midas Touch",
+            "Nobody Knows",
+            "Nothing",
+            "R.E.M",
+            "Shhh",
+            "Sticky",
+            "Sugarcoat (NATTY Solo)",
+            "Te Quiero"
+        ],
+        "source_end_date_latest_ls": {
+            "S2 ENTERTAINMENT INC.": "2024-10-17"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2024-07-18": "Sticky"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2024-09-19": "Sugarcoat (NATTY Solo)"
+        }
+    }
+}

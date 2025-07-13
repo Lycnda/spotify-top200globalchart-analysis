@@ -1,0 +1,25 @@
+{
+    "Davido": {
+        "num_of_streams": "2811057",
+        "min_rank": "3",
+        "max_rank": "197",
+        "min_date": "2022-02-17",
+        "max_date": "2022-09-22",
+        "num_unique_songs": "4",
+        "unique_songs": [
+            "Champion Sound",
+            "Jowo",
+            "La La (feat. Ckay)",
+            "Stand Strong (feat. Sunday Service Choir)"
+        ],
+        "source_end_date_latest_ls": {
+            "Columbia": "2022-09-22"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-05-19": "Stand Strong (feat. Sunday Service Choir)"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-04-21": "La La (feat. Ckay)"
+        }
+    }
+}

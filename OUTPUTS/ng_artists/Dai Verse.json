@@ -1,0 +1,24 @@
+{
+    "Dai Verse": {
+        "num_of_streams": "390783",
+        "min_rank": "48",
+        "max_rank": "196",
+        "min_date": "2022-02-17",
+        "max_date": "2022-05-19",
+        "num_unique_songs": "2",
+        "unique_songs": [
+            "Sweet Daddy",
+            "Your Body (Cocaine)"
+        ],
+        "source_end_date_latest_ls": {
+            "Hulivo / EMPIRE": "2022-05-19",
+            "Hulivodigital": "2022-04-14"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-02-17": "Sweet Daddy"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-04-14": "Your Body (Cocaine)"
+        }
+    }
+}

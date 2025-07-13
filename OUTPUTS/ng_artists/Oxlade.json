@@ -1,0 +1,23 @@
+{
+    "Oxlade": {
+        "num_of_streams": "1955161",
+        "min_rank": "5",
+        "max_rank": "195",
+        "min_date": "2022-03-24",
+        "max_date": "2022-09-22",
+        "num_unique_songs": "2",
+        "unique_songs": [
+            "KU LO SA - A COLORS SHOW",
+            "Want You"
+        ],
+        "source_end_date_latest_ls": {
+            "Epic": "2022-09-22"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-09-08": "KU LO SA - A COLORS SHOW"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-07-14": "Want You"
+        }
+    }
+}

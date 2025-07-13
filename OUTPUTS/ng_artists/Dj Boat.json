@@ -1,0 +1,25 @@
+{
+    "Dj Boat": {
+        "num_of_streams": "739928",
+        "min_rank": "36",
+        "max_rank": "180",
+        "min_date": "2022-02-17",
+        "max_date": "2022-06-30",
+        "num_unique_songs": "4",
+        "unique_songs": [
+            "Door",
+            "Peru",
+            "Question",
+            "Sip (Alcohol)"
+        ],
+        "source_end_date_latest_ls": {
+            "LMW Enteaiments": "2022-06-30"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-05-19": "Sip (Alcohol)"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-06-23": "Question"
+        }
+    }
+}

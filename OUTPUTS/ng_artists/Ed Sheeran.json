@@ -1,0 +1,25 @@
+{
+    "Ed Sheeran": {
+        "num_of_streams": "295122",
+        "min_rank": "121",
+        "max_rank": "200",
+        "min_date": "2022-02-17",
+        "max_date": "2022-06-02",
+        "num_unique_songs": "4",
+        "unique_songs": [
+            "2step (feat. Lil Baby)",
+            "Bad Habits",
+            "Shivers",
+            "The Joker And The Queen (feat. Taylor Swift)"
+        ],
+        "source_end_date_latest_ls": {
+            "Atlantic Records UK": "2022-06-02"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-02-17": "Shivers"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-03-24": "Bad Habits"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "LOONA": {
+        "num_of_streams": "240496",
+        "min_rank": "31",
+        "max_rank": "180",
+        "min_date": "2021-07-08",
+        "max_date": "2022-06-30",
+        "num_unique_songs": "3",
+        "artistappearanceCount": "14",
+        "unique_songs": [
+            "Flip That",
+            "POSE",
+            "PTT (Paint The Town)"
+        ],
+        "source_end_date_latest_ls": {
+            "BlockBerry Creative": "2021-09-23",
+            "Genie Music Corporation": "2022-06-02",
+            "WM Korea": "2022-06-30"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-06-02": "POSE"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2021-09-23": "PTT (Paint The Town)"
+        }
+    }
+}

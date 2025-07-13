@@ -1,0 +1,22 @@
+{
+    "Emmmzeal": {
+        "num_of_streams": "19073",
+        "min_rank": "149",
+        "max_rank": "149",
+        "min_date": "2022-08-04",
+        "max_date": "2022-08-04",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Carterefe Machala Efe"
+        ],
+        "source_end_date_latest_ls": {
+            "Emmmzeal": "2022-08-04"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-08-04": "Carterefe Machala Efe"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-08-04": "Carterefe Machala Efe"
+        }
+    }
+}

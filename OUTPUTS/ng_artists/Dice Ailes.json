@@ -1,0 +1,22 @@
+{
+    "Dice Ailes": {
+        "num_of_streams": "86634",
+        "min_rank": "82",
+        "max_rank": "169",
+        "min_date": "2022-03-03",
+        "max_date": "2022-03-31",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Hold Me (feat. Tiwa Savage)"
+        ],
+        "source_end_date_latest_ls": {
+            "SM Entertainment West Africa Limited": "2022-03-31"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-03-03": "Hold Me (feat. Tiwa Savage)"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-03-31": "Hold Me (feat. Tiwa Savage)"
+        }
+    }
+}

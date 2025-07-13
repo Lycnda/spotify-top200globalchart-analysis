@@ -1,0 +1,26 @@
+{
+    "Cheque": {
+        "num_of_streams": "481726",
+        "min_rank": "113",
+        "max_rank": "197",
+        "min_date": "2022-02-17",
+        "max_date": "2022-09-22",
+        "num_unique_songs": "5",
+        "unique_songs": [
+            "Call Me Baby",
+            "Dangerous (feat. Ayra Starr)",
+            "Holy Gee",
+            "LOML (feat. Olamide)",
+            "Rockstar"
+        ],
+        "source_end_date_latest_ls": {
+            "Penthauze / EMPIRE": "2022-09-22"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-02-17": "Dangerous (feat. Ayra Starr)"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-05-19": "Dangerous (feat. Ayra Starr)"
+        }
+    }
+}

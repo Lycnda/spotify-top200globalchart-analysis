@@ -1,9 +1,0 @@
-Cluster,Mean squared error,r-squared,method
-3,1799.5922708255807,0.47026272683831927,"few select features, k-means groups and linear regression"
-1,2189.0497219078284,0.3556200205467648,"few select features, k-means groups and linear regression"
-2,5186.342996160227,-0.5266787043971373,"few select features, k-means groups and linear regression"
-0,1156.6194338717892,0.6595315311595752,"few select features, k-means groups and linear regression"
-3,351514.36579047225,-102.47358378327363,"all numeric features, k-means groups and linear regression"
-1,221320455.43820822,-65148.03206655356,"all numeric features, k-means groups and linear regression"
-2,50539.56685426213,-13.877087863834316,"all numeric features, k-means groups and linear regression"
-0,1189423.4240381543,-349.12482077151014,"all numeric features, k-means groups and linear regression"

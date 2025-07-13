@@ -1,0 +1,22 @@
+{
+    "Olakira": {
+        "num_of_streams": "10331",
+        "min_rank": "179",
+        "max_rank": "179",
+        "min_date": "2022-02-24",
+        "max_date": "2022-02-24",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Fall"
+        ],
+        "source_end_date_latest_ls": {
+            "U & I Music under exclusive license to emPawa Africa Limited": "2022-02-24"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-02-24": "Fall"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-02-24": "Fall"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "NMIXX": {
+        "num_of_streams": "8618369",
+        "min_rank": "7",
+        "max_rank": "200",
+        "min_date": "2022-02-24",
+        "max_date": "2024-10-17",
+        "num_unique_songs": "11",
+        "artistappearanceCount": "184",
+        "unique_songs": [
+            "COOL (Your rainbow)",
+            "DASH",
+            "DICE",
+            "Love Me Like This",
+            "O.O",
+            "Party O'Clock",
+            "Roller Coaster",
+            "SICKUHH (Feat. Kid Milli)",
+            "See that?",
+            "Soar (Breaker)",
+            "Young, Dumb, Stupid"
+        ],
+        "source_end_date_latest_ls": {
+            "Republic Records - NMIXX": "2024-10-17"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-03-31": "O.O"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2023-05-11": "Young, Dumb, Stupid"
+        }
+    }
+}

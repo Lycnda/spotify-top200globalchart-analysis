@@ -1,0 +1,22 @@
+{
+    "Niniola": {
+        "num_of_streams": "70685",
+        "min_rank": "91",
+        "max_rank": "190",
+        "min_date": "2022-06-09",
+        "max_date": "2022-06-30",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Want"
+        ],
+        "source_end_date_latest_ls": {
+            "DRUMROLL RECORDS": "2022-06-30"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-06-09": "Want"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-06-30": "Want"
+        }
+    }
+}

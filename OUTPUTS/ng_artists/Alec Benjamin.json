@@ -1,0 +1,22 @@
+{
+    "Alec Benjamin": {
+        "num_of_streams": "129106",
+        "min_rank": "82",
+        "max_rank": "197",
+        "min_date": "2022-07-14",
+        "max_date": "2022-08-18",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Devil Doesnt Bargain"
+        ],
+        "source_end_date_latest_ls": {
+            "Elektra (NEK)": "2022-08-18"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-07-21": "Devil Doesnt Bargain"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-08-18": "Devil Doesnt Bargain"
+        }
+    }
+}

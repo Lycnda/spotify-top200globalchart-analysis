@@ -1,0 +1,22 @@
+{
+    "Southside": {
+        "num_of_streams": "12374",
+        "min_rank": "179",
+        "max_rank": "179",
+        "min_date": "2022-04-28",
+        "max_date": "2022-04-28",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Hold That Heat (feat. Travis Scott)"
+        ],
+        "source_end_date_latest_ls": {
+            "Epic": "2022-04-28"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-04-28": "Hold That Heat (feat. Travis Scott)"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-04-28": "Hold That Heat (feat. Travis Scott)"
+        }
+    }
+}

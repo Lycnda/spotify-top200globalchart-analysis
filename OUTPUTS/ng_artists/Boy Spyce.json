@@ -1,0 +1,26 @@
+{
+    "Boy Spyce": {
+        "num_of_streams": "513780",
+        "min_rank": "57",
+        "max_rank": "197",
+        "min_date": "2022-04-21",
+        "max_date": "2022-08-18",
+        "num_unique_songs": "5",
+        "unique_songs": [
+            "Bad Things",
+            "Destiny",
+            "Dreams",
+            "Nobody",
+            "Wayo"
+        ],
+        "source_end_date_latest_ls": {
+            "Mavin Records": "2022-08-18"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-04-21": "Dreams"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-08-04": "Nobody"
+        }
+    }
+}

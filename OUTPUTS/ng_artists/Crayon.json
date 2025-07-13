@@ -1,0 +1,23 @@
+{
+    "Crayon": {
+        "num_of_streams": "1002273",
+        "min_rank": "15",
+        "max_rank": "147",
+        "min_date": "2022-07-07",
+        "max_date": "2022-09-22",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Ijo (Laba Laba)"
+        ],
+        "source_end_date_latest_ls": {
+            "Mavin Records/Blowtime Ent": "2022-09-22"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-07-28": "Ijo (Laba Laba)",
+            "2022-08-04": "Ijo (Laba Laba)"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-07-07": "Ijo (Laba Laba)"
+        }
+    }
+}

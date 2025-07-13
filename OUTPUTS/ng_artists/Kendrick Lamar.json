@@ -1,0 +1,41 @@
+{
+    "Kendrick Lamar": {
+        "num_of_streams": "2213452",
+        "min_rank": "10",
+        "max_rank": "199",
+        "min_date": "2022-05-12",
+        "max_date": "2022-08-18",
+        "num_unique_songs": "19",
+        "unique_songs": [
+            "Auntie Diaries",
+            "Count Me Out",
+            "Crown",
+            "Die Hard",
+            "Father Time (feat. Sampha)",
+            "Mirror",
+            "Mother I Sober (feat. Beth Gibbons of Portishead)",
+            "Mr. Morale",
+            "N95",
+            "Purple Hearts",
+            "Rich - Interlude",
+            "Rich Spirit",
+            "Savior",
+            "Savior - Interlude",
+            "Silent Hill",
+            "The Heart Part 5",
+            "United In Grief",
+            "We Cry Together",
+            "Worldwide Steppers"
+        ],
+        "source_end_date_latest_ls": {
+            "pgLang/Top Dawg Entertainment/Aftermath/Interscope Records": "2022-08-18"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-05-19": "N95"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-07-21": "Rich Spirit",
+            "2022-06-09": "United In Grief"
+        }
+    }
+}

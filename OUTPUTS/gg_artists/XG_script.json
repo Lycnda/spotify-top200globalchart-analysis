@@ -1,0 +1,27 @@
+{
+    "XG": {
+        "num_of_streams": "449010",
+        "min_rank": "51",
+        "max_rank": "199",
+        "min_date": "2023-02-02",
+        "max_date": "2024-10-17",
+        "num_unique_songs": "5",
+        "artistappearanceCount": "15",
+        "unique_songs": [
+            "IYKYK",
+            "LEFT RIGHT",
+            "SHOOTING STAR",
+            "SOMETHING AIN'T RIGHT",
+            "WOKE UP"
+        ],
+        "source_end_date_latest_ls": {
+            "XGALX": "2024-10-17"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2023-02-09": "SHOOTING STAR"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2023-03-16": "SHOOTING STAR"
+        }
+    }
+}

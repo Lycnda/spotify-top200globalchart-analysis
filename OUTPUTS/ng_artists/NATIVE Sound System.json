@@ -1,0 +1,22 @@
+{
+    "NATIVE Sound System": {
+        "num_of_streams": "11923",
+        "min_rank": "164",
+        "max_rank": "164",
+        "min_date": "2022-04-14",
+        "max_date": "2022-04-14",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Runaway"
+        ],
+        "source_end_date_latest_ls": {
+            "Native Sound Limited": "2022-04-14"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-04-14": "Runaway"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-04-14": "Runaway"
+        }
+    }
+}

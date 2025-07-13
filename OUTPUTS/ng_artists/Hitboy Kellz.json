@@ -1,0 +1,27 @@
+{
+    "Hitboy Kellz": {
+        "num_of_streams": "710741",
+        "min_rank": "6",
+        "max_rank": "87",
+        "min_date": "2022-07-14",
+        "max_date": "2022-09-15",
+        "num_unique_songs": "4",
+        "unique_songs": [
+            "Jegede",
+            "Lowkey",
+            "Pinafore",
+            "Superman"
+        ],
+        "source_end_date_latest_ls": {
+            "The Plug Entertainment": "2022-09-15",
+            "Universal Music International Company Limited Distributed Labels": "2022-07-28"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-07-21": "Jegede",
+            "2022-07-14": "Superman"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-07-21": "Superman"
+        }
+    }
+}

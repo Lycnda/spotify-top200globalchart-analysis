@@ -1,0 +1,23 @@
+{
+    "MAVE:": {
+        "num_of_streams": "157629",
+        "min_rank": "58",
+        "max_rank": "166",
+        "min_date": "2023-02-16",
+        "max_date": "2023-03-16",
+        "num_unique_songs": "1",
+        "artistappearanceCount": "5",
+        "unique_songs": [
+            "PANDORA"
+        ],
+        "source_end_date_latest_ls": {
+            "Metaverse Entertainment Inc.": "2023-03-16"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2023-02-23": "PANDORA"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2023-03-16": "PANDORA"
+        }
+    }
+}

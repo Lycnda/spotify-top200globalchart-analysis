@@ -1,0 +1,39 @@
+{
+    "Omah Lay": {
+        "num_of_streams": "8075027",
+        "min_rank": "4",
+        "max_rank": "198",
+        "min_date": "2022-02-17",
+        "max_date": "2022-09-22",
+        "num_unique_songs": "18",
+        "unique_songs": [
+            "Attention",
+            "Godly",
+            "Understand",
+            "Woman",
+            "attention",
+            "bend you",
+            "how to luv",
+            "i",
+            "im a mess",
+            "never forget",
+            "purple song",
+            "recognize",
+            "safe haven",
+            "soso",
+            "tell everybody",
+            "temptations",
+            "understand",
+            "woman"
+        ],
+        "source_end_date_latest_ls": {
+            "KeyQaad": "2022-09-22"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-03-10": "Attention"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-09-01": "recognize"
+        }
+    }
+}

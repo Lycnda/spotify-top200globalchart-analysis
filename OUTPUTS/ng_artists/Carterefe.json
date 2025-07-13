@@ -1,0 +1,24 @@
+{
+    "Carterefe": {
+        "num_of_streams": "668641",
+        "min_rank": "4",
+        "max_rank": "105",
+        "min_date": "2022-08-04",
+        "max_date": "2022-09-22",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Machala"
+        ],
+        "source_end_date_latest_ls": {
+            "4341823 Records DK": "2022-09-15",
+            "Carterefe Music , under exclusive license to Gurusfiles Media": "2022-08-25",
+            "NEVILLE RECORDS": "2022-09-22"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-08-18": "Machala"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-09-15": "Machala"
+        }
+    }
+}

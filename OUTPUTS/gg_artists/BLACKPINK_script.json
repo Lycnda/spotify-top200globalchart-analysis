@@ -1,0 +1,54 @@
+{
+    "BLACKPINK": {
+        "num_of_streams": "16277662",
+        "min_rank": "1",
+        "max_rank": "200",
+        "min_date": "2021-02-04",
+        "max_date": "2023-10-19",
+        "num_unique_songs": "24",
+        "artistappearanceCount": "460",
+        "unique_songs": [
+            "As If It's Your Last",
+            "Bet You Wanna (feat. Cardi B)",
+            "Crazy Over You",
+            "DDU-DU DDU-DU",
+            "Don't Know What To Do",
+            "Forever Young",
+            "Hard to Love",
+            "How You Like That",
+            "Ice Cream (with Selena Gomez)",
+            "Kill This Love",
+            "Love To Hate Me",
+            "Lovesick Girls",
+            "Pink Venom",
+            "Pretty Savage",
+            "Pretty Savage - JP Ver.",
+            "Ready For Love",
+            "STAY",
+            "Shut Down",
+            "THE GIRLS - BLACKPINK THE GAME OST",
+            "Tally",
+            "The Happiest Girl",
+            "Typa Girl",
+            "Yeah Yeah Yeah",
+            "You Never Know"
+        ],
+        "source_end_date_latest_ls": {
+            "2018 YG Entertainment, distributed through Interscope Records": "2022-08-25",
+            "Universal Music LLC": "2021-10-21",
+            "YG Entertainment": "2022-09-22",
+            "YG Entertainment, distributed through Interscope Records": "2021-09-16",
+            "YG Entertainment/Interscope Records": "2023-10-19"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-08-25": "Pink Venom",
+            "2022-09-22": "Shut Down",
+            "2022-09-29": "Shut Down"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2021-04-08": "As If It's Your Last",
+            "2021-03-18": "DDU-DU DDU-DU",
+            "2021-12-30": "How You Like That"
+        }
+    }
+}

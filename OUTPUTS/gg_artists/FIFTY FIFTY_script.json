@@ -1,0 +1,32 @@
+{
+    "FIFTY FIFTY": {
+        "num_of_streams": "5608721",
+        "min_rank": "9",
+        "max_rank": "198",
+        "min_date": "2023-03-09",
+        "max_date": "2024-10-17",
+        "num_unique_songs": "7",
+        "artistappearanceCount": "86",
+        "unique_songs": [
+            "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
+            "Cupid",
+            "Cupid - Twin Ver.",
+            "Higher",
+            "Lovin' Me",
+            "SOS",
+            "Starry Night"
+        ],
+        "source_end_date_latest_ls": {
+            "ATTRAKT": "2024-10-17",
+            "Atlantic Records": "2023-07-27",
+            "WM Korea": "2024-01-25"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2023-04-20": "Cupid - Twin Ver.",
+            "2023-05-18": "Cupid - Twin Ver."
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2023-10-05": "Cupid - Twin Ver."
+        }
+    }
+}

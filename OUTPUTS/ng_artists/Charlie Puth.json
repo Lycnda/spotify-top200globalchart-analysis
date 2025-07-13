@@ -1,0 +1,22 @@
+{
+    "Charlie Puth": {
+        "num_of_streams": "95657",
+        "min_rank": "74",
+        "max_rank": "197",
+        "min_date": "2022-06-30",
+        "max_date": "2022-09-01",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Left and Right (Feat. Jung Kook of BTS)"
+        ],
+        "source_end_date_latest_ls": {
+            "Atlantic Records": "2022-09-01"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-06-30": "Left and Right (Feat. Jung Kook of BTS)"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-09-01": "Left and Right (Feat. Jung Kook of BTS)"
+        }
+    }
+}

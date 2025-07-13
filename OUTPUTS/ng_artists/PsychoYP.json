@@ -1,0 +1,22 @@
+{
+    "PsychoYP": {
+        "num_of_streams": "13944",
+        "min_rank": "162",
+        "max_rank": "162",
+        "min_date": "2022-06-16",
+        "max_date": "2022-06-16",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Bando Diaries"
+        ],
+        "source_end_date_latest_ls": {
+            "Apex Village": "2022-06-16"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-06-16": "Bando Diaries"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-06-16": "Bando Diaries"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Pheelz": {
+        "num_of_streams": "4533516",
+        "min_rank": "1",
+        "max_rank": "34",
+        "min_date": "2022-03-03",
+        "max_date": "2022-09-22",
+        "num_unique_songs": "2",
+        "unique_songs": [
+            "Electricity",
+            "Finesse"
+        ],
+        "source_end_date_latest_ls": {
+            "Rii Collective": "2022-09-22",
+            "Riidiimacool": "2022-09-22"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-03-10": "Finesse",
+            "2022-03-17": "Finesse",
+            "2022-03-24": "Finesse",
+            "2022-03-31": "Finesse",
+            "2022-04-28": "Finesse",
+            "2022-05-05": "Finesse"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-07-21": "Finesse",
+            "2022-09-08": "Finesse"
+        }
+    }
+}

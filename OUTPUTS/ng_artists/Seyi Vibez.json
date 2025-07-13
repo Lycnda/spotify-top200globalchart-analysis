@@ -1,0 +1,23 @@
+{
+    "Seyi Vibez": {
+        "num_of_streams": "377481",
+        "min_rank": "54",
+        "max_rank": "190",
+        "min_date": "2022-04-14",
+        "max_date": "2022-09-22",
+        "num_unique_songs": "2",
+        "unique_songs": [
+            "+234",
+            "Billion Dollar"
+        ],
+        "source_end_date_latest_ls": {
+            "Seyi Vibez / Dvpper Music": "2022-09-22"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-07-07": "+234"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-05-26": "Billion Dollar"
+        }
+    }
+}

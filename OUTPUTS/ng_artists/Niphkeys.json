@@ -1,0 +1,23 @@
+{
+    "Niphkeys": {
+        "num_of_streams": "803921",
+        "min_rank": "32",
+        "max_rank": "199",
+        "min_date": "2022-02-17",
+        "max_date": "2022-08-18",
+        "num_unique_songs": "2",
+        "unique_songs": [
+            "Blessings",
+            "Man Of The Year"
+        ],
+        "source_end_date_latest_ls": {
+            "Soundhub Ent. / Dvpper Music": "2022-08-18"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-02-17": "Blessings"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-08-18": "Blessings"
+        }
+    }
+}

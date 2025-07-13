@@ -1,0 +1,49 @@
+{
+    "Asake": {
+        "num_of_streams": "18237259",
+        "min_rank": "1",
+        "max_rank": "195",
+        "min_date": "2022-02-17",
+        "max_date": "2022-09-22",
+        "num_unique_songs": "17",
+        "unique_songs": [
+            "Baba God",
+            "Dull",
+            "Dupe",
+            "Joha",
+            "Mr Money",
+            "Muse",
+            "Nzaza",
+            "Omo Ope (feat. Olamide)",
+            "Organise",
+            "Ototo",
+            "Peace Be Unto You (PBUY)",
+            "Reason (feat. Russ)",
+            "Sungba",
+            "Sungba (feat. Burna Boy) - Remix",
+            "Sunmomi",
+            "Terminator",
+            "Trabaye"
+        ],
+        "source_end_date_latest_ls": {
+            "Asake Music": "2022-09-22",
+            "TheGoodVibeTribe, Distributed by Divizzion Global": "2022-09-15",
+            "YBNL / EMPIRE": "2022-09-01",
+            "YBNL 2022": "2022-09-22",
+            "YBNL Nation / EMPIRE": "2022-09-22"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-09-15": "Organise",
+            "2022-09-22": "Organise",
+            "2022-06-23": "Peace Be Unto You (PBUY)",
+            "2022-06-30": "Peace Be Unto You (PBUY)",
+            "2022-07-07": "Peace Be Unto You (PBUY)",
+            "2022-08-25": "Terminator",
+            "2022-09-01": "Terminator",
+            "2022-09-08": "Terminator"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-02-17": "Baba God"
+        }
+    }
+}

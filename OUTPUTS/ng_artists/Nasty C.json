@@ -1,0 +1,22 @@
+{
+    "Nasty C": {
+        "num_of_streams": "31644",
+        "min_rank": "116",
+        "max_rank": "137",
+        "min_date": "2022-02-17",
+        "max_date": "2022-02-24",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Stalling"
+        ],
+        "source_end_date_latest_ls": {
+            "Universal Music (Pty) Ltd.": "2022-02-24"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-02-17": "Stalling"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-02-24": "Stalling"
+        }
+    }
+}

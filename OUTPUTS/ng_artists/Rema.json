@@ -1,0 +1,43 @@
+{
+    "Rema": {
+        "num_of_streams": "7866418",
+        "min_rank": "1",
+        "max_rank": "199",
+        "min_date": "2022-02-17",
+        "max_date": "2022-09-22",
+        "num_unique_songs": "18",
+        "unique_songs": [
+            "Addicted",
+            "Are You There?",
+            "Bounce",
+            "Calm Down",
+            "Calm Down (with Selena Gomez)",
+            "Carry",
+            "Dirty",
+            "Divine",
+            "FYN",
+            "Hold Me",
+            "Jo",
+            "Love",
+            "Mara",
+            "Oroma Baby",
+            "Runaway",
+            "Soundgasm",
+            "Time N Affection",
+            "Wine"
+        ],
+        "source_end_date_latest_ls": {
+            "Mavin Records / Jonzing World": "2022-09-22",
+            "Mavin Records/Jonzing World": "2022-09-22"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-02-17": "Calm Down",
+            "2022-02-24": "Calm Down",
+            "2022-03-03": "Calm Down"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-02-17": "Bounce",
+            "2022-05-19": "Jo"
+        }
+    }
+}

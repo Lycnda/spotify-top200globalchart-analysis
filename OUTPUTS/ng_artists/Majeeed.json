@@ -1,0 +1,22 @@
+{
+    "Majeeed": {
+        "num_of_streams": "15993",
+        "min_rank": "142",
+        "max_rank": "142",
+        "min_date": "2022-05-05",
+        "max_date": "2022-05-05",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Yawa No Dey End"
+        ],
+        "source_end_date_latest_ls": {
+            "Dream Empire Media & Entertainment Limited Under Exclusive License to emPawa Africa Limited": "2022-05-05"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-05-05": "Yawa No Dey End"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-05-05": "Yawa No Dey End"
+        }
+    }
+}

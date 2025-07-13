@@ -1853,3 +1853,220 @@ THE CURRENT CHART LOCALE RUNNING IS: ng
  All Thursdays present: True
  The number of artists in the data: 571
  The output data written to this file: Classification/all_files_ngv1.csv
+The run datetime is: 2025-07-10 22:18:28.836664THE CURRENT CHART LOCALE RUNNING IS: au
+ The number of files is: 132
+ The number of dates is: 132
+ The start dates is: 2016-12-29. The end date is: 2025-07-03
+ All Thursdays present: False
+ The number of artists in the data: 635
+ The output data written to this file: Classification/all_files_auv1.csv
+The run datetime is: 2025-07-10 22:39:18.563222THE CURRENT CHART LOCALE RUNNING IS: in
+ The number of files is: 331
+ The number of dates is: 331
+ The start dates is: 2019-02-28. The end date is: 2025-07-03
+ All Thursdays present: False
+ The number of artists in the data: 818
+ The output data written to this file: Classification/all_files_inv1.csv
+The run datetime is: 2025-07-11 23:37:10.088532THE CURRENT CHART LOCALE RUNNING IS: kr
+ The number of files is: 232
+ The number of dates is: 232
+ The start dates is: 2021-02-04. The end date is: 2025-07-10
+ All Thursdays present: True
+ The number of artists in the data: 776
+ The output data written to this file: Classification/all_files_krv1.csv
+The run datetime is: 2025-07-11 23:37:10.088532THE CURRENT CHART LOCALE RUNNING IS: kr
+ The number of files is: 232
+ The number of dates is: 232
+ The start dates is: 2021-02-04. The end date is: 2025-07-10
+ All Thursdays present: True
+ The number of artists in the data: 776
+ The output data written to this file: Classification/all_files_krv1.csv
+THE CURRENT CHART LOCALE RUNNING IS: za
+ The number of files is: 383
+ The number of dates is: 383
+ The start dates is: 2018-03-15. The end date is: 2025-07-10
+ All Thursdays present: True
+ The number of artists in the data: 1298
+ The output data written to this file: Classification/all_files_zav1.csv
+The run datetime is: 2025-07-11 23:37:10.088532THE CURRENT CHART LOCALE RUNNING IS: kr
+ The number of files is: 232
+ The number of dates is: 232
+ The start dates is: 2021-02-04. The end date is: 2025-07-10
+ All Thursdays present: True
+ The number of artists in the data: 776
+ The output data written to this file: Classification/all_files_krv1.csv
+THE CURRENT CHART LOCALE RUNNING IS: za
+ The number of files is: 383
+ The number of dates is: 383
+ The start dates is: 2018-03-15. The end date is: 2025-07-10
+ All Thursdays present: True
+ The number of artists in the data: 1298
+ The output data written to this file: Classification/all_files_zav1.csv
+THE CURRENT CHART LOCALE RUNNING IS: global
+ The number of files is: 446
+ The number of dates is: 446
+ The start dates is: 2016-12-29. The end date is: 2025-07-10
+ All Thursdays present: True
+ The number of artists in the data: 1452
+ The output data written to this file: Classification/all_files_globalv1.csv
+The run datetime is: 2025-07-11 23:37:10.088532THE CURRENT CHART LOCALE RUNNING IS: kr
+ The number of files is: 232
+ The number of dates is: 232
+ The start dates is: 2021-02-04. The end date is: 2025-07-10
+ All Thursdays present: True
+ The number of artists in the data: 776
+ The output data written to this file: Classification/all_files_krv1.csv
+THE CURRENT CHART LOCALE RUNNING IS: za
+ The number of files is: 383
+ The number of dates is: 383
+ The start dates is: 2018-03-15. The end date is: 2025-07-10
+ All Thursdays present: True
+ The number of artists in the data: 1298
+ The output data written to this file: Classification/all_files_zav1.csv
+THE CURRENT CHART LOCALE RUNNING IS: global
+ The number of files is: 446
+ The number of dates is: 446
+ The start dates is: 2016-12-29. The end date is: 2025-07-10
+ All Thursdays present: True
+ The number of artists in the data: 1452
+ The output data written to this file: Classification/all_files_globalv1.csv
+THE CURRENT CHART LOCALE RUNNING IS: gb
+ The number of files is: 445
+ The number of dates is: 445
+ The start dates is: 2016-12-29. The end date is: 2025-07-03
+ All Thursdays present: True
+ The number of artists in the data: 1296
+ The output data written to this file: Classification/all_files_gbv1.csv
+The run datetime is: 2025-07-11 23:37:10.088532THE CURRENT CHART LOCALE RUNNING IS: kr
+ The number of files is: 232
+ The number of dates is: 232
+ The start dates is: 2021-02-04. The end date is: 2025-07-10
+ All Thursdays present: True
+ The number of artists in the data: 776
+ The output data written to this file: Classification/all_files_krv1.csv
+THE CURRENT CHART LOCALE RUNNING IS: za
+ The number of files is: 383
+ The number of dates is: 383
+ The start dates is: 2018-03-15. The end date is: 2025-07-10
+ All Thursdays present: True
+ The number of artists in the data: 1298
+ The output data written to this file: Classification/all_files_zav1.csv
+THE CURRENT CHART LOCALE RUNNING IS: global
+ The number of files is: 446
+ The number of dates is: 446
+ The start dates is: 2016-12-29. The end date is: 2025-07-10
+ All Thursdays present: True
+ The number of artists in the data: 1452
+ The output data written to this file: Classification/all_files_globalv1.csv
+THE CURRENT CHART LOCALE RUNNING IS: gb
+ The number of files is: 445
+ The number of dates is: 445
+ The start dates is: 2016-12-29. The end date is: 2025-07-03
+ All Thursdays present: True
+ The number of artists in the data: 1296
+ The output data written to this file: Classification/all_files_gbv1.csv
+THE CURRENT CHART LOCALE RUNNING IS: ng
+ The number of files is: 178
+ The number of dates is: 178
+ The start dates is: 2022-02-17. The end date is: 2025-07-10
+ All Thursdays present: True
+ The number of artists in the data: 573
+ The output data written to this file: Classification/all_files_ngv1.csv
+The run datetime is: 2025-07-11 23:37:10.088532THE CURRENT CHART LOCALE RUNNING IS: kr
+ The number of files is: 232
+ The number of dates is: 232
+ The start dates is: 2021-02-04. The end date is: 2025-07-10
+ All Thursdays present: True
+ The number of artists in the data: 776
+ The output data written to this file: Classification/all_files_krv1.csv
+THE CURRENT CHART LOCALE RUNNING IS: za
+ The number of files is: 383
+ The number of dates is: 383
+ The start dates is: 2018-03-15. The end date is: 2025-07-10
+ All Thursdays present: True
+ The number of artists in the data: 1298
+ The output data written to this file: Classification/all_files_zav1.csv
+THE CURRENT CHART LOCALE RUNNING IS: global
+ The number of files is: 446
+ The number of dates is: 446
+ The start dates is: 2016-12-29. The end date is: 2025-07-10
+ All Thursdays present: True
+ The number of artists in the data: 1452
+ The output data written to this file: Classification/all_files_globalv1.csv
+THE CURRENT CHART LOCALE RUNNING IS: gb
+ The number of files is: 445
+ The number of dates is: 445
+ The start dates is: 2016-12-29. The end date is: 2025-07-03
+ All Thursdays present: True
+ The number of artists in the data: 1296
+ The output data written to this file: Classification/all_files_gbv1.csv
+THE CURRENT CHART LOCALE RUNNING IS: ng
+ The number of files is: 178
+ The number of dates is: 178
+ The start dates is: 2022-02-17. The end date is: 2025-07-10
+ All Thursdays present: True
+ The number of artists in the data: 573
+ The output data written to this file: Classification/all_files_ngv1.csv
+THE CURRENT CHART LOCALE RUNNING IS: au
+ The number of files is: 133
+ The number of dates is: 133
+ The start dates is: 2016-12-29. The end date is: 2025-07-10
+ All Thursdays present: False
+ The number of artists in the data: 638
+ The output data written to this file: Classification/all_files_auv1.csv
+The run datetime is: 2025-07-11 23:37:10.088532THE CURRENT CHART LOCALE RUNNING IS: kr
+ The number of files is: 232
+ The number of dates is: 232
+ The start dates is: 2021-02-04. The end date is: 2025-07-10
+ All Thursdays present: True
+ The number of artists in the data: 776
+ The output data written to this file: Classification/all_files_krv1.csv
+THE CURRENT CHART LOCALE RUNNING IS: za
+ The number of files is: 383
+ The number of dates is: 383
+ The start dates is: 2018-03-15. The end date is: 2025-07-10
+ All Thursdays present: True
+ The number of artists in the data: 1298
+ The output data written to this file: Classification/all_files_zav1.csv
+THE CURRENT CHART LOCALE RUNNING IS: global
+ The number of files is: 446
+ The number of dates is: 446
+ The start dates is: 2016-12-29. The end date is: 2025-07-10
+ All Thursdays present: True
+ The number of artists in the data: 1452
+ The output data written to this file: Classification/all_files_globalv1.csv
+THE CURRENT CHART LOCALE RUNNING IS: gb
+ The number of files is: 445
+ The number of dates is: 445
+ The start dates is: 2016-12-29. The end date is: 2025-07-03
+ All Thursdays present: True
+ The number of artists in the data: 1296
+ The output data written to this file: Classification/all_files_gbv1.csv
+THE CURRENT CHART LOCALE RUNNING IS: ng
+ The number of files is: 178
+ The number of dates is: 178
+ The start dates is: 2022-02-17. The end date is: 2025-07-10
+ All Thursdays present: True
+ The number of artists in the data: 573
+ The output data written to this file: Classification/all_files_ngv1.csv
+THE CURRENT CHART LOCALE RUNNING IS: au
+ The number of files is: 133
+ The number of dates is: 133
+ The start dates is: 2016-12-29. The end date is: 2025-07-10
+ All Thursdays present: False
+ The number of artists in the data: 638
+ The output data written to this file: Classification/all_files_auv1.csv
+THE CURRENT CHART LOCALE RUNNING IS: in
+ The number of files is: 332
+ The number of dates is: 332
+ The start dates is: 2019-02-28. The end date is: 2025-07-10
+ All Thursdays present: False
+ The number of artists in the data: 820
+ The output data written to this file: Classification/all_files_inv1.csv
+The run datetime is: 2025-07-12 23:45:19.507028THE CURRENT CHART LOCALE RUNNING IS: gb
+ The number of files is: 446
+ The number of dates is: 446
+ The start dates is: 2016-12-29. The end date is: 2025-07-10
+ All Thursdays present: True
+ The number of artists in the data: 1297
+ The output data written to this file: Classification/all_files_gbv1.csv

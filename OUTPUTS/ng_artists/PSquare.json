@@ -1,0 +1,22 @@
+{
+    "P-Square": {
+        "num_of_streams": "49678",
+        "min_rank": "77",
+        "max_rank": "174",
+        "min_date": "2022-07-28",
+        "max_date": "2022-08-04",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Jaiye (Ihe Geme)"
+        ],
+        "source_end_date_latest_ls": {
+            "Square Root Entertainment": "2022-08-04"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-07-28": "Jaiye (Ihe Geme)"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-08-04": "Jaiye (Ihe Geme)"
+        }
+    }
+}

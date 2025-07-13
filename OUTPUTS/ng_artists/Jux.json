@@ -1,0 +1,22 @@
+{
+    "Jux": {
+        "num_of_streams": "15389",
+        "min_rank": "193",
+        "max_rank": "193",
+        "min_date": "2022-08-25",
+        "max_date": "2022-08-25",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Nice (Kiss)"
+        ],
+        "source_end_date_latest_ls": {
+            "AFRICAN BOY": "2022-08-25"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-08-25": "Nice (Kiss)"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-08-25": "Nice (Kiss)"
+        }
+    }
+}

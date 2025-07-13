@@ -1,0 +1,56 @@
+{
+    "LE SSERAFIM": {
+        "num_of_streams": "45623266",
+        "min_rank": "1",
+        "max_rank": "200",
+        "min_date": "2022-05-05",
+        "max_date": "2024-10-17",
+        "num_unique_songs": "30",
+        "artistappearanceCount": "673",
+        "unique_songs": [
+            "1-800-hot-n-fun",
+            "ANTIFRAGILE",
+            "Blue Flame",
+            "Blue Flame (2023 Ver.)",
+            "Burn the Bridge",
+            "CRAZY",
+            "CRAZY (feat. PinkPantheress)",
+            "Chasing Lightning",
+            "Crazier",
+            "EASY",
+            "Eve, Psyche & The Bluebeards wife",
+            "FEARLESS",
+            "FEARLESS (2023 Ver.)",
+            "FEARNOT (Between you, me and the lamppost)",
+            "Fire in the belly",
+            "Flash Forward",
+            "Good Bones",
+            "Good Parts (when the quality is bad but I am)",
+            "Impurities",
+            "No Celestial",
+            "No-Return (Into the unknown)",
+            "Perfect Night",
+            "Pierrot",
+            "Smart",
+            "Sour Grapes",
+            "Swan Song",
+            "The Great Mermaid",
+            "The Hydra",
+            "UNFORGIVEN (feat. Nile Rodgers)",
+            "We got so much"
+        ],
+        "source_end_date_latest_ls": {
+            "SOURCE MUSIC": "2024-10-17"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-11-03": "ANTIFRAGILE",
+            "2022-11-10": "ANTIFRAGILE",
+            "2022-11-17": "ANTIFRAGILE",
+            "2023-05-11": "UNFORGIVEN (feat. Nile Rodgers)"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2024-07-18": "ANTIFRAGILE",
+            "2023-06-01": "Good Parts (when the quality is bad but I am)"
+        }
+    }
+}

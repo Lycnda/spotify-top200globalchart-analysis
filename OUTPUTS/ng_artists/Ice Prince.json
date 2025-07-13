@@ -1,0 +1,22 @@
+{
+    "Ice Prince": {
+        "num_of_streams": "56672",
+        "min_rank": "92",
+        "max_rank": "133",
+        "min_date": "2022-02-17",
+        "max_date": "2022-03-03",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "Shakara"
+        ],
+        "source_end_date_latest_ls": {
+            "Super Cool Cats Entertainment/Dvpper Music": "2022-03-03"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-02-24": "Shakara"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-03-03": "Shakara"
+        }
+    }
+}

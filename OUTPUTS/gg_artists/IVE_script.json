@@ -1,0 +1,64 @@
+{
+    "IVE": {
+        "num_of_streams": "40164043",
+        "min_rank": "1",
+        "max_rank": "200",
+        "min_date": "2021-12-02",
+        "max_date": "2024-10-10",
+        "num_unique_songs": "24",
+        "artistappearanceCount": "559",
+        "unique_songs": [
+            " (HEYA)",
+            " (Hypnosis)",
+            "Accendio",
+            "After LIKE",
+            "All Night (feat. Saweetie)",
+            "Baddie",
+            "Blue Blood",
+            "ELEVEN",
+            "Either Way",
+            "Heroine",
+            "Holy Moly",
+            "I AM",
+            "I WANT",
+            "Kitsch",
+            "LOVE DIVE",
+            "Lips",
+            "Mine",
+            "My Satisfaction",
+            "NOT YOUR GIRL",
+            "OTT",
+            "Off The Record",
+            "Payback",
+            "ROYAL",
+            "Take It"
+        ],
+        "source_end_date_latest_ls": {
+            "STARSHIP ENTERTAINMENT": "2023-08-31",
+            "STARSHIP Entertainment": "2024-08-15",
+            "Starship Entertainment": "2024-10-10",
+            "Starship Entertainment/Columbia": "2024-02-08"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-09-01": "After LIKE",
+            "2022-09-08": "After LIKE",
+            "2022-09-15": "After LIKE",
+            "2022-01-06": "ELEVEN",
+            "2022-01-13": "ELEVEN",
+            "2023-04-20": "I AM",
+            "2023-04-27": "I AM",
+            "2023-05-04": "I AM",
+            "2022-04-21": "LOVE DIVE",
+            "2022-04-28": "LOVE DIVE",
+            "2022-05-05": "LOVE DIVE",
+            "2022-05-12": "LOVE DIVE",
+            "2022-05-19": "LOVE DIVE",
+            "2022-05-26": "LOVE DIVE",
+            "2022-06-02": "LOVE DIVE",
+            "2022-06-09": "LOVE DIVE"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2023-09-28": "ELEVEN"
+        }
+    }
+}

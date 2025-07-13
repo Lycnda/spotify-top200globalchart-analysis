@@ -1,0 +1,25 @@
+{
+    "Billie Eilish": {
+        "num_of_streams": "143733",
+        "min_rank": "178",
+        "max_rank": "199",
+        "min_date": "2022-02-17",
+        "max_date": "2022-08-11",
+        "num_unique_songs": "2",
+        "unique_songs": [
+            "TV",
+            "lovely (with Khalid)"
+        ],
+        "source_end_date_latest_ls": {
+            "Darkroom": "2022-08-11",
+            "Darkroom/Interscope Records": "2022-07-28"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-06-16": "lovely (with Khalid)"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-07-28": "TV",
+            "2022-03-24": "lovely (with Khalid)"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "Poco Lee": {
+        "num_of_streams": "424562",
+        "min_rank": "57",
+        "max_rank": "196",
+        "min_date": "2022-02-17",
+        "max_date": "2022-05-26",
+        "num_unique_songs": "2",
+        "unique_songs": [
+            "YARD (feat. Black Sherif, Bella Shmurda & Alpha P)",
+            "ZaZoo Zehh"
+        ],
+        "source_end_date_latest_ls": {
+            "Poco Lee distributed by Inglemind Digital": "2022-05-26",
+            "YBNL Nation": "2022-04-21"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-02-24": "ZaZoo Zehh"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-04-21": "ZaZoo Zehh"
+        }
+    }
+}

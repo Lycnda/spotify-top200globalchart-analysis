@@ -1,0 +1,28 @@
+{
+    "Naira Marley": {
+        "num_of_streams": "507157",
+        "min_rank": "30",
+        "max_rank": "193",
+        "min_date": "2022-02-17",
+        "max_date": "2022-07-28",
+        "num_unique_songs": "7",
+        "unique_songs": [
+            "Ayewada",
+            "Coming",
+            "Drink Alcohol Like Its Water",
+            "Happy",
+            "Jo Dada",
+            "Montego Bay",
+            "o'dun"
+        ],
+        "source_end_date_latest_ls": {
+            "My Type Of Music": "2022-07-28"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-05-12": "o'dun"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-02-17": "Coming"
+        }
+    }
+}

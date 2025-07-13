@@ -1,0 +1,22 @@
+{
+    "Smallgod": {
+        "num_of_streams": "13042",
+        "min_rank": "180",
+        "max_rank": "180",
+        "min_date": "2022-07-07",
+        "max_date": "2022-07-07",
+        "num_unique_songs": "1",
+        "unique_songs": [
+            "GIDI GIDI (feat. Black Sherif & Tory Lanez)"
+        ],
+        "source_end_date_latest_ls": {
+            "Nasecworld, Crux Global / MOVES Recordings": "2022-07-07"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-07-07": "GIDI GIDI (feat. Black Sherif & Tory Lanez)"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-07-07": "GIDI GIDI (feat. Black Sherif & Tory Lanez)"
+        }
+    }
+}

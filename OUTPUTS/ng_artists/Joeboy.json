@@ -1,0 +1,28 @@
+{
+    "Joeboy": {
+        "num_of_streams": "1587878",
+        "min_rank": "24",
+        "max_rank": "198",
+        "min_date": "2022-02-17",
+        "max_date": "2022-09-22",
+        "num_unique_songs": "5",
+        "unique_songs": [
+            "Contour",
+            "Cubana",
+            "Door",
+            "Sip (Alcohol)",
+            "Spiritual Gbedu - A COLORS SHOW"
+        ],
+        "source_end_date_latest_ls": {
+            "Banku Music Under Exclusive License to emPawa Africa Limited": "2022-05-12",
+            "COLORSxSTUDIOS": "2022-07-21",
+            "emPawa Africa Limited": "2022-09-22"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-02-17": "Sip (Alcohol)"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-07-21": "Spiritual Gbedu - A COLORS SHOW"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "Tion Wayne": {
+        "num_of_streams": "80441",
+        "min_rank": "160",
+        "max_rank": "200",
+        "min_date": "2022-03-24",
+        "max_date": "2022-05-19",
+        "num_unique_songs": "2",
+        "unique_songs": [
+            "Body (Remix) [feat. ArrDee, E1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign & Darkoo]",
+            "IFTK"
+        ],
+        "source_end_date_latest_ls": {
+            "Atlantic Records UK": "2022-05-19"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-03-24": "Body (Remix) [feat. ArrDee, E1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign & Darkoo]"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-03-31": "Body (Remix) [feat. ArrDee, E1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign & Darkoo]"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "Zlatan": {
+        "num_of_streams": "467852",
+        "min_rank": "78",
+        "max_rank": "198",
+        "min_date": "2022-02-17",
+        "max_date": "2022-09-22",
+        "num_unique_songs": "3",
+        "unique_songs": [
+            "Ale Yi",
+            "Jaboti",
+            "Money"
+        ],
+        "source_end_date_latest_ls": {
+            "Zanku Records": "2022-09-22"
+        },
+        "min_rank_song_unique_dt_ls": {
+            "2022-02-17": "Ale Yi"
+        },
+        "max_rank_song_unique_dt_ls": {
+            "2022-06-23": "Ale Yi"
+        }
+    }
+}
