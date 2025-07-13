@@ -73,6 +73,8 @@ target/
 
 # csvs
 .csv
+DATA/
+OUTPUTS/ 
 
 # pyenv
 .python-version
