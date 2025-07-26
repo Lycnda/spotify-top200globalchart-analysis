@@ -7,8 +7,8 @@ There are Notebooks for Clustering, Data Analysis and PowerBI Data Visualisation
 There are updated csv files which contain a List of Girl Groups, a List of Boy Groups and a List of Mixed Groups files. 
 
 How to Run:
-1. Run the python script named ChartsAnalysisALL.py which is in the folder top200globalchart/updated-spotify-top200globalchart-analysis/spotify-top200globalchart-analysis
-2. It will run all 7 locales "kr", "za", "global", "gb", "ng", "au", "in" which can be selected/de-selected in the top200globalchart/updated-spotify-top200globalchart-analysis/spotify-top200globalchart-analysis/configs/chartsanalysisparams.yml file
-3. The resulting output csv files are named all_files_krv1, all_files_zav1, all_files_globalv1, all_files_gbv1, all_files_NGv1, all_files_auv1, and all_files_inv1 are in the top200globalchart/updated-spotify-top200globalchart-analysis/spotify-top200globalchart-analysis/Classification folder.
+1. Run the python script named ChartsAnalysisALL.py which is in the folder main folder
+2. It will run all 7 locales "kr", "za", "global", "gb", "ng", "au", "in" which can be selected/de-selected in the configs/chartsanalysisparams.yml file
+3. The resulting output csv files are named all_files_krv1, all_files_zav1, all_files_globalv1, all_files_gbv1, all_files_NGv1, all_files_auv1, and all_files_inv1 are in the Classification folder.
 4. The output has 26 columns namely, trackAppearanceCount, artistAppearanceCount,	artist_names,	track_name,	rank,	uri,	source,	peak_rank,	previous_rank,	weeks_on_chart,	streams,	End Date,	Week,	Year,	End Date Dt,	Seconds since Epoch,	End Date Aggregated,	ArtistCount,	main_artist,	isTopTen,	Artist and Track,	rank, difference,	Position over Time,	IsGirlGroup,	IsBoyGroup,	IsMixedGroup.
 
