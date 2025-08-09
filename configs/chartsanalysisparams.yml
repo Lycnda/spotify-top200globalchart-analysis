@@ -1,4 +1,5 @@
 chartdetails:
   # locales: ["kr", "za", "global", "gb", "ng", "au", "in"]
-  locales: ["gb"]
+  locales: ["kr", "za", "global", "gb", "ng", "au", "in"]
+  # locales: ["au"]
   read_enc_val : ["ISO-8859-1", "cp1252", "utf-8"]
