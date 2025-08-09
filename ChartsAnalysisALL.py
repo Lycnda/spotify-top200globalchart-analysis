@@ -150,7 +150,7 @@ for locale_name in thelocalenames:
     
     # the_spotify_data.head()
     
-    the_spotify_data.to_csv("the_spotify_data_" + locale_name+ ".csv")
+    # the_spotify_data.to_csv("the_spotify_data_" + locale_name+ ".csv", index=False)
     
     the_spotify_data["rank"] = the_spotify_data["rank"].astype(int)
     the_spotify_data["streams"] = the_spotify_data["streams"].astype(int)
