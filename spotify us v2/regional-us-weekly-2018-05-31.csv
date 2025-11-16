@@ -1,0 +1,201 @@
+rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,streams,End Date
+1,spotify:track:1cTZMwcBJT0Ka3UJPXOeeN,Drake,Nice For What,Cash Money/Drake LP6,1,1,8,11555034,2018-05-31
+2,spotify:track:6vN77lE9LK6HP2DewaN6HZ,"Lil Baby, Drake",Yes Indeed,"Quality Control Music, LLC",2,3,3,11082014,2018-05-31
+3,spotify:track:0X8DcetL926BYiPJYstJTc,Juice WRLD,Lucid Dreams,Juice WRLD Mixtape / ISR P&D,3,9,4,9969468,2018-05-31
+4,spotify:track:7dt6x5M1jzdTEt8oCbisTK,Post Malone,Better Now,Republic Records,1,4,5,9277695,2018-05-31
+5,spotify:track:0b9oOr2ZgvyQu88wzixux9,Childish Gambino,This Is America,Wolf+Rothstein/RCA Records,1,2,4,8706854,2018-05-31
+6,spotify:track:2XW4DbS6NddZxRPm5rMCeY,Drake,God's Plan,Cash Money/Drake LP6,1,6,19,8412860,2018-05-31
+7,spotify:track:3swc6WTsr7rl9DqQKQA55C,"Post Malone, Ty Dolla $ign",Psycho (feat. Ty Dolla $ign),Republic Records,2,5,14,7939914,2018-05-31
+8,spotify:track:58q2HKrzhC3ozto2nDdN4z,"Cardi B, Bad Bunny, J Balvin",I Like It,Atlantic/KSR,3,8,8,7175665,2018-05-31
+9,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),Bloc Nation,3,7,16,7123819,2018-05-31
+10,spotify:track:54oMZ3blwWwuPN4wEoG5mk,Drake,I'm Upset,Cash Money/Drake LP6,10,-1,1,6664420,2018-05-31
+11,spotify:track:7ycWLEP1GsNjVvcjawXz3z,"A$AP Rocky, Skepta",Praise The Lord (Da Shine) (feat. Skepta),A$AP Worldwide/Polo Grounds Music/RCA Records,11,-1,1,6560025,2018-05-31
+12,spotify:track:0e7ipj03S05BNilyu5bRzt,"Post Malone, 21 Savage",rockstar (feat. 21 Savage),Republic Records,1,10,37,5665940,2018-05-31
+13,spotify:track:3H2JThgdBxezwj1wwafQS8,Juice WRLD,All Girls Are The Same,Juice WRLD Mixtape / ISR P&D,13,34,6,5256428,2018-05-31
+14,spotify:track:6mAz8D1TmlTuef90dbNIiZ,Rich The Kid,Plug Walk,Rich The Kid / (TDE/ISR PS),7,14,16,5177678,2018-05-31
+15,spotify:track:7sO5G9EABYOXQKNPNiE9NR,"Offset, Metro Boomin",Ric Flair Drip (with Metro Boomin),"Slaughter Gang, LLC/Epic/Quality Control Music/Motown/Capitol/Boominati Worldwide/Republic",4,20,31,5046341,2018-05-31
+16,spotify:track:6n4U3TlzUGhdSFbUUhTvLP,"Migos, Drake",Walk It Talk It,"Quality Control Music, LLC",6,13,18,5034265,2018-05-31
+17,spotify:track:3ee8Jmje8o58CHK66QrVC2,XXXTENTACION,SAD!,"Bad Vibes Forever, LLC",2,15,13,4995292,2018-05-31
+18,spotify:track:3fpVWegR6YOS1Yk5HSMYIq,Post Malone,Paranoid,Republic Records,3,11,5,4985170,2018-05-31
+19,spotify:track:5SxkdsY1ufZzoq9iXceLw9,Ariana Grande,no tears left to cry,Republic Records,9,17,6,4928761,2018-05-31
+20,spotify:track:6IaieqiCVvsNvEt6Y7yOFa,"Post Malone, Nicki Minaj",Ball For Me (feat. Nicki Minaj),Republic Records,9,12,5,4909870,2018-05-31
+21,spotify:track:1BuZAIO8WZpavWVbbq3Lci,"Rae Sremmurd, Swae Lee, Slim Jxmmi, Juicy J",Powerglide (feat. Juicy J) - From SR3MM,Mike WiLL Made-It,17,18,13,4883722,2018-05-31
+22,spotify:track:45Egmo7icyopuzJN0oMEdk,"Khalid, Normani",Love Lies,RCA Records Label,9,28,15,4555735,2018-05-31
+23,spotify:track:6Hgh47WXVKtXN5zGOu0hjI,"Khalid, 6LACK, Ty Dolla $ign",OTW,"Right Hand Music Group, LLC/RCA Records",20,25,6,4488741,2018-05-31
+24,spotify:track:5PTG6rrL6EPFD9E2QMI2pl,Famous Dex,JAPAN,300 Entertainment,12,27,11,4444067,2018-05-31
+25,spotify:track:5VuxWXbt7XENQCtE9TzpTv,"Post Malone, Swae Lee",Spoil My Night (feat. Swae Lee),Republic Records,4,16,5,4424183,2018-05-31
+26,spotify:track:4F1yvJfQ7gJkrcgFJQDjOr,"KYLE, Kehlani",Playinwitme (feat. Kehlani),independently popular.,24,24,9,4369765,2018-05-31
+27,spotify:track:514rhnksEwHUh6LxXsQ4Y9,Selena Gomez,Back To You,UMGRI Interscope,27,31,3,4324033,2018-05-31
+28,spotify:track:4H7WNRErSbONkM06blBoGc,Post Malone,Stay,Republic Records,6,19,5,4242577,2018-05-31
+29,spotify:track:2BJSMvOGABRxokHKB0OI8i,"Playboi Carti, Lil Uzi Vert",Shoota (feat. Lil Uzi Vert),AWGE Label,27,30,3,4197442,2018-05-31
+30,spotify:track:2VdT56BGpdqNHUgOe1j5vc,Post Malone,Rich & Sad,Republic Records,5,22,5,4129515,2018-05-31
+31,spotify:track:7iDa6hUg2VgEL1o1HjmfBn,"Bebe Rexha, Florida Georgia Line",Meant to Be (feat. Florida Georgia Line),Warner Records,16,35,38,4108086,2018-05-31
+32,spotify:track:1gm616Plq4ScqNi7TVkZ5N,The Weeknd,Call Out My Name,Universal Republic Records,1,29,9,4076191,2018-05-31
+33,spotify:track:0u2P5u6lvoDfwTYjAADbn4,"Billie Eilish, Khalid",lovely (with Khalid),Darkroom,33,45,6,4059293,2018-05-31
+34,spotify:track:75ZvA4QfFiZvzhj2xkaWAh,Post Malone,I Fall Apart,Universal Records,2,37,37,4022026,2018-05-31
+35,spotify:track:7yotKA30dwTKNEGomV9ZsI,J. Cole,KOD,J. Cole P&D,2,26,6,3920795,2018-05-31
+36,spotify:track:21YnmkSDhUkmkkni22Svc4,Shawn Mendes,In My Blood,Island Records,11,73,10,3918631,2018-05-31
+37,spotify:track:32lItqlMi4LBhb4k0BaSaC,Post Malone,Candy Paint,Republic Records,4,32,54,3918127,2018-05-31
+38,spotify:track:0Dq49j3dELbttQVUJbtn0c,Shawn Mendes,Nervous,Island Records,38,-1,1,3915386,2018-05-31
+39,spotify:track:10Igtw8bSDyyFs7KIsKngZ,"Lil Dicky, Chris Brown",Freaky Friday (feat. Chris Brown),Commission/BMG,6,33,11,3910197,2018-05-31
+40,spotify:track:7ef4DlsgrMEH11cDZd32M6,"Calvin Harris, Dua Lipa",One Kiss (with Dua Lipa),Sony Music UK,19,38,8,3905561,2018-05-31
+41,spotify:track:55S2PQgSMYAhgoTCcGCDfw,5 Seconds of Summer,Youngblood,Capitol,41,49,7,3867198,2018-05-31
+42,spotify:track:3DoBTwfr8yi2LN08SBpFkN,"Travis Scott, Lil Uzi Vert, Kanye West",Watch (feat. Lil Uzi Vert & Kanye West),Epic/Grand Hustle/Cactus Jack,8,23,4,3796727,2018-05-31
+43,spotify:track:5SwEgzUFDHwpWHKrbnP32Z,"Shawn Mendes, Khalid",Youth (feat. Khalid),Island Records,40,56,4,3755521,2018-05-31
+44,spotify:track:2ARqIya5NAuvFVHSN3bL0m,"Zedd, Maren Morris, Grey",The Middle,UMGRI Interscope,7,36,18,3669278,2018-05-31
+45,spotify:track:3V8UKqhEK5zBkBb6d6ub8i,"Nio Garcia, Casper Magico, Bad Bunny, Darell, Ozuna, Nicky Jam",Te Boté - Remix,"Flow La Movie, Inc.",45,48,7,3620981,2018-05-31
+46,spotify:track:5IaHrVsrferBYDm0bDyABy,"Tyga, Offset",Taste (feat. Offset),Last Kings Music / EMPIRE,46,102,2,3553547,2018-05-31
+47,spotify:track:6bGwKHXHNLmTy6yt147FPh,Pusha T,If You Know You Know,"Getting Out Our Dreams, Inc./Def Jam Recordings",47,-1,1,3528700,2018-05-31
+48,spotify:track:51rXHuKN8Loc4sUlKPODgH,"Jay Rock, Kendrick Lamar, Future, James Blake","King's Dead (with Kendrick Lamar, Future & James Blake)",Black Panther (TDE/DMG) PS,7,44,20,3486216,2018-05-31
+49,spotify:track:3aW0ds4A4tSQDIp75FqWTo,BTS,FAKE LOVE,BIGHIT MUSIC,21,21,2,3464251,2018-05-31
+50,spotify:track:3oHkMCVJyOcjg5FhfLc2Rq,"A$AP Rocky, Moby, T.I., Kid Cudi","A$AP Forever REMIX (feat. Moby, T.I. & Kid Cudi)",A$AP Worldwide/Polo Grounds Music/RCA Records,50,-1,1,3458627,2018-05-31
+51,spotify:track:3GCdLUSnKSMJhs4Tj6CV3s,"Kendrick Lamar, SZA","All The Stars (with SZA) - From ""Black Panther: The Album""",Black Panther (TDE/DMG) PS,2,42,21,3454899,2018-05-31
+52,spotify:track:7uzmGiiJyRfuViKKK3lVmR,Bazzi,Mine,iamcosmic,4,43,20,3343759,2018-05-31
+53,spotify:track:6kp0inxIexxSiDJfWqq0ZL,"6ix9ine, DJ SpinKing",TATI (feat. DJ Spinking),"ScumGang Records / TenThousand Projects, LLC",53,-1,1,3158888,2018-05-31
+54,spotify:track:2UVbBKQOdFAekPTRsnkzcf,Migos,Stir Fry,"Quality Control Music, LLC",2,53,23,3158123,2018-05-31
+55,spotify:track:1D2L6MefbXon28PzIk9I3r,Post Malone,92 Explorer,Republic Records,14,40,5,3132105,2018-05-31
+56,spotify:track:7GX5flRQZVHRAGd6B4TmDO,Lil Uzi Vert,XO Tour Llif3,Generation Now/Atlantic,2,54,62,3125604,2018-05-31
+57,spotify:track:09IOPhEh1OMe0HD9b36FJk,Post Malone,Over Now,Republic Records,8,39,5,3115707,2018-05-31
+58,spotify:track:2Yl4OmDby9iitgNWZPwxkd,Cardi B,Be Careful,Atlantic/KSR,10,52,9,3111287,2018-05-31
+59,spotify:track:5lZZmityu9TAjNvSY6GLhR,Post Malone,Zack And Codeine,Republic Records,10,41,5,3006098,2018-05-31
+60,spotify:track:08bNPGLD8AhKpnnERrAc6G,"Marshmello, Anne-Marie",FRIENDS,Joytime Collective,17,50,16,2953582,2018-05-31
+61,spotify:track:5vnuJ8EopkP5dHukpOmT3L,"Pusha T, Kanye West",What Would Meek Do?,"Getting Out Our Dreams, Inc./Def Jam Recordings",61,-1,1,2925365,2018-05-31
+62,spotify:track:0dSIrRkA4PadGll16TgbnV,"Famous Dex, A$AP Rocky",PICK IT UP (feat. A$AP Rocky),300 Entertainment,14,57,31,2903429,2018-05-31
+63,spotify:track:1AqemxWsT0iGg5Lvkm16Bt,"A$AP Rocky, FKA twigs",Fukk Sleep (feat. FKA twigs),A$AP Worldwide/Polo Grounds Music/RCA Records,63,-1,1,2866134,2018-05-31
+64,spotify:track:0JP9xo3adEtGSdUEISiszL,XXXTENTACION,Moonlight,"Bad Vibes Forever, LLC",5,55,11,2838826,2018-05-31
+65,spotify:track:5ffntNJnJOeFv7b7DCd0Bw,Post Malone,Takin' Shots,Republic Records,12,46,5,2782761,2018-05-31
+66,spotify:track:6nO3tr47nr2P7f3hXb8JIo,"NAV, Travis Scott",Champion (feat. Travis Scott),Republic Records,60,60,2,2779926,2018-05-31
+67,spotify:track:688QpQAwqsLdBR6lr13wK1,"Post Malone, G-Eazy, YG",Same Bitches (feat. G-Eazy & YG),Republic Records,13,47,5,2742199,2018-05-31
+68,spotify:track:1HXy5I3HTWq8OvxCn0z7G7,Kane Brown,Heaven,RCA Records Label Nashville,60,65,20,2708075,2018-05-31
+69,spotify:track:3bH4HzoZZFq8UpZmI2AMgV,John Mayer,New Light,Columbia,69,-1,2,2655592,2018-05-31
+70,spotify:track:3pWcj8hxj3fsb9TDAcMpEl,"The Chainsmokers, Drew Love",Somebody,Disruptor Records/Columbia,70,72,6,2638241,2018-05-31
+71,spotify:track:3ZhTT6yjZwpPph5MIJ53XY,"Lil Skies, Landon Cube",Red Roses (feat. Landon Cube),All We Got Ent.,38,59,22,2629704,2018-05-31
+72,spotify:track:7KXjTSCq5nL1LoYtL7XAwS,Kendrick Lamar,HUMBLE.,Aftermath,1,64,61,2626391,2018-05-31
+73,spotify:track:3a1lNhkSLSkpJE4MSHpDu9,"Post Malone, Quavo",Congratulations,Universal Records,5,66,75,2622504,2018-05-31
+74,spotify:track:2gTYVoQCUh0QNUaFix01ld,Nicki Minaj,Chun-Li,Young Money/Cash Money Records,31,62,7,2587204,2018-05-31
+75,spotify:track:52eYVUkFTOVozbVFIaFrnV,A$AP Rocky,Tony Tone,A$AP Worldwide/Polo Grounds Music/RCA Records,75,-1,1,2586258,2018-05-31
+76,spotify:track:2RM4jf1Xa9zPgMGRDiht8O,"YG, 2 Chainz, Big Sean, Nicki Minaj","BIG BANK (feat. 2 Chainz, Big Sean, Nicki Minaj)",Def Jam Recordings,76,-1,1,2562390,2018-05-31
+77,spotify:track:44KKhCyI0BGS6LvVyDqJtH,Lil Pump,Esskeetit,Warner Records,32,68,7,2556329,2018-05-31
+78,spotify:track:6ImrWnhjEOw5re3cGLMIHJ,A$AP Rocky,Buck Shots,A$AP Worldwide/Polo Grounds Music/RCA Records,78,-1,1,2520794,2018-05-31
+79,spotify:track:57q6BgYP4gN6hPQViCB3um,A$AP Rocky,Distorted Records,A$AP Worldwide/Polo Grounds Music/RCA Records,79,-1,1,2447502,2018-05-31
+80,spotify:track:5Z3GHaZ6ec9bsiI5BenrbY,Khalid,Young Dumb & Broke,"Right Hand Music Group, LLC/RCA Records",6,74,60,2435483,2018-05-31
+81,spotify:track:5mqzhMuUpvnMfwNz6iepmO,"Diplo, French Montana, Lil Pump, Zhavia","Welcome to the Party (with French Montana & Lil Pump, feat. Zhavia Ward) - from Deadpool 2",Columbia,81,107,2,2432799,2018-05-31
+82,spotify:track:7iEoaTyBCqLaAwJnOP1BTn,Pusha T,The Games We Play,"Getting Out Our Dreams, Inc./Def Jam Recordings",82,-1,1,2430649,2018-05-31
+83,spotify:track:7m9OqQk4RVRkw9JJdeAw96,XXXTENTACION,Jocelyn Flores,Bad Vibes Forever / EMPIRE,3,71,40,2413983,2018-05-31
+84,spotify:track:7Il2yWQmsqKgSkLQvHTPUI,Dan + Shay,Tequila,Warner Records,64,100,13,2383545,2018-05-31
+85,spotify:track:3RWM7z6BF8C6z9ypLtxz4M,Juice WRLD,Lean Wit Me,Juice WRLD Mixtape / ISR P&D,85,-1,1,2383176,2018-05-31
+86,spotify:track:6WBTeFDEfAJbaSUUc1V1xQ,Shawn Mendes,Lost In Japan,Island Records,22,-1,6,2366111,2018-05-31
+87,spotify:track:39N9RPD9MRb5WmoLzNzPeA,"Nicky Jam, J Balvin",X,Sony Music Latin,40,86,13,2356754,2018-05-31
+88,spotify:track:1rfofaqEpACxVEHIZBJe6W,"Camila Cabello, Young Thug",Havana (feat. Young Thug),Syco Music/Epic,2,82,43,2349888,2018-05-31
+89,spotify:track:6gBFPUFcJLzWGx4lenP6h2,Travis Scott,goosebumps,Cactus Jack / Epic,16,79,75,2345027,2018-05-31
+90,spotify:track:6cpsixIHI63L0hwh3CwZg3,Pusha T,Infrared,"Getting Out Our Dreams, Inc./Def Jam Recordings",90,-1,1,2322884,2018-05-31
+91,spotify:track:6kPJZM97LwdG9QIsT7khp6,"Clean Bandit, Demi Lovato",Solo (feat. Demi Lovato),Atlantic Records UK,61,61,2,2318828,2018-05-31
+92,spotify:track:2u7mxWSeoqTXndK5e08jMp,"Lil Skies, Landon Cube",Nowadays (feat. Landon Cube),All We Got Ent.,30,77,22,2306822,2018-05-31
+93,spotify:track:794QVQtFNy7hvtjQP1keQd,"G-Eazy, Yo Gotti, YBN Nahmir",1942 (feat. Yo Gotti & YBN Nahmir),BPG/RVG/RCA Records,44,69,7,2304459,2018-05-31
+94,spotify:track:4qWCFTuNnmGNdY4egtb4ZY,Post Malone,Otherside,Republic Records,15,58,5,2289637,2018-05-31
+95,spotify:track:5N521RK66Z1FP0Oz6B4OlT,"A$AP Rocky, Juicy J",Gunz N Butter (feat. Juicy J),A$AP Worldwide/Polo Grounds Music/RCA Records,95,-1,1,2246769,2018-05-31
+96,spotify:track:152lZdxL1OR0ZMW6KquMif,Khalid,Location,"Right Hand Music Group, LLC/RCA Records",9,87,74,2245403,2018-05-31
+97,spotify:track:2fQrGHiQOvpL9UgPvtYy6G,21 Savage,Bank Account,"Slaughter Gang, LLC/Epic Records",1,83,47,2242370,2018-05-31
+98,spotify:track:3HgA5R5alihocnOYE9ihpS,"Pusha T, Rick Ross",Hard Piano,"Getting Out Our Dreams, Inc./Def Jam Recordings",98,-1,1,2238805,2018-05-31
+99,spotify:track:7oJrVhiTPZGBXWPwhxjy9S,Lil Skies,Lust,All We Got Ent.,80,80,18,2218926,2018-05-31
+100,spotify:track:5TX0mfUkpGlU6j2xa00ERx,A$AP Rocky,OG Beeper,A$AP Worldwide/Polo Grounds Music/RCA Records,100,-1,1,2213538,2018-05-31
+101,spotify:track:6tZ3b7ik1QDXFAZlXib0YZ,J. Cole,Kevin’s Heart,J. Cole P&D,4,63,6,2206763,2018-05-31
+102,spotify:track:51wrmElSLxFzc0vSQPeTxs,Shawn Mendes,Where Were You In The Morning?,Island Records,102,185,2,2204787,2018-05-31
+103,spotify:track:4kWO6O1BUXcZmaxitpVUwp,"Tiësto, Dzeko, Preme, Post Malone",Jackie Chan,"Universal Music, a division of Universal International Music BV",103,111,2,2192817,2018-05-31
+104,spotify:track:2BuBXn15gj4MNYZydyWgrk,Pusha T,Come Back Baby,"Getting Out Our Dreams, Inc./Def Jam Recordings",104,-1,1,2183199,2018-05-31
+105,spotify:track:4dVpf9jZjcORqGTLUaeYj9,A$AP Ferg,Plain Jane,RCA Records Label,8,94,40,2177649,2018-05-31
+106,spotify:track:2iWEpiPiIPf5D4f2UGBlrZ,YBN Nahmir,Bounce Out With That,2018,30,91,17,2141071,2018-05-31
+107,spotify:track:4EAV2cKiqKP5UPZmY6dejk,"Logic, Marshmello",Everyday,Def Jam Recordings,6,98,13,2113428,2018-05-31
+108,spotify:track:0eHCArTPhwUxatY7cEXRiK,"Rich The Kid, Kendrick Lamar",New Freezer (feat. Kendrick Lamar),Rich The Kid / (TDE/ISR PS),31,90,35,2109470,2018-05-31
+109,spotify:track:4ofvoCdXq99vpMZO4Cfp8x,"The Weeknd, Kendrick Lamar",Pray For Me,Universal Republic Records,3,84,17,2107685,2018-05-31
+110,spotify:track:4LKSaRoKNnlpKXTT663BrT,Pusha T,Santeria,"Getting Out Our Dreams, Inc./Def Jam Recordings",110,-1,1,2101475,2018-05-31
+111,spotify:track:1wGYcpJZ59rePkNu4zHmLu,"A$AP Rocky, Kodak Black",CALLDROPS (feat. Kodak Black),A$AP Worldwide/Polo Grounds Music/RCA Records,111,-1,1,2096640,2018-05-31
+112,spotify:track:1ZemPoaj7LBj1RAQrb89EC,Post Malone,Blame It On Me,Republic Records,18,67,5,2093872,2018-05-31
+113,spotify:track:6EGAfJaLUFzhS4zRBIEQ2J,Jason Aldean,You Make It Easy,Broken Bow Records,84,89,18,2086074,2018-05-31
+114,spotify:track:7AQim7LbvFVZJE3O8TYgf2,"XXXTENTACION, Trippie Redd",Fuck Love,Bad Vibes Forever / EMPIRE,8,93,40,2084065,2018-05-31
+115,spotify:track:6PGoSes0D9eUDeeAafB2As,"Kendrick Lamar, Zacari",LOVE. FEAT. ZACARI.,Aftermath,5,97,59,2082201,2018-05-31
+116,spotify:track:0At2qAoaVjIwWNAqrscXli,Ella Mai,Boo'd Up,10 Summers / Interscope PS,116,124,3,2065150,2018-05-31
+117,spotify:track:2djdCbLj1pzRmrDNe7PkW2,Panic! At The Disco,High Hopes,DCD2 / Fueled By Ramen,117,-1,1,2037192,2018-05-31
+118,spotify:track:4vaxvNDaLSoD36iZX515ug,Lil Xan,Betrayed,Columbia,23,103,33,2033988,2018-05-31
+119,spotify:track:1lsBTdE6MGsKeZCD6llNu7,"Charlie Puth, Kehlani",Done for Me (feat. Kehlani),Artist Partner,95,95,4,2029626,2018-05-31
+120,spotify:track:0dIoGTQXDh1wVnhIiSyYEa,"Cardi B, 21 Savage",Bartier Cardi (feat. 21 Savage),Atlantic/KSR,4,106,23,2029250,2018-05-31
+121,spotify:track:7AFASza1mXqntmGtbxXprO,XXXTENTACION,changes,"Bad Vibes Forever, LLC",13,85,13,2026513,2018-05-31
+122,spotify:track:4eWQlBRaTjPPUlzacqEeoQ,Camila Cabello,Never Be the Same,Syco Music/Epic,5,101,25,2023567,2018-05-31
+123,spotify:track:6KBYefIoo7KydImq1uUQlL,Cardi B,Bodak Yellow,Atlantic/KSR,3,105,45,2021447,2018-05-31
+124,spotify:track:1yxgsra98r3qAtxqiGZPiX,Travis Scott,BUTTERFLY EFFECT,Cactus Jack / Epic,9,110,54,2014858,2018-05-31
+125,spotify:track:5PIfH6BzcmH04RDmtzF0BN,YoungBoy Never Broke Again,Outside Today,"Never Broke Again, LLC",78,92,17,2010720,2018-05-31
+126,spotify:track:0MrRAUcB8AZiB9ue2VOBYe,Post Malone,Sugar Wraith,Republic Records,21,76,5,2002817,2018-05-31
+127,spotify:track:2MF4HtZHBoUliOi9nOAbS0,"A$AP Rocky, Frank Ocean",Purity (feat. Frank Ocean),A$AP Worldwide/Polo Grounds Music/RCA Records,127,-1,1,1979861,2018-05-31
+128,spotify:track:5QskYLFPX9y7pLU0VEMNbr,"Shawn Mendes, Julia Michaels",Like To Be You (feat. Julia Michaels),Island Records,128,-1,1,1975560,2018-05-31
+129,spotify:track:76cy1WJvNGJTj78UqeA5zr,Dua Lipa,IDGAF,Warner Records,24,112,22,1958149,2018-05-31
+130,spotify:track:2UciqgwVDwro0fev3MFbxJ,J. Cole,ATM,J. Cole P&D,3,70,6,1951433,2018-05-31
+131,spotify:track:4wFjTWCunQFKtukqrNijEt,"Migos, Nicki Minaj, Cardi B",MotorSport,"Quality Control Music, LLC",9,117,31,1950304,2018-05-31
+132,spotify:track:2DQ1ITjI0YoLFzuADN1ZBW,"G-Eazy, A$AP Rocky, Cardi B",No Limit,BPG/RVG/RCA Records,2,118,38,1949042,2018-05-31
+133,spotify:track:1Faq8G2y56A8fRv7HsLq25,"NAV, Lil Uzi Vert",Wanted You (feat. Lil Uzi Vert),Republic Records,28,75,29,1948381,2018-05-31
+134,spotify:track:0OWZFobGSIW9GrSlQ9C5pc,Thomas Rhett,Marry Me,The Valory Music Co.,62,114,25,1946695,2018-05-31
+135,spotify:track:5tz69p7tJuGPeMGwNTxYuV,"Logic, Alessia Cara, Khalid",1-800-273-8255,Def Jam Recordings,1,115,57,1935186,2018-05-31
+136,spotify:track:1AT4xjNarTswd0UZ5FlmKF,J. Cole,Motiv8,J. Cole P&D,5,78,6,1933533,2018-05-31
+137,spotify:track:26gceVsA1ybT8qsX3aYLEn,Imagine Dragons,Thunder,Kid Ina Korner / Interscope,21,121,57,1912945,2018-05-31
+138,spotify:track:6XlSyYFTU1nodeWwwzVgTV,"Pharrell Williams, Camila Cabello",Sangria Wine,Columbia,51,51,2,1884061,2018-05-31
+139,spotify:track:63SevszngYpZOwf63o61K4,Dennis Lloyd,Nevermind,WM Italy,36,88,11,1881674,2018-05-31
+140,spotify:track:3kxfsdsCpFgN412fpnW85Y,Childish Gambino,Redbone,Glassnote - VMG,9,108,75,1865693,2018-05-31
+141,spotify:track:5I8oEqbk2ZBmQfXCrZbUFb,Shawn Mendes,Fallin' All In You,Island Records,141,-1,1,1855661,2018-05-31
+142,spotify:track:7vGuf3Y35N4wmASOKLUVVU,"Marshmello, Khalid",Silence,Joytime Collective/RCA Records,10,141,42,1849383,2018-05-31
+143,spotify:track:3Vo4wInECJQuz9BIBMOu8i,"Bruno Mars, Cardi B",Finesse - Remix; feat. Cardi B,Atlantic Records,2,130,21,1837738,2018-05-31
+144,spotify:track:2ekn2ttSfGqwhhate0LSR0,Dua Lipa,New Rules,Warner Records,20,125,46,1835215,2018-05-31
+145,spotify:track:6SFStUDQZNaGPKWOx9ZiJB,Anne-Marie,2002,Atlantic Records UK,128,161,6,1829872,2018-05-31
+146,spotify:track:4gB7HrYHbJVJ5RFOjxmoq4,Luke Combs,One Number Away,River House Artists/Columbia Nashville,140,193,7,1818151,2018-05-31
+147,spotify:track:1XRgIKC5TPwo7nWGyKqgG0,"Gucci Mane, Migos",I Get the Bag (feat. Migos),Guwop Enterprises/Atlantic,7,127,41,1807783,2018-05-31
+148,spotify:track:40oKW22ZNNkEdZLJTScaQI,"Kodak Black, XXXTENTACION",Roll in Peace (feat. XXXTENTACION),Atlantic Records,24,119,41,1803183,2018-05-31
+149,spotify:track:7mldq42yDuxiUNn08nvzHO,Sam Hunt,Body Like A Back Road,MCA Nashville,15,142,69,1799132,2018-05-31
+150,spotify:track:3B54sVLJ402zGa6Xm4YGNe,"French Montana, Swae Lee",Unforgettable,Bad Boy Entertainment/Epic Records,1,132,60,1785095,2018-05-31
+151,spotify:track:6mORGLOz79w6VsCRLWYYuK,Lord Huron,The Night We Met,Play It Again Sam,48,170,26,1767464,2018-05-31
+152,spotify:track:0qp8MuZNKelOGTK2HPlXBA,A$AP Rocky,Kids Turned Out Fine,A$AP Worldwide/Polo Grounds Music/RCA Records,152,-1,1,1764853,2018-05-31
+153,spotify:track:7ms3VzLTfr7fXNOqA4Mkx9,"Lil Skies, Rich The Kid",Creeping (feat. Rich the Kid),All We Got Ent.,86,122,7,1764075,2018-05-31
+154,spotify:track:7Izh7zLJGw1Nscd62Exxj4,Imagine Dragons,Believer,Kid Ina Korner / Interscope,11,145,69,1758139,2018-05-31
+155,spotify:track:5WoaF1B5XIEnWfmb5NZikf,"Miguel, Travis Scott",Sky Walker (feat. Travis Scott),ByStorm Entertainment/RCA Records,21,139,40,1756428,2018-05-31
+156,spotify:track:1f5PNhkNgUpvDEeZfcIlO1,"Cardi B, SZA",I Do (feat. SZA),Atlantic/KSR,12,129,8,1754741,2018-05-31
+157,spotify:track:0tgVpDi06FyKpA1z0VMD4v,Ed Sheeran,Perfect,Atlantic Records UK,13,133,56,1743108,2018-05-31
+158,spotify:track:2qcG0nZ6S3zZV0UrkY5nFo,"Cardi B, Migos",Drip (feat. Migos),Atlantic/KSR,17,116,8,1741396,2018-05-31
+159,spotify:track:6mrKP2jyIQmM0rw6fQryjr,NF,Let You Down,NF Real Music,11,134,35,1737234,2018-05-31
+160,spotify:track:62vpWI1CHwFy7tMIcSStl8,J. Cole,No Role Modelz,Roc Nation Records LLC,65,148,75,1734997,2018-05-31
+161,spotify:track:2eAZfqOm4EnOF9VvN50Tyc,"Lil Uzi Vert, Oh Wonder",The Way Life Goes (feat. Oh Wonder),Generation Now/Atlantic,8,138,40,1725480,2018-05-31
+162,spotify:track:1r33iukEx0COYuBzyXPmPP,A$AP Rocky,Hun43rd,A$AP Worldwide/Polo Grounds Music/RCA Records,162,-1,1,1710887,2018-05-31
+163,spotify:track:7CneiDesUKFJO3Ix01dnfr,Taylor Swift,Delicate,Taylor Swift,23,126,18,1700303,2018-05-31
+164,spotify:track:4RMqA9GixWNB7H6coZFXJN,"Belly, The Weeknd",What You Want,Roc Nation Records,164,-1,1,1697937,2018-05-31
+165,spotify:track:7EulRO07ZgchxqKUHb8Pvc,J. Cole,1985 - Intro to “The Fall Off”,J. Cole P&D,7,99,6,1696811,2018-05-31
+166,spotify:track:4DTpngLjoHj5gFxEZFeD3J,"Kodak Black, Lil Wayne",Codeine Dreaming (feat. Lil Wayne),Atlantic Records,11,144,27,1688239,2018-05-31
+167,spotify:track:1u0CD4fcBUB1xrG9fNgejh,"Ty Dolla $ign, 21 Savage",Clout (feat. 21 Savage),Atlantic Records,73,120,3,1680955,2018-05-31
+168,spotify:track:6MmtDonkpvSoRx9ACwrGDu,"A$AP Rocky, French Montana",Brotha Man (feat. French Montana),A$AP Worldwide/Polo Grounds Music/RCA Records,168,-1,1,1680544,2018-05-31
+169,spotify:track:1mMLMZYXkMueg65jRRWG1l,Luke Combs,When It Rains It Pours,River House Artists/Columbia Nashville,123,136,37,1676869,2018-05-31
+170,spotify:track:2VKf0WEOpq06JE5PTNr9wa,"Tee Grizzley, Lil Pump",Jettski Grizzley (feat. Lil Pump),300 Entertainment,61,96,3,1666189,2018-05-31
+171,spotify:track:1QRJb5VY3sIkCKcTuIKCrk,YBN Nahmir,Rubbin off the Paint,M.M.M.,51,151,31,1661275,2018-05-31
+172,spotify:track:2374M0fQpWi3dLnB54qaLX,TOTO,Africa,Columbia,172,184,8,1647089,2018-05-31
+173,spotify:track:7qiZfU4dY1lWllzX7mPBI3,Ed Sheeran,Shape of You,Atlantic Records UK,1,157,73,1641984,2018-05-31
+174,spotify:track:5yuShbu70mtHXY0yLzCQLQ,Post Malone,Go Flex,Universal Records,24,153,75,1633449,2018-05-31
+175,spotify:track:6xTU6B6nFwKKTSZ9ySXS80,"Kygo, Miguel",Remind Me to Forget,Kygo,63,109,11,1624870,2018-05-31
+176,spotify:track:1f5cbQtDrykjarZVrShaDI,"A Boogie Wit da Hoodie, Kodak Black",Drowning (feat. Kodak Black),Highbridge The Label,21,155,63,1622982,2018-05-31
+177,spotify:track:1KXFoiT2n4QXRsFvhWNI4I,Shawn Mendes,Why,Island Records,177,-1,1,1611248,2018-05-31
+178,spotify:track:4LiMQ6G9n84rDUBs9wtwz6,Jordan Davis,Singles You Up,MCA Nashville,146,150,13,1610684,2018-05-31
+179,spotify:track:5mCPDVBb16L4XQwDdbRUpz,Drake,Passionfruit,Cash Money Records/Young Money Ent./Universal Rec.,1,166,63,1609725,2018-05-31
+180,spotify:track:1mmAqhLcvPrknbslMiDlyU,Shawn Mendes,Particular Taste,Island Records,180,-1,1,1609715,2018-05-31
+181,spotify:track:2bSk87AVkCIIC3Bcligq1z,"Lil Baby, Gunna, Lil Uzi Vert",Life Goes On,"Quality Control Music, LLC",131,131,2,1601428,2018-05-31
+182,spotify:track:6eT7xZZlB2mwyzJ2sUKG6w,Post Malone,White Iverson,Universal Records,66,159,75,1600061,2018-05-31
+183,spotify:track:0TCnOEVeLQMXOUrpPlM7uY,"Rae Sremmurd, Swae Lee, Slim Jxmmi",Guatemala - From Swaecation,Mike WiLL Made-It,55,152,7,1598427,2018-05-31
+184,spotify:track:7hlhojpax9zg2FNdBLY5ox,Shawn Mendes,Because I Had You,Island Records,184,-1,1,1587972,2018-05-31
+185,spotify:track:1wjzFQodRWrPcQ0AnYnvQ9,Lauv,I Like Me Better,Lauv,30,168,52,1583015,2018-05-31
+186,spotify:track:1xznGGDReH1oQq0xzbwXa3,"Drake, Wizkid, Kyla",One Dance,Cash Money Records/Young Money Ent./Universal Rec.,13,183,69,1579629,2018-05-31
+187,spotify:track:6HZILIRieu8S0iqY8kIKhj,Kendrick Lamar,DNA.,Aftermath,2,162,59,1579329,2018-05-31
+188,spotify:track:3GVkPk8mqxz0itaAriG1L7,XXXTENTACION,Everybody Dies In Their Nightmares,Bad Vibes Forever / EMPIRE,15,163,40,1541259,2018-05-31
+189,spotify:track:3m660poUr1chesgkkjQM7P,Demi Lovato,Sorry Not Sorry,Island Records,9,167,47,1539966,2018-05-31
+190,spotify:track:0rrfXLr1p1yxsUy7LrKoYT,Shawn Mendes,Mutual,Island Records,190,-1,1,1522955,2018-05-31
+191,spotify:track:7F3uo3304R2CTvOseU3H7u,Imagine Dragons,Whatever It Takes,Kid Ina Korner / Interscope,49,179,20,1516118,2018-05-31
+192,spotify:track:1dzwFgBlZNxt28aQOinNGn,A$AP Rocky,Changes,A$AP Worldwide/Polo Grounds Music/RCA Records,192,-1,1,1504423,2018-05-31
+193,spotify:track:7zVCrzzEJU7u24sbJPXA5W,"Kane Brown, Lauren Alaina",What Ifs (feat. Lauren Alaina),RCA Records Label Nashville,50,182,52,1500279,2018-05-31
+194,spotify:track:5TVirkSwFEXF1nLJEebe2I,Bazzi,Beautiful,iamcosmic,56,146,14,1499306,2018-05-31
+195,spotify:track:4fv0mLkB3wY4Z2GAG1mWAN,"Chris Lane, Tori Kelly",Take Back Home Girl (feat. Tori Kelly),Big Loud,114,194,10,1493238,2018-05-31
+196,spotify:track:6RSNKGdv3nDTHqgw4bdzyF,Russell Dickerson,Yours,Sony Music Entertainment,139,-1,20,1485213,2018-05-31
+197,spotify:track:0CZ8lquoTX2Dkg7Ak2inwA,King Princess,1950,"Zelig Records, LLC./Columbia Records",72,169,12,1483679,2018-05-31
+198,spotify:track:0Y4hwUppbGc8aIBmiTz30A,"Liam Payne, J Balvin",Familiar,Capitol Records UK / EMI,57,175,6,1479139,2018-05-31
+199,spotify:track:1LhMopPAallLeaeNutqbgS,"Justin Timberlake, Chris Stapleton",Say Something (feat. Chris Stapleton),RCA Records Label,16,-1,17,1474864,2018-05-31
+200,spotify:track:33IOhptvC2Qoy2UhjiHXLV,"David Guetta, Sia",Flames,Parlophone (France),140,160,9,1467032,2018-05-31

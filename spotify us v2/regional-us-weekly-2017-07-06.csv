@@ -1,0 +1,201 @@
+rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,streams,End Date
+1,spotify:track:5CtI0qwDJkDQGwXD1H1cLb,"Luis Fonsi, Daddy Yankee, Justin Bieber",Despacito - Remix,UMLE - Latino,1,1,12,10919774,2017-07-06
+2,spotify:track:2eMwDehkIC1j68U6FA3Eiq,Lil Uzi Vert,XO Tour Llif3,Generation Now/Atlantic,2,4,15,9472179,2017-07-06
+3,spotify:track:1OAh8uOEOvTDqkKFsKksCi,"DJ Khaled, Rihanna, Bryson Tiller",Wild Thoughts (feat. Rihanna & Bryson Tiller),Epic/We The Best,3,3,3,9202038,2017-07-06
+4,spotify:track:3DXncPQOG4VBw3QHh3S817,"DJ Khaled, Justin Bieber, Quavo, Chance the Rapper, Lil Wayne","I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",Epic/We The Best,2,2,10,9159083,2017-07-06
+5,spotify:track:7KXjTSCq5nL1LoYtL7XAwS,Kendrick Lamar,HUMBLE.,Aftermath,1,5,14,8448121,2017-07-06
+6,spotify:track:1F2HXIJrE2Xn81OzT2zZvW,"French Montana, Swae Lee",Unforgettable,Bad Boy Entertainment/Epic Records,6,6,13,7684766,2017-07-06
+7,spotify:track:3a1lNhkSLSkpJE4MSHpDu9,"Post Malone, Quavo",Congratulations,Universal Records,5,7,28,6994513,2017-07-06
+8,spotify:track:7tr2za8SQg2CI8EDgrdtNl,"Calvin Harris, Frank Ocean, Migos, Funk Wav",Slide (feat. Frank Ocean & Migos),Columbia,8,33,19,6276723,2017-07-06
+9,spotify:track:3kxfsdsCpFgN412fpnW85Y,Childish Gambino,Redbone,Glassnote - VMG,9,9,28,5891526,2017-07-06
+10,spotify:track:152lZdxL1OR0ZMW6KquMif,Khalid,Location,"Right Hand Music Group, LLC/RCA Records",9,12,27,5754741,2017-07-06
+11,spotify:track:5bcTCxgc7xVfSaMV3RuVke,"Calvin Harris, Pharrell Williams, Katy Perry, Big Sean, Funk Wav","Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",Columbia,11,31,3,5753780,2017-07-06
+12,spotify:track:6Na5uKk5SsqZimk0hAWo8y,Drake,Signs,Cash Money Records/Young Money Ent./Universal Rec.,8,8,2,5711293,2017-07-06
+13,spotify:track:3rOSwuTsUlJp0Pu0MkN8r8,Future,Mask Off,Epic/Freebandz/A1,2,10,20,5297647,2017-07-06
+14,spotify:track:6HZILIRieu8S0iqY8kIKhj,Kendrick Lamar,DNA.,Aftermath,2,13,12,5276068,2017-07-06
+15,spotify:track:7mldq42yDuxiUNn08nvzHO,Sam Hunt,Body Like A Back Road,MCA Nashville,15,18,22,5148088,2017-07-06
+16,spotify:track:0lMbuWUpfTWhEmOKxppEau,"Calvin Harris, Future, Khalid, Funk Wav",Rollin (feat. Future & Khalid),Columbia,16,41,8,5143241,2017-07-06
+17,spotify:track:0CcQNd8CINkwQfe1RDtGV6,Imagine Dragons,Believer,Kid Ina Korner / Interscope,11,11,22,5094468,2017-07-06
+18,spotify:track:1e1JKLEDKP7hEQzJfNAgPl,Playboi Carti,Magnolia,AWGE Label,12,15,11,4936811,2017-07-06
+19,spotify:track:0KKkJNfGyhkQ5aFogxQAPU,Bruno Mars,That's What I Like,Atlantic Records,3,19,28,4901155,2017-07-06
+20,spotify:track:3A7qX2QjDlPnazUsRk5y0M,"David Guetta, Justin Bieber",2U (feat. Justin Bieber),Parlophone (France),8,14,4,4859706,2017-07-06
+21,spotify:track:5tz69p7tJuGPeMGwNTxYuV,"Logic, Alessia Cara, Khalid",1-800-273-8255,Def Jam Recordings,7,16,10,4752987,2017-07-06
+22,spotify:track:0dA2Mk56wEzDgegdC6R17g,"Zedd, Alessia Cara",Stay,UMGRI Interscope,12,17,19,4562020,2017-07-06
+23,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,23,23,7,4521708,2017-07-06
+24,spotify:track:1yxgsra98r3qAtxqiGZPiX,Travis Scott,BUTTERFLY EFFECT,Cactus Jack / Epic,20,20,7,4477138,2017-07-06
+25,spotify:track:6gBFPUFcJLzWGx4lenP6h2,Travis Scott,goosebumps,Cactus Jack / Epic,16,22,28,4420008,2017-07-06
+26,spotify:track:4iLqG9SeJSnt0cSPICSjxv,Charlie Puth,Attention,Artist Partner,21,26,11,4360968,2017-07-06
+27,spotify:track:0tKcYR2II1VCQWT79i5NrW,Imagine Dragons,Thunder,Kid Ina Korner / Interscope,21,21,10,4314145,2017-07-06
+28,spotify:track:7qiZfU4dY1lWllzX7mPBI3,Ed Sheeran,Shape of You,Atlantic Records UK,1,27,26,4219162,2017-07-06
+29,spotify:track:6p8NuHm8uCGnn2Dtbtf7zE,"Migos, Gucci Mane",Slippery (feat. Gucci Mane),Quality Control Music,21,24,23,4204590,2017-07-06
+30,spotify:track:0Nhu3zSYbEz32IYiobV75e,Halsey,Now Or Never,Astralwerks (ASW),12,25,13,4062063,2017-07-06
+31,spotify:track:6PGoSes0D9eUDeeAafB2As,"Kendrick Lamar, Zacari",LOVE. FEAT. ZACARI.,Aftermath,5,28,12,4013659,2017-07-06
+32,spotify:track:7hDc8b7IXETo14hHIHdnhd,Drake,Passionfruit,Cash Money Records/Young Money Ent./Universal Rec.,1,30,16,3918405,2017-07-06
+33,spotify:track:6Q2FftbUG530lCtBI74bMH,"A Boogie Wit da Hoodie, Kodak Black",Drowning (feat. Kodak Black),Highbridge The Label,25,34,16,3908731,2017-07-06
+34,spotify:track:1sCxVKWImDZSZKvG0U9B23,Selena Gomez,Bad Liar,Selena Gomez PS,8,32,8,3903270,2017-07-06
+35,spotify:track:2EEeOnHehOozLq4aS0n6SL,"KYLE, Lil Yachty",iSpy (feat. Lil Yachty),independently popular.,2,35,28,3642857,2017-07-06
+36,spotify:track:167NczpNbRF7oWakJaY3Hh,Niall Horan,Slow Hands,Capitol Records (US1A),35,36,9,3618961,2017-07-06
+37,spotify:track:1nX9KhK3Fff27SnrIor2Yb,"2 Chainz, Travis Scott",4 AM,2Chainz PS/Def Jam,22,29,5,3595373,2017-07-06
+38,spotify:track:79cuOz3SPQTuFrp8WgftAu,Shawn Mendes,There's Nothing Holdin' Me Back,Island Records,29,37,11,3575935,2017-07-06
+39,spotify:track:6kig1UFggPUyZBCvXD3Wod,"Metro Boomin, Offset, Drake",No Complaints (feat. Offset & Drake) (Bonus),Republic Records,39,39,2,3353822,2017-07-06
+40,spotify:track:6RUKPb4LETWmmr3iAEQktW,"The Chainsmokers, Coldplay",Something Just Like This,Disruptor Records/Columbia,2,45,20,3164199,2017-07-06
+41,spotify:track:6jA8HL9i4QGzsj6fjoxp8Y,"Martin Garrix, Troye Sivan",There for You,Epic Amsterdam,32,42,6,3105080,2017-07-06
+42,spotify:track:4aWmUDTfIPGksMNLV2rQP2,"Luis Fonsi, Daddy Yankee",Despacito,UMLE - Latino,32,43,24,3069054,2017-07-06
+43,spotify:track:6SwRhMLwNqEi6alNPVG00n,"Kendrick Lamar, Rihanna",LOYALTY. FEAT. RIHANNA.,Aftermath,4,46,12,2988615,2017-07-06
+44,spotify:track:6H0AwSQ20mo62jGlPGB8S6,"2 Chainz, Ty Dolla $ign, Trey Songz, Jhené Aiko",It's A Vibe,2Chainz PS/Def Jam,44,48,13,2958010,2017-07-06
+45,spotify:track:2bjwRfXMk4uRgOD9IBYl9h,"Drake, Quavo, Travis Scott",Portland,Cash Money Records/Young Money Ent./Universal Rec.,2,44,16,2883600,2017-07-06
+46,spotify:track:4Q3N4Ct4zCuIHuZ65E3BD4,Kodak Black,Tunnel Vision,Atlantic Records,5,47,20,2879217,2017-07-06
+47,spotify:track:1wjzFQodRWrPcQ0AnYnvQ9,Lauv,I Like Me Better,Lauv,47,60,5,2693752,2017-07-06
+48,spotify:track:1sXUWdKx03aP9Gmzft58rt,Julia Michaels,Issues,J/Republic,11,50,25,2634525,2017-07-06
+49,spotify:track:2habSXqcJGExM6JJyskY7O,Miley Cyrus,Malibu,RCA Records Label,7,40,8,2624236,2017-07-06
+50,spotify:track:0SGkqnVQo9KPytSri1H6cF,Big Sean,Bounce Back,Getting Out Our Dreams Inc. (G.O.O.D.) Music / IDJ,3,54,28,2605511,2017-07-06
+51,spotify:track:3Ytr1SUCUi6J3L9dRFx5iH,"Major Lazer, Travis Scott, Camila Cabello, Quavo","Know No Better (feat. Travis Scott, Camila Cabello & Quavo)",Third Pardee Records,36,56,5,2550153,2017-07-06
+52,spotify:track:1SJtlNRJDeYHioymcvsqev,Camila Cabello,Crying in the Club,Syco Music/Epic,52,53,7,2548397,2017-07-06
+53,spotify:track:7BKLCZ1jbUBVqRi2FVlTVw,"The Chainsmokers, Halsey",Closer,Disruptor Records/Columbia,4,62,28,2476712,2017-07-06
+54,spotify:track:3eR23VReFzcdmS7TYCrhCe,"Kygo, Selena Gomez",It Ain't Me (with Selena Gomez),Kygo,3,52,20,2456997,2017-07-06
+55,spotify:track:5Z3GHaZ6ec9bsiI5BenrbY,Khalid,Young Dumb & Broke,"Right Hand Music Group, LLC/RCA Records",55,67,13,2449474,2017-07-06
+56,spotify:track:7KOlJ92bu51cltsD9KU5I7,Migos,T-Shirt,Quality Control Music,6,66,25,2445650,2017-07-06
+57,spotify:track:4Km5HrUvYTaSUfiSGPJeQR,"Migos, Lil Uzi Vert",Bad and Boujee (feat. Lil Uzi Vert),Quality Control Music,1,61,28,2369327,2017-07-06
+58,spotify:track:59J5nzL1KniFHnU120dQzt,"Playboi Carti, Lil Uzi Vert",wokeuplikethis*,AWGE Label,54,57,12,2299557,2017-07-06
+59,spotify:track:4xlrALxuaCf9yZBHJeTSG6,"Jonas Blue, William Singe",Mama,Positiva,59,71,7,2283036,2017-07-06
+60,spotify:track:6mapJIPnQ23RTAevUoE0DL,Rae Sremmurd,Swang,Mike WiLL Made-It,23,64,28,2275333,2017-07-06
+61,spotify:track:0q75NwOoFiARAVp4EXU4Bs,"SZA, Travis Scott",Love Galore (feat. Travis Scott),Top Dawg Entertainment/RCA Records,57,65,10,2255735,2017-07-06
+62,spotify:track:4KaIJ1FWXUoAAnOts1YWjD,"Calvin Harris, Travis Scott, A-Trak, Funk Wav",Prayers Up (feat. Travis Scott & A-Trak),Columbia,62,-1,1,2240211,2017-07-06
+63,spotify:track:5uCax9HTNlzGybIStD3vDh,James Arthur,Say You Won't Let Go,Columbia,15,63,28,2239737,2017-07-06
+64,spotify:track:1pGAvZo2axYXAXYiSeYEqY,"Tyler, The Creator, Frank Ocean, Steve Lacy",911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy),Columbia,64,-1,1,2235673,2017-07-06
+65,spotify:track:6kex4EBAj0WHXDKZMEJaaF,"Jason Derulo, Nicki Minaj, Ty Dolla $ign",Swalla (feat. Nicki Minaj & Ty Dolla $ign),Beluga Heights/Warner Records,35,55,18,2228330,2017-07-06
+66,spotify:track:1EaKU4dMbesXXd3BrLCtYG,Kendrick Lamar,ELEMENT.,Aftermath,3,75,12,2224257,2017-07-06
+67,spotify:track:1a0wEEHipnBR7WOHFA6ucQ,"Tyler, The Creator, A$AP Rocky",Who Dat Boy (feat. A$AP Rocky),Columbia,67,-1,1,2212160,2017-07-06
+68,spotify:track:4ARPvK8DHLwt4oX65ZAFMw,XXXTENTACION,Look At Me!,Bad Vibes Forever / EMPIRE,26,59,19,2208449,2017-07-06
+69,spotify:track:4q8PHoRsPUB52LFylX8Ulz,"Axwell /\ Ingrosso, Axwell, Sebastian Ingrosso",More Than You Know,Pophouse Entertainment Group,69,74,5,2172287,2017-07-06
+70,spotify:track:2rb5MvYT7ZIxbKW5hfcHx8,"J Balvin, Willy William",Mi Gente,UMLE - Latino,70,-1,1,2160538,2017-07-06
+71,spotify:track:6zLdXcmvIxnAXpz9sXFnIE,"Thomas Rhett, Maren Morris",Craving You,The Valory Music Co.,71,156,6,2130145,2017-07-06
+72,spotify:track:343YBumqHu19cGoGARUTsd,Drake,Fake Love,Cash Money Records/Young Money Ent./Universal Rec.,1,68,28,2122543,2017-07-06
+73,spotify:track:3Q3myFA7q4Op95DOpHplaY,blackbear,do re mi,Alamo,30,70,15,2092723,2017-07-06
+74,spotify:track:0pSBuHjILhNEo55xK1zrRt,Ayo & Teo,Rolex,Columbia,37,73,22,2063614,2017-07-06
+75,spotify:track:2mfUa8bLs2s5N4VaqJZ4lZ,Hailee Steinfeld,Most Girls,Universal Records,60,72,10,2053336,2017-07-06
+76,spotify:track:4IWAyPf1KMq7JCyGeCjTeH,Imagine Dragons,Whatever It Takes,Kid Ina Korner / Interscope,49,49,8,2048448,2017-07-06
+77,spotify:track:6UjfByV1lDLW0SOVQA4NAi,Drake,Gyalchester,Cash Money Records/Young Money Ent./Universal Rec.,6,51,16,2021216,2017-07-06
+78,spotify:track:2Gl0FzuLxflY6nPifJp5Dr,"Kygo, Ellie Goulding",First Time,Kygo,40,77,10,2019859,2017-07-06
+79,spotify:track:1xznGGDReH1oQq0xzbwXa3,"Drake, Wizkid, Kyla",One Dance,Cash Money Records/Young Money Ent./Universal Rec.,13,87,28,1976219,2017-07-06
+80,spotify:track:7yyRTcZmCiyzzJlNzGC9Ol,"DRAM, Lil Yachty",Broccoli (feat. Lil Yachty),W.A.V.E. Recordings/EMPIRE/Atlantic,10,78,28,1958991,2017-07-06
+81,spotify:track:2XaInsPPUkZRkY4uFJ3AHK,"Gucci Mane, Offset",Met Gala (feat. Offset),Guwop Enterprises/Atlantic,54,81,6,1957875,2017-07-06
+82,spotify:track:3muBQDekYAg7jm6hDu6R0Z,Tee Grizzley,First Day Out,300 Entertainment,79,79,21,1942929,2017-07-06
+83,spotify:track:7LEydI5NfjY6mZfKwYIptZ,"Fifth Harmony, Gucci Mane",Down (feat. Gucci Mane),Syco Music/Epic,50,69,5,1939185,2017-07-06
+84,spotify:track:1louJpMmzEicAn7lzDalPW,"Cheat Codes, Demi Lovato",No Promises (feat. Demi Lovato),Parlophone UK,52,86,14,1886661,2017-07-06
+85,spotify:track:1NDxZ7cFAo481dtYWdrUnR,"Maggie Lindemann, Cheat Codes, CADE",Pretty Girl - Cheat Codes X CADE Remix,300 Entertainment,67,82,14,1885335,2017-07-06
+86,spotify:track:5aAx2yezTd8zXrkmtKl66Z,"The Weeknd, Daft Punk",Starboy,Universal Republic Records,3,85,28,1874635,2017-07-06
+87,spotify:track:4vv1KjUzPwrtDbozizSfQc,"DJ Khaled, Calvin Harris, Travis Scott, Jeremih",Don't Quit (feat. Travis Scott & Jeremih),Epic/We The Best,38,38,2,1852069,2017-07-06
+88,spotify:track:1tlBuoIRrtqFs9bE9dmli5,"Future, YG",Extra Luv (feat. YG),Epic/Freebandz/A1,88,-1,1,1821613,2017-07-06
+89,spotify:track:0v9Wz8o0BT8DU38R4ddjeH,"Chance the Rapper, Lil Wayne, 2 Chainz",No Problem (feat. Lil Wayne & 2 Chainz),Chance the Rapper,24,88,28,1802499,2017-07-06
+90,spotify:track:0pJPdSVti6cTM1Q6xYGmcf,"Calvin Harris, Kehlani, Lil Yachty, Funk Wav",Faking It (feat. Kehlani & Lil Yachty),Columbia,90,-1,1,1775216,2017-07-06
+91,spotify:track:6xHI9KjUjYT0FPtGO8Mxa1,Luke Combs,Hurricane,River House Artists/Columbia Nashville,86,97,17,1756461,2017-07-06
+92,spotify:track:4c2W3VKsOFoIg2SFaO6DY5,Rita Ora,Your Song,Atlantic Records UK,81,83,5,1750788,2017-07-06
+93,spotify:track:2kVHAQKVtczchKctctzbtK,"Katy Perry, Nicki Minaj",Swish Swish,Capitol Records (CAP),52,84,7,1740911,2017-07-06
+94,spotify:track:0Ws8D3EWUDgY962Xftb0h5,"Calvin Harris, ScHoolboy Q, PARTYNEXTDOOR, DRAM, Funk Wav","Cash Out (feat. ScHoolboy Q, PARTYNEXTDOOR & D.R.A.M.)",Columbia,94,-1,1,1740877,2017-07-06
+95,spotify:track:12o6dxWGk29uIAP3OWY0pM,Lorde,Homemade Dynamite,Universal Music New Zealand Limited,62,76,3,1704898,2017-07-06
+96,spotify:track:6eT7xZZlB2mwyzJ2sUKG6w,Post Malone,White Iverson,Universal Records,77,93,28,1702438,2017-07-06
+97,spotify:track:5Ohxk2dO5COHF1krpoPigN,Harry Styles,Sign of the Times,Columbia,16,80,13,1694764,2017-07-06
+98,spotify:track:0qYTZCo5Bwh1nsUFGZP3zn,Maluma,Felices los 4,Sony Music Latin,98,110,9,1672586,2017-07-06
+99,spotify:track:0B8QzDH7YWih85V5SEMnyJ,Lil Uzi Vert,Money Longer,Generation Now/Atlantic,73,92,28,1659713,2017-07-06
+100,spotify:track:3NdDpSvN911VPGivFlV5d0,"ZAYN, Taylor Swift",I Don’t Wanna Live Forever (Fifty Shades Darker),Taylor Swift,3,91,28,1646805,2017-07-06
+101,spotify:track:4cxMGhkinTocPSVVKWIw0d,Russ,Losin Control,Columbia,75,96,25,1646670,2017-07-06
+102,spotify:track:20dP2DaMHIAmwWAbp7peSr,"Young Thug, Travis Scott, Quavo",pick up the phone (feat. Quavo),Cactus Jack / Epic,44,94,28,1645470,2017-07-06
+103,spotify:track:5q5gzmbBS5yQzos2BvVr1t,MØ,Nights With You,Chess Club/RCA Victor,99,99,8,1638645,2017-07-06
+104,spotify:track:0utlOiJy2weVl9WTkcEWHy,J. Cole,Neighbors,J. Cole P&D,27,105,26,1611652,2017-07-06
+105,spotify:track:10M2Ex445zw585Ducldzkw,Brett Young,In Case You Didn't Know,"Big Machine Label Group, LLC",102,102,15,1602897,2017-07-06
+106,spotify:track:5GFDrUTLGJix84sNhjCG0g,Aminé,Caroline,Universal Records,6,98,28,1592658,2017-07-06
+107,spotify:track:5yuShbu70mtHXY0yLzCQLQ,Post Malone,Go Flex,Universal Records,98,104,28,1591397,2017-07-06
+108,spotify:track:6b8Be6ljOzmkOmFslEb23P,Bruno Mars,24K Magic,Atlantic Records,13,107,28,1590187,2017-07-06
+109,spotify:track:4PzovBqgnSHKd8opsP7IVM,"YFN Lucci, PnB Rock",Everyday We Lit (feat. PnB Rock),Think It's A Game Records,109,118,14,1586975,2017-07-06
+110,spotify:track:60APt5N2NRaKWf5xzJdzyC,"Calvin Harris, Young Thug, Pharrell Williams, Ariana Grande, Funk Wav","Heatstroke (feat. Young Thug, Pharrell Williams & Ariana Grande)",Columbia,72,-1,6,1582628,2017-07-06
+111,spotify:track:0QsvXIfqM0zZoerQfsI9lm,"The Chainsmokers, Daya",Don't Let Me Down,Disruptor Records/Columbia,43,126,28,1567965,2017-07-06
+112,spotify:track:6fwdbPMwP1zVStm8FybmkO,"21 Savage, Metro Boomin, Future",X (feat. Future),"Slaughter Gang, LLC",17,115,28,1561990,2017-07-06
+113,spotify:track:5GXAXm5YOmYT0kL5jHvYBt,"The Weeknd, Daft Punk",I Feel It Coming,Universal Republic Records,10,106,28,1552258,2017-07-06
+114,spotify:track:0ESJlaM8CE1jRWaNtwSNj8,Travis Scott,beibs in the trap,Cactus Jack / Epic,107,113,26,1542220,2017-07-06
+115,spotify:track:72jbDTw1piOOj770jWNeaG,The Chainsmokers,Paris,Disruptor Records/Columbia,4,103,25,1533541,2017-07-06
+116,spotify:track:0NZUqq4iLQddokgtiC44Kb,"Future, Chris Brown",PIE (feat. Chris Brown),Epic/Freebandz/A1,116,-1,1,1506697,2017-07-06
+117,spotify:track:25oOaleife6E2MIKmFkPvg,"Young Thug, Future",Relationship (feat. Future),Atlantic Records,80,89,3,1506025,2017-07-06
+118,spotify:track:2ANLarE8yHVsLWW21nj79M,Lil Uzi Vert,You Was Right,Generation Now/Atlantic,28,117,28,1505431,2017-07-06
+119,spotify:track:2wf9bp4MkChojtljddWpbO,6LACK,PRBLMS,LVRN Records,101,119,22,1498974,2017-07-06
+120,spotify:track:4VFE6ZNqa8jHAmbYICoAFg,"Florida Georgia Line, Backstreet Boys","God, Your Mama, And Me","Big Machine Label Group, LLC",120,142,7,1472384,2017-07-06
+121,spotify:track:62vpWI1CHwFy7tMIcSStl8,J. Cole,No Role Modelz,Roc Nation Records LLC,65,123,28,1465316,2017-07-06
+122,spotify:track:6XOYVSmNDjKUNMXooU4s4z,OneRepublic,No Vacancy,Mosley / Interscope,75,109,8,1464432,2017-07-06
+123,spotify:track:5de7ci7TFqbQ1PFgKAD7MR,"PnB Rock, Kodak Black, A Boogie Wit da Hoodie","Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie)",Artist Partner,123,124,11,1460023,2017-07-06
+124,spotify:track:2of5xn0GU0TdFneR1saRLH,"DJ Khaled, Drake",To the Max (feat. Drake),Epic/We The Best,29,58,5,1455338,2017-07-06
+125,spotify:track:045SnNDjOfOLKM5OxARH4g,Dustin Lynch,Small Town Boy,Broken Bow Records,125,146,5,1450192,2017-07-06
+126,spotify:track:5Q0Nhxo0l2bP3pNjpGJwV1,Miley Cyrus,Party In The U.S.A.,Hollywood Records,126,-1,1,1437748,2017-07-06
+127,spotify:track:3E2Zh20GDCR9B1EYjfXWyv,AJR,Weak,Black Butter,30,147,28,1437652,2017-07-06
+128,spotify:track:1jQsKN68yE94tMYml0wHMd,Big Sean,Jump Out The Window,Getting Out Our Dreams Inc. (G.O.O.D.) Music / IDJ,28,129,12,1431159,2017-07-06
+129,spotify:track:2Ce5IyMlVRVvN997ZJjJJA,"Future, Rihanna",Selfish (feat. Rihanna),Epic/Freebandz/A1,24,120,19,1429353,2017-07-06
+130,spotify:track:2Z8WuEywRWYTKe1NybPQEW,Twenty One Pilots,Ride,Fueled By Ramen,65,184,26,1421655,2017-07-06
+131,spotify:track:3pndPhlQWjuSoXhcIIdBjv,Russ,What They Want,Columbia,117,131,28,1418437,2017-07-06
+132,spotify:track:7EiZI6JVHllARrX9PUvAdX,"Future, The Weeknd",Low Life (feat. The Weeknd),Epic/Freebandz/A1,59,128,28,1418090,2017-07-06
+133,spotify:track:6PCUP3dWmTjcTtXY02oFdT,Ed Sheeran,Castle on the Hill,Atlantic Records UK,4,130,26,1417768,2017-07-06
+134,spotify:track:39pS70eeDvyCAF3t8NAlVV,"2 Chainz, Gucci Mane, Quavo",Good Drank,2Chainz PS/Def Jam,61,90,16,1410209,2017-07-06
+135,spotify:track:4wdZdkEugVVorAfzqRqC6N,Post Malone,Candy Paint,Republic Records,135,140,7,1408412,2017-07-06
+136,spotify:track:6fujklziTHa8uoM5OQSfIo,"Rae Sremmurd, Gucci Mane",Black Beatles,Mike WiLL Made-It,4,127,28,1406310,2017-07-06
+137,spotify:track:6dVZCbi9CYtD9LjAHXRjIG,"Future, Kendrick Lamar",Mask Off (feat. Kendrick Lamar) - Remix,Epic/Freebandz/A1,33,145,7,1382428,2017-07-06
+138,spotify:track:6QgjcU0zLnzq5OrUoSZ3OK,Portugal. The Man,Feel It Still,Atlantic Records,125,125,3,1379476,2017-07-06
+139,spotify:track:3A2OHirUAlQp2x73BJlEDA,"Mike WiLL Made-It, Kendrick Lamar, Gucci Mane, Rae Sremmurd","Perfect Pint (feat. Kendrick Lamar, Gucci Mane & Rae Sremmurd)",Mike WiLL Made-It,115,155,12,1378428,2017-07-06
+140,spotify:track:3sJHkcxojoJD2Ytbo1yLLF,Moon Taxi,Two High,RCA Records Label,140,180,2,1375200,2017-07-06
+141,spotify:track:0Fv5N0cHBsl4bzCbollCAS,Big Sean,Moves,Getting Out Our Dreams Inc. (G.O.O.D.) Music / IDJ,10,134,28,1369117,2017-07-06
+142,spotify:track:1x5sYLZiu9r5E43kMlt9f8,"Clean Bandit, Zara Larsson",Symphony (feat. Zara Larsson),Atlantic Records UK,48,116,16,1367509,2017-07-06
+143,spotify:track:2YK01AIIWuywG24gsbuizE,"Post Malone, Quavo, Future",Congratulations - Remix,Universal Records,95,95,3,1358418,2017-07-06
+144,spotify:track:5tFep7dXGd7vEJ668wTPux,"Gucci Mane, Drake",Both (feat. Drake),Guwop Enterprises/Atlantic,38,143,27,1351168,2017-07-06
+145,spotify:track:7zVCrzzEJU7u24sbJPXA5W,"Kane Brown, Lauren Alaina",What Ifs (feat. Lauren Alaina),RCA Records Label Nashville,145,165,5,1342624,2017-07-06
+146,spotify:track:0VhgEqMTNZwYL1ARDLLNCX,James Arthur,Can I Be Him,Columbia,138,138,4,1340001,2017-07-06
+147,spotify:track:2cnKEkpVUSV4wnjQiTWfH6,"Wisin, Ozuna",Escápate Conmigo (feat. Ozuna),Sony Music Latin,147,173,4,1339206,2017-07-06
+148,spotify:track:1qOLh0tI7trd1zdDKxYZTe,"Hailee Steinfeld, Grey, Zedd",Starving,UME - Global Clearing House,18,136,28,1332510,2017-07-06
+149,spotify:track:4iYRa2btalAzPZoSYfROqF,"Kendrick Lamar, U2",XXX. FEAT. U2.,Aftermath,8,162,12,1326294,2017-07-06
+150,spotify:track:3kkObn08oHrNmCFHSNR0jD,Lil Pump,Flex Like Ouu,Warner Records,149,149,7,1326120,2017-07-06
+151,spotify:track:51PIvodunv6NmX5250zxAh,Lady Gaga,The Cure,Interscope,44,114,12,1314057,2017-07-06
+152,spotify:track:2NyrXRn4tancYPW6JwtTl2,"Tee Grizzley, Lil Yachty",From The D To The A (feat. Lil Yachty),300 Entertainment,100,157,16,1309657,2017-07-06
+153,spotify:track:7cGFbx7MP0H23iHZTZpqMM,Logic,Everybody,Def Jam Recordings,26,133,14,1301717,2017-07-06
+154,spotify:track:37F0uwRSrdzkBiuj0D5UHI,The Weeknd,Reminder,Universal Republic Records,53,159,23,1300632,2017-07-06
+155,spotify:track:7qs2GAglLWfxEfmO8u2u0A,Loote,High Without Your Love,Island Records,155,177,3,1284697,2017-07-06
+156,spotify:track:4gqMQftUs22F8pOGVn5Acr,"Shawn Hook, Vanessa Hudgens",Reminding Me,Hollywood Records,122,137,6,1275552,2017-07-06
+157,spotify:track:05nbZ1xxVNwUTcGwLbp7CN,NAV,Myself,XO Records,99,153,10,1271306,2017-07-06
+158,spotify:track:0afhq8XCExXpqazXczTSve,Ed Sheeran,Galway Girl,Atlantic Records UK,7,163,18,1264530,2017-07-06
+159,spotify:track:3pXF1nA74528Edde4of9CC,Bryson Tiller,Don't,TrapSoul/RCA Records,82,158,28,1260888,2017-07-06
+160,spotify:track:07pJdL0L9XDGW0HBj0rIS2,"MadeinTYO, Big Sean",Skateboard P (feat. Big Sean),Commission Records,137,168,14,1254156,2017-07-06
+161,spotify:track:5hYTyyh2odQKphUbMqc5gN,"Alessia Cara, Disney","How Far I'll Go - From ""Moana""",Walt Disney Records,20,166,28,1251811,2017-07-06
+162,spotify:track:5uDASfU19gDxSjW8cnCaBp,"Rob $tone, J. Davi$, J Spooks",Chill Bill (feat. J. Davi$ & Spooks),RCA Records Label,15,167,28,1251166,2017-07-06
+163,spotify:track:6mORGLOz79w6VsCRLWYYuK,Lord Huron,The Night We Met,Play It Again Sam,48,150,13,1247566,2017-07-06
+164,spotify:track:0BCy325UZyR9z0t0uxwn2N,Florida Georgia Line,H.O.L.Y.,"Big Machine Label Group, LLC",164,188,7,1243505,2017-07-06
+165,spotify:track:5qbcsZMwL0x46sX7VO37Ye,NAV,Up,XO Records,74,135,12,1242093,2017-07-06
+166,spotify:track:5GG3knKdxKWrNboRijxeKF,Bryson Tiller,Run Me Dry,TrapSoul/RCA Records,65,144,6,1239241,2017-07-06
+167,spotify:track:2aksifNn5ph8igDOkPBA02,Rihanna,Love On The Brain,Roc Nation / Rihanna,39,154,28,1239172,2017-07-06
+168,spotify:track:2xbI8Vmyv3TkpTdywpPyNw,PnB Rock,Selfish,EMPIRE / Atlantic Recording Corporation,47,175,28,1224091,2017-07-06
+169,spotify:track:76Y0gxtTxN0FyDCYh5qYQj,Migos,Get Right Witcha,Quality Control Music,33,172,23,1218936,2017-07-06
+170,spotify:track:6JV2JOEocMgcZxYSZelKcc,Justin Timberlake,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",Villa 40/RCA Records,56,178,26,1218212,2017-07-06
+171,spotify:track:43PuMrRfbyyuz4QpZ3oAwN,Bryson Tiller,Exchange,TrapSoul/RCA Records,84,169,28,1218040,2017-07-06
+172,spotify:track:6Pw3Gvw4wNMZfTYZa6IQal,"Bebe Rexha, Lil Wayne",The Way I Are (Dance with Somebody) [feat. Lil Wayne],Warner Records,136,161,5,1217304,2017-07-06
+173,spotify:track:4gmmRb6bZJffOOiww1JGTO,"21 Savage, Metro Boomin",No Heart,"Slaughter Gang, LLC",19,181,28,1208950,2017-07-06
+174,spotify:track:0bXFIF7iL17TYLyx8JHziM,Kodak Black,Patty Cake,Atlantic Records,139,170,14,1193862,2017-07-06
+175,spotify:track:5kNe7PE09d6Kvw5pAsx23n,Thomas Rhett,Die A Happy Man,"The Valory Music Co., LLC",175,-1,2,1192302,2017-07-06
+176,spotify:track:1eVRnmGhDPATPxz6kqWuCP,Julia Michaels,Uh Huh,J/Republic,116,179,5,1192068,2017-07-06
+177,spotify:track:0gbBzIqrECJOEPvQJIBFs5,Lorde,Green Light,Universal Music New Zealand Limited,20,112,13,1185819,2017-07-06
+178,spotify:track:56kXYt4KRoUq3rzkPdjquB,Smokepurpp,Audi.,Alamo,178,-1,1,1184996,2017-07-06
+179,spotify:track:248OFOZef6ShXv6DGgbnxU,Khalid,Saved,"Right Hand Music Group, LLC/RCA Records",137,176,18,1182803,2017-07-06
+180,spotify:track:6mb6lVLNrcUgLnEN8QnDJd,"Auli'i Cravalho, Disney",How Far I'll Go,Walt Disney Records,148,192,15,1179599,2017-07-06
+181,spotify:track:5C6uh95eAL0RBTSGXKQwvk,Josh Turner,Hometown Girl,MCA Nashville,149,-1,3,1177551,2017-07-06
+182,spotify:track:4pdPtRcBmOSQDlJ3Fk945m,"DJ Snake, Justin Bieber",Let Me Love You,DJ Snake Def Jam,12,-1,23,1175891,2017-07-06
+183,spotify:track:08Wc3X7XNSyF8WYBPt2L8E,"Calvin Harris, Snoop Dogg, John Legend, Takeoff, Funk Wav","Holiday (feat. Snoop Dogg, John Legend & Takeoff)",Columbia,183,-1,1,1174890,2017-07-06
+184,spotify:track:7iDxZ5Cd0Yg08d4fI5WVtG,"Calvin Harris, Nicki Minaj, Funk Wav",Skrt On Me (feat. Nicki Minaj),Columbia,184,-1,1,1172678,2017-07-06
+185,spotify:track:5hfpu8saHLGedbHRtNCYjm,"mgk, Quavo, Ty Dolla $ign",Trap Paris (feat. Quavo & Ty Dolla $ign),Bad Boy / Interscope,112,174,7,1159394,2017-07-06
+186,spotify:track:6i0V12jOa3mr6uu4WYhUBr,Twenty One Pilots,Heathens,Atlantic Records,26,186,28,1155434,2017-07-06
+187,spotify:track:0w3Q14i073jLoew1hgJkwD,Jon Pardi,Heartache On The Dance Floor,Capitol Records Nashville,187,-1,1,1155230,2017-07-06
+188,spotify:track:5uQOauh47VFt3B2kV9kRXw,A Boogie Wit da Hoodie,My Shit,Highbridge The Label,82,-1,13,1152140,2017-07-06
+189,spotify:track:7EAFj7eJcMF5koWSRJVZcL,"Keith Urban, Carrie Underwood",The Fighter,Hit Red Records,189,-1,1,1150479,2017-07-06
+190,spotify:track:498ZVInMGDkmmNVpSWqHiZ,"Florida Georgia Line, Tim McGraw",May We All,"Big Machine Label Group, LLC",171,-1,7,1149722,2017-07-06
+191,spotify:track:34oWbFBfGEElvgO0a5c9V4,Kodak Black,No Flockin',P2015,90,187,26,1147522,2017-07-06
+192,spotify:track:7zxRMhXxJMQCeDDg0rKAVo,"NAV, The Weeknd",Some Way,XO Records,87,183,16,1145358,2017-07-06
+193,spotify:track:5knuzwU65gJK7IF5yJsuaW,"Clean Bandit, Anne-Marie, Sean Paul",Rockabye (feat. Sean Paul & Anne-Marie),Atlantic Records UK,32,182,28,1137738,2017-07-06
+194,spotify:track:5OOkp4U9P9oL23maHFHL1h,Desiigner,Panda,Getting Out Our Dreams Inc. (G.O.O.D.) Music / IDJ,54,190,28,1133138,2017-07-06
+195,spotify:track:0iTCmKvuU1ReULiQB0rI7n,"Gucci Mane, Chris Brown",Tone It Down (feat. Chris Brown),Guwop Enterprises/Atlantic,108,108,2,1128892,2017-07-06
+196,spotify:track:1aGOdZZE1uE0m3UYjcl3CP,"Yo Gotti, Nicki Minaj",Rake It Up (feat. Nicki Minaj),Epic/CMG,196,-1,1,1126056,2017-07-06
+197,spotify:track:2RwmsAOxtiRezQPmvyejb8,6LACK,Ex Calling,LVRN Records,190,193,4,1123645,2017-07-06
+198,spotify:track:1HOUzEsetdIPSpAgRPhZQt,Trey Songz,Nobody Else but You,Atlantic Records,189,189,3,1122679,2017-07-06
+199,spotify:track:6n3HGiq4v35D6eFOSwqYuo,Drake,Teenage Fever,Cash Money Records/Young Money Ent./Universal Rec.,14,185,16,1122097,2017-07-06
+200,spotify:track:6DNtNfH8hXkqOX1sjqmI7p,"Major Lazer, Justin Bieber, MØ",Cold Water (feat. Justin Bieber & MØ),Third Pardee Records,39,196,18,1116397,2017-07-06

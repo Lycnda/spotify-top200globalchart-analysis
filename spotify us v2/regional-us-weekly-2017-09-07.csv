@@ -1,0 +1,201 @@
+rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,streams,End Date
+1,spotify:track:6uFsE1JgZ20EXyU0JQZbUR,Taylor Swift,Look What You Made Me Do,Taylor Swift,1,1,2,10259213,2017-09-07
+2,spotify:track:5tz69p7tJuGPeMGwNTxYuV,"Logic, Alessia Cara, Khalid",1-800-273-8255,Def Jam Recordings,2,5,19,9911740,2017-09-07
+3,spotify:track:7GX5flRQZVHRAGd6B4TmDO,Lil Uzi Vert,XO Tour Llif3,Generation Now/Atlantic,2,2,24,8642377,2017-09-07
+4,spotify:track:5eqK0tbzUPo2SoeZsov04s,21 Savage,Bank Account,"Slaughter Gang, LLC/Epic Records",1,4,9,8510335,2017-09-07
+5,spotify:track:2771LMNxwf62FTAdpJMQfM,Cardi B,Bodak Yellow,KSR/Atlantic,5,6,7,8205837,2017-09-07
+6,spotify:track:7zgqtptZvhf8GEmdsM2vp2,Taylor Swift,...Ready For It?,Taylor Swift,6,-1,1,7687420,2017-09-07
+7,spotify:track:7m9OqQk4RVRkw9JJdeAw96,XXXTENTACION,Jocelyn Flores,Bad Vibes Forever / EMPIRE,3,3,2,7588511,2017-09-07
+8,spotify:track:5Z3GHaZ6ec9bsiI5BenrbY,Khalid,Young Dumb & Broke,"Right Hand Music Group, LLC/RCA Records",8,10,22,6898110,2017-09-07
+9,spotify:track:3B54sVLJ402zGa6Xm4YGNe,"French Montana, Swae Lee",Unforgettable,Bad Boy Entertainment/Epic Records,1,7,22,6771094,2017-09-07
+10,spotify:track:7vGuf3Y35N4wmASOKLUVVU,"Marshmello, Khalid",Silence,Joytime Collective/RCA Records,10,14,4,6535508,2017-09-07
+11,spotify:track:25C5CowdsfXld2jJanbiex,Demi Lovato,Sorry Not Sorry,Island Records,9,12,9,6455445,2017-09-07
+12,spotify:track:7AQim7LbvFVZJE3O8TYgf2,"XXXTENTACION, Trippie Redd",Fuck Love,Bad Vibes Forever / EMPIRE,8,8,2,6292552,2017-09-07
+13,spotify:track:7KXjTSCq5nL1LoYtL7XAwS,Kendrick Lamar,HUMBLE.,Aftermath,1,11,23,5915352,2017-09-07
+14,spotify:track:2rb5MvYT7ZIxbKW5hfcHx8,"J Balvin, Willy William",Mi Gente,UMLE - Latino,8,17,10,5343572,2017-09-07
+15,spotify:track:0ofbQMrRDsUaVKq2mGLEAb,"Camila Cabello, Young Thug",Havana (feat. Young Thug),Syco Music/Epic,15,20,5,5334717,2017-09-07
+16,spotify:track:1OAh8uOEOvTDqkKFsKksCi,"DJ Khaled, Rihanna, Bryson Tiller",Wild Thoughts (feat. Rihanna & Bryson Tiller),Epic/We The Best,2,13,12,5298324,2017-09-07
+17,spotify:track:1yxgsra98r3qAtxqiGZPiX,Travis Scott,BUTTERFLY EFFECT,Cactus Jack / Epic,9,19,16,5242568,2017-09-07
+18,spotify:track:2eAZfqOm4EnOF9VvN50Tyc,"Lil Uzi Vert, Oh Wonder",The Way Life Goes (feat. Oh Wonder),Generation Now/Atlantic,9,9,2,5147237,2017-09-07
+19,spotify:track:7nZmah2llfvLDiUjm0kiyz,"Justin Bieber, BloodPop®",Friends (with BloodPop®),BloodPop/DJ/RMBG/Republic,4,16,3,4952968,2017-09-07
+20,spotify:track:3a1lNhkSLSkpJE4MSHpDu9,"Post Malone, Quavo",Congratulations,Universal Records,5,18,37,4926912,2017-09-07
+21,spotify:track:4mxWSdf71VFO52qFeY0fZt,"Maroon 5, SZA",What Lovers Do (feat. SZA),Interscope Records*,21,-1,1,4894960,2017-09-07
+22,spotify:track:5bcTCxgc7xVfSaMV3RuVke,"Calvin Harris, Pharrell Williams, Katy Perry, Big Sean, Funk Wav","Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",Columbia,9,22,12,4606886,2017-09-07
+23,spotify:track:5CtI0qwDJkDQGwXD1H1cLb,"Luis Fonsi, Daddy Yankee, Justin Bieber",Despacito - Remix,UMLE - Latino,1,21,21,4527664,2017-09-07
+24,spotify:track:152lZdxL1OR0ZMW6KquMif,Khalid,Location,"Right Hand Music Group, LLC/RCA Records",9,26,36,4525720,2017-09-07
+25,spotify:track:6EpRaXYhGOB3fj4V2uDkMJ,"Liam Payne, Quavo",Strip That Down (feat. Quavo),Capitol Records UK / EMI,13,24,16,4519094,2017-09-07
+26,spotify:track:6QgjcU0zLnzq5OrUoSZ3OK,Portugal. The Man,Feel It Still,Atlantic Records,20,28,12,4466706,2017-09-07
+27,spotify:track:0q75NwOoFiARAVp4EXU4Bs,"SZA, Travis Scott",Love Galore (feat. Travis Scott),Top Dawg Entertainment/RCA Records,24,32,19,4282628,2017-09-07
+28,spotify:track:3GVkPk8mqxz0itaAriG1L7,XXXTENTACION,Everybody Dies In Their Nightmares,Bad Vibes Forever / EMPIRE,15,15,2,4273712,2017-09-07
+29,spotify:track:2ekn2ttSfGqwhhate0LSR0,Dua Lipa,New Rules,Warner Records,27,30,8,4232689,2017-09-07
+30,spotify:track:1HTtUBEY3tuw2btgwwI2Ja,"Gucci Mane, Migos",I Get the Bag (feat. Migos),Guwop Enterprises/Atlantic,30,37,3,4159584,2017-09-07
+31,spotify:track:3DXncPQOG4VBw3QHh3S817,"DJ Khaled, Justin Bieber, Quavo, Chance the Rapper, Lil Wayne","I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",Epic/We The Best,2,29,19,4022124,2017-09-07
+32,spotify:track:6c7D34787LOtPm8tzhsLgH,"Yo Gotti, Nicki Minaj",Rake It Up (feat. Nicki Minaj),Epic/CMG,32,44,10,4010644,2017-09-07
+33,spotify:track:4iLqG9SeJSnt0cSPICSjxv,Charlie Puth,Attention,Artist Partner,16,36,20,3968290,2017-09-07
+34,spotify:track:1e1JKLEDKP7hEQzJfNAgPl,Playboi Carti,Magnolia,AWGE Label,12,35,20,3952249,2017-09-07
+35,spotify:track:6gBFPUFcJLzWGx4lenP6h2,Travis Scott,goosebumps,Cactus Jack / Epic,16,39,37,3912288,2017-09-07
+36,spotify:track:7F9vK8hNFMml4GtHsaXui6,"Louis Tomlinson, Bebe Rexha, Digital Farm Animals",Back to You (feat. Bebe Rexha & Digital Farm Animals),Syco Music,28,33,7,3909301,2017-09-07
+37,spotify:track:40oKW22ZNNkEdZLJTScaQI,"Kodak Black, XXXTENTACION",Roll in Peace (feat. XXXTENTACION),Atlantic Records,37,49,3,3899336,2017-09-07
+38,spotify:track:0CcQNd8CINkwQfe1RDtGV6,Imagine Dragons,Believer,Kid Ina Korner / Interscope,11,43,31,3534089,2017-09-07
+39,spotify:track:79cuOz3SPQTuFrp8WgftAu,Shawn Mendes,There's Nothing Holdin' Me Back,Island Records,29,47,20,3529944,2017-09-07
+40,spotify:track:6HZILIRieu8S0iqY8kIKhj,Kendrick Lamar,DNA.,Aftermath,2,45,21,3522308,2017-09-07
+41,spotify:track:3HVr6jTVwBHBa2flM0eURR,"Macklemore, Skylar Grey",Glorious (feat. Skylar Grey),Bendo LLC,30,41,7,3504618,2017-09-07
+42,spotify:track:3kxfsdsCpFgN412fpnW85Y,Childish Gambino,Redbone,Glassnote - VMG,9,46,37,3474049,2017-09-07
+43,spotify:track:0tKcYR2II1VCQWT79i5NrW,Imagine Dragons,Thunder,Kid Ina Korner / Interscope,21,51,19,3467676,2017-09-07
+44,spotify:track:0jdny0dhgjUwoIp5GkqEaA,Kesha,Praying,Kemosabe Records/RCA Records,17,42,9,3410804,2017-09-07
+45,spotify:track:6H0AwSQ20mo62jGlPGB8S6,"2 Chainz, Ty Dolla $ign, Trey Songz, Jhené Aiko",It's A Vibe,2Chainz PS/Def Jam,41,48,22,3408594,2017-09-07
+46,spotify:track:1wjzFQodRWrPcQ0AnYnvQ9,Lauv,I Like Me Better,Lauv,30,54,14,3364881,2017-09-07
+47,spotify:track:167NczpNbRF7oWakJaY3Hh,Niall Horan,Slow Hands,Capitol Records (US1A),28,55,18,3328942,2017-09-07
+48,spotify:track:6SwRhMLwNqEi6alNPVG00n,"Kendrick Lamar, Rihanna",LOYALTY. FEAT. RIHANNA.,Aftermath,4,50,21,3321959,2017-09-07
+49,spotify:track:6p8NuHm8uCGnn2Dtbtf7zE,"Migos, Gucci Mane",Slippery (feat. Gucci Mane),Quality Control Music,21,53,32,3265090,2017-09-07
+50,spotify:track:1uL78kFWxhz3umTMWJu8n5,Lil Uzi Vert,Sauce It Up,Generation Now/Atlantic,23,23,2,3260677,2017-09-07
+51,spotify:track:5tRmoZRoupvMYPV1oezFrH,Lil Uzi Vert,X,Generation Now/Atlantic,31,31,2,3160793,2017-09-07
+52,spotify:track:7mldq42yDuxiUNn08nvzHO,Sam Hunt,Body Like A Back Road,MCA Nashville,15,59,31,3058763,2017-09-07
+53,spotify:track:5TXDeTFVRVY7Cvt0Dw4vWW,XXXTENTACION,Revenge,Bad Vibes Forever / EMPIRE,25,25,3,3018811,2017-09-07
+54,spotify:track:6PGoSes0D9eUDeeAafB2As,"Kendrick Lamar, Zacari",LOVE. FEAT. ZACARI.,Aftermath,5,66,21,2910381,2017-09-07
+55,spotify:track:6Q2FftbUG530lCtBI74bMH,"A Boogie Wit da Hoodie, Kodak Black",Drowning (feat. Kodak Black),Highbridge The Label,25,64,25,2908163,2017-09-07
+56,spotify:track:3rOSwuTsUlJp0Pu0MkN8r8,Future,Mask Off,Epic/Freebandz/A1,2,60,29,2899223,2017-09-07
+57,spotify:track:1QgTBfRN5m81a5K01qens6,Lil Uzi Vert,444+222,Generation Now/Atlantic,27,27,2,2767543,2017-09-07
+58,spotify:track:7qiZfU4dY1lWllzX7mPBI3,Ed Sheeran,Shape of You,Atlantic Records UK,1,65,35,2755141,2017-09-07
+59,spotify:track:5RCfvwDewu6p2x1mEI6smX,Tay-K,The Race,88 Classic,59,117,4,2718638,2017-09-07
+60,spotify:track:3A7qX2QjDlPnazUsRk5y0M,"David Guetta, Justin Bieber",2U (feat. Justin Bieber),Parlophone (France),8,69,13,2651942,2017-09-07
+61,spotify:track:0XLOf9LhyazPX9Ld8jPiUq,"Selena Gomez, Gucci Mane",Fetish (feat. Gucci Mane),Selena Gomez PS,7,62,8,2641396,2017-09-07
+62,spotify:track:2nYwV62UABTH0NanrwVIdQ,"Rae Sremmurd, Swae Lee, Slim Jxmmi",Perplexing Pegasus - From SR3MM,Mike WiLL Made-It,37,70,5,2610066,2017-09-07
+63,spotify:track:4xBjsLUSjcx2h7PcRikpQp,"Camila Cabello, Quavo",OMG (feat. Quavo),Syco Music/Epic,63,75,5,2597163,2017-09-07
+64,spotify:track:0KKkJNfGyhkQ5aFogxQAPU,Bruno Mars,That's What I Like,Atlantic Records,3,72,37,2550658,2017-09-07
+65,spotify:track:2OALaHcDdKkjYEpAr0Qzab,"Avicii, Rita Ora",Lonely Together,Universal Music AB,54,71,4,2486082,2017-09-07
+66,spotify:track:2H3wWrnO758y0fPH7Ilerg,XXXTENTACION,Depression & Obsession,Bad Vibes Forever / EMPIRE,34,34,2,2477054,2017-09-07
+67,spotify:track:31MkGwj0SWgZaTvEt5Hgxv,P!nk,What About Us,RCA Records Label,67,84,4,2471311,2017-09-07
+68,spotify:track:2yZax79pOrYuyIFVW2cZY2,XXXTENTACION,Carry On,Bad Vibes Forever / EMPIRE,38,38,2,2447589,2017-09-07
+69,spotify:track:2EEeOnHehOozLq4aS0n6SL,"KYLE, Lil Yachty",iSpy (feat. Lil Yachty),independently popular.,2,77,37,2403943,2017-09-07
+70,spotify:track:57p8CBvPOxrvyCbn6ttl5r,"Skrillex, Poo Bear",Would You Ever,OWSLA/Atlantic,52,74,6,2366487,2017-09-07
+71,spotify:track:0ZiRSqlSsDlY0UyDYU9CTE,Thomas Rhett,Unforgettable,The Valory Music Co.,58,78,6,2327173,2017-09-07
+72,spotify:track:7tr2za8SQg2CI8EDgrdtNl,"Calvin Harris, Frank Ocean, Migos, Funk Wav",Slide (feat. Frank Ocean & Migos),Columbia,8,81,28,2318300,2017-09-07
+73,spotify:track:5XQMr19TL7Mfksq9zihbOu,Chris Brown,Questions,RCA Records Label,73,88,3,2245378,2017-09-07
+74,spotify:track:2UwbhMie1EAYuTZ0QXeMwl,XXXTENTACION,Save Me,Bad Vibes Forever / EMPIRE,40,40,2,2220374,2017-09-07
+75,spotify:track:25oOaleife6E2MIKmFkPvg,"Young Thug, Future",Relationship (feat. Future),Atlantic Records,75,101,12,2183401,2017-09-07
+76,spotify:track:5EnYT6F7wEcdege6mDHEfO,Drake,Signs,Cash Money Records/Young Money Ent./Universal Rec.,8,82,11,2180348,2017-09-07
+77,spotify:track:53mrVsi49rLHIaKBiSvElG,"blackbear, Gucci Mane",do re mi (feat. Gucci Mane),Alamo,70,91,6,2165317,2017-09-07
+78,spotify:track:7hDc8b7IXETo14hHIHdnhd,Drake,Passionfruit,Cash Money Records/Young Money Ent./Universal Rec.,1,93,25,2164614,2017-09-07
+79,spotify:track:3PEgB3fkiojxms35ntsTgs,"Axwell /\ Ingrosso, Axwell, Sebastian Ingrosso",More Than You Know,Pophouse Entertainment Group,58,94,14,2155576,2017-09-07
+80,spotify:track:6kig1UFggPUyZBCvXD3Wod,"Metro Boomin, Offset, Drake",No Complaints (feat. Offset & Drake) (Bonus),Republic Records,39,96,11,2147612,2017-09-07
+81,spotify:track:4Km5HrUvYTaSUfiSGPJeQR,"Migos, Lil Uzi Vert",Bad and Boujee (feat. Lil Uzi Vert),Quality Control Music,1,86,37,2107810,2017-09-07
+82,spotify:track:0dA2Mk56wEzDgegdC6R17g,"Zedd, Alessia Cara",Stay,UMGRI Interscope,12,85,28,2087479,2017-09-07
+83,spotify:track:4ARPvK8DHLwt4oX65ZAFMw,XXXTENTACION,Look At Me!,Bad Vibes Forever / EMPIRE,26,97,28,2083402,2017-09-07
+84,spotify:track:7aF09WaavZAmAWuUeYxlYD,"OneRepublic, Seeb",Rich Love (with Seeb),Mosley / Interscope,60,87,8,2079739,2017-09-07
+85,spotify:track:0SGkqnVQo9KPytSri1H6cF,Big Sean,Bounce Back,Getting Out Our Dreams Inc. (G.O.O.D.) Music / IDJ,3,90,37,2058762,2017-09-07
+86,spotify:track:4Q3N4Ct4zCuIHuZ65E3BD4,Kodak Black,Tunnel Vision,Atlantic Records,5,92,29,2041957,2017-09-07
+87,spotify:track:6WbADFqMvR8N5u0BvtsWQE,"Avicii, Sandro Cavazza",Without You,Universal Music AB,62,95,4,2037968,2017-09-07
+88,spotify:track:1WIZiOuNO3woKfdlSK2gNn,Kodak Black,Transportin',Atlantic Records,88,109,3,2011406,2017-09-07
+89,spotify:track:5uCax9HTNlzGybIStD3vDh,James Arthur,Say You Won't Let Go,Columbia,15,99,37,2000409,2017-09-07
+90,spotify:track:7KOlJ92bu51cltsD9KU5I7,Migos,T-Shirt,Quality Control Music,6,98,34,1994502,2017-09-07
+91,spotify:track:6RUKPb4LETWmmr3iAEQktW,"The Chainsmokers, Coldplay",Something Just Like This,Disruptor Records/Columbia,2,103,29,1940139,2017-09-07
+92,spotify:track:6gU9OKjOE7ghfEd55oRO57,SZA,The Weekend,Top Dawg Entertainment/RCA Records,92,116,8,1928552,2017-09-07
+93,spotify:track:2ZdCrBA52bb4pIG3tOOZiQ,Lil Uzi Vert,Dark Queen,Generation Now/Atlantic,68,68,2,1916527,2017-09-07
+94,spotify:track:7zVCrzzEJU7u24sbJPXA5W,"Kane Brown, Lauren Alaina",What Ifs (feat. Lauren Alaina),RCA Records Label Nashville,85,113,14,1909766,2017-09-07
+95,spotify:track:3Q3myFA7q4Op95DOpHplaY,blackbear,do re mi,Alamo,30,100,24,1899668,2017-09-07
+96,spotify:track:76lgcpdPtw5hHu3A6LuGZe,Dustin Lynch,Small Town Boy,Broken Bow Records,90,129,14,1875437,2017-09-07
+97,spotify:track:1nX9KhK3Fff27SnrIor2Yb,"2 Chainz, Travis Scott",4 AM,2Chainz PS/Def Jam,22,104,14,1864342,2017-09-07
+98,spotify:track:0NiXXAI876aGImAd6rTj8w,"Jonas Blue, William Singe",Mama,UMOD (Universal Music On Demand),59,111,16,1855636,2017-09-07
+99,spotify:track:7BKLCZ1jbUBVqRi2FVlTVw,"The Chainsmokers, Halsey",Closer,Disruptor Records/Columbia,4,107,37,1852615,2017-09-07
+100,spotify:track:1MJErNPIQUoEMu4YUUmecm,"Lil Uzi Vert, Pharrell Williams",Neon Guts (feat. Pharrell Williams),Generation Now/Atlantic,58,58,2,1847689,2017-09-07
+101,spotify:track:7i2DJ88J7jQ8K7zqFX2fW8,Halsey,Now Or Never,Astralwerks (ASW),12,102,22,1847114,2017-09-07
+102,spotify:track:6eUncuJutsFi9BGO1JaBHh,Jason Derulo,If I'm Lucky,Beluga Heights/Warner Records,102,-1,1,1839946,2017-09-07
+103,spotify:track:7yyRTcZmCiyzzJlNzGC9Ol,"DRAM, Lil Yachty",Broccoli (feat. Lil Yachty),W.A.V.E. Recordings/EMPIRE/Atlantic,10,112,37,1831066,2017-09-07
+104,spotify:track:0xG0SHshCStMEyNbNC5d4k,Julia Michaels,Issues,J/Republic,11,115,34,1819279,2017-09-07
+105,spotify:track:5O8x1YlmLQopQHErxtDfi9,"Lil Uzi Vert, The Weeknd",UnFazed (feat. The Weeknd),Generation Now/Atlantic,57,57,2,1808667,2017-09-07
+106,spotify:track:05bnEv2dpFzmGVLGdjD9UP,XXXTENTACION,Orlando,Bad Vibes Forever / EMPIRE,61,61,2,1805969,2017-09-07
+107,spotify:track:7cGFbx7MP0H23iHZTZpqMM,Logic,Everybody,Def Jam Recordings,26,137,23,1785971,2017-09-07
+108,spotify:track:5yuShbu70mtHXY0yLzCQLQ,Post Malone,Go Flex,Universal Records,98,127,37,1780035,2017-09-07
+109,spotify:track:3muBQDekYAg7jm6hDu6R0Z,Tee Grizzley,First Day Out,300 Entertainment,79,136,30,1760663,2017-09-07
+110,spotify:track:5aAx2yezTd8zXrkmtKl66Z,"The Weeknd, Daft Punk",Starboy,Universal Republic Records,3,138,37,1739702,2017-09-07
+111,spotify:track:4aWmUDTfIPGksMNLV2rQP2,"Luis Fonsi, Daddy Yankee",Despacito,UMLE - Latino,32,118,33,1733833,2017-09-07
+112,spotify:track:2RwmsAOxtiRezQPmvyejb8,6LACK,Ex Calling,LVRN Records,64,114,13,1731926,2017-09-07
+113,spotify:track:59J5nzL1KniFHnU120dQzt,"Playboi Carti, Lil Uzi Vert",wokeuplikethis*,AWGE Label,54,120,21,1726556,2017-09-07
+114,spotify:track:2bjwRfXMk4uRgOD9IBYl9h,"Drake, Quavo, Travis Scott",Portland,Cash Money Records/Young Money Ent./Universal Rec.,2,128,25,1716863,2017-09-07
+115,spotify:track:4wdZdkEugVVorAfzqRqC6N,Post Malone,Candy Paint,Republic Records,115,141,16,1713640,2017-09-07
+116,spotify:track:6mapJIPnQ23RTAevUoE0DL,Rae Sremmurd,Swang,Mike WiLL Made-It,23,124,37,1712372,2017-09-07
+117,spotify:track:2vQwlW8H1jFveGNXwZfJCV,XXXTENTACION,Dead Inside (Interlude),Bad Vibes Forever / EMPIRE,63,63,2,1708015,2017-09-07
+118,spotify:track:0B8QzDH7YWih85V5SEMnyJ,Lil Uzi Vert,Money Longer,Generation Now/Atlantic,73,121,37,1703226,2017-09-07
+119,spotify:track:343YBumqHu19cGoGARUTsd,Drake,Fake Love,Cash Money Records/Young Money Ent./Universal Rec.,1,133,37,1702613,2017-09-07
+120,spotify:track:4c2W3VKsOFoIg2SFaO6DY5,Rita Ora,Your Song,Atlantic Records UK,81,134,14,1699344,2017-09-07
+121,spotify:track:20H2Hd5AkUcRjB4yL3UQtJ,"Fifth Harmony, Gucci Mane",Down (feat. Gucci Mane),Syco Music/Epic,50,76,14,1682069,2017-09-07
+122,spotify:track:1louJpMmzEicAn7lzDalPW,"Cheat Codes, Demi Lovato",No Promises (feat. Demi Lovato),Parlophone UK,52,125,23,1680868,2017-09-07
+123,spotify:track:3NdDpSvN911VPGivFlV5d0,"ZAYN, Taylor Swift",I Don’t Wanna Live Forever (Fifty Shades Darker),Taylor Swift,3,132,37,1678681,2017-09-07
+124,spotify:track:0lMbuWUpfTWhEmOKxppEau,"Calvin Harris, Future, Khalid, Funk Wav",Rollin (feat. Future & Khalid),Columbia,16,119,17,1677273,2017-09-07
+125,spotify:track:5hTpBe8h35rJ67eAWHQsJx,Aminé,Caroline,Universal Records,6,122,37,1661510,2017-09-07
+126,spotify:track:2mfUa8bLs2s5N4VaqJZ4lZ,Hailee Steinfeld,Most Girls,Universal Records,56,123,19,1660230,2017-09-07
+127,spotify:track:1DRW9bQzt2SE8f7H4KJZyL,"Miguel, Travis Scott",Sky Walker (feat. Travis Scott),ByStorm Entertainment/RCA Records,110,110,2,1650411,2017-09-07
+128,spotify:track:0ESJlaM8CE1jRWaNtwSNj8,Travis Scott,beibs in the trap,Cactus Jack / Epic,97,135,35,1640270,2017-09-07
+129,spotify:track:248OFOZef6ShXv6DGgbnxU,Khalid,Saved,"Right Hand Music Group, LLC/RCA Records",129,151,27,1632183,2017-09-07
+130,spotify:track:6eT7xZZlB2mwyzJ2sUKG6w,Post Malone,White Iverson,Universal Records,77,142,37,1624794,2017-09-07
+131,spotify:track:5bgwqaRSS3M8WHWruHgSL5,Khalid,8TEEN,"Right Hand Music Group, LLC/RCA Records",131,145,10,1622436,2017-09-07
+132,spotify:track:3eR23VReFzcdmS7TYCrhCe,"Kygo, Selena Gomez",It Ain't Me (with Selena Gomez),Kygo,3,130,29,1611570,2017-09-07
+133,spotify:track:3tcoEYOZUHKB3RKNByIN13,Lil Uzi Vert,For Real,Generation Now/Atlantic,56,56,2,1608988,2017-09-07
+134,spotify:track:65kp3OFn7JXbCvkm3m2Ui2,Lil Uzi Vert,Two®,Generation Now/Atlantic,52,52,2,1603026,2017-09-07
+135,spotify:track:0qYTZCo5Bwh1nsUFGZP3zn,Maluma,Felices los 4,Sony Music Latin,84,143,18,1600488,2017-09-07
+136,spotify:track:1EaKU4dMbesXXd3BrLCtYG,Kendrick Lamar,ELEMENT.,Aftermath,3,139,21,1598028,2017-09-07
+137,spotify:track:4PzovBqgnSHKd8opsP7IVM,"YFN Lucci, PnB Rock",Everyday We Lit (feat. PnB Rock),Think It's A Game Records,101,144,23,1590776,2017-09-07
+138,spotify:track:0RYXEibxMami3QuT8kn4Iz,"Macklemore, Lil Yachty",Marmalade (feat. Lil Yachty),Bendo LLC,74,126,6,1590137,2017-09-07
+139,spotify:track:6xHI9KjUjYT0FPtGO8Mxa1,Luke Combs,Hurricane,River House Artists/Columbia Nashville,86,149,26,1558376,2017-09-07
+140,spotify:track:6fwdbPMwP1zVStm8FybmkO,"21 Savage, Metro Boomin, Future",X (feat. Future),"Slaughter Gang, LLC",17,153,37,1553529,2017-09-07
+141,spotify:track:4cxMGhkinTocPSVVKWIw0d,Russ,Losin Control,Columbia,75,156,34,1549737,2017-09-07
+142,spotify:track:6kex4EBAj0WHXDKZMEJaaF,"Jason Derulo, Nicki Minaj, Ty Dolla $ign",Swalla (feat. Nicki Minaj & Ty Dolla $ign),Beluga Heights/Warner Records,35,146,27,1541531,2017-09-07
+143,spotify:track:1sCxVKWImDZSZKvG0U9B23,Selena Gomez,Bad Liar,Selena Gomez PS,8,131,17,1539886,2017-09-07
+144,spotify:track:20dP2DaMHIAmwWAbp7peSr,"Young Thug, Travis Scott, Quavo",pick up the phone (feat. Quavo),Cactus Jack / Epic,44,147,37,1521316,2017-09-07
+145,spotify:track:2jYmK1cb3Uya6FFsocdpzO,Sabrina Carpenter,Why,Hollywood Records,115,150,6,1509797,2017-09-07
+146,spotify:track:0v9Wz8o0BT8DU38R4ddjeH,"Chance the Rapper, Lil Wayne, 2 Chainz",No Problem (feat. Lil Wayne & 2 Chainz),Chance the Rapper,24,154,37,1501980,2017-09-07
+147,spotify:track:62vpWI1CHwFy7tMIcSStl8,J. Cole,No Role Modelz,Roc Nation Records LLC,65,160,37,1501742,2017-09-07
+148,spotify:track:0QV16pno66L6K3fn4W13b7,Lil Uzi Vert,No Sleep Leak,Generation Now/Atlantic,67,67,2,1496375,2017-09-07
+149,spotify:track:4dVpf9jZjcORqGTLUaeYj9,A$AP Ferg,Plain Jane,RCA Records Label,149,159,2,1481779,2017-09-07
+150,spotify:track:0AICBlLzFCTpUqmAbtzB2z,Trippie Redd,Love Scars,TenThousand Projects,150,-1,1,1478508,2017-09-07
+151,spotify:track:0w3Q14i073jLoew1hgJkwD,Jon Pardi,Heartache On The Dance Floor,Capitol Records Nashville,123,163,10,1461541,2017-09-07
+152,spotify:track:1xznGGDReH1oQq0xzbwXa3,"Drake, Wizkid, Kyla",One Dance,Cash Money Records/Young Money Ent./Universal Rec.,13,157,37,1453014,2017-09-07
+153,spotify:track:2wf9bp4MkChojtljddWpbO,6LACK,PRBLMS,LVRN Records,101,155,31,1450624,2017-09-07
+154,spotify:track:05nbZ1xxVNwUTcGwLbp7CN,NAV,Myself,XO Records,99,161,19,1449120,2017-09-07
+155,spotify:track:5Y3Tj0wJhKAaPbwWxXxZGS,Lil Uzi Vert,Feelings Mutual,Generation Now/Atlantic,73,73,2,1446113,2017-09-07
+156,spotify:track:4pdgV8qr9Oytcv6thCdiIZ,"A$AP Mob, A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert, Frank Ocean","RAF (feat. A$AP Rocky, Playboi Carti, Quavo, Lil Uzi Vert & Frank Ocean)",A$AP Worldwide/Polo Grounds Music/RCA Records,108,108,9,1445297,2017-09-07
+157,spotify:track:6R6ihJhRbgu7JxJKIbW57w,Frank Ocean,Provider,Blonded,157,-1,1,1431099,2017-09-07
+158,spotify:track:2ANLarE8yHVsLWW21nj79M,Lil Uzi Vert,You Was Right,Generation Now/Atlantic,28,148,37,1428245,2017-09-07
+159,spotify:track:1CKd1PnqfYx0H12V9MSaIY,"Zedd, Liam Payne",Get Low (with Liam Payne),UMGRI Interscope,51,158,9,1416691,2017-09-07
+160,spotify:track:6foxplXS0YEq8cO374Lty4,Lil Pump,Gucci Gang,Warner Records,160,-1,1,1415189,2017-09-07
+161,spotify:track:56kXYt4KRoUq3rzkPdjquB,Smokepurpp,Audi.,Alamo,132,186,10,1406142,2017-09-07
+162,spotify:track:74ODGXs4byLTRdnKGM4s6E,LANY,Super Far,Polydor Records,117,172,9,1394685,2017-09-07
+163,spotify:track:5xbrhx2tMMcN68IT3cJbhS,XXXTENTACION,Ayala (Outro),Bad Vibes Forever / EMPIRE,79,79,2,1392539,2017-09-07
+164,spotify:track:3pndPhlQWjuSoXhcIIdBjv,Russ,What They Want,Columbia,117,165,37,1385944,2017-09-07
+165,spotify:track:3zoYkqS4y2BsGVShPL2nTE,"CNCO, Little Mix",Reggaetón Lento (Remix),Sony Music Latin,165,180,2,1382546,2017-09-07
+166,spotify:track:0pSBuHjILhNEo55xK1zrRt,Ayo & Teo,Rolex,Columbia,37,167,31,1379102,2017-09-07
+167,spotify:track:6zLdXcmvIxnAXpz9sXFnIE,"Thomas Rhett, Maren Morris",Craving You,The Valory Music Co.,66,168,15,1371984,2017-09-07
+168,spotify:track:6UjfByV1lDLW0SOVQA4NAi,Drake,Gyalchester,Cash Money Records/Young Money Ent./Universal Rec.,6,181,25,1371115,2017-09-07
+169,spotify:track:2cnKEkpVUSV4wnjQiTWfH6,"Wisin, Ozuna",Escápate Conmigo (feat. Ozuna),Sony Music Latin,115,169,13,1370652,2017-09-07
+170,spotify:track:0utlOiJy2weVl9WTkcEWHy,J. Cole,Neighbors,J. Cole P&D,27,179,35,1368789,2017-09-07
+171,spotify:track:0OlS52TmtK2gPaEtdmr7DN,Old Dominion,No Such Thing as a Broken Heart,RCA Records Label Nashville,158,166,7,1367063,2017-09-07
+172,spotify:track:6De0lHrwBfPfrhorm9q1Xl,Danny Ocean,Me Rehúso,Atlantic Records,164,164,7,1352903,2017-09-07
+173,spotify:track:0bXFIF7iL17TYLyx8JHziM,Kodak Black,Patty Cake,Atlantic Records,139,183,19,1349114,2017-09-07
+174,spotify:track:1mMLMZYXkMueg65jRRWG1l,Luke Combs,When It Rains It Pours,River House Artists/Columbia Nashville,148,176,4,1346563,2017-09-07
+175,spotify:track:2habSXqcJGExM6JJyskY7O,Miley Cyrus,Malibu,RCA Records Label,7,152,17,1337855,2017-09-07
+176,spotify:track:10M2Ex445zw585Ducldzkw,Brett Young,In Case You Didn't Know,"Big Machine Label Group, LLC",102,188,24,1334634,2017-09-07
+177,spotify:track:15EPc80XuFrb2LmOzGjuRg,"GoldLink, Brent Faiyaz, Shy Glizzy",Crew (feat. Brent Faiyaz & Shy Glizzy),Squaaash Club/RCA Records,149,187,7,1332985,2017-09-07
+178,spotify:track:4CHp6dRZTeFAu4bSOxfH7Y,Lil Pump,Boss,Warner Records,178,191,3,1322546,2017-09-07
+179,spotify:track:5de7ci7TFqbQ1PFgKAD7MR,"PnB Rock, Kodak Black, A Boogie Wit da Hoodie","Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie)",Artist Partner,120,182,20,1313566,2017-09-07
+180,spotify:track:2Es3LsoQwFJNfpQYRWxfS9,"Chucho Flash, Arcángel",Tu Sabes Que Te Quiero,Distro Kings LLC,180,-1,1,1298147,2017-09-07
+181,spotify:track:5GXAXm5YOmYT0kL5jHvYBt,"The Weeknd, Daft Punk",I Feel It Coming,Universal Republic Records,10,195,37,1287512,2017-09-07
+182,spotify:track:0G149jkGWKwrPXUGkEDgWM,21 Savage,Numb,"Slaughter Gang, LLC/Epic Records",42,170,9,1285996,2017-09-07
+183,spotify:track:0iTCmKvuU1ReULiQB0rI7n,"Gucci Mane, Chris Brown",Tone It Down (feat. Chris Brown),Guwop Enterprises/Atlantic,108,178,8,1280242,2017-09-07
+184,spotify:track:37F0uwRSrdzkBiuj0D5UHI,The Weeknd,Reminder,Universal Republic Records,53,171,32,1262495,2017-09-07
+185,spotify:track:3pXF1nA74528Edde4of9CC,Bryson Tiller,Don't,TrapSoul/RCA Records,82,-1,36,1250811,2017-09-07
+186,spotify:track:14nAQy3fHVzDb7LKxpS7Ld,Lil Uzi Vert,Pretty Mami,Generation Now/Atlantic,80,80,2,1249426,2017-09-07
+187,spotify:track:3CbZJbqh43varroTwUlwSB,Lil Pump,D Rose,Warner Records,187,-1,2,1243813,2017-09-07
+188,spotify:track:3Ytr1SUCUi6J3L9dRFx5iH,"Major Lazer, Travis Scott, Camila Cabello, Quavo","Know No Better (feat. Travis Scott, Camila Cabello & Quavo)",Third Pardee Records,36,189,14,1227449,2017-09-07
+189,spotify:track:6jA8HL9i4QGzsj6fjoxp8Y,"Martin Garrix, Troye Sivan",There for You,Epic Amsterdam,32,177,15,1225935,2017-09-07
+190,spotify:track:6875MeXyCW0wLyT72Eetmo,"Hailee Steinfeld, Grey, Zedd",Starving,UME - Global Clearing House,18,192,37,1222388,2017-09-07
+191,spotify:track:2NyrXRn4tancYPW6JwtTl2,"Tee Grizzley, Lil Yachty",From The D To The A (feat. Lil Yachty),300 Entertainment,100,-1,24,1220187,2017-09-07
+192,spotify:track:3kkObn08oHrNmCFHSNR0jD,Lil Pump,Flex Like Ouu,Warner Records,138,-1,12,1214802,2017-09-07
+193,spotify:track:6yr8GiTHWvFfi4o6Q5ebdT,"Eminem, Nate Dogg",Till I Collapse,Eminem Catalog PS,155,198,20,1212162,2017-09-07
+194,spotify:track:7EiZI6JVHllARrX9PUvAdX,"Future, The Weeknd",Low Life (feat. The Weeknd),Epic/Freebandz/A1,59,-1,36,1208654,2017-09-07
+195,spotify:track:7zxRMhXxJMQCeDDg0rKAVo,"NAV, The Weeknd",Some Way,XO Records,87,199,25,1203129,2017-09-07
+196,spotify:track:6mORGLOz79w6VsCRLWYYuK,Lord Huron,The Night We Met,Play It Again Sam,48,-1,21,1201410,2017-09-07
+197,spotify:track:34oWbFBfGEElvgO0a5c9V4,Kodak Black,No Flockin',P2015,90,-1,30,1199156,2017-09-07
+198,spotify:track:43PuMrRfbyyuz4QpZ3oAwN,Bryson Tiller,Exchange,TrapSoul/RCA Records,84,-1,36,1194485,2017-09-07
+199,spotify:track:6b8Be6ljOzmkOmFslEb23P,Bruno Mars,24K Magic,Atlantic Records,13,173,37,1191248,2017-09-07
+200,spotify:track:312WNtMs3F28cUukaPY9bo,Khalid,American Teen,"Right Hand Music Group, LLC/RCA Records",180,-1,2,1184044,2017-09-07

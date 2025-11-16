@@ -15,6 +15,8 @@ read_enc_vals = test_config1["chartdetails"]["read_enc_val"]
 # print(thelocalenames)
 # ["kr", "za", "in", "global", "ng"]
 
+print("STARTING THE RUN......................................................")
+
 read_enc_val = read_enc_vals[0]
 
 x = datetime.now()
@@ -193,6 +195,7 @@ for locale_name in thelocalenames:
     bgs = all_files_grouped[all_files_grouped["IsBoyGroup"]==True]["main_artist"].unique().tolist()
     
     print(all_files_grouped.columns)
+    print("the output path......", "Classification/all_files_"+locale_name+"v1.csv")
     all_files_grouped.to_csv("Classification/all_files_"+locale_name+"v1.csv", index=False)
     thelogdetails = thelogdetails + " The output data written to this file: " + "Classification/all_files_"+locale_name+"v1.csv" + "\n"
     with open("Classification/Spotify_Logs.txt", "a") as f:

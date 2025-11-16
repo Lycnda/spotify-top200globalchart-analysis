@@ -1,0 +1,201 @@
+rank,uri,artist_names,track_name,source,peak_rank,previous_rank,weeks_on_chart,streams,End Date
+1,spotify:track:2Fxmhks0bxGSBdJ92vM42m,Billie Eilish,bad guy,Darkroom/Interscope Records,1,1,11,9186383,2019-06-13
+2,spotify:track:6u7jPi22kF8CTQ3rb9DHE7,"Lil Nas X, Billy Ray Cyrus",Old Town Road (feat. Billy Ray Cyrus) - Remix,Columbia,1,2,10,8404518,2019-06-13
+3,spotify:track:7DcvwMAiqKJQD1rrdfxSDx,"Young Thug, J. Cole, Travis Scott",The London (feat. J. Cole & Travis Scott),300 Entertainment/Atl,1,3,3,7707978,2019-06-13
+4,spotify:track:2gwkD6igEhQbDQegRCcdoB,DaBaby,Suge,South Coast Music Group/Interscope Records,4,5,11,7638603,2019-06-13
+5,spotify:track:5qmq61DAAOUaW8AUo8xKhh,Lizzo,Truth Hurts,Nice Life/Atlantic,5,6,8,7384771,2019-06-13
+6,spotify:track:5hVghJ4KaYES3BFUATCYn0,"Tyler, The Creator",EARFQUAKE,Columbia,1,4,4,7312397,2019-06-13
+7,spotify:track:3HVWdVOQ0ZA45FuZGSfvns,"Ed Sheeran, Justin Bieber",I Don't Care (with Justin Bieber),Atlantic Records UK,1,7,5,7131713,2019-06-13
+8,spotify:track:6uFn47ACjqYkc0jADwEdj1,"Polo G, Lil Tjay",Pop Out (feat. Lil Tjay),Columbia,8,9,12,6853272,2019-06-13
+9,spotify:track:3KkXRkHbMCARz0aVfEt68P,"Post Malone, Swae Lee",Sunflower - Spider-Man: Into the Spider-Verse,Universal Records,1,8,34,6635276,2019-06-13
+10,spotify:track:22vgEDb5hykfaTwLuskFGD,Jonas Brothers,Sucker,Jonas Brothers Recording,1,22,15,5984286,2019-06-13
+11,spotify:track:7FEwp8BavoEVE3AnxJDchc,"Chris Brown, Drake",No Guidance (feat. Drake),Chris Brown Entertainment/RCA Records,11,-1,1,5973911,2019-06-13
+12,spotify:track:0DiDStADDVh3SvAsoJAFMk,Jonas Brothers,Only Human,Jonas Brothers Recording,12,-1,1,5543322,2019-06-13
+13,spotify:track:6TqXcAFInzjp0bODyvrWEq,"Khalid, Disclosure",Talk (feat. Disclosure),"Right Hand Music Group, LLC/RCA Records",6,12,18,5456530,2019-06-13
+14,spotify:track:6LsAAHotRLMOHfCsSfYCsz,Shawn Mendes,If I Can't Have You,Island Records,4,11,6,5269420,2019-06-13
+15,spotify:track:2JvzF1RMd7lE3KmFlsyZD8,J. Cole,MIDDLE CHILD,"Dreamville, Inc., Under exclusive license to Roc Nation Records",1,14,21,5262287,2019-06-13
+16,spotify:track:6MWtB6iiXyIwun0YzU6DFP,Post Malone,Wow.,Republic Records,2,17,25,4989033,2019-06-13
+17,spotify:track:1kK6DwzyXJSp58u5HYWwuD,"YG, Tyga, Jon Z","Go Loko (feat. Tyga, Jon Z)",Def Jam Recordings,17,18,6,4929273,2019-06-13
+18,spotify:track:0vrmHPfoBadXVr2n0m1aqZ,Avicii,Heaven,Pophouse Entertainment Group,18,-1,1,4824049,2019-06-13
+19,spotify:track:1xbtojAZsQjOgiGdGX6ChU,Lil Tecca,Ransom,Republic Records,19,52,3,4790941,2019-06-13
+20,spotify:track:5PYQUBXc7NYeI1obMKSJK0,Katy Perry,Never Really Over,Capitol Records,10,10,2,4689041,2019-06-13
+21,spotify:track:3XiNC94b4Tq1xwv70sQJGN,Lil Uzi Vert,Sanguine Paradise,Generation Now/Atlantic,6,19,10,4468500,2019-06-13
+22,spotify:track:1wJRveJZLSb1rjhnUHQiv6,"A Boogie Wit da Hoodie, 6ix9ine",Swervin (feat. 6ix9ine),Highbridge the Label / Atlantic Records,7,20,25,4413416,2019-06-13
+23,spotify:track:53CJANUxooaqGOtdsBTh7O,Lil Nas X,Old Town Road,Columbia,2,16,15,4401146,2019-06-13
+24,spotify:track:6ocbgoVGwYJhOv1GgI9NsF,Ariana Grande,7 rings,Republic Records,1,23,21,4034687,2019-06-13
+25,spotify:track:2IRZnDFmlqMuOrYOLnZZyc,"Meek Mill, Drake",Going Bad (feat. Drake),MMG/Atlantic,2,27,28,4017977,2019-06-13
+26,spotify:track:63cd4JkwGgYJrbOizbfmsp,"Mustard, Migos",Pure Water (with Migos),10 Summers Records/Interscope Records,13,25,21,4002720,2019-06-13
+27,spotify:track:43zdsphuZLzwA9k4DJhU0I,Billie Eilish,when the party's over,Darkroom/Interscope Records,5,29,35,3989793,2019-06-13
+28,spotify:track:05CwHjIk71RXVU40boRMnR,"The Chainsmokers, Bebe Rexha",Call You Mine,Disruptor Records/Columbia,28,28,2,3958127,2019-06-13
+29,spotify:track:7rvyVWja33WG9R97oeJAjx,Calboy,Envy Me,Polo Grounds Music/RCA Records,22,30,24,3724700,2019-06-13
+30,spotify:track:543bCW2ruMPmxUBWirQ3MR,"Ed Sheeran, Chance the Rapper, PnB Rock",Cross Me (feat. Chance the Rapper & PnB Rock),Atlantic Records UK,11,21,3,3711971,2019-06-13
+31,spotify:track:7eBqSVxrzQZtK2mmgRG6lC,YNW Melly,Murder on My Mind,P2018,4,31,38,3709772,2019-06-13
+32,spotify:track:78QR3Wp35dqAhFEc2qAGjE,"Lil Baby, Gunna",Drip Too Hard (Lil Baby & Gunna),"Quality Control Music/Young Stoner Life Records, a 300 Entertainment Label/Motown Records/Capitol Records",1,41,39,3697507,2019-06-13
+33,spotify:track:2x0RZdkZcD8QRI53XT4GI5,"Avicii, Aloe Blacc",SOS (feat. Aloe Blacc),Pophouse Entertainment Group,11,63,9,3685928,2019-06-13
+34,spotify:track:2WyRfGeHo97VC5mP1BBSzr,Miley Cyrus,Mother's Daughter,RCA/Legacy,13,13,2,3661471,2019-06-13
+35,spotify:track:4SSnFejRGlZikf02HLewEF,Billie Eilish,bury a friend,Darkroom/Interscope Records,3,37,20,3516621,2019-06-13
+36,spotify:track:6Hj9jySrnFppAI0sEMCZpJ,Juice WRLD,Robbery,Grade A Productions/Interscope Records,3,33,17,3508639,2019-06-13
+37,spotify:track:7qEHsqek33rTcFNT9PFqLf,Lewis Capaldi,Someone You Loved,Vertigo Berlin,34,34,7,3440367,2019-06-13
+38,spotify:track:7Feaw9WAEREY0DUOSXJLOM,"Martin Garrix, Macklemore, Fall Out Boy",Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),Epic Amsterdam,31,38,7,3394314,2019-06-13
+39,spotify:track:36TO60sxDduIsO3xH8IcUh,"Joyner Lucas, Logic",Isis,Twenty Nine Music Group (Joyner Lucas),14,24,3,3362855,2019-06-13
+40,spotify:track:4tNXntkAzQ5A2dfYRYGIIQ,5 Seconds of Summer,Easier,5 Seconds Of Summer/Interscope,22,26,3,3331039,2019-06-13
+41,spotify:track:2TH65lNHgvLxCKXM3apjxI,"Bad Bunny, Tainy",Callaita,Rimas Entertainment LLC,41,51,2,3300888,2019-06-13
+42,spotify:track:7njKgVl3AnLflRad38o7AG,Bazzi,Paradise,iamcosmic,20,32,10,3265583,2019-06-13
+43,spotify:track:6zeeWid2sgw4lap2jV61PZ,Khalid,Better,"Right Hand Music Group, LLC/RCA Records",9,43,39,3233590,2019-06-13
+44,spotify:track:7FGq80cy8juXBCD2nrqdWU,"benny blanco, Halsey, Khalid",Eastside (with Halsey & Khalid),Friends Keep Secrets/Interscope Records,10,44,48,3212295,2019-06-13
+45,spotify:track:285pBltuF7vW8TeWk8hdRR,Juice WRLD,Lucid Dreams,Juice WRLD Mixtape / ISR P&D,1,48,58,3204818,2019-06-13
+46,spotify:track:0u2P5u6lvoDfwTYjAADbn4,"Billie Eilish, Khalid",lovely (with Khalid),Darkroom,24,47,60,3196643,2019-06-13
+47,spotify:track:2xLMifQCjDGFmkHkpNLD9h,Travis Scott,SICKO MODE,Cactus Jack / Epic,1,45,45,3169061,2019-06-13
+48,spotify:track:2MuMD298IpYqKF367wegUd,"Logic, Eminem",Homicide (feat. Eminem),Def Jam Recordings,1,35,6,3143628,2019-06-13
+49,spotify:track:4dAMdQ6g4kGmnc1MDHsg77,NLE Choppa,Shotta Flow,Warner Records,46,46,13,3117187,2019-06-13
+50,spotify:track:2dpaYNEQHiRxtZbfNsse99,"Marshmello, Bastille",Happier,Joytime Collective,8,50,43,3081055,2019-06-13
+51,spotify:track:5eDvChP4WAPPrtaQeI9MhT,Luke Combs,Beer Never Broke My Heart,River House Artists/Columbia Nashville,51,92,5,3046246,2019-06-13
+52,spotify:track:4MsUsFfWseB9M2plGJyuIw,"Taylor Swift, Brendon Urie, Panic! At The Disco",ME! (feat. Brendon Urie of Panic! At The Disco),Taylor Swift,1,42,7,3025115,2019-06-13
+53,spotify:track:6vWEAOUSxohKxhp0K1BsxL,"YNW Melly, Kanye West",Mixed Personalities (feat. Kanye West),P2019,12,49,21,3016059,2019-06-13
+54,spotify:track:3Fj47GNK2kUF0uaEDgXLaD,Billie Eilish,wish you were gay,Darkroom/Interscope Records,3,53,15,2974377,2019-06-13
+55,spotify:track:3Ol2xnObFdKV9pmRD2t9x8,A Boogie Wit da Hoodie,Look Back at It,Highbridge the Label / Atlantic Records,9,54,27,2962249,2019-06-13
+56,spotify:track:2t8yVaLvJ0RenpXUIAC52d,21 Savage,a lot,"Slaughter Gang, LLC/Epic Records",7,60,25,2951028,2019-06-13
+57,spotify:track:2QEnZJ8FwpBoyLKcFcgceT,Future,Government Official,Epic/Freebandz,57,-1,1,2892232,2019-06-13
+58,spotify:track:340UVheS8z3ncW9TTUhAbc,Halsey,Nightmare,Capitol Records,10,39,4,2888162,2019-06-13
+59,spotify:track:1vYh9x8UmFTLbXiizk9Qc5,Jonas Brothers,I Believe,Jonas Brothers Recording,59,-1,1,2885894,2019-06-13
+60,spotify:track:6dPyzkyZwoj9LqjQXOFdVv,Cardi B,Press,Atlantic/KSR,15,15,2,2852667,2019-06-13
+61,spotify:track:7f1zjZG77S891Uv4O68yfk,"DaBaby, Offset",Baby Sitter (feat. Offset),South Coast Music Group/Interscope Records,61,78,5,2820316,2019-06-13
+62,spotify:track:5p7ujcrUXASCNwRaWNHR1C,Halsey,Without Me,Capitol Records,5,55,36,2796279,2019-06-13
+63,spotify:track:59ywHNwwchG4nZJMLyxSzd,"Offset, Cardi B",Clout (feat. Cardi B),Quality Control Music/Motown Records,46,57,9,2786066,2019-06-13
+64,spotify:track:7yfi8B8opXjnRh4VZnOkz9,Jonas Brothers,Cool,Jonas Brothers Recording,34,-1,8,2742682,2019-06-13
+65,spotify:track:4kV4N9D1iKVxx1KLvtTpjS,Ariana Grande,"break up with your girlfriend, i'm bored",Republic Records,1,59,18,2738663,2019-06-13
+66,spotify:track:6foY66mWZN0pSRjZ408c00,Morgan Wallen,Whiskey Glasses,Morgan Wallen,66,69,13,2733040,2019-06-13
+67,spotify:track:6Qs4SXO9dwPj5GKvVOv8Ki,"Sam Smith, Normani",Dancing With A Stranger (with Normani),PLG - Capitol,12,58,22,2696843,2019-06-13
+68,spotify:track:3e9HZxeyfWwjeyPAMmWSSQ,Ariana Grande,"thank u, next",Republic Records,1,64,32,2664783,2019-06-13
+69,spotify:track:7dt6x5M1jzdTEt8oCbisTK,Post Malone,Better Now,Republic Records,1,65,59,2664066,2019-06-13
+70,spotify:track:1ThmUihH9dF8EV08ku5AXN,Ski Mask The Slump God,Faucet Failure,Republic Records,27,61,27,2612151,2019-06-13
+71,spotify:track:0mjAU3yKR1QnXnHtjGJqTM,OneRepublic,Rescue Me,Mosley Music/Interscope Records,66,66,4,2603593,2019-06-13
+72,spotify:track:3ee8Jmje8o58CHK66QrVC2,XXXTENTACION,SAD!,"Bad Vibes Forever, LLC",1,67,67,2591143,2019-06-13
+73,spotify:track:0e7ipj03S05BNilyu5bRzt,"Post Malone, 21 Savage",rockstar (feat. 21 Savage),Republic Records,1,76,91,2553442,2019-06-13
+74,spotify:track:1c0hsvHLELX6y8qymnpLKL,"Lunay, Daddy Yankee, Bad Bunny",Soltera (Remix),round2media - LaFamilia,60,62,5,2532142,2019-06-13
+75,spotify:track:4c1WgUnHXq2LEncGHKgj1I,"BTS, Charli xcx",Dream Glow (BTS World Original Soundtrack) (Pt. 1),BIGHIT MUSIC,75,-1,1,2524313,2019-06-13
+76,spotify:track:7dxKdQC9Vo1hDxIUnt1z0Q,Jonas Brothers,Rollercoaster,Jonas Brothers Recording,76,-1,1,2445115,2019-06-13
+77,spotify:track:2rxQMGVafnNaRaXlRMWPde,Luke Combs,Beautiful Crazy,River House Artists/Columbia Nashville,61,74,50,2421015,2019-06-13
+78,spotify:track:1rqqCSm0Qe4I9rUvWncaom,Panic! At The Disco,High Hopes,DCD2 / Fueled By Ramen,13,81,52,2416326,2019-06-13
+79,spotify:track:3A2yGHWIzmGEIolwonU69h,City Girls,Act Up,Quality Control Music/Motown Records,66,80,15,2410163,2019-06-13
+80,spotify:track:2n6red10oCd6YhlEUp6jXy,Jonas Brothers,Used To Be,Jonas Brothers Recording,80,-1,1,2402380,2019-06-13
+81,spotify:track:7COXchtUOMd6uIT6HvmRaI,"Lauv, Troye Sivan",i'm so tired...,Lauv,23,71,20,2383629,2019-06-13
+82,spotify:track:5w9c2J52mkdntKOmRLeM2m,"Daddy Yankee, Snow",Con Calma,Craft Latino,45,129,18,2383310,2019-06-13
+83,spotify:track:25sgk305KZfyuqVBQIahim,Ava Max,Sweet but Psycho,Atlantic Records,36,79,36,2359497,2019-06-13
+84,spotify:track:4ZT9FnbFu1PaBfV3itxiqT,Lil Skies,I,All We Got Ent.,16,73,15,2356983,2019-06-13
+85,spotify:track:1Ej96GIBCTvgH7tNX1r3qr,"Sech, Darell",Otro Trago,Rich Music/Ingrooves Records,85,101,4,2356307,2019-06-13
+86,spotify:track:2VxeLyX666F8uXCJ0dZF8B,"Lady Gaga, Bradley Cooper",Shallow,A Star is Born OST,10,95,37,2354400,2019-06-13
+87,spotify:track:2toVe5hfuIi97ytDPDbQFt,"Tyga, Offset",Taste (feat. Offset),Last Kings Music / EMPIRE,4,111,56,2348921,2019-06-13
+88,spotify:track:3WyRgi8CzQnhzO0xw79tTS,DaBaby,Goin Baby,South Coast Music Group/Interscope Records,67,68,8,2345108,2019-06-13
+89,spotify:track:3XF5xLJHOQQRbWya6hBp7d,Billie Eilish,you should see me in a crown,Darkroom/Interscope Records,11,85,33,2319616,2019-06-13
+90,spotify:track:0FZ4Dmg8jJJAPJnvBIzD9z,"Kodak Black, Offset, Travis Scott",ZEZE (feat. Travis Scott & Offset),Atlantic Records,1,94,35,2293051,2019-06-13
+91,spotify:track:5rU6kDNXZLXIinFezpbWbO,"NAV, Meek Mill",Tap (feat. Meek Mill),"XO Records, LLC and Republic Records",79,98,7,2266157,2019-06-13
+92,spotify:track:0JP9xo3adEtGSdUEISiszL,XXXTENTACION,Moonlight,"Bad Vibes Forever, LLC",3,91,65,2247703,2019-06-13
+93,spotify:track:2hgk8iKN9UdoM4ILlJ9F5N,Jonas Brothers,Love Her,Jonas Brothers Recording,93,-1,1,2214901,2019-06-13
+94,spotify:track:2KqJC0koTBUyDlsMt5ok1V,Thomas Rhett,Look What God Gave Her,The Valory Music Co.,70,70,6,2195101,2019-06-13
+95,spotify:track:24eP9hGnGR6RCQvllQVkCm,Jonas Brothers,Don't Throw it Away,Jonas Brothers Recording,95,-1,1,2180754,2019-06-13
+96,spotify:track:5kfNriitmkNE8mUbZ7gbq8,Khalid,Saturday Nights,"Right Hand Music Group, LLC/RCA Records",14,93,33,2175905,2019-06-13
+97,spotify:track:76F54HHrw84yqAYqrAJkbr,Jonas Brothers,Every Single Time,Jonas Brothers Recording,97,-1,1,2171944,2019-06-13
+98,spotify:track:2tOOcDDYkh0PSjr6GwPEAJ,"MAX, Quinn XCII",Love Me Less (feat. Quinn XCII),Colour Vision Records/Sony Music Entertainment,68,88,6,2164896,2019-06-13
+99,spotify:track:7m9OqQk4RVRkw9JJdeAw96,XXXTENTACION,Jocelyn Flores,Bad Vibes Forever / EMPIRE,3,100,94,2152541,2019-06-13
+100,spotify:track:1jlnBQGP2DtSEhMgQaz7a7,"Tyga, J Balvin, Chris Brown",Haute (feat. J Balvin & Chris Brown),Last Kings Music / EMPIRE,100,-1,1,2143355,2019-06-13
+101,spotify:track:4pCEIQ6wBVuaJdER5bALtO,Lil Uzi Vert,That's a Rack,Generation Now/Atlantic,41,86,9,2141695,2019-06-13
+102,spotify:track:1xzBco0xcoJEDXktl7Jxrr,Sheck Wes,Mo Bamba,Cactus Jack Records/ G.O.O.D. Music/ Interscope Records,1,97,46,2116639,2019-06-13
+103,spotify:track:3Tc57t9l2O8FwQZtQOvPXK,Billie Eilish,my strange addiction,Darkroom/Interscope Records,10,105,11,2109857,2019-06-13
+104,spotify:track:3sVLgsSTHRu483w6QciloO,Luke Combs,Even Though I'm Leaving,River House Artists/Columbia Nashville,104,-1,1,2106361,2019-06-13
+105,spotify:track:1dyxS3YzBbL0t8rEVwVQ1K,Blake Shelton,God's Country,Warner Records,90,90,6,2104852,2019-06-13
+106,spotify:track:6pK5edDoyrn4mWwRSVc2a5,Ozuna,Amor Genuino,Aura Music Corp.,106,167,2,2100222,2019-06-13
+107,spotify:track:4e4fqjx0Izh4svvTef1z7e,"Bebe Rexha, Florida Georgia Line",Meant to Be (feat. Florida Georgia Line),Warner Records,16,108,92,2090652,2019-06-13
+108,spotify:track:0k664IuFwVP557Gnx7RhIl,Lizzo,Juice,Nice Life/Atlantic,71,99,8,2079948,2019-06-13
+109,spotify:track:58q2HKrzhC3ozto2nDdN4z,"Cardi B, Bad Bunny, J Balvin",I Like It,Atlantic/KSR,3,102,62,2069439,2019-06-13
+110,spotify:track:6CcJMwBtXByIz4zQLzFkKc,Billie Eilish,i love you,Darkroom/Interscope Records,17,113,11,2061703,2019-06-13
+111,spotify:track:7fiFJADUcHwTdYLmnZeLAy,Jonas Brothers,Hesitate,Jonas Brothers Recording,111,-1,1,2050886,2019-06-13
+112,spotify:track:2iUXsYOEPhVqEBwsqP70rE,5 Seconds of Summer,Youngblood,Capitol,17,109,61,2041779,2019-06-13
+113,spotify:track:22oEJW6r2rMb9z4IntfyEa,Panic! At The Disco,"Hey Look Ma, I Made It",DCD2 / Fueled By Ramen,67,107,9,2037709,2019-06-13
+114,spotify:track:5wujBwqG7INdStqGd4tRMX,Juice WRLD,Armed And Dangerous,Juice WRLD Mixtape / ISR P&D,9,106,31,2037391,2019-06-13
+115,spotify:track:14mHfNsSHN0FbLftyjrV9g,Flipp Dinero,Leave Me Alone,Cinematic/Epic/We The Best,10,103,44,2035792,2019-06-13
+116,spotify:track:1HpzOCZbNWzxvvXfSGtSrX,"Mark Ronson, Camila Cabello",Find U Again (feat. Camila Cabello),Columbia,36,36,2,2033366,2019-06-13
+117,spotify:track:0BnTBAGmr9FtYwkZrwKhwS,"DJ Khaled, SZA",Just Us (feat. SZA),Epic/We The Best,35,84,4,2031860,2019-06-13
+118,spotify:track:0yFvWTLs3iIwDbc91noXGT,"Chance the Rapper, TisaKorean, Murda Beatz",GRoCERIES,Chance The Rapper,47,82,4,2029047,2019-06-13
+119,spotify:track:2G1tXoGBaEMJ7FKGnkf6ud,"Gucci Mane, Bruno Mars, Kodak Black",Wake Up in the Sky,Guwop Enterprises/Atlantic,6,115,39,2024974,2019-06-13
+120,spotify:track:2uIX8YMNjGMD7441kqyyNU,Billie Eilish,ocean eyes,Darkroom,78,118,51,2020740,2019-06-13
+121,spotify:track:4f8Mh5wuWHOsfXtzjrJB3t,"Tyler, The Creator",I THINK,Columbia,8,72,4,2017865,2019-06-13
+122,spotify:track:4NN6N5TxBO5k9uqu0W4gfQ,"ScHoolboy Q, 21 Savage",Floating (feat. 21 Savage),Top Dawg Entertainment/Interscope Records,22,152,7,2012710,2019-06-13
+123,spotify:track:1NF9EkR5OpMaoVWbsllcm9,Trippie Redd,Under Enemy Arms,"TenThousand Projects, LLC",40,40,2,1998873,2019-06-13
+124,spotify:track:0TlLq3lA83rQOYtrqBqSct,Drake,Nonstop,Cash Money/Drake LP6,1,122,50,1995836,2019-06-13
+125,spotify:track:4VXIryQMWpIdGgYR4TrjT1,Juice WRLD,All Girls Are The Same,Juice WRLD Mixtape / ISR P&D,13,117,60,1994277,2019-06-13
+126,spotify:track:4XiGKQqbmnMVxDzUj6j3f2,YK Osiris,Worth It,Def Jam Recordings,83,112,15,1986390,2019-06-13
+127,spotify:track:2Jh3UqxnHJMyzMzku4uOtE,Juice WRLD,Feeling,Grade A Productions/Interscope Records,55,110,11,1982596,2019-06-13
+128,spotify:track:5icOoE6VgqFKohjWWNp0Ac,"Marshmello, CHVRCHES",Here With Me,Joytime Collective,16,75,14,1978977,2019-06-13
+129,spotify:track:75ZvA4QfFiZvzhj2xkaWAh,Post Malone,I Fall Apart,Universal Records,2,121,91,1960132,2019-06-13
+130,spotify:track:6bWBLZLBRQEJ5KsLicouNB,"mgk, YUNGBLUD, Travis Barker",I Think I'm OKAY (with YUNGBLUD & Travis Barker),Bad Boy/Interscope Records,130,-1,1,1958659,2019-06-13
+131,spotify:track:5KawlOMHjWeUjQtnuRs22c,"BTS, Halsey",Boy With Luv (feat. Halsey),BIGHIT MUSIC,4,114,9,1944212,2019-06-13
+132,spotify:track:42fw0rxRO2xbesF6mJfd4Y,Dan + Shay,Tequila,Warner Records,60,141,65,1939691,2019-06-13
+133,spotify:track:5md87aD3pGXRghKUbZdyh8,Jonas Brothers,Strangers,Jonas Brothers Recording,133,-1,1,1935629,2019-06-13
+134,spotify:track:3GJ4hzg4lrGwU51Y3VARbF,Dan + Shay,Speechless,Warner Records,85,135,45,1934216,2019-06-13
+135,spotify:track:6vN77lE9LK6HP2DewaN6HZ,"Lil Baby, Drake",Yes Indeed,"Quality Control Music, LLC",2,124,57,1931810,2019-06-13
+136,spotify:track:4QIo4oxwzzafcBWkKjDpXY,Billie Eilish,xanny,Darkroom/Interscope Records,7,123,11,1930875,2019-06-13
+137,spotify:track:064tgRK6FYBwikCdxaHFV1,Jonas Brothers,Comeback,Jonas Brothers Recording,137,-1,1,1920931,2019-06-13
+138,spotify:track:0rKtyWc8bvkriBthvHKY8d,Joji,SLOW DANCING IN THE DARK,88rising Music,29,128,38,1916562,2019-06-13
+139,spotify:track:2P91MQbaiQOfbiz9VqhqKQ,Lauv,I Like Me Better,Lauv,30,127,105,1914409,2019-06-13
+140,spotify:track:3TpBefRZ1vFcOH6z57PQRI,"Bryce Vine, YG",La La Land (feat. YG),Sire,126,126,2,1913465,2019-06-13
+141,spotify:track:3swc6WTsr7rl9DqQKQA55C,"Post Malone, Ty Dolla $ign",Psycho (feat. Ty Dolla $ign),Republic Records,2,125,68,1910604,2019-06-13
+142,spotify:track:5tmu5pAFHkUSl8Fo8ncyA4,Russ,CIVIL WAR - Bonus,Columbia,142,145,4,1907839,2019-06-13
+143,spotify:track:4u7EnebtmKWzUH433cf5Qv,Queen,Bohemian Rhapsody - Remastered 2011,EMI,42,134,33,1896169,2019-06-13
+144,spotify:track:7GX5flRQZVHRAGd6B4TmDO,Lil Uzi Vert,XO Tour Llif3,Generation Now/Atlantic,2,130,116,1886768,2019-06-13
+145,spotify:track:6JQvHMSaR8flFsN53ypOfP,Lil Mosey,Noticed,Mogul Vision/Interscope Records,20,137,43,1881182,2019-06-13
+146,spotify:track:1tNJrcVe6gwLEiZCtprs1u,Dominic Fike,3 Nights,Columbia,49,119,11,1879838,2019-06-13
+147,spotify:track:7sO5G9EABYOXQKNPNiE9NR,"Offset, Metro Boomin",Ric Flair Drip (with Metro Boomin),"Slaughter Gang, LLC/Epic/Quality Control Music/Motown/Capitol/Boominati Worldwide/Republic",4,155,85,1869016,2019-06-13
+148,spotify:track:4ANFPo7dzs2DdPuONXC9bp,Future,Please Tell Me,Epic/Freebandz,148,-1,1,1857590,2019-06-13
+149,spotify:track:6DCZcSspjsKoFjzjrWoCdn,Drake,God's Plan,Cash Money/Drake LP6,1,131,73,1856007,2019-06-13
+150,spotify:track:1Hd2XLitkt1PYCWSbfF5qV,"DJ Khaled, Cardi B, 21 Savage",Wish Wish (feat. Cardi B & 21 Savage),Epic/We The Best,38,96,4,1846618,2019-06-13
+151,spotify:track:3a1lNhkSLSkpJE4MSHpDu9,"Post Malone, Quavo",Congratulations,Universal Records,5,136,129,1845555,2019-06-13
+152,spotify:track:5qrSlOut2rNAWv3ubArkNy,Dean Lewis,Be Alright,Universal Music Australia Pty. Ltd.,31,132,46,1840277,2019-06-13
+153,spotify:track:5CKtlUULFD5aPVX4PL02H6,"Tory Lanez, Quavo, Tyga",Broke Leg (with Quavo & Tyga),Mad Love/Interscope Records,83,83,2,1829406,2019-06-13
+154,spotify:track:6DibqiBTKMob2SjBwKqRfS,Jonas Brothers,Happy When I'm Sad,Jonas Brothers Recording,154,-1,1,1829397,2019-06-13
+155,spotify:track:7AQim7LbvFVZJE3O8TYgf2,"XXXTENTACION, Trippie Redd",Fuck Love,Bad Vibes Forever / EMPIRE,8,138,94,1829033,2019-06-13
+156,spotify:track:116H0KvKr2Zl4RPuVBruDO,"Bad Bunny, Drake",MIA,Rimas Entertainment LLC,2,143,35,1817358,2019-06-13
+157,spotify:track:5MoU7TaAvgBa8W0XVwXAd7,Jonas Brothers,Trust,Jonas Brothers Recording,157,-1,1,1808444,2019-06-13
+158,spotify:track:5Z3GHaZ6ec9bsiI5BenrbY,Khalid,Young Dumb & Broke,"Right Hand Music Group, LLC/RCA Records",6,140,113,1806284,2019-06-13
+159,spotify:track:3tZ4zv4UuenjJGSNUMfBNG,Future,XanaX Damage,Epic/Freebandz,159,-1,1,1790299,2019-06-13
+160,spotify:track:40T5GIqQ1CegGm2PTEl8Bu,Billie Eilish,idontwannabeyouanymore,Darkroom,48,146,48,1785560,2019-06-13
+161,spotify:track:2GGMabyHXnJmjY6CXhhB2e,Cardi B,Money,Atlantic/KSR,17,139,34,1773159,2019-06-13
+162,spotify:track:56eGOeSsqdg3FLxdo83TwV,Lee Brice,Rumor,Curb Records,150,150,4,1762506,2019-06-13
+163,spotify:track:7EAaSaj1OgZgMX5yZyFXFC,Tory Lanez,Freaky,Mad Love/Interscope Records,79,116,13,1751133,2019-06-13
+164,spotify:track:6IRdLKIyS4p7XNiP8r6rsx,Billie Eilish,all the good girls go to hell,Darkroom/Interscope Records,8,149,11,1743272,2019-06-13
+165,spotify:track:5QiNbIilmMiMBXvaAlf7lN,"The Chainsmokers, 5 Seconds of Summer",Who Do You Love,Disruptor Records/Columbia,33,104,18,1731640,2019-06-13
+166,spotify:track:152lZdxL1OR0ZMW6KquMif,Khalid,Location,"Right Hand Music Group, LLC/RCA Records",9,156,126,1730371,2019-06-13
+167,spotify:track:3oh6SCCeLuXhFpEyepla6G,Blueface,Thotiana,Fifth Amendment Entertainment/eOne Music,9,144,23,1729016,2019-06-13
+168,spotify:track:51NFxnQvaosfDDutk0tams,Billie Eilish,bellyache,Darkroom,49,161,32,1702592,2019-06-13
+169,spotify:track:2OKo7g3KfmCt3kyLvUAL0g,NF,The Search,NF Real Music,56,56,2,1702470,2019-06-13
+170,spotify:track:5Gu0PDLN4YJeW75PpBSg9p,"Hailee Steinfeld, Alesso, Florida Georgia Line, WATT","Let Me Go (with Alesso, Florida Georgia Line & watt)",Universal Records,19,159,49,1694637,2019-06-13
+171,spotify:track:2qGfZAgDe1pV2y5xJAhi6R,YoungBoy Never Broke Again,Slime Belief,"Never Broke Again, LLC",142,153,16,1689553,2019-06-13
+172,spotify:track:09IStsImFySgyp0pIQdqAc,"Zedd, Maren Morris, Grey",The Middle,UMGRI Interscope,7,172,70,1688939,2019-06-13
+173,spotify:track:698eQRku24PIYPQPHItKlA,Luke Combs,She Got the Best of Me,River House Artists/Columbia Nashville,163,165,11,1679103,2019-06-13
+174,spotify:track:79JBjIq90BrQ8Ws0pUhlzD,Mabel,Mad Love,Polydor Records,174,-1,1,1672972,2019-06-13
+175,spotify:track:7dou6LA8IUrO1XWju2sHdI,Luke Combs,Lovin' On You,River House Artists/Columbia Nashville,175,-1,1,1664098,2019-06-13
+176,spotify:track:7KXjTSCq5nL1LoYtL7XAwS,Kendrick Lamar,HUMBLE.,Aftermath,1,163,114,1654112,2019-06-13
+177,spotify:track:1b0YOwtdW5ibaAhHEsbdjB,Luke Combs,Refrigerator Door,River House Artists/Columbia Nashville,177,-1,1,1651098,2019-06-13
+178,spotify:track:1mMLMZYXkMueg65jRRWG1l,Luke Combs,When It Rains It Pours,River House Artists/Columbia Nashville,123,-1,40,1635924,2019-06-13
+179,spotify:track:0PG9fbaaHFHfre2gUVo7AN,"Cardi B, Bruno Mars",Please Me,Atlantic/KSR,15,158,17,1625120,2019-06-13
+180,spotify:track:5JEx7HbmvHQQswJCsoo9rA,"Ellie Goulding, Diplo, Swae Lee",Close To Me (with Diplo) (feat. Swae Lee),Polydor Records,33,162,33,1610385,2019-06-13
+181,spotify:track:3wLtYwtqvKK2ewelSVPeDK,Roddy Ricch,Die Young,Bird Vision Entertainment,128,142,11,1606365,2019-06-13
+182,spotify:track:6xHI9KjUjYT0FPtGO8Mxa1,Luke Combs,Hurricane,River House Artists/Columbia Nashville,86,-1,45,1604109,2019-06-13
+183,spotify:track:36HbtBrGbRWfeeSq50orF6,Luke Combs,Moon Over Mexico,River House Artists/Columbia Nashville,183,-1,1,1598165,2019-06-13
+184,spotify:track:6v0lAdFF4haL8xjBIUjtOw,"Nicky Jam, Ozuna",Te Robaré,Sony Music Latin,178,188,9,1595184,2019-06-13
+185,spotify:track:6gBFPUFcJLzWGx4lenP6h2,Travis Scott,goosebumps,Cactus Jack / Epic,16,174,129,1593843,2019-06-13
+186,spotify:track:6ZRuF2n1CQxyxxAAWsKJOy,"Kehlani, Ty Dolla $ign",Nights Like This (feat. Ty Dolla $ign),TSNMI / Atlantic,21,173,22,1583161,2019-06-13
+187,spotify:track:08tq1XcHwVt5PHXUo87i0D,Dan + Shay,All To Myself,Warner Records,187,-1,1,1582637,2019-06-13
+188,spotify:track:1fewSx2d5KIZ04wsooEBOz,"Metro Boomin, Gunna",Space Cadet (feat. Gunna),Republic Records,20,183,32,1576298,2019-06-13
+189,spotify:track:6ya8ejoKgw906Y8LWclqrp,"Nipsey Hussle, Roddy Ricch, Hit-Boy",Racks in the Middle (feat. Roddy Ricch and Hit-Boy),Atlantic Records,33,151,11,1573580,2019-06-13
+190,spotify:track:7AFASza1mXqntmGtbxXprO,XXXTENTACION,changes,"Bad Vibes Forever, LLC",7,176,67,1565518,2019-06-13
+191,spotify:track:3CA9pLiwRIGtUBiMjbZmRw,Drake,Nice For What,Cash Money/Drake LP6,1,180,62,1555995,2019-06-13
+192,spotify:track:7jI9cnrZof9mRNpIsA7QQN,Roddy Ricch,Out Tha Mud,Atlantic Records,192,-1,1,1552490,2019-06-13
+193,spotify:track:4NBTZtAt1F13VvlSKe6KTl,"The Chainsmokers, Kelsea Ballerini",This Feeling,Disruptor Records/Columbia,25,196,37,1551245,2019-06-13
+194,spotify:track:0bPnT6i9H1p8Vd85GS6Z7I,Jon Pardi,Night Shift,Capitol Records Nashville,194,194,2,1541462,2019-06-13
+195,spotify:track:5QvBXUm5MglLJ3iBfTX2Wo,"Tyler, The Creator",RUNNING OUT OF TIME,Columbia,13,120,4,1533869,2019-06-13
+196,spotify:track:4OBZT9EnhYIV17t4pGw7ig,"Daniel Caesar, H.E.R.",Best Part (feat. H.E.R.),MBK Entertainment/RCA Records,68,185,54,1531606,2019-06-13
+197,spotify:track:4qKcDkK6siZ7Jp1Jb4m0aL,"BlocBoy JB, Drake",Look Alive (feat. Drake),Bloc Nation,3,179,70,1516925,2019-06-13
+198,spotify:track:2G7V7zsVDxg1yRsu7Ew9RJ,Drake,In My Feelings,Cash Money/Drake LP6,1,186,48,1514163,2019-06-13
+199,spotify:track:62vpWI1CHwFy7tMIcSStl8,J. Cole,No Role Modelz,Roc Nation Records LLC,65,190,104,1510848,2019-06-13
+200,spotify:track:4yn0ftNHQSwsWE81h33y4K,"Tyga, Gunna",Legendary (feat. Gunna),Last Kings Music / EMPIRE,200,-1,1,1506324,2019-06-13
