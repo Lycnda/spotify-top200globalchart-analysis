@@ -32,8 +32,6 @@ directory_path = 'C:/Users/lkhum\OneDrive/Documents/Spotify Analysis Repos/top20
 destination_folder_path = 'C:/Users/lkhum/OneDrive/Documents/Spotify Analysis Repos/top200globalchart/updated-spotify-top200globalchart-analysis/spotify-top200globalchart-analysis/spotify '
 splitpathstr = 'C:/Users/lkhum\\OneDrive/Documents/Spotify Analysis Repos/top200globalchart/updated-spotify-top200globalchart-analysis\\'
 
-therelfilestrs = ["kr", "za", "global", "gb", "ng", "au", "in", "us"]
-
 # Create a search pattern for all files ending with .csv in that specific directory
 # The asterisk (*) acts as a wildcard for the filename itself
 search_pattern = os.path.join(directory_path, '*.csv')
@@ -47,6 +45,7 @@ for file_path in csv_files_paths:
     allfiles.append(file_path)
 
 for filename in allfiles:
+    # get the country name which tells which folder it should sit in
     for innerfiles in filename.split(splitpathstr):
         if(innerfiles != ""):
             destpath = destination_folder_path + innerfiles.split('regional-')[1].split("-")[0] + " " + 'v2/'
