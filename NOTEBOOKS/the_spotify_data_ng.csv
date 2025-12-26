@@ -1,0 +1,201 @@
+trackAppearanceCount,artistAppearanceCount,artist_names,track_name,rank,uri,source,peak_rank,previous_rank,weeks_on_chart,streams,End Date,Week,Year,End Date Dt,Seconds since Epoch,End Date Aggregated,ArtistCount,main_artist,isTopTen
+0,0,"21 Savage, Drake",MR RECOUP,178,spotify:track:38iBHQloAVZNpKsFVU8aAd,"Slaughter Gang, LLC/Epic Records",178,-1,1,204133,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,21 Savage,0
+0,0,6uff,PRODIGY,200,spotify:track:5qNHVaV0ud0vFer0xnc2AZ,Get A Stack Records / The Orban Company,102,-1,7,192340,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,6uff,0
+0,0,Adekunle Gold,Many People,99,spotify:track:0mfLbIDRH9YJfU3wComro7,Believe UK,40,95,11,283958,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Adekunle Gold,0
+0,1,"Adekunle Gold, Zinoleesky",Party No Dey Stop (with Zinoleesky),137,spotify:track:49ytLGEP5S20N3AhB5YuwJ,Adekunle Gold PS/ Def Jam,1,152,123,248323,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Adekunle Gold,0
+0,0,"Al Xapo, Benzoo, EeQue",SNOKONOKO,9,spotify:track:1F6HMPZd1izYjwGoFsh7Ny,2025 HGA/LVRN Records (Love Renaissance),9,20,3,1053715,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Al Xapo,1
+0,0,Alex Warren,Ordinary,147,spotify:track:2RkZ5LkEzeHGRsmDqKwmaJ,Atlantic Records,47,143,38,235099,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Alex Warren,0
+0,0,Asake,2:30,95,spotify:track:1n3JvneU8FhfldfTQ8BdZs,YBNL Nation / EMPIRE,1,115,124,287696,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Asake,0
+0,1,Asake,Joha,160,spotify:track:5UwxpuGHkwiojKDaPC5ZNu,YBNL Nation / EMPIRE,1,164,115,222744,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Asake,0
+0,2,Asake,Lonely At The Top,68,spotify:track:5ZtK8XAVnoaGdBXZWCEVCY,YBNL Nation / EMPIRE,1,77,131,368417,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Asake,0
+0,3,Asake,Mentally,91,spotify:track:6IEYlownuHoYdpMikoyj58,YBNL Nation / EMPIRE,10,106,68,300863,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Asake,0
+0,4,Asake,Nzaza,24,spotify:track:0VjzaXw81JQJM61pzWwP8b,YBNL Nation / EMPIRE,6,25,142,775945,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Asake,0
+0,5,Asake,Ototo,58,spotify:track:0CUJV0Hh512Ns7U2yGflqt,YBNL Nation / EMPIRE,7,56,170,406327,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Asake,0
+0,6,Asake,Remember,18,spotify:track:0Q1bMs3xLQiDEeaneehdxv,YBNL Nation / EMPIRE,12,18,131,836041,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Asake,0
+0,7,Asake,Terminator,65,spotify:track:5ycsqezujKrwviU3VFhci1,YBNL Nation / EMPIRE,1,74,174,382969,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Asake,0
+0,8,Asake,WHY LOVE,165,spotify:track:4uLBwGnr1U3ctcDZrnVEgK,Giran Republic,3,139,45,219486,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Asake,0
+0,9,Asake,What's Up My G,164,spotify:track:2LjZYCOYldHWhzQ1G5XJ81,YBNL Nation / EMPIRE,10,191,29,220012,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Asake,0
+0,10,Asake,Worldwide,194,spotify:track:3n7kzSJ246VvIe4lRmxV9X,YBNL Nation / EMPIRE,7,-1,58,193292,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Asake,0
+0,11,"Asake, Tiakola",BADMAN GANGSTA,52,spotify:track:0FU7ERQTOECwmEIaWDgdIG,GIRAN Republic,1,49,21,439527,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Asake,0
+0,12,"Asake, Wizkid",MMS,57,spotify:track:13VXuHw3O8Yt7VwRIDqSo4,YBNL Nation / EMPIRE,1,57,72,408838,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Asake,0
+0,0,Ayo Maff,Are you there?,114,spotify:track:10y7iW3rc8bzGbhAC3mNPA,AYO MAFF,3,117,70,263497,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Ayo Maff,0
+0,1,Ayo Maff,TENSION,42,spotify:track:2zL3mQUgNwlCNZMgOE98pu,OCEANSTREET CREATIVE LTD / EMPIRE,38,38,4,543880,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Ayo Maff,0
+0,2,"Ayo Maff, Fireboy DML",Dealer,106,spotify:track:5Wxkvvb6pLky16pwq4gBI3,Tunesbid / Ocean street,1,120,88,274506,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Ayo Maff,0
+0,0,Ayra Starr,Hot Body,75,spotify:track:04yGQ4xzVt9LVAqop42ja6,Ayra Starr,7,71,21,346244,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Ayra Starr,0
+0,1,"Ayra Starr, Rema",Whos Dat Girl,16,spotify:track:6XaN4trfoMvRFEy8HoB4nC,Ayra Starr,1,13,9,856042,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Ayra Starr,0
+0,2,"Ayra Starr, Seyi Vibez",Bad Vibes (feat. Seyi Vibez),169,spotify:track:6VX4hVDmDMfClxp6EwDNQP,Mavin Global Holdings Ltd.,2,-1,81,210962,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,2,Ayra Starr,0
+0,3,"Ayra Starr, Wizkid",Gimme Dat (feat. Wizkid),102,spotify:track:1k51Q6GFWBbsaWlBB2gnzo,Republic Records,2,93,34,282987,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,2,Ayra Starr,0
+0,0,BBO,My God,153,spotify:track:0RVWYiqpXx4yl4piv0MPLM,BBO,144,157,26,228357,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,BBO,0
+0,0,BNXN,I Alone,141,spotify:track:6D09vfVjCFlRxOGdmja0yp,T.Y.E. / EMPIRE,6,123,25,244065,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,BNXN,0
+0,1,BNXN,Laye Mi,81,spotify:track:28NElMiahjGMfcE1G8Y6TG,T.Y.E. / EMPIRE,5,68,25,317167,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,BNXN,0
+0,2,BNXN,PRAY,104,spotify:track:731NDNG7VQOA2KBnS43jqr,T.Y.E. / EMPIRE,3,134,137,275678,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,BNXN,0
+0,3,BNXN,Pidgin & English,64,spotify:track:4jcrO2T6XJ1B7hXsAEJ3ve,T.Y.E. / EMPIRE,6,66,116,387389,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,BNXN,0
+0,4,"BNXN, FOLA",Very Soon,19,spotify:track:2IocWgGPI0o6rmRDeb7Zrz,T.Y.E. / EMPIRE,1,14,29,833676,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,BNXN,0
+0,5,"BNXN, Kizz Daniel, Seyi Vibez",GWAGWALADA,118,spotify:track:0YeUYYOh25Cn57DKTC8uS4,T.Y.E. / EMPIRE,2,166,148,258080,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,BNXN,0
+0,6,"BNXN, Rema",Fi Kan We Kan,119,spotify:track:61N5fgHj3IPReRcULtXmDI,T.Y.E. / EMPIRE,2,126,62,257921,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,BNXN,0
+0,0,Balloranking,Jungle,157,spotify:track:4sDJ96gu68rfMzlDNLh5M5,Dvpper Digital,52,127,4,224571,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Balloranking,0
+0,1,"Balloranking, Seyi Vibez",Realize,152,spotify:track:37xumKXReRyER0jlfM3iVL,Zero Panic / Dvpper Music,119,170,39,230140,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Balloranking,0
+0,0,Bella Shmurda,Appraisal,100,spotify:track:01lI217l9g8yjVDt2bsI6u,Dangbana Republik,23,105,11,283384,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Bella Shmurda,0
+0,1,"Bella Shmurda, FOLA",Dangbana Riddim,23,spotify:track:1a9TV9miedFJbf7v2WMbSa,Dangbana Republik,10,17,36,800535,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Bella Shmurda,0
+0,0,Billie Eilish,ocean eyes,196,spotify:track:2uIX8YMNjGMD7441kqyyNU,Darkroom,187,-1,4,193189,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Billie Eilish,0
+0,1,"Billie Eilish, Khalid",lovely (with Khalid),172,spotify:track:0u2P5u6lvoDfwTYjAADbn4,Darkroom,128,155,162,208704,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Billie Eilish,0
+0,0,Burna Boy,23,189,spotify:track:7EqoATlXAKNwzv45LAlqRt,Spaceship Entertainment Ltd.,107,-1,56,196802,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Burna Boy,0
+0,1,Burna Boy,Love,61,spotify:track:4ACbff3fw2FkJ0xtJWilck,Spaceship Entertainment Ltd.,1,55,23,392764,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Burna Boy,0
+0,0,"CIZA, Tems, Omah Lay, Thukuthela, JAZZWRLD, Lekaa Beats","Isaka II (6am) [with Tems, Omah Lay, Thukuthela, JAZZWRLD, Lekaa Beats]",32,spotify:track:4lz4aKs60vUoyZP4pNy3aD,2025 CIZARIO Records/LVRN Records (Love Renaissance),14,33,16,640984,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,CIZA,0
+0,0,CKay,Felony,187,spotify:track:0Jq7lotJVDHAvNfef6ehcJ,WM South Africa,187,-1,1,198001,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,CKay,0
+0,1,"CKay, Mavo",BODY (danz),1,spotify:track:51WcemyU0PlssXhhsspBYh,CKay Holdings LLC,1,1,8,2186126,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,CKay,1
+0,0,Champz,Champion Sound,92,spotify:track:7N1ff8k03rH1JdAJB9f6rw,Champz Music,17,84,6,294154,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Champz,0
+0,0,Chella,My Darling,183,spotify:track:5w3SjFyHWqqxloeQmeoEYu,Chella Music / 222 Ent.,1,171,38,201894,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Chella,0
+0,0,"DJ Maphorisa, DJ Tunez, Wizkid, Mavo",MONEY CONSTANT,2,spotify:track:12jMMRyPNMTNp3CRmdWMve,New Money Gang Records,1,2,8,1681529,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,DJ Maphorisa,1
+0,0,"DJ Tunez, Wizkid, FOLA",One Condition,11,spotify:track:5ht0zFXsezKxVvu8eMiewq,Easier Said,1,10,21,952584,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,DJ Tunez,0
+0,1,"DJ Tunez, Wizkid, ODUMODUBLVCK",EASY WITH ME,17,spotify:track:3gvi43dx7YWnQX0Tb5T2NV,Easier Said,3,9,4,855822,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,DJ Tunez,0
+0,0,"Darkoo, Rema",Favourite Girl (with Rema),192,spotify:track:7u6T1ywvmYjg6bhSCL922T,Black Pearl Music Group LTD,3,-1,53,193994,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Darkoo,0
+0,0,"Dave, Tems",Raindance (feat. Tems),12,spotify:track:3oTuTpF1F3A7rEC6RKsMRz,Neighbourhood,6,24,8,950139,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,2,Dave,0
+0,0,"Davido, FAVE",KANTE (feat. Fave),41,spotify:track:7vKXc90NT5WBm3UTT4iTVG,Columbia,5,51,143,550566,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,2,Davido,0
+0,1,"Davido, ODUMODUBLVCK, Chike",Funds (feat. ODUMODUBLVCK & Chike),97,spotify:track:6zZixF6uYbtG8uiNzDO2LH,Columbia,1,108,54,286026,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,3,Davido,0
+0,2,"Davido, Omah Lay",With You (feat. Omah Lay),28,spotify:track:5GyaXqMfcIGHfmTUITFacS,Columbia,1,26,35,699937,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,2,Davido,0
+0,0,"EMO Grae, BNXN",Your Type,55,spotify:track:59XJEMBDqZM420GWBm3n3m,Label Dots Music,55,-1,1,424034,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,EMO Grae,0
+0,0,Eminem,Mockingbird,150,spotify:track:561jH07mF1jHuk7KlaeF0s,Eminem Catalog PS,115,153,71,233668,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Eminem,0
+0,0,"FAVE, Urban Chords",Intentions (feat. Urban Chords),37,spotify:track:4wOu789QwIa8c860A3Dklw,Riddim Baby LTD,37,52,3,578452,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,2,FAVE,0
+0,0,FOLA,Feeling,22,spotify:track:5EMD7ozaMBD2GJCUHD5nVn,Fola / FPR Distro,13,19,38,804200,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,FOLA,0
+0,1,FOLA,Miss You,162,spotify:track:5261xzgAxFyXO0wqzbAftn,Fola/ FPR Distro,101,186,16,221929,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,FOLA,0
+0,2,FOLA,bye bye,49,spotify:track:6tngr9d0NvgO8lERHM2wUu,Dangbana Republik Records / EMPIRE,46,46,35,498194,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,FOLA,0
+0,3,FOLA,caricature,14,spotify:track:4h479A3EU5ZpUg0mlfdNtR,Dangbana Republik Records / EMPIRE,12,16,15,936690,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,FOLA,0
+0,4,FOLA,cruise control,89,spotify:track:2OxLgI6O7BR1FZfLw54jG2,Dangbana Republik Records / EMPIRE,16,87,15,308683,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,FOLA,0
+0,5,FOLA,eko,33,spotify:track:5oS7MonetNV6SLUyP0t5Xb,Dangbana Republik Records / EMPIRE,3,27,16,637282,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,FOLA,0
+0,6,FOLA,gokada,156,spotify:track:2aQcVp8NHhCOhgZh76k1Ui,Dangbana Republik Records / EMPIRE,22,131,15,224746,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,FOLA,0
+0,7,FOLA,healer,43,spotify:track:7q6EdEhPwkVfu4XGgP4kXV,Dangbana Republik Records / EMPIRE,15,39,15,542121,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,FOLA,0
+0,8,FOLA,it's going,195,spotify:track:4uQziUY4EzYVULK1D9Ugum,Dangbana Republik Records / EMPIRE,45,198,14,193212,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,FOLA,0
+0,9,FOLA,you,5,spotify:track:6RW5AtwRPRc4C0j2EgCdTr,Dangbana Republik Records / EMPIRE,1,5,19,1298346,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,FOLA,1
+0,10,"FOLA, BNXN",alone - Remix,96,spotify:track:2GSK9VfsKWpVOV6ZzKiMA4,Dangbana Republik Records,7,102,63,286691,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,FOLA,0
+0,11,"FOLA, Bella Shmurda",who does that? (feat. Bella Shmurda),48,spotify:track:3ZR7IlqBPK8TrJyZYfFX9L,Dangbana Republik Records / EMPIRE,9,42,54,509660,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,2,FOLA,0
+0,12,"FOLA, Kizz Daniel",lost,25,spotify:track:44JPapCqTLuLedG9B3TvSy,Dangbana Republik Records / EMPIRE,2,22,34,729644,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,FOLA,0
+0,13,"FOLA, Victony",golibe,47,spotify:track:0WjpZZPLAAADeY9Hdam4Nr,Dangbana Republik Records / EMPIRE,10,40,15,510167,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,FOLA,0
+0,14,"FOLA, Young Jonn",disco,87,spotify:track:6jcyiJ9pS1gkPvZvgl9ZO5,Dangbana Republik Records / EMPIRE,29,88,15,309231,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,FOLA,0
+0,0,"Faceless, Sertonin",Venus,66,spotify:track:2pNjk1fIZTMtj8ry6SdEmB,2024 Faceless/LVRN Records (Love Renaissance),4,65,55,382155,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Faceless,0
+0,0,Famous Pluto,Na Scra,142,spotify:track:4XHrQHvHWlE0RldeG8Nslq,PLUTOMANIA RECORDS,4,133,41,240226,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Famous Pluto,0
+0,1,"Famous Pluto, Jeriq",Osusu,112,spotify:track:3yaMisjmccUHlzZYgSh9zf,PLUTOMANIA RECORDS,4,94,26,271189,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Famous Pluto,0
+0,2,"Famous Pluto, Shallipopi, Zerrydl",Ewo,39,spotify:track:3w0eFAME3IxlonearUIaXJ,PLUTOMANIA RECORDS,1,34,26,564742,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Famous Pluto,0
+0,3,"Famous Pluto, Zerrydl",Unto the Next,21,spotify:track:6wNQOy8PXHV5bmfubVDXrI,Plutomania Records,5,12,5,811703,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Famous Pluto,0
+0,0,Fido,Awolowo,45,spotify:track:1136eJrkWsDvReASbjLTaU,Heatwave Records,1,43,70,531304,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Fido,0
+0,1,Fido,Joy is Coming,44,spotify:track:3XCB0kXFhGFgbZrfpAQGML,Oosha Records Ltd / EMPIRE,1,41,52,536693,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Fido,0
+0,0,Fireboy DML,Dopamine,167,spotify:track:6Dl5VTH88DdfbF8VOsxHgx,YBNL Nation / EMPIRE,51,162,13,212066,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Fireboy DML,0
+0,1,"Fireboy DML, Asake",Bandana,98,spotify:track:2qWwuCVeMjF9mUT0S5Iqvl,YBNL Nation / EMPIRE,1,119,178,284042,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Fireboy DML,0
+0,0,"Fridayy, Asake",Blessings (with Asake) - Remix,161,spotify:track:2FX0YSnyAJ8jxvysMiSp9P,"Lost In Melody, LLC / Def Jam Recordings",20,-1,18,222030,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Fridayy,0
+0,0,"Future, Drake, Tems",WAIT FOR U (feat. Drake & Tems),134,spotify:track:59nOXPmaKlBfGMDeOVGrIK,Epic/Freebandz,5,149,187,252090,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,3,Future,0
+0,0,"Gaise Baba, Lawrence Oyor",No Turning Back II,146,spotify:track:5VKXfM7SWob2onq118RjYJ,464 Projects,3,145,31,236737,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Gaise Baba,0
+0,0,"Galorizzy, Davido, Mavo, Ecool, Morravey, Scotts Maphuma, Iphxne Dj",Galorizzy,27,spotify:track:5DuhLCBVuGRYVoV64ucaWh,JUNGLE,2,28,4,717066,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Galorizzy,0
+0,0,"Gunna, Burna Boy",wgft (feat. Burna Boy),53,spotify:track:0WsC4ETIXyiHDMXRaPMvKe,300 Entertainment,4,50,19,434928,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,2,Gunna,0
+0,1,"Gunna, Roddy Ricch",let it breathe (feat. Roddy Ricch),144,spotify:track:4vpx4cL7IRedZul0j0bL2c,300 Entertainment,76,142,84,239380,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,2,Gunna,0
+0,2,"Gunna, Wizkid",forever be mine (feat. Wizkid),69,spotify:track:1m7j6RWUxeBzTOY4hcWsoj,300 Entertainment,1,60,19,365729,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,2,Gunna,0
+0,0,Hotkeed,Better Days,176,spotify:track:33ERZeSgdBTkDTLc62Guud,Hotkeed under exclusive license to Doki Music,32,179,15,205888,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Hotkeed,0
+0,1,Hotkeed,My Way,173,spotify:track:2oKUSzZddx10m5nUKEq9LZ,Hotkeed under exclusive license to Doki Music,31,-1,40,208256,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Hotkeed,0
+0,0,"J Hus, Seyi Vibez",Richer,13,spotify:track:0gi0hs7oBAfFt8ux8yyczu,Militér Music / EMPIRE,13,-1,1,946562,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,J Hus,0
+0,0,Khaid,SORRY IM NOT SORRY,121,spotify:track:4pLRyM0kyB3neTK4O9s1dj,Platoon,121,-1,1,256077,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Khaid,0
+0,0,Kizz Daniel,Holy Romance,166,spotify:track:4dsxF6UWyzVM7lutvZkyca,FlyBoy INC / EMPIRE,99,99,2,216417,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Kizz Daniel,0
+0,1,"Kizz Daniel, FOLA",Titi,117,spotify:track:56lGvDVasowdpufZnBJbuB,FlyBoy INC / EMPIRE,5,116,29,258213,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Kizz Daniel,0
+0,0,"Kumba, Blazon",Achukuleke Bom Bom,135,spotify:track:771KqerSlr8YAk5jgAWQCS,EXPLO MUSIC,135,-1,1,249833,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Kumba,0
+0,0,Kunmie,Arike,60,spotify:track:4WnlAkJ3S0r6C7ofHy6kNP,CiDAR Africa,1,64,44,393145,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Kunmie,0
+0,0,"Kvng Vinci, Zerrydl",HAUSAPIANO - Remix,155,spotify:track:3H2bLX6U4kNuv04iTkCrSp,Heatwave Records,4,190,52,226718,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Kvng Vinci,0
+0,0,Mavo,No,128,spotify:track:15lsGpVs9AwnaerYU0Kddi,KILOGBEDE RECORDS,128,146,4,254426,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Mavo,0
+0,1,Mavo,Shakabulizzy,36,spotify:track:0VrCqCukErAdpwmtaXpiqk,Inner Circle Entertainment Ltd.,3,36,15,602269,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Mavo,0
+0,2,Mavo,Tumo Weto,8,spotify:track:5eVQcRihBkD938y0zfnbJ4,KILOGBEDE RECORDS,8,11,16,1084418,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Mavo,1
+0,3,"Mavo, Davido",Shakabulizzy - Remix,30,spotify:track:3yzs58LteW16AjEb4J5vvi,Inner Circle Entertainment Ltd.,6,32,8,647911,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Mavo,0
+0,4,"Mavo, Shallipopi, Zlatan, Ayra Starr",Escaladizzy II,26,spotify:track:02f69ZvOxhR4Uo6xXsicfT,Inner Circle Entertainment Ltd.,11,23,19,722339,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Mavo,0
+0,5,"Mavo, WAVE$TAR",Escaladizzy,73,spotify:track:258ZOMdFXcoTHA5D2LnCzZ,Inner Circle Entertainment Ltd.,40,75,28,351151,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Mavo,0
+0,0,Mohbad,Blessing,199,spotify:track:0aJa1qkgXRI4CrrRsTekTG,Imolenization,20,-1,23,192579,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Mohbad,0
+0,0,Monaky,Chandelier,70,spotify:track:20l4NPs2c9OBKBKUKRjxIy,TKM Entertainment,4,73,56,364689,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Monaky,0
+0,1,"Monaky, Llona",Gone Rogue,191,spotify:track:67nUXHONuLLaFopsG2AQKg,TKM Entertainment,148,-1,12,195441,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Monaky,0
+0,0,"Muyeez, Seyi Vibez",Instagram,122,spotify:track:1Ss5QjczHsdYkvNsiBmoqS,Dvpper Digital,1,129,86,255854,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Muyeez,0
+0,0,ODUMODUBLVCK,2:02PM IN LONDON (FREESTYLE),136,spotify:track:7fkCiUlTXr6AAHXXtrIRd4,Native Sounds/Def Jam PS,25,104,17,248632,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,ODUMODUBLVCK,0
+0,1,ODUMODUBLVCK,INDUSTRY MACHINE,50,spotify:track:6dxhxLpEan7FvBJPhFW9QN,Native Sounds/Def Jam PS,3,48,12,488577,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,ODUMODUBLVCK,0
+0,2,ODUMODUBLVCK,LEGOLAS,116,spotify:track:0OWPr4POCQ7iH9BGmTxOZV,Native Sounds/Def Jam PS,13,125,38,259196,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,ODUMODUBLVCK,0
+0,3,"ODUMODUBLVCK, Black Sherif",WOTOWOTO SEASONING (feat. Black Sherif),94,spotify:track:2LP8KwtvzUx1onvXKQCoKR,Native Sounds/Def Jam PS,2,97,107,288960,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,2,ODUMODUBLVCK,0
+0,4,"ODUMODUBLVCK, Bloody Civilian, Wale",BLOOD ON THE DANCE FLOOR (feat. Bloody Civilian and Wale),188,spotify:track:35MU2MEhQMw0NhXZztAP9m,Native Sounds/Def Jam PS,1,-1,112,197721,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,2,ODUMODUBLVCK,0
+0,5,"ODUMODUBLVCK, Cruel Santino, Bella Shmurda",DOG EAT DOG II (feat. Cruel Santino and Bella Shmurda),123,spotify:track:3EfMWIEGQB24dQv5x4Hwvx,Native Sounds/Def Jam PS,5,130,134,255684,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,2,ODUMODUBLVCK,0
+0,6,"ODUMODUBLVCK, Davido, Seun Kuti",GROOVING (feat. Davido and Seun Kuti),129,spotify:track:73rLXBXwSfBqGmWw2x8i8t,Native Sounds/Def Jam PS,4,112,11,254013,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,2,ODUMODUBLVCK,0
+0,7,"ODUMODUBLVCK, Smur Lee, Shallipopi",JUJU (with Smur Lee & Shallipopi),127,spotify:track:4OnCrs3h948Ee4yLLTcaRx,Native Sounds/Def Jam PS,1,141,69,255338,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,ODUMODUBLVCK,0
+0,8,"ODUMODUBLVCK, Victony",PITY THIS BOY (with Victony),85,spotify:track:3RMr94P81nO3GtW9MfqNp5,Native Sounds/Def Jam PS,1,91,45,312546,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,ODUMODUBLVCK,0
+0,9,"ODUMODUBLVCK, Wizkid",BIG TIME (feat. Wizkid),34,spotify:track:4zGLBKonWuLSeK35mrUXf0,Native Sounds/Def Jam PS,1,31,11,615046,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,2,ODUMODUBLVCK,0
+0,0,OG Abbah,Wayyo Allah Na,76,spotify:track:0STr0FTOEYsdQo1pudMIaj,Azuri,40,89,8,335004,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,OG Abbah,0
+0,0,"Oberz, FOLA",Oh No,82,spotify:track:19nmeU0aNGfXHzIpfKUQB2,NGwide Media,54,101,20,316002,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Oberz,0
+0,0,"Odeal, Wizkid",Nights In The Sun (feat. Wizkid),109,spotify:track:3XmHd0NqN5O4e7Vnv8fb8q,2025 OVMBR/LVRN Records (Love Renaissance),15,82,4,274292,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,2,Odeal,0
+0,0,"Olamide, Seyi Vibez, Asake, Young Jonn, Daecolm",99 (feat. Daecolm),31,spotify:track:5GkkuEEPtYguzhTdCpS8Ab,YBNL Nation / EMPIRE,1,30,28,647168,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,2,Olamide,0
+0,1,"Olamide, Wizkid, Darkoo",Billionaires Club,103,spotify:track:65cRt4uGMzo51AzXqptVsX,YBNL Nation / EMPIRE,3,80,27,281085,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Olamide,0
+0,0,Omah Lay,Bad Influence,175,spotify:track:2c00DlvpzthGKcyXpe5GHa,KeyQaad,141,187,14,207678,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Omah Lay,0
+0,1,Omah Lay,Holy Ghost,184,spotify:track:0zVk3uuV9UhxAt48F3OL12,Keyqaad,1,-1,102,201368,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Omah Lay,0
+0,2,Omah Lay,Waist,10,spotify:track:3sW9XZW5xK95CXBHrwNFiK,Keyqaad,3,8,5,964156,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Omah Lay,1
+0,3,Omah Lay,im a mess,133,spotify:track:65v99AWZyNz3aRmfrT2I7N,Keyqaad,10,132,129,252437,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Omah Lay,0
+0,0,Phyno,Ask Of Me Now,185,spotify:track:09KqpiC1s599qgsbhcudgu,Penthauze,70,199,7,198404,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Phyno,0
+0,0,"Poco Lee, Mavo, Diamond Boy",ENJOYMENT,115,spotify:track:54ZS9DcCVy0jcsTqHSFLyi,Poco Lee,36,121,6,263196,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Poco Lee,0
+0,0,"Qing Madi, BNXN",Ole (feat. BNXN),193,spotify:track:6GkFuU6FVfx866bhM1T1Iz,Bu Vision,9,-1,103,193425,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,2,Qing Madi,0
+0,0,Rema,Baby (Is it a Crime),84,spotify:track:6NOrpcicPUh2eaj8bAD44u,Mavin Global Holdings Ltd,1,90,45,314582,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Rema,0
+0,1,Rema,Bout U,177,spotify:track:3qS4spuVywoeh9uGIpRuQh,Mavin Global Holdings Ltd,2,160,36,204215,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Rema,0
+0,2,Rema,FUN,4,spotify:track:0qlu7Te2J2BuAGFcwb3rjn,Mavin Global Holdings Ltd,1,4,15,1364663,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Rema,1
+0,3,Rema,OZEBA,198,spotify:track:7ySC0IjVS1PMEdsZOvsUK2,Mavin Global Holdings Ltd,1,-1,62,192660,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Rema,0
+0,0,"Ruger, BNXN",POE,154,spotify:track:52Krs3LCqtcfeiWUvhxncK,Blown Boy Ent. / T.Y.E / EMPIRE,2,177,87,227587,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Ruger,0
+0,0,Runtown,Mad Over You,132,spotify:track:1jloWdvMh9nwHUu3mag8CL,Ercimany,95,128,28,252515,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Runtown,0
+0,0,Ruth B.,Dandelions,158,spotify:track:2eAvDnpXP5W0cVtiI0PUxV,Columbia,128,167,147,224124,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Ruth B.,0
+0,0,Rybeena,Spaghetti,145,spotify:track:1PDH0XQokPmunz9CU83gPe,Dvpper Digital,37,156,10,237193,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Rybeena,0
+0,1,"Rybeena, Joeboy",Adunni,105,spotify:track:5k4b2GrFucLX5AgzGCYGy2,Dvpper Digital,29,107,14,274911,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Rybeena,0
+0,2,"Rybeena, Shoday",Gaddem,181,spotify:track:0QS3LMUjShjzmxDv7Il1xz,Dvpper Digital,11,185,27,203889,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Rybeena,0
+0,0,SAMAD,Lameda,126,spotify:track:7DRJm0x4djOSGWLiAbRohe,SAMAD MUSIC WORLDWIDE,77,135,28,255464,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,SAMAD,0
+0,1,SAMAD,Tomorrow - Spiritual Version,111,spotify:track:1xxar3lqxQDrWzNDAyAKtk,SAMAD MUSIC WORLDWIDE,36,111,18,273563,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,SAMAD,0
+0,0,"Sarz, Asake, Gunna","Happiness (feat. Asake, Gunna)",159,spotify:track:3Y1hrPPs0FFtXodEE7HkrN,1789 under exclusive license to UnitedMasters LLC,5,183,84,224071,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,2,Sarz,0
+0,1,"Sarz, Asake, Wizkid, Skillibeng","Getting Paid (feat. Asake, Wizkid, Skillibeng)",20,spotify:track:1HJr3tp2LIrvXFexwiyn7s,1789 under exclusive license to UnitedMasters LLC,1,15,12,815219,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,2,Sarz,0
+0,0,Seyi Vibez,AMA,54,spotify:track:5lSDdHPmeqsDJcqiMYtUHN,NSNV INC / EMPIRE,4,45,5,427455,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Seyi Vibez,0
+0,1,Seyi Vibez,Cana,174,spotify:track:6iHVLqSeDVj70pcVULZzGj,Dvpper Digital,3,189,105,207914,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Seyi Vibez,0
+0,2,Seyi Vibez,Doha,62,spotify:track:5hphSVebVxTpDfrk09W0hS,Dvpper Digital,5,58,75,390227,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Seyi Vibez,0
+0,3,Seyi Vibez,FUJI MOTO,29,spotify:track:3am9LsAqmh8yTWTb9Mwzy8,NSNV INC / EMPIRE,5,21,5,678173,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Seyi Vibez,0
+0,4,Seyi Vibez,HOW ARE YOU,63,spotify:track:5296ZsW1OKY8qvvXaRc9ex,NSNV INC / EMPIRE,7,53,8,388401,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Seyi Vibez,0
+0,5,Seyi Vibez,Karma,101,spotify:track:4kdLYxqvPduwC5oAdXhMLh,Vibez Inc / Dvpper Music,34,103,130,283329,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Seyi Vibez,0
+0,6,Seyi Vibez,MARIO KART,46,spotify:track:4ddpHR6drcPRGPL5jYFluh,NSNV INC / EMPIRE,3,35,43,524693,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Seyi Vibez,0
+0,7,Seyi Vibez,Man of The Year,130,spotify:track:6OhEAnxF6FzPoUU3KxH44F,Vibez Inc / Dvpper Music,7,176,130,253446,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Seyi Vibez,0
+0,8,Seyi Vibez,Pressure,40,spotify:track:0yLPupVmWzIthRHesuR5Wt,NSNV INC / EMPIRE,1,37,31,558763,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Seyi Vibez,0
+0,9,Seyi Vibez,SHAOLIN,107,spotify:track:1xKouzvLksC1iYWY0Tob3s,NSNV INC / EMPIRE,1,96,43,274450,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Seyi Vibez,0
+0,10,Seyi Vibez,UNIVERSE,79,spotify:track:3wEguEqsbkMbrjzaPaKrJv,NSNV INC / EMPIRE,12,70,5,320653,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Seyi Vibez,0
+0,11,"Seyi Vibez, Trippie Redd",UP,80,spotify:track:3txOxWfFWDxo5e8mxqIdgL,NSNV INC / EMPIRE,8,69,5,318939,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Seyi Vibez,0
+0,0,Shallipopi,Laho,86,spotify:track:5YiSv6ZgudQdjRqdsqsfuB,Since 93,1,61,43,309961,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Shallipopi,0
+0,1,Shallipopi,Na So,93,spotify:track:0gIcKAJKTKTANf9QMwBcUJ,Since 93,4,63,15,291080,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Shallipopi,0
+0,2,"Shallipopi, Burna Boy",Laho II,77,spotify:track:2GKRGpls0pZBSnTF8byXOa,Since 93,3,62,34,327737,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Shallipopi,0
+0,3,"Shallipopi, Gunna",HIM (feat. Gunna),108,spotify:track:1NrvK7ZpDcTESIebhuLTWv,Since 93,9,59,8,274406,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,2,Shallipopi,0
+0,4,"Shallipopi, Ruger",Rockstar (feat. Ruger),151,spotify:track:4fZdev90X1XBBPuor16tZi,Since 93,137,137,2,233356,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,2,Shallipopi,0
+0,5,"Shallipopi, Wizkid",Like That (bomboclatt) (feat. Wizkid),15,spotify:track:0zMMCk14o9OSRjTfanJUv6,Since 93,6,6,2,905603,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,2,Shallipopi,0
+0,6,"Shallipopi, Young Jonn",Afa Relax Oo (feat. Young Jonn),113,spotify:track:4MMVmyb2AsdDjXkytVrqwJ,Since 93,92,92,2,265364,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,2,Shallipopi,0
+0,0,Shoday,Shoday Kilode,182,spotify:track:2yXFYJfxL0TwzvN34OO9Hp,5K Records Limited,57,180,17,203419,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Shoday,0
+0,0,"Smur Lee, BIGKHALID",Management,59,spotify:track:7L1DT2ByQ331AJkDfjvI5N,Smur Lee/Star Makers Distribution,10,67,45,398529,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Smur Lee,0
+0,0,"Sound Of Salem, Pst. Oche Ogebe",Promise Keeper,143,spotify:track:4kQlvea7CbFtYSiy9t3ykj,Sounds of salem,49,163,38,239575,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Sound Of Salem,0
+0,0,Summer Walker,Finally Over It,190,spotify:track:010a0zLOkBAMJvuscNdVxi,LVRN/Interscope Records,148,148,2,195955,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Summer Walker,0
+0,0,T.I BLAZE,Beamer,149,spotify:track:4i3wDQa5VBDPUiREGaS44Z,Dvpper Digital,21,140,56,233937,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,T.I BLAZE,0
+0,1,T.I BLAZE,Lose My Mind,51,spotify:track:7p0zRjSeJu091IdVihXMHt,Dvpper Digital,51,76,3,471726,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,T.I BLAZE,0
+0,2,T.I BLAZE,Nigga,131,spotify:track:0voiVxfuDYLdwVTmE4bErO,Dvpper Digital,100,118,3,252915,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,T.I BLAZE,0
+0,3,T.I BLAZE,Try,71,spotify:track:2P8GdpevIzNxDQWRtGgmYq,Dvpper Music,33,81,109,362155,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,T.I BLAZE,0
+0,4,"T.I BLAZE, Llona",Lonely Road,163,spotify:track:2aCskdq9N9RczrwEujAV13,Dvpper Digital,30,169,10,221233,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,T.I BLAZE,0
+0,0,TUFF KING,Nkemakonam,90,spotify:track:1khlKmZCPvi0chULb23vWU,Black Sheep Pen,90,114,2,303257,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,TUFF KING,0
+0,0,Tems,Big Daddy,140,spotify:track:5WcQ5AwCp9mSqpsul6ccx4,RCA Records/Since 93',80,182,4,244443,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Tems,0
+0,1,Tems,Me & U,139,spotify:track:31kxPC3ZB9AYwCLyHaqEVX,RCA Records/Since 93',12,178,50,244839,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Tems,0
+0,0,"Tkeyz, SteveHills",Oluwatosin,72,spotify:track:27y8Ry6Pt8OIlc8YwWCa4P,Tkeyz Global Concepts,23,86,21,355066,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Tkeyz,0
+0,0,Tml Vibez,Trap lan je,110,spotify:track:2E7fLWedsR07ptOiPEZ1yw,Dvpper Digital,83,83,2,273979,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Tml Vibez,0
+0,1,"Tml Vibez, Seyi Vibez",Where Im from,120,spotify:track:1oFabnkoJ01ksmSmyjELDl,Dvpper Digital,14,138,77,256175,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Tml Vibez,0
+0,0,"TxC, Davido, Shoday, Scotts Maphuma, Zlatan, Al Xapo",Nakupenda,6,spotify:track:1p0zeYPLjmIGtw1DzmshZO,"2025 TXC Enterprises (PTY) LTD., under exclusive license to LVRN Records (Love Renaissance)",6,-1,1,1288773,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,TxC,1
+0,1,"TxC, Mavo, Shoday, RALD, LeeMcKrazy, Al Xapo, W4DE, Carter IV, Smeez & D3AN",Welele,56,spotify:track:11OYE0acEZL5GVOd9xphwh,"2025 TXC Enterprises (PTY) LTD., under exclusive license to LVRN Records (Love Renaissance)",56,85,3,410203,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,TxC,0
+0,0,Tyla,CHANEL,83,spotify:track:4VxTzYm00mg82MuoT35Ja7,Epic,83,113,5,315839,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Tyla,0
+0,1,"Tyla, Wizkid",DYNAMITE,124,spotify:track:1myE3bHoWoSO5hyr3MxdHJ,Epic,4,124,21,255624,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Tyla,0
+0,0,"Victony, Rema, Tempoe, Don Toliver","Soweto (with Don Toliver, Rema & Tempoe)",168,spotify:track:2rDtfPMI5mDJVTwYYG00QI,Encore Recordings,4,-1,85,210994,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Victony,0
+0,0,Wizkid,Kese (Dance),88,spotify:track:6JvWMLscnWYkgX1zPufIGT,Starboy/RCA Records,1,79,58,308726,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Wizkid,0
+0,1,Wizkid,Ojuelegba,170,spotify:track:1AtBzcUzKLh4BGwXhFA9K6,Empire Mates Entertainment Ltd.,141,168,17,209853,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Wizkid,0
+0,2,"Wizkid, Asake",Bad Girl (feat. Asake),179,spotify:track:2j8n2hpZlEMvtrjJ7n0ZIy,Starboy/RCA Records,1,175,55,203927,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,2,Wizkid,0
+0,3,"Wizkid, Tems",Essence (feat. Tems),138,spotify:track:5FG7Tl93LdH117jEKYl3Cm,Starboy/RCA Records,95,161,84,246133,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,2,Wizkid,0
+0,0,Young Jonn,Padre Nuestro,125,spotify:track:0sdM25V4FM0lMrT8RKoS4o,Warner Music Africa,66,78,3,255496,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Young Jonn,0
+0,1,Young Jonn,Stronger,148,spotify:track:4KZMoDuxwSYP63bhbnMqe3,Chocolate City Music,3,144,81,234409,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Young Jonn,0
+0,2,Young Jonn,Xtra Cool,197,spotify:track:5F4OfeowSReF93KcH2eUcG,Chocolate City Music,1,-1,126,192742,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Young Jonn,0
+0,3,"Young Jonn, Asake",Che Che (feat. Asake),74,spotify:track:6xYaf931EF3ZeurqrMxNCO,Warner Music Africa,7,47,28,349810,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,2,Young Jonn,0
+0,4,"Young Jonn, Asake, Focalistic",2Factor,3,spotify:track:2UxfLzrOzdHlwrIzjhsHT2,Warner Music Africa,3,3,3,1410296,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Young Jonn,1
+0,5,"Young Jonn, Olamide",Level Up,186,spotify:track:0puZ9jsTXM1fTlo16lNh2n,Warner Music Africa,51,100,3,198080,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Young Jonn,0
+0,6,"Young Jonn, P.Priime",Jiggy Bop,180,spotify:track:4p3n0ooXh07xqQOK24xwcs,Warner Music Africa,76,110,3,203919,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Young Jonn,0
+0,7,"Young Jonn, Rema",Lalala,7,spotify:track:3xhJ7Caxt02YEGRkTZlNU0,Warner Music Africa,7,7,3,1119408,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Young Jonn,1
+0,8,"Young Jonn, Wizkid",Cash Flow (feat. Wizkid),67,spotify:track:4ULAXnVBMIGcEH3nFhvGak,Warner Music Africa,1,54,16,370086,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,2,Young Jonn,0
+0,0,Zaylevelten,Guide Pass,171,spotify:track:43V22qtwgz0eWrJueeaiHW,Lizzy Records,130,-1,3,208719,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Zaylevelten,0
+0,1,"Zaylevelten, Mavo",Wuse Tu,35,spotify:track:7ntMsrnoWAyqGBsNvNBEoo,Lizzy Records,11,29,3,611752,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Zaylevelten,0
+0,0,Zinoleesky,CELINE DION,78,spotify:track:0D1vNTcDR3SuZtPFUoTGej,Marlian Music,6,72,11,326723,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Zinoleesky,0
+0,0,"Zlatan, FOLA",Get Better,38,spotify:track:7m2m1Wcf1M3HxuN19z1o3I,"Zanku Records, under exclusive license to ONErpm",5,44,39,567691,2025-12-18,51,2025,2025-12-18,1766016000.0,2025-12-01,1,Zlatan,0

@@ -32,18 +32,20 @@ for locale_name in thelocalenames:
     global_music_file_paths = glob2.glob('spotify ' + locale_name + ' v2/*.csv')
 
     thelogdetails = thelogdetails + " The number of files is: " + str(len(global_music_file_paths)) + "\n"
-    print(len(global_music_file_paths))
+    # print(len(global_music_file_paths))
 
-    print(global_music_file_paths[:4])
+    theglobal_music_file_path = [global_music_file_paths[len(global_music_file_paths)-1]]
 
-    ChartsAnalysisALL_Functions.addsDatesToData(locale_name,global_music_file_paths)
-    
+    ChartsAnalysisALL_Functions.addsDatesToData(locale_name,theglobal_music_file_path)
+
+    print("JUST tHE LATEST FILE......", theglobal_music_file_path)
+
     #### Add Dates to the Files
     
     #Combine the files and sort by dates
     all_files = []
-    trouble_files = []
-    for file in global_music_file_paths:
+    # trouble_files = []
+    for file in theglobal_music_file_path:
         the_data_in_file = pd.read_csv(file)
         
         if("URL" in list(the_data_in_file.columns)):
@@ -52,11 +54,12 @@ for locale_name in thelocalenames:
         
         list_vals = sum(list(the_data_in_file.isnull().sum()))
         
-        if(list_vals > 0):
-            trouble_files.append(file)
+        # if(list_vals > 0):
+        #     trouble_files.append(file)
         all_files.append(the_data_in_file)
         
     the_spotify_data = pd.concat(all_files) 
+
     # trouble_files_df = pd.concat(trouble_files)
     
     all_cols = list(the_spotify_data.columns)
@@ -70,21 +73,9 @@ for locale_name in thelocalenames:
     
     ### Error checking that all the Thursday dates are present
     date_list = the_spotify_data["End Date"].unique().tolist()
-    # print(date_list)
-    thelogdetails = thelogdetails + " The number of dates is: " + str(len(date_list)) + "\n"
-    start_date = date_list[0]
-    end_date = date_list[len(date_list)-1]
+    print("DATE LIST....", date_list)
     
-    # len(date_list)
-
-    thelogdetails = thelogdetails + " The start dates is: " + str(start_date) + "." + " The end date is: " + str(end_date) + "\n"
-    print("THE START AND END DATES ARE: ", start_date, end_date)
-
-    result = ChartsAnalysisALL_Functions.check_thursdays_in_range(date_list, start_date, end_date)
-    print("All Thursdays present:", result)
-    thelogdetails = thelogdetails + " All Thursdays present: " + str(result) + "\n"
-    
-    ### Continue
+    # ### Continue
     
     the_spotify_data["Week"] = the_spotify_data["End Date"].apply(lambda x : datetime.strptime(x, '%Y-%m-%d'))
     the_spotify_data["Year"] = the_spotify_data["Week"]
@@ -152,7 +143,7 @@ for locale_name in thelocalenames:
     
     # the_spotify_data.head()
     
-    # the_spotify_data.to_csv("the_spotify_data_" + locale_name+ ".csv", index=False)
+    the_spotify_data.to_csv("the_spotify_data_" + locale_name+ ".csv", index=False)
     
     the_spotify_data["rank"] = the_spotify_data["rank"].astype(int)
     the_spotify_data["streams"] = the_spotify_data["streams"].astype(int)
@@ -196,23 +187,44 @@ for locale_name in thelocalenames:
     
     print(all_files_grouped.columns)
     print("the output path......", "Classification/all_files_"+locale_name+"v1.csv")
-    all_files_grouped.to_csv("Classification/all_files_"+locale_name+"v1.csv", index=False)
+
+    print("the grped file shape: ", all_files_grouped.shape)
+
+    # ..................................................................................................................
+    thefile = "Classification/all_files_"+locale_name+"v1.csv"
+    all_files = []
+
+    all_the_spotify_data = pd.read_csv(thefile)
+
+    combined_files = pd.concat([all_the_spotify_data, all_files_grouped])
+    
+    print("THE SHAPE: ", all_the_spotify_data.shape)
+    print("THE COMPLETE SHAPE: ", combined_files.shape)
+    
+    # print(all_the_spotify_data)
+    date_list = combined_files["End Date"].unique().tolist()
+
+    thelogdetails = thelogdetails + " The number of dates is: " + str(len(date_list)) + "\n"
+    start_date = date_list[0]
+    end_date = date_list[len(date_list)-1]
+
+    # print("END DATE" , date_list)
+    
+    # len(date_list)
+
+    thelogdetails = thelogdetails + " The start dates is: " + str(start_date) + "." + " The end date is: " + str(end_date) + "\n"
+    print("THE START AND END DATES ARE: ", start_date, end_date)
+
+    result = ChartsAnalysisALL_Functions.check_thursdays_in_range(date_list, start_date, end_date)
+    print("All Thursdays present:", result)
+    thelogdetails = thelogdetails + " All Thursdays present: " + str(result) + "\n"
+
+    #------------------------------------------------------
     thelogdetails = thelogdetails + " The output data written to this file: " + "Classification/all_files_"+locale_name+"v1.csv" + "\n"
     with open("Classification/Spotify_Logs.txt", "a") as f:
         f.write(thelogdetails)
 
-    ### South African Artists
-
-    all_files_grouped.shape
-    
-    all_files_grouped.columns
-    
-    narrowing_df = all_files_grouped[['End Date', "rank difference"]]
-    
-    narrowing_df.reset_index(inplace=True)
-    
-    # narrowing_df.drop(["level_2"], axis=1, inplace=True)
-    
-    narrowing_df = narrowing_df[narrowing_df["rank difference"] == 0]
+    combined_files = combined_files.drop_duplicates()
+    combined_files.to_csv("Classification/all_files_"+locale_name+"v1.csv", index=False)
     
     print("DONE.")
